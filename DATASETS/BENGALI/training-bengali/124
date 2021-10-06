@@ -1,0 +1,11005 @@
+<Story id="">
+<Sentence id="1">
+0	((	SSF	
+1	﻿		
+2	<		
+3	document		
+4	>		
+5	docnumber	1	
+6	<		
+7	author		
+8	>		
+9	lastname	Dandapat	
+10	firstname	Sandipan	
+11	lastname	Banerjee	
+12	firstname	Pratyush	
+13	<		
+14	availability		
+15	>		
+16	Phyisical		
+17	<		
+18	bytecount		
+19	>		
+20	16		
+21	<		
+22	creation		
+23	>		
+24	29-10-2006		
+25	IIT		
+26	Kharagpur		
+27	Dandapat		
+28	Sandipan		
+29	Banerjee		
+30	Pratysh		
+31	<		
+32	distributor		
+33	>		
+34	<		
+35	edition		
+36	>		
+37	1		
+38	<		
+39	encoding		
+40	>		
+41	orginalencoding	aci	
+42	newencoding	UTF8	
+43	<		
+44	sentencemarker		
+45	>		
+46	?		
+	))
+</Sentence>
+
+<Sentence id="2">
+0	((	SSF	
+1	/		
+2	!		
+	))
+</Sentence>
+
+<Sentence id="3">
+0	((	SSF	
+1	/		
+2	।		
+	))
+</Sentence>
+
+<Sentence id="4">
+0	((	SSF	
+1	<		
+2	language		
+3	>		
+4	Name	bn	
+5	writingsystem	LTR	
+6	script		
+7	<		
+8	normalization		
+9	>		
+10	normalized	No	
+11	<		
+12	projectdesc		
+13	>		
+14	IL-IL		
+15	consortia		
+16	<		
+17	pubaddress		
+18	>		
+19	Co-ordinator		
+20	,		
+21	TDIL		
+22	Programme		
+23	,		
+24	Ministry		
+25	of		
+26	Information		
+27	Technology		
+28	,		
+29	Government		
+30	of		
+31	India		
+32	,		
+33	Electronics		
+34	Niketan		
+35	6		
+36	,		
+37	C.		
+38	G.		
+39	O.		
+40	Complex		
+41	,		
+42	New		
+43	Delhi		
+44	110		
+45	003		
+46	India		
+47	।		
+	))
+</Sentence>
+
+<Sentence id="5">
+0	((	SSF	
+1	<		
+2	pubdate		
+3	>		
+4	<		
+5	publicationstml		
+6	>		
+7	copyrighted		
+8	<		
+9	publisher		
+10	>		
+11	Books		
+12	<		
+13	translation		
+14	>		
+15	availability		
+16	(		
+17	NO		
+18	)		
+19	<		
+20	wordcount		
+21	>		
+22	2633		
+23	<		
+24	body		
+25	>		
+26	<		
+27	P		
+28	>		
+	))
+</Sentence>
+
+<Sentence id="6">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	1	QC	
+	))
+3	((	NP	<ne=NETO>
+3.1	জুলিয়াস	XC	
+3.2	সীজার	NNP	
+	))
+4	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="7">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	2	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	পৃথ্বীরাজ	XC	
+3.2	সেন	NNP	
+	))
+4	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="8">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	3	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	রোমের	NNP	
+	))
+4	((	NP	
+4.1	রাজপথ	NN	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="9">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	4	QC	
+	))
+3	((	NP	
+3.1	তার	PRP	
+	))
+4	((	NP	
+4.1	কঠিন	JJ	
+4.2	বুকে	NN	
+	))
+5	((	NP	
+5.1	চঞ্চল	JJ	
+5.2	জনস্রোত	NN	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="10">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	5	QC	
+	))
+3	((	NP	
+3.1	একটা	QC	
+3.2	অপেক্ষা	NN	
+3.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="11">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	6	QC	
+	))
+3	((	NP	
+3.1	ঐ	PRP	
+	))
+4	((	VGF	
+4.1	আসছে	VM	
+	))
+5	((	NP	
+5.1	ঐতো	PRP	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	ঐতো	PRP	
+	))
+7	((	NP	
+7.1	সেই	DEM	
+7.2	বিজয়	XC	
+7.3	বাহিনী	NN	
+7.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="12">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	7	QC	
+	))
+3	((	NP	
+3.1	ঐতো	PRP	
+	))
+4	((	NP	
+4.1	আকাশে	NN	
+	))
+5	((	NP	
+5.1	জয়ের	NN	
+	))
+6	((	NP	
+6.1	লাল	JJ	
+6.2	সূর্য	NN	
+6.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="13">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	8	QC	
+	))
+3	((	NP	
+3.1	বাতাসে	NN	
+	))
+4	((	NP	
+4.1	একটা	QC	
+4.2	গর্জন	NN	
+4.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="14">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	9	QC	
+	))
+3	((	NP	
+3.1	সেটা	PRP	
+	))
+4	((	NP	
+4.1	কার	WQ	
+4.2	জন্যে	PSP	
+4.3	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="15">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	10	QC	
+	))
+3	((	NP	
+3.1	কার	WQ	
+3.2	জন্যে	PSP	
+	))
+4	((	NP	
+4.1	আজ	NN	
+	))
+5	((	NP	
+5.1	গৃহ	NN	
+	))
+6	((	VGNF	
+6.1	ছেড়ে	VM	
+	))
+7	((	NP	
+7.1	পথ	NN	
+7.2	মাঝে	NST	
+	))
+8	((	NP	
+8.1	অধীর	JJ	
+8.2	আগ্রহে	NN	
+	))
+9	((	JJP	
+9.1	অপেক্ষারত	JJ	
+	))
+10	((	NP	<ne=NEL>
+10.1	রোমের	NNP	
+	))
+11	((	NP	
+11.1	নাগরিক	NN	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="16">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	11	QC	
+	))
+3	((	NP	
+3.1	কে	WQ	
+	))
+4	((	NP	
+4.1	সে	PRP	
+4.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="17">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	12	QC	
+	))
+3	((	NP	
+3.1	অপেক্ষা	NN	
+	))
+4	((	VGF	
+4.1	করছে	VM	
+	))
+5	((	NP	
+5.1	জনগণ	NN	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="18">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	13	QC	
+	))
+3	((	NP	
+3.1	অপেক্ষা	NN	
+	))
+4	((	VGF	
+4.1	করছে	VM	
+	))
+5	((	NP	
+5.1	রাষ্ট্রের	NN	
+	))
+6	((	NP	
+6.1	আমলাতন্ত্র	NN	
+	))
+7	((	NP	
+7.1	তথাকথিত	JJ	
+7.2	আদর্শবাদী	JJ	
+7.3	বুদ্ধিজীবি	JJ	
+7.4	অভিজাতের	NN	
+	))
+8	((	NP	
+8.1	দল	NN	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="19">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	14	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	NP	
+4.1	তাঁদের	PRP	
+	))
+5	((	NP	
+5.1	পৃথক	JJ	
+5.2	পৃথক	RDP	
+5.3	অপেক্ষার	NN	
+	))
+6	((	NP	
+6.1	রঙ	NN	
+	))
+7	((	NP	
+7.1	কি	WQ	
+7.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="20">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	15	QC	
+	))
+3	((	NP	
+3.1	যে	PRP	
+	))
+4	((	VGF	
+4.1	আসছে	VM	
+	))
+5	((	NP	
+5.1	তাঁর	PRP	
+	))
+6	((	NP	
+6.1	অভিধানে	NN	
+	))
+7	((	VGF	
+7.1	লেখা	VM	
+7.2	আছে	VAUX	
+	))
+8	((	NP	
+8.1	জনগণের	NN	
+	))
+9	((	NP	
+9.1	স্বাধিকার	NN	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="21">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	16	QC	
+	))
+3	((	NP	
+3.1	তাদেরই	PRP	
+	))
+4	((	NP	
+4.1	প্রতিনিধিরা	NN	
+	))
+5	((	CCP	
+5.1	তাই	CC	
+	))
+6	((	NP	
+6.1	স্থান	NN	
+	))
+7	((	VGF	
+7.1	পেয়েছে	VM	
+	))
+8	((	NP	<ne=NEO>
+8.1	সীনেটে	NN	
+	))
+9	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="22">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	17	QC	
+	))
+3	((	NP	
+3.1	খর্ব	NN	
+	))
+4	((	VGF	
+4.1	করা	VM	
+4.2	হয়েছে	VAUX	
+	))
+5	((	NP	
+5.1	ধনী	JJ	
+5.2	সম্প্রদায়ের	NN	
+	))
+6	((	NP	
+6.1	ক্ষমতা	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="23">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	18	QC	
+	))
+3	((	CCP	
+3.1	ফলে	CC	
+	))
+4	((	JJP	
+4.1	আগত	JJ	
+	))
+5	((	NP	
+5.1	এক	QC	
+5.2	নায়কের	NN	
+5.3	সামনে	NST	
+	))
+6	((	VGF	
+6.1	গড়ে	VM	
+6.2	উঠেছে	VAUX	
+	))
+7	((	NP	
+7.1	একটা	QC	
+7.2	বিরুদ্ধতার	NN	
+	))
+8	((	NP	
+8.1	প্রাচীর	NN	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="24">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	19	QC	
+	))
+3	((	NP	
+3.1	জনতা	NN	
+	))
+4	((	NP	
+4.1	জয়ধ্বনি	NN	
+	))
+5	((	VGF	
+5.1	করছে	VM	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="25">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	20	QC	
+	))
+3	((	NP	
+3.1	অভিজাতদের	NN	
+	))
+4	((	NP	
+4.1	মনে	NN	
+	))
+5	((	VGF	
+5.1	জ্বলছে	VM	
+	))
+6	((	NP	
+6.1	ক্রোধের	NN	
+	))
+7	((	NP	
+7.1	আগুন	NN	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="26">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	21	QC	
+	))
+3	((	NP	
+3.1	জনতার	NN	
+	))
+4	((	NP	
+4.1	উল্লাসে	NN	
+	))
+5	((	NP	
+5.1	নীরব	JJ	
+5.2	আমলাতন্ত্র	NN	
+	))
+6	((	RBP	
+6.1	হঠাত্	RB	
+	))
+7	((	JJP	
+7.1	সোচ্চার	JJ	
+	))
+8	((	VGF	
+8.1	হয়ে	VM	
+8.2	ওঠে	VAUX	
+	))
+9	((	NP	<ne=NED>
+9.1	ট্রিবিউন	NN	
+	))
+10	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="27">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	22	QC	
+	))
+3	((	NP	
+3.1	জনগণের	NN	
+	))
+4	((	NP	
+4.1	স্বার্থে	NN	
+	))
+5	((	NP	
+5.1	যাদের	PRP	
+	))
+6	((	NP	
+6.1	সৃষ্টি	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="28">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	23	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	অভিজাত	JJ	
+5	এই	DEM	
+6	((	NP	<ne=NED>
+6.1	ট্রিবিউনের	NN	
+	))
+7	((	NP	
+7.1	হৃদয়ে	NN	
+	))
+8	((	NP	
+8.1	জনগণের	NN	
+8.2	প্রতি	PSP	
+	))
+9	((	NP	
+9.1	এতটুকু	QF	
+9.2	করুণা	NN	
+	))
+10	((	VGF	
+10.1	নেই	VM	
+10.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="29">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	24	QC	
+	))
+3	দুই	QC	
+4	((	NP	<ne=NED>
+4.1	ট্রিবিউন	NN	
+	))
+5	((	NP	<ne=NEP>
+5.1	ম্যারুল্লাস	NNP	
+	))
+6	((	CCP	
+6.1	ও	CC	
+	))
+7	((	NP	<ne=NEP>
+7.1	ক্লোডিয়াস	NNP	
+	))
+8	((	RBP	
+8.1	হঠাত্	RB	
+	))
+9	((	VGF	
+9.1	এগিয়ে	VM	
+9.2	যায়	VAUX	
+9.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="30">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	25	QC	
+	))
+3	((	NP	
+3.1	অদূরে	NN	
+	))
+4	((	VGF	
+4.1	দেখা	VM	
+4.2	যায়	VAUX	
+	))
+5	((	NP	
+5.1	সেই	DEM	
+5.2	বীর	JJ	
+5.3	নায়ক	NN	
+5.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="31">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	26	QC	
+	))
+3	((	NP	
+3.1	উল্লাস	NN	
+	))
+4	((	NP	
+4.1	যত	PRP	
+	))
+5	((	VGF	
+5.1	বাড়ে	VM	
+	))
+6	((	NP	<ne=NED>
+6.1	ট্রিবিউনদের	NN	
+	))
+7	((	NP	
+7.1	মনে	NN	
+	))
+8	((	NP	
+8.1	ক্রোধ	NN	
+	))
+9	((	NP	
+9.1	তত	PRP	
+	))
+10	((	VGF	
+10.1	বাড়ে	VM	
+10.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="32">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	27	QC	
+	))
+3	((	NP	
+3.1	সম্মুখে	NN	
+	))
+4	((	NP	
+4.1	বিশাল	JJ	
+4.2	জনতা	NN	
+4.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="33">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	28	QC	
+	))
+3	((	NP	
+3.1	তাদের	PRP	
+3.2	উদ্দেশ্যে	PSP	
+	))
+4	((	VGF	
+4.1	ছুঁড়ে	VM	
+4.2	দেয়	VAUX	
+	))
+5	((	NP	
+5.1	ক্লেদভরা	JJ	
+5.2	বক্তব্য	NN	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="34">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	29	QC	
+	))
+3	((	NP	
+3.1	তাদের	PRP	
+3.2	মধ্যে	NST	
+	))
+4	((	NP	
+4.1	একজনকে	NN	
+	))
+5	((	NP	
+5.1	উদ্দেশ্য	NN	
+	))
+6	((	VGNF	
+6.1	করে	VM	
+	))
+7	((	NP	<ne=NEP>
+7.1	ক্লোডিয়াস	NNP	
+	))
+8	((	VGF	
+8.1	বলেন	VM	
+8.2	,	SYM	
+	))
+9	((	NP	
+9.1	"	SYM	
+9.2	কি	WQ	
+9.3	ব্যাপার	NN	
+	))
+10	((	NP	
+10.1	কাজ	NN	
+	))
+11	((	VGNF	
+11.1	ফেলে	VM	
+	))
+12	((	RBP	
+12.1	অযথা	RB	
+	))
+13	((	NP	
+13.1	ভিড়	NN	
+	))
+14	((	VGNF	
+14.1	জমিয়ে	VM	
+	))
+15	((	NP	
+15.1	চিত্কার	NN	
+	))
+16	((	VGF	
+16.1	করছিস	VM	
+	))
+17	((	NP	
+17.1	কেন	WQ	
+17.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="35">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	30	QC	
+	))
+3	((	NP	
+3.1	কি	WQ	
+	))
+4	((	VGF	
+4.1	করিস	VM	
+	))
+5	((	NP	
+5.1	তুই	PRP	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="36">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	31	QC	
+	))
+3	((	BLK	
+3.1	"	SYM	
+3.2	"	SYM	
+3.3	আজ্ঞে	INJ	
+	))
+4	((	NP	
+4.1	আমি	PRP	
+	))
+5	((	NP	
+5.1	ছুতোর	NN	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="37">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	32	QC	
+	))
+3	"	SYM	
+4	((	NP	<ne=NEP>
+4.1	ম্যারুল্লাস	NNP	
+	))
+5	((	NP	
+5.1	আগ	NN	
+	))
+6	((	VGNF	
+6.1	বাড়িয়ে	VM	
+	))
+7	((	VGF	
+7.1	বলেন	VM	
+7.2	,	SYM	
+	))
+8	((	NP	
+8.1	"	SYM	
+8.2	তা	PRP	
+	))
+9	((	NP	
+9.1	তোর	PRP	
+	))
+10	((	NP	
+10.1	যন্ত্রপাতির	NN	
+	))
+11	((	NP	
+11.1	তোরঙ্গ	NN	
+	))
+12	((	NP	
+12.1	কোথায়	WQ	
+12.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="38">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	33	QC	
+	))
+3	((	NP	
+3.1	"	SYM	
+3.2	তার	PRP	
+	))
+4	((	NP	
+4.1	উত্তর	NN	
+	))
+5	((	VGNN	
+5.1	পাবার	VM	
+5.2	আগেই	NST	
+	))
+6	((	NP	
+6.1	আরেকজনকে	NN	
+	))
+7	((	BLK	
+7.1	'	SYM	
+7.2	য়্যাই	INJ	
+	))
+8	((	VGF	
+8.1	শোন	VM	
+	))
+9	((	NP	
+9.1	তোর	PRP	
+	))
+10	((	NP	
+10.1	পেশাটা	NN	
+	))
+11	((	NP	
+11.1	কিরে	WQ	
+11.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="39">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	34	QC	
+	))
+3	((	NP	
+3.1	"	SYM	
+3.2	লোকটা	NN	
+	))
+4	((	JJP	
+4.1	রসিক	JJ	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="40">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	35	QC	
+	))
+3	((	NP	
+3.1	উত্তরের	NN	
+	))
+4	((	NP	
+4.1	ভঙ্গিটা	NN	
+	))
+5	((	NP	
+5.1	এমন	PRP	
+	))
+6	((	VGF	
+6.1	হলো	VM	
+	))
+7	((	NP	
+7.1	যাতে	PRP	
+	))
+8	((	NP	
+8.1	চামারও	NN	
+	))
+9	((	VGF	
+9.1	বলা	VM	
+9.2	যেতে	VAUX	
+9.3	পারে	VAUX	
+	))
+10	((	RBP	
+10.1	আবার	RB	
+	))
+11	((	NP	
+11.1	পুরুতও	NN	
+	))
+12	((	VGF	
+12.1	বলা	VM	
+12.2	যায়	VAUX	
+12.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="41">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	36	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ম্যারুল্লাসের	NNP	
+	))
+4	((	NP	
+4.1	চোখে	NN	
+	))
+5	((	NP	
+5.1	ক্রোধের	NN	
+	))
+6	((	NP	
+6.1	পূর্ব্বাভাস	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="42">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	37	QC	
+	))
+3	((	NP	
+3.1	লোকটি	NN	
+	))
+4	((	CCP	
+4.1	তবু	CC	
+	))
+5	((	NP	
+5.1	রসিকতা	NN	
+	))
+6	((	VGINF	
+6.1	করতে	VM	
+	))
+7	((	VGF	
+7.1	ছাড়ে	VM	
+7.2	না	NEG	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="43">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	38	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ম্যারুল্লাস	NNP	
+	))
+4	((	NP	
+4.1	এবার	NN	
+	))
+5	((	RBP	
+5.1	সত্যিই	RB	
+	))
+6	((	NP	
+6.1	ক্রোধে	NN	
+	))
+7	((	VGF	
+7.1	ফেটে	VM	
+7.2	পড়ে	VAUX	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="44">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	39	QC	
+	))
+3	((	NP	
+3.1	বুদ্ধিমান	JJ	
+3.2	মানুষ	NN	
+	))
+4	((	NP	<ne=NEP>
+4.1	ক্লোডিয়াস	NNP	
+	))
+5	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="45">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	40	QC	
+	))
+3	((	NP	
+3.1	পরিবেশটাকে	NN	
+	))
+4	((	JJP	
+4.1	হাল্কা	JJ	
+	))
+5	((	VGNF	
+5.1	করে	VM	
+	))
+6	((	NP	
+6.1	জিজ্ঞাসা	NN	
+	))
+7	((	NP	
+7.1	করলেন	VM	
+7.2	,	SYM	
+	))
+8	((	NP	
+8.1	"	SYM	
+8.2	আজ	NN	
+8.3	কি	RP	
+	))
+9	((	NP	
+9.1	তোর	PRP	
+	))
+10	((	NP	
+10.1	দোকান	NN	
+	))
+11	((	JJP	
+11.1	বন্ধ	JJ	
+11.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="46">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	41	QC	
+	))
+3	((	BLK	
+3.1	"	SYM	
+3.2	"	SYM	
+3.3	আজ্ঞে	INJ	
+	))
+4	((	NEGP	
+4.1	না	NEG	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="47">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	42	QC	
+	))
+3	((	CCP	
+3.1	"	SYM	
+3.2	"	SYM	
+3.3	তবে	CC	
+3.4	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="48">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	43	QC	
+	))
+3	"	SYM	
+4	((	NP	<ne=NEP>
+4.1	সীজার	NNP	
+	))
+5	((	VGF	
+5.1	আসছে	VM	
+5.2	যে	RP	
+5.3	,	SYM	
+	))
+6	((	NP	
+6.1	তাকে	PRP	
+	))
+7	((	VGF	
+7.1	দেখবো	VM	
+7.2	,	SYM	
+	))
+8	((	NP	
+8.1	তার	PRP	
+	))
+9	((	NP	
+9.1	জয়ধ্বনি	NN	
+	))
+10	((	VGF	
+10.1	করবো	VM	
+10.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="49">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	44	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	সীজার	NNP	
+	))
+4	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="50">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	45	QC	
+	))
+3	((	BLK	
+3.1	হ্যাঁ	INJ	
+	))
+4	((	NP	<ne=NEP>
+4.1	সীজার	NNP	
+	))
+5	((	VGF	
+5.1	আসছে	VM	
+	))
+6	((	NP	
+6.1	আজ	NN	
+	))
+7	((	NP	<ne=NEL>
+7.1	রোমের	NNP	
+	))
+8	((	NP	
+8.1	পথ	NN	
+	))
+9	((	VGNF	
+9.1	ধরে	VM	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="51">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	46	QC	
+	))
+3	((	NP	
+3.1	সারা	QF	
+3.2	মুখে	NN	
+	))
+4	((	NP	
+4.1	জয়ের	NN	
+	))
+5	((	NP	
+5.1	উচ্ছলতা	NN	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="52">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	47	QC	
+	))
+3	((	NP	
+3.1	পাশে	NST	
+	))
+4	((	NP	
+4.1	সাথে	PSP	
+	))
+5	((	VGF	
+5.1	এগিয়ে	VM	
+5.2	চলেছে	VAUX	
+	))
+6	((	NP	
+6.1	নিযুত	JJ	
+6.2	বিজয়বাহিনী	NN	
+6.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="53">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	48	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ম্যারুল্লাসের	NNP	
+	))
+4	((	NP	
+4.1	ক্রোধ	NN	
+4.2	যেন	RP	
+	))
+5	((	NP	
+5.1	সীমা	NN	
+	))
+6	((	VGF	
+6.1	ছাড়িয়ে	VM	
+6.2	যেতে	VAUX	
+6.3	চায়	VAUX	
+	))
+7	((	NP	
+7.1	চিত্কার	NN	
+	))
+8	((	VGNF	
+8.1	করে	VM	
+	))
+9	((	VGF	
+9.1	বলেন	VM	
+9.2	,	SYM	
+	))
+10	"	SYM	
+11	((	NP	<ne=NEP>
+11.1	সীজার	NNP	
+11.2	সীজার	RDP	
+11.3	সীজার	RDP	
+	))
+12	!	SYM	
+	))
+</Sentence>
+
+<Sentence id="54">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	49	QC	
+	))
+3	((	NP	
+3.1	সে	PRP	
+	))
+4	((	VGF	
+4.1	আসছে	VM	
+	))
+5	((	CCP	
+5.1	তো	CC	
+	))
+6	((	VGF	
+6.1	হয়েছেটা	VM	
+	))
+7	((	NP	
+7.1	কি	WQ	
+7.2	!	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="55">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	50	QC	
+	))
+3	((	NP	
+3.1	কি	WQ	
+	))
+4	((	NP	
+4.1	মণিমাণিক্য	NN	
+	))
+5	((	VGF	
+5.1	নিয়ে	VM	
+5.2	আসছে	VAUX	
+	))
+6	((	NP	
+6.1	যার	PRP	
+6.2	জন্যে	PSP	
+	))
+7	((	NP	
+7.1	তোদের	PRP	
+	))
+8	((	NP	
+8.1	এই	DEM	
+8.2	জয়োল্লাস	NN	
+8.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="56">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	51	QC	
+	))
+3	((	NP	
+3.1	তোরা	PRP	
+	))
+4	((	NP	
+4.1	কি	WQ	
+	))
+5	বীর	JJ	
+6	((	NP	<ne=NEP>
+6.1	পশীকে	NNP	
+	))
+7	((	VGF	
+7.1	ভুলে	VM	
+7.2	গেছিস	VAUX	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="57">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	52	QC	
+	))
+3	((	NP	
+3.1	মনে	NN	
+	))
+4	((	NP	
+4.1	কি	WQ	
+	))
+5	((	VGF	
+5.1	পড়ে	VM	
+5.2	না	NEG	
+5.3	,	SYM	
+	))
+6	((	NP	
+6.1	তোদের	PRP	
+	))
+7	((	NP	
+7.1	এই	DEM	
+7.2	নগরপ্রাসাদেই	NN	
+	))
+8	((	NP	
+8.1	তোরা	PRP	
+	))
+9	((	NP	
+9.1	তার	PRP	
+	))
+10	((	NP	
+10.1	জয়ধ্বনি	NN	
+	))
+11	((	VGF	
+11.1	দিতিস	VM	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="58">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	53	QC	
+	))
+3	((	NP	
+3.1	মনে	NN	
+	))
+4	((	NP	
+4.1	কি	WQ	
+	))
+5	((	VGF	
+5.1	পড়ে	VM	
+5.2	না	NEG	
+	))
+6	((	NP	
+6.1	তোদের	PRP	
+	))
+7	((	NP	
+7.1	সেই	DEM	
+7.2	জয়ধ্বনিতে	NN	
+	))
+8	((	NP	<ne=NEL>
+8.1	ঠাইবার	NNP	
+	))
+9	((	VGF	
+9.1	কেঁপে	VM	
+9.2	উঠত	VAUX	
+9.3	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="59">
+0	((	SSF	
+	))
+</Sentence>
+
+<Sentence id="60">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	54	QC	
+	))
+3	((	NP	
+3.1	আজ	NN	
+	))
+4	সেই	DEM	
+5	((	NP	<ne=NEP>
+5.1	পশীর	NNP	
+	))
+6	((	NP	
+6.1	রক্তেই	NN	
+	))
+7	((	NP	
+7.1	বসন	NN	
+	))
+8	((	JJP	
+8.1	রঞ্জিত	JJ	
+	))
+9	((	VGNF	
+9.1	করে	VM	
+	))
+10	((	NP	<ne=NEP>
+10.1	সীজার	NNP	
+	))
+11	((	VGF	
+11.1	আসছে	VM	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="61">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	55	QC	
+	))
+3	((	NP	
+3.1	তোরা	PRP	
+3.2	কিনা	RP	
+	))
+4	((	NP	
+4.1	তাঁরই	PRP	
+	))
+5	((	NP	
+5.1	জয়ধ্বনি	NN	
+	))
+6	((	VGF	
+6.1	করছিস	VM	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="62">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	56	QC	
+	))
+3	((	BLK	
+3.1	ধিক্	INJ	
+3.2	ধিক্	RDP	
+	))
+4	((	NP	
+4.1	তোদের	PRP	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="63">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	57	QC	
+	))
+3	((	BLK	
+3.1	ওরে	INJ	
+	))
+4	((	NP	
+4.1	ক্ষমা	NN	
+	))
+5	((	VGF	
+5.1	চেয়ে	VM	
+5.2	নে	VAUX	
+	))
+6	((	NP	
+6.1	এই	DEM	
+6.2	বেলা	NN	
+	))
+7	((	NP	
+7.1	দেবতার	NN	
+7.2	কাছে	NST	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="64">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	58	QC	
+	))
+3	((	VGNF	
+3.1	না	NEG	
+3.2	হলে	VM	
+	))
+4	((	NP	
+4.1	সমূহ	JJ	
+4.2	বিপদ	NN	
+	))
+5	((	NP	
+5.1	সামনে	NST	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="65">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	59	QC	
+	))
+3	"	SYM	
+4	((	NP	<ne=NEP>
+4.1	ক্লোডিয়াস	NNP	
+	))
+5	((	JJP	
+5.1	চতুর	JJ	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="66">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	60	QC	
+	))
+3	((	NP	
+3.1	পরিস্থিতি	NN	
+	))
+4	((	NP	
+4.1	উপলব্ধি	NN	
+	))
+5	((	VGNN	
+5.1	করার	VM	
+	))
+6	((	NP	
+6.1	ক্ষমতা	NN	
+	))
+7	((	VGF	
+7.1	আছে	VM	
+	))
+8	((	CCP	
+8.1	তাই	CC	
+	))
+9	((	NP	
+9.1	শান্ত	JJ	
+9.2	স্বরে	NN	
+	))
+10	((	VGF	
+10.1	বলেন	VM	
+	))
+11	((	NP	
+11.1	"	SYM	
+11.2	তোমরা	PRP	
+	))
+12	((	JJP	
+12.1	অবুঝ	JJ	
+12.2	,	SYM	
+	))
+13	((	NP	
+13.1	যে	DEM	
+13.2	অপরাধ	NN	
+	))
+14	((	VGNF	
+14.1	না	NEG	
+14.2	জেনে	VM	
+	))
+15	((	VGF	
+15.1	করেছো	VM	
+15.2	,	SYM	
+	))
+16	((	NP	
+16.1	তার	PRP	
+16.2	জন্য	PSP	
+	))
+17	((	NP	
+17.1	সমগ্র	QF	
+17.2	দরিদ্রদের	NN	
+	))
+18	((	JJP	
+18.1	একত্রিত	JJ	
+	))
+19	((	VGNF	
+19.1	করে	VM	
+	))
+20	((	NP	<ne=NEL>
+20.1	ঠাইবারের	NNP	
+	))
+21	((	NP	
+21.1	তীরে	NN	
+	))
+22	((	VGF	
+22.1	কাঁদো	VM	
+22.2	,	SYM	
+	))
+23	((	NP	
+23.1	তোমাদের	PRP	
+	))
+24	((	NP	
+24.1	চোখের	NN	
+	))
+25	((	NP	
+25.1	জলে	NN	
+	))
+26	((	NP	<ne=NEL>
+26.1	ঠাইবার	NNP	
+	))
+27	((	JJP	
+27.1	আরো	INTF	
+27.2	স্ফীত	JJ	
+	))
+28	((	VGF	
+28.1	হউক	VM	
+28.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="67">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	61	QC	
+	))
+3	((	NP	
+3.1	দুকুল	NN	
+	))
+4	((	VGF	
+4.1	ভাসিয়ে	VM	
+4.2	দিক	VAUX	
+	))
+5	((	NP	
+5.1	সেই	DEM	
+5.2	স্ফীত	JJ	
+5.3	চোখের	NN	
+	))
+6	((	NP	
+6.1	জলে	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="68">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	62	QC	
+	))
+3	((	CCP	
+3.1	/	SYM	
+3.2	/	SYM	
+3.3	কিন্তু	CC	
+	))
+4	((	NP	
+4.1	তখন	PRP	
+	))
+5	((	NP	
+5.1	আর	QF	
+5.2	সময়	NN	
+	))
+6	((	VGF	
+6.1	নেই	VM	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="69">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	63	QC	
+	))
+3	((	NP	
+3.1	সামনের	NST	
+	))
+4	((	NP	
+4.1	দুর্বার	JJ	
+4.2	ধ্বংসের	NN	
+	))
+5	((	NP	
+5.1	গতি	NN	
+	))
+6	((	NP	
+6.1	তার	PRP	
+	))
+7	((	NP	
+7.1	জীবনরথকে	NN	
+	))
+8	((	VGF	
+8.1	টেনে	VM	
+8.2	নিয়ে	VAUX	
+8.3	যাচ্ছে	VAUX	
+8.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="70">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	64	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুটাস	NNP	
+	))
+4	((	CCP	
+4.1	কিন্তু	CC	
+	))
+5	((	VGF	
+5.1	বলতে	VM	
+5.2	চাইছেন	VAUX	
+	))
+6	((	NP	
+6.1	কাল	NN	
+	))
+7	((	VGNF	
+7.1	এসে	VM	
+	))
+8	((	NP	
+8.1	তার	PRP	
+	))
+9	((	NP	
+9.1	বাক্যরোধ	NN	
+	))
+10	((	VGF	
+10.1	করছে	VM	
+10.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="71">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	65	QC	
+	))
+3	((	NP	
+3.1	জনান্তিক	NN:?	
+	))
+4	((	JJP	
+4.1	নির্বাক	JJ	
+4.2	,	SYM	
+	))
+5	((	JJP	
+5.1	নিষ্পন্দ	JJ	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="72">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	66	QC	
+	))
+3	((	NP	
+3.1	সে	PRP	
+	))
+4	((	NP	
+4.1	ইতিহাসকে	NN	
+	))
+5	((	NP	
+5.1	প্রশ্ন	NN	
+	))
+6	((	VGF	
+6.1	করে	VM	
+	))
+7	((	RBP	
+7.1	তারপর	RB	
+7.2	...	SYM	
+7.3	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="73">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	67	QC	
+	))
+3	((	NP	
+3.1	তৃতীয়	QO	
+3.2	পরিচ্ছেদ	NN	
+	))
+4	((	RBP	
+4.1	তারপর	RB	
+	))
+5	((	VGF	
+5.1	কেটে	VM	
+5.2	গেছে	VAUX	
+	))
+6	((	NP	<ne=NEM>
+6.1	আরো	QF	
+6.2	দুই	QC	
+6.3	পক্ষ	NN	
+6.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="74">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	68	QC	
+	))
+3	((	NP	
+3.1	আজ	NN	
+	))
+4	((	NP	<ne=NETI>
+4.1	চৌদ্দই	QO	
+4.2	মার্চ	NNP	
+	))
+5	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="75">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	69	QC	
+	))
+3	((	NP	
+3.1	দিনের	NN	
+	))
+4	((	NP	
+4.1	সূর্যটা	NN	
+	))
+5	((	NP	
+5.1	কখন	WQ	
+5.2	যে	RP	
+	))
+6	((	NP	
+6.1	চক্রান্ত	NN	
+	))
+7	((	VGNF	
+7.1	করে	VM	
+	))
+8	((	NP	
+8.1	রাত্রির	NN	
+	))
+9	((	NP	
+9.1	আঁধারকে	NN	
+	))
+10	((	VGF	
+10.1	টেনে	VM	
+10.2	এনেছে	VAUX	
+	))
+11	((	VGF	
+11.1	বোঝা	VM	
+11.2	গেলো	VAUX	
+11.3	না	NEG	
+11.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="76">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	70	QC	
+	))
+3	((	CCP	
+3.1	আর	CC	
+	))
+4	((	NP	
+4.1	আঁধার	NN	
+	))
+5	((	VGF	
+5.1	এনেছে	VM	
+	))
+6	((	NP	
+6.1	ঝঞ্ঝা	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="77">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	71	QC	
+	))
+3	((	NP	
+3.1	বিদ্যুত্	XC	
+3.2	শিখা	NN	
+	))
+4	((	RBP	
+4.1	পলকে	RB	
+	))
+5	((	VGF	
+5.1	উঠছে	VAUX	
+5.2	চমকে	VM	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="78">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	72	QC	
+	))
+3	((	NP	
+3.1	প্রকৃতিও	NN	
+3.2	যেন	RP	
+	))
+4	((	VGF	
+4.1	জানিয়ে	VM	
+4.2	দিচ্ছে	VAUX	
+	))
+5	((	NP	
+5.1	চক্রান্তের	NN	
+	))
+6	((	NP	
+6.1	পূর্বাভাস	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="79">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	73	QC	
+2.2	...	SYM	
+	))
+3	((	NP	<ne=NETI>
+3.1	পনেরই	QO	
+3.2	মার্চ	NNP	
+	))
+4	((	JJP	
+4.1	সাবধান	JJ	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="80">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	74	QC	
+	))
+3	((	NP	
+3.1	সহস্র	QF	
+3.2	বাক্যের	NN	
+	))
+4	((	NP	
+4.1	ভীড়ে	NN	
+	))
+5	((	CCP	
+5.1	তবু	CC	
+5.2	যেন	RP	
+	))
+6	((	NP	
+6.1	এই	DEM	
+6.2	বাক্য	NN	
+	))
+7	((	VGF	
+7.1	হারাতে	VM	
+7.2	পারে	VAUX	
+7.3	না	NEG	
+7.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="81">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	75	QC	
+	))
+3	((	NP	
+3.1	একটা	QC	
+3.2	ভবিষ্যত্	XC	
+3.3	বাণী	NN	
+3.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="82">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	76	QC	
+	))
+3	((	NP	
+3.1	কুসংস্কারের	NN	
+	))
+4	((	NP	
+4.1	একটা	QC	
+4.2	অঙ্গ	NN	
+4.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="83">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	77	QC	
+	))
+3	((	NP	
+3.1	যা	PRP	
+	))
+4	((	NP	<ne=NEP>
+4.1	সীজারের	NNP	
+	))
+5	((	NP	
+5.1	জীবনে	NN	
+	))
+6	((	NP	
+6.1	প্রবেশ	NN	
+	))
+7	((	NP	
+7.1	নিষেধ	NN	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="84">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	78	QC	
+	))
+3	সেই	DEM	
+4	((	NP	<ne=NEP>
+4.1	সীজার	NNP	
+	))
+5	((	NP	
+5.1	কি	WQ	
+	))
+6	((	NP	
+6.1	আজ	NN	
+	))
+7	((	NP	
+7.1	ওই	DEM	
+7.2	ভবিষ্যত্	XC	
+7.3	বাণী	NN	
+7.4	নিয়ে	PSP	
+	))
+8	((	JJP	
+8.1	চিন্তিত	JJ	
+	))
+9	((	VGF	
+9.1	নয়	VM	
+9.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="85">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	79	QC	
+	))
+3	((	RBP	
+3.1	শুধু	RB	
+	))
+4	((	NP	<ne=NEP>
+4.1	সীজার	NNP	
+	))
+5	((	NP	
+5.1	কেন	WQ	
+5.2	,	SYM	
+	))
+6	((	NP	<ne=NEL>
+6.1	রোমের	NNP	
+	))
+7	((	NP	
+7.1	জনগণ	NN	
+	))
+8	((	NP	
+8.1	আজ	NN	
+	))
+9	((	VGF	
+9.1	ভাবছেন	VM	
+	))
+10	আগামী	JJ	
+11	((	NP	<ne=NETI>
+11.1	পনেরোই	QO	
+11.2	মার্চ	NNP	
+	))
+12	((	NP	
+12.1	তার	PRP	
+	))
+13	((	NP	
+13.1	দিনের	NN	
+	))
+14	((	NP	
+14.1	রঙ	NN	
+	))
+15	((	NP	
+15.1	কি	WQ	
+15.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="86">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	80	QC	
+	))
+3	((	NP	
+3.1	বাক্যটার	NN	
+	))
+4	((	NP	
+4.1	ওজন	NN	
+	))
+5	((	NP	
+5.1	কতটা	WQ	
+	))
+6	((	NP	
+6.1	তা	PRP	
+6.2	নিয়ে	PSP	
+	))
+7	((	NP	
+7.1	কি	WQ	
+	))
+8	((	NP	
+8.1	গবেষণা	NN	
+	))
+9	((	VGF	
+9.1	করছে	VM	
+	))
+10	((	NP	<ne=NEP>
+10.1	কাস্কাক্যাসিয়াস	NNP	
+	))
+11	((	CCP	
+11.1	কিংবা	CC	
+	))
+12	((	NP	<ne=NEP>
+12.1	ব্রুটাস	NNP	
+	))
+13	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="87">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	81	QC	
+	))
+3	((	NP	
+3.1	আজকের	NN	
+	))
+4	((	NP	
+4.1	রাতের	NN	
+	))
+5	((	NP	
+5.1	বর্তমান	NN	
+	))
+6	((	VGF	
+6.1	জানে	VM	
+6.2	না	NEG	
+	))
+7	((	NP	
+7.1	আগামী	JJ	
+7.2	কালের	NN	
+	))
+8	((	NP	
+8.1	রঙ	NN	
+8.2	,	SYM	
+	))
+9	((	NP	
+9.1	রূপ	NN	
+9.2	,	SYM	
+	))
+10	((	NP	
+10.1	ওজন	NN	
+10.2	,	SYM	
+	))
+11	((	NP	
+11.1	গন্ধ	NN	
+	))
+12	((	NP	
+12.1	কতটা	WQ	
+12.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="88">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	82	QC	
+	))
+3	((	NP	
+3.1	কাল	NN	
+	))
+4	((	NP	
+4.1	কি	WQ	
+	))
+5	((	VGF	
+5.1	হবে	VM	
+	))
+6	((	NP	
+6.1	কে	WQ	
+	))
+7	((	VGF	
+7.1	জানে	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="89">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	83	QC	
+	))
+3	((	NP	
+3.1	প্রকৃতি	NN	
+	))
+4	((	NP	
+4.1	তার	PRP	
+	))
+5	((	NP	
+5.1	পূর্বাভাস	NN	
+	))
+6	((	VGNF	
+6.1	জানলেও	VM	
+	))
+7	((	NP	
+7.1	কেউ	PRP	
+	))
+8	((	NP	
+8.1	তা	PRP	
+	))
+9	((	VGF	
+9.1	জানতে	VM	
+9.2	চাইছে	VAUX	
+9.3	না	NEG	
+9.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="90">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	84	QC	
+	))
+3	((	NP	
+3.1	জনান্তিক	NN	
+	))
+4	((	CCP	
+4.1	তাই	CC	
+	))
+5	((	NP	
+5.1	ইতিহাসের	NN	
+	))
+6	((	NP	
+6.1	হাত	NN	
+	))
+7	((	VGF	
+7.1	ধরে	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="91">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	85	QC	
+	))
+3	((	NP	
+3.1	জনহীন	JJ	
+3.2	অন্ধকার	JJ	
+3.3	ঝঞ্ঝামুখর	JJ	
+3.4	রাতে	NN	
+	))
+4	((	NP	<ne=NEL>
+4.1	রোমের	NNP	
+	))
+5	((	NP	
+5.1	সর্পিল	JJ	
+5.2	রেখা	XC	
+5.3	পথ	NN	
+	))
+6	((	VGF	
+6.1	এগিয়ে	VM	
+6.2	যায়	VAUX	
+6.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="92">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	86	QC	
+	))
+3	((	VGNF	
+3.1	ফিরে	VM	
+3.2	ফিরে	RDP	
+	))
+4	((	VGF	
+4.1	দেখে	VM	
+	))
+5	((	NP	
+5.1	পথের	NN	
+	))
+6	((	NP	
+6.1	দুধার	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="93">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	87	QC	
+	))
+3	((	NP	
+3.1	সারি	QF	
+3.2	সারি	RDP	
+3.3	গৃহ	NN	
+3.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="94">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	88	QC	
+	))
+3	((	JJP	
+3.1	রুদ্ধ	JJ	
+	))
+4	((	NP	
+4.1	তার	PRP	
+	))
+5	((	NP	
+5.1	দ্বার	NN	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="95">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	89	QC	
+	))
+3	((	VGF	
+3.1	নেই	VM	
+	))
+4	((	NP	
+4.1	দীপশিখা	NN	
+4.2	,	SYM	
+	))
+5	((	VGF	
+5.1	নেই	VM	
+	))
+6	((	NP	
+6.1	অভিসারিকা	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="96">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	90	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	রোমের	NNP	
+	))
+4	((	NP	
+4.1	পথে	NN	
+	))
+5	((	NP	
+5.1	অবিরাম	JJ	
+5.2	বৃষ্টির	NN	
+	))
+6	((	NP	
+6.1	হানা	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="97">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	91	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	NP	
+4.1	কোথায়	WQ	
+	))
+5	((	NP	
+5.1	শান্তি	NN	
+	))
+6	((	NP	
+6.1	কোথায়	WQ	
+	))
+7	((	NP	
+7.1	শীতলতা	NN	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="98">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	92	QC	
+	))
+3	((	NP	
+3.1	বৃষ্টিধারা	NN	
+	))
+4	((	CCP	
+4.1	যেন	CC:?	
+	))
+5	((	NP	
+5.1	অগ্নিকণা	NN	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	রাতজাগা	JJ	
+6.2	কোনো	QF	
+6.3	পাখি	NN	
+	))
+7	((	RBP	
+7.1	হঠাত্	RB	
+	))
+8	((	RBP	
+8.1	তারস্বরে	RB	
+	))
+9	((	NP	
+9.1	চিত্কার	NN	
+	))
+10	((	VGF	
+10.1	করে	VM	
+10.2	ওঠে	VAUX	
+10.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="99">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	93	QC	
+	))
+3	((	RBP	
+3.1	শুধু	RB	
+3.2	কি	RP	
+	))
+4	((	NP	
+4.1	চিত্কার	NN	
+	))
+5	((	CCP	
+5.1	না	CC	
+	))
+6	((	NP	
+6.1	অশুভ	JJ	
+6.2	কোনো	QF	
+6.3	ইঙ্গিতের	NN	
+	))
+7	((	NP	
+7.1	শিখা	NN	
+7.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="100">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	94	QC	
+	))
+3	((	NP	
+3.1	ইতিহাসও	NN	
+3.2	যেন	RP	
+	))
+4	((	RBP	
+4.1	মূহুর্তে	RB	
+	))
+5	((	VGF	
+5.1	থমকে	VM	
+5.2	পড়ে	VAUX	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="101">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	95	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	NP	<ne=NEL>
+4.1	রোমের	NNP	
+	))
+5	((	NP	
+5.1	মানুষের	NN	
+	))
+6	((	NP	
+6.1	মনে	NN	
+	))
+7	((	NP	
+7.1	নিশ্চিত	JJ	
+7.2	ধারণা	NN	
+7.3	,	SYM	
+	))
+8	((	NP	
+8.1	প্রকৃতি	NN	
+	))
+9	((	NP	
+9.1	আজ	NN	
+	))
+10	((	VGF	
+10.1	বয়ে	VM	
+10.2	নিয়ে	VAUX	
+10.3	আসছে	VAUX	
+	))
+11	((	NP	
+11.1	আগামীর	NN	
+	))
+12	((	NP	
+12.1	এক	QC	
+12.2	অশুভের	NN	
+	))
+13	((	NP	
+13.1	বার্ত্তা	NN	
+13.2	...	SYM	
+	))
+14	((	NP	<ne=NEP>
+14.1	কাসকা	NNP	
+	))
+15	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="102">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	96	QC	
+	))
+3	রসিক	JJ	
+4	((	NP	<ne=NEP>
+4.1	কাসকা	NNP	
+	))
+5	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="103">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	97	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	BLK	
+4.1	একি	INJ:?	
+	))
+5	((	NP	
+5.1	আজ	NN	
+	))
+6	((	NP	
+6.1	তাঁর	PRP	
+	))
+7	((	NP	
+7.1	ভাবমূর্ত্তি	NN	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="104">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	98	QC	
+	))
+3	((	JJP	
+3.1	উদভ্রান্ত	JJ	
+	))
+4	((	NP	
+4.1	কেন	WQ	
+	))
+5	((	NP	
+5.1	সে	PRP	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="105">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	99	QC	
+	))
+3	((	NP	
+3.1	চোখে	NN	
+	))
+4	((	NP	
+4.1	কিসের	WQ	
+	))
+5	((	NP	
+5.1	আগুন	NN	
+5.2	!	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="106">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	100	QC	
+	))
+3	((	NP	
+3.1	হাতে	NN	
+	))
+4	((	NP	
+4.1	ওটা	PRP	
+	))
+5	((	NP	
+5.1	কি	WQ	
+5.2	!	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="107">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	101	QC	
+	))
+3	((	NP	
+3.1	তরবারি	NN	
+3.2	!	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="108">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	102	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	NP	
+4.1	কেন	WQ	
+4.2	,	SYM	
+	))
+5	((	NP	
+5.1	কিসের	WQ	
+5.2	জন্য	PSP	
+	))
+6	((	NP	
+6.1	উম্মুক্ত	JJ	
+6.2	তরবারি	NN	
+	))
+7	((	NP	
+7.1	হাতে	NN	
+	))
+8	((	NP	
+8.1	আজ	NN	
+	))
+9	((	NP	
+9.1	সে	PRP	
+	))
+10	((	NP	
+10.1	ঝঞ্ঝামুখর	JJ	
+10.2	রাতে	NN	
+	))
+11	((	NP	
+11.1	জনহীন	JJ	
+11.2	এই	DEM	
+11.3	পথে	NN	
+11.4	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="109">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	103	QC	
+	))
+3	((	NP	
+3.1	আকাশের	NN	
+	))
+4	((	NP	
+4.1	বুক	NN	
+	))
+5	((	VGNF	
+5.1	চিরে	VM	
+	))
+6	((	NP	
+6.1	বিদ্যুত	NN	
+	))
+7	((	RBP	
+7.1	হঠাত্	RB	
+	))
+8	((	VGF	
+8.1	হেসে	VM	
+8.2	উঠলো	VAUX	
+8.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="110">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	104	QC	
+	))
+3	((	BLK	
+3.1	ওঃ	INJ	
+	))
+4	((	NP	
+4.1	কী	JJ:?	
+4.2	বীভত্সতার	NN	
+	))
+5	((	NP	
+5.1	হাসি	NN	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="111">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	105	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	কাসকাও	NNP	
+	))
+4	((	RBP	
+4.1	হঠাত্	RB	
+	))
+5	((	VGF	
+5.1	থমকে	VM	
+5.2	পড়ে	VAUX	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="112">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	106	QC	
+	))
+3	((	NP	
+3.1	সম্মুখে	NST	
+	))
+4	((	NP	
+4.1	আরেক	QC	
+4.2	জন	NN	
+4.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="113">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	107	QC	
+2.2	-	SYM	
+	))
+3	((	NP	
+3.1	ইতিহাস	NN	
+	))
+4	((	VGF	
+4.1	চিনতে	VM	
+4.2	পারো	VAUX	
+	))
+5	((	NP	
+5.1	ও	PRP	
+	))
+6	((	NP	
+6.1	কে	WQ	
+6.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="114">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	108	QC	
+2.2	-	SYM	
+	))
+3	((	BLK	
+3.1	হ্যাঁ	INJ	
+	))
+4	((	NP	
+4.1	জনান্তিক	NN	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="115">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	109	QC	
+	))
+3	((	NP	
+3.1	উনি	PRP	
+	))
+4	((	NP	
+4.1	প্রখ্যাত	JJ	
+4.2	বক্তা	NN	
+	))
+5	((	NP	<ne=NEP>
+5.1	কিকেরো	NNP	
+	))
+6	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="116">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	110	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	কাস্কার	NNP	
+	))
+4	কাছে	NST	
+5	((	NP	
+5.1	যিনি	PRP	
+	))
+6	((	NP	
+6.1	উপহাসের	NN	
+	))
+7	((	NP	
+7.1	পাত্র	NN	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="117">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	111	QC	
+	))
+3	((	RBP	
+3.1	মুখোমুখি	RB	
+	))
+4	((	NP	<ne=NEP>
+4.1	কিকেরো	NNP	
+	))
+5	((	CCP	
+5.1	আর	CC	
+	))
+6	((	NP	<ne=NEP>
+6.1	কাস্কা	NNP	
+	))
+7	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="118">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	112	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	কিকেরো	NNP	
+	))
+4	((	NP	
+4.1	জিজ্ঞাসা	NN	
+	))
+5	((	VGF	
+5.1	করলেন	VM	
+5.2	-	SYM	
+	))
+6	((	RBP	
+6.1	এমন	PRP	
+6.2	ভাবে	RP	
+	))
+7	((	NP	
+7.1	উম্মাদের	NN	
+7.2	মতো	PSP	
+	))
+8	((	NP	
+8.1	কোথায়	WQ	
+	))
+9	((	VGF	
+9.1	ছুটে	VM	
+9.2	চলেছ	VAUX	
+9.3	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="119">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	113	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	কাস্কার	NNP	
+	))
+4	((	NP	
+4.1	মুখে	NN	
+	))
+5	((	NP	
+5.1	আজ	NN	
+5.2	যেন	RP	
+	))
+6	((	NP	
+6.1	বাগ্মিতা	NN	
+	))
+7	((	VGF	
+7.1	ঝরে	VM	
+7.2	পড়ে	VAUX	
+7.3	-	SYM	
+	))
+8	((	VGF	
+8.1	দেখছো	VM	
+8.2	না	NEG	
+	))
+9	((	NP	
+9.1	প্রকৃতি	NN	
+9.2	কেমন	RP	
+	))
+10	((	NP	
+10.1	আজ	NN	
+	))
+11	((	NP	
+11.1	অন্তর	XC	
+11.2	লীলায়	NN	
+	))
+12	((	VGF	
+12.1	মেতে	VM	
+12.2	উঠছে	VAUX	
+12.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="120">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	114	QC	
+	))
+3	((	NP	
+3.1	পৃথিবীর	NN	
+	))
+4	((	NP	
+4.1	আয়ু	NN	
+	))
+5	((	VGF	
+5.1	ফুরিয়ে	VM	
+5.2	আসছে	VAUX	
+	))
+6	((	NP	
+6.1	বন্ধু	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="121">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	115	QC	
+	))
+3	((	VGF	
+3.1	দেখছো	VM	
+3.2	না	NEG	
+	))
+4	((	NP	
+4.1	একটি	QC	
+4.2	ক্রীতদাসের	NN	
+	))
+5	((	NP	
+5.1	সর্বাঙ্গে	NN	
+	))
+6	((	NP	
+6.1	আগুন	NN	
+	))
+7	((	VGF	
+7.1	জ্বলছে	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="122">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	116	QC	
+	))
+3	((	BLK	
+3.1	কেমন	RP:?	
+	))
+4	((	BLK	
+4.1	যেন	RP	
+	))
+5	((	NP	
+5.1	অভাবনীয়	JJ	
+5.2	সব	QF	
+5.3	ঘটনা	NN	
+5.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="123">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	117	QC	
+	))
+3	((	NP	
+3.1	চারিদিকে	NN	
+	))
+4	((	BLK	
+4.1	কেমন	RP:?	
+	))
+5	((	BLK	
+5.1	যেন	RP	
+	))
+6	((	NP	
+6.1	একটা	QC	
+6.2	অশুভ	JJ	
+6.3	সংকেত	NN	
+6.4	...	SYM	
+	))
+7	((	BLK	
+7.1	আচ্ছা	INJ	
+	))
+8	((	NP	
+8.1	একটা	QC	
+8.2	কথা	NN	
+8.3	,	SYM	
+	))
+9	((	VGF	
+9.1	জানোকি	VM	
+	))
+10	((	NP	<ne=NEO>
+10.1	সীনেটের	NN	
+	))
+11	((	NP	
+11.1	সভায়	NN	
+	))
+12	((	NP	
+12.1	আগামীকাল	NN	
+	))
+13	((	NP	<ne=NEP>
+13.1	সীজার	NNP	
+	))
+14	((	VGF	
+14.1	আসবেন	VM	
+14.2	কিনা	RP	
+14.3	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="124">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	118	QC	
+2.2	-	SYM	
+	))
+3	((	VGF	
+3.1	আসবেন	VM	
+3.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="125">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	119	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	কিকেরো	NNP	
+	))
+4	((	VGF	
+4.1	চলে	VM	
+4.2	যান	VAUX	
+4.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="126">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	120	QC	
+	))
+3	((	JJP	
+3.1	উপস্থিত	JJ	
+	))
+4	((	VGF	
+4.1	হ'ন	VM	
+	))
+5	((	NP	
+5.1	আরেক	QC	
+5.2	জন	CL	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="127">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	121	QC	
+	))
+3	((	CCP	
+3.1	তবে	CC	
+	))
+4	((	NP	
+4.1	উদভ্রান্তের	NN	
+4.2	মতো	PSP	
+	))
+5	((	VGF	
+5.1	নয়	VM	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	লঘু	JJ	
+6.2	পদক্ষেপে	NN	
+6.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="128">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	122	QC	
+2.2	-	SYM	
+	))
+3	((	NP	<ne=NEP>
+3.1	ক্যাসিয়াস	NNP	
+	))
+4	!	SYM	
+	))
+</Sentence>
+
+<Sentence id="129">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	123	QC	
+2.2	-	SYM	
+	))
+3	((	BLK	
+3.1	হ্যাঁ	INJ	
+	))
+4	((	NP	
+4.1	বন্ধু	NN	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="130">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	124	QC	
+2.2	-	SYM	
+	))
+3	((	NP	
+3.1	কি	INTF	
+3.2	ভয়ঙ্কর	JJ	
+3.3	রাত	NN	
+	))
+4	((	NP	
+4.1	তাই	PRP	
+	))
+5	((	NEGP	
+5.1	না	NEG	
+5.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="131">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	NP	
+2.1	125	QC	
+	))
+3	/	SYM	
+4	/	SYM	
+5	((	NP	<ne=NEP>
+5.1	ক্যালপর্নিয়া	NNP	
+	))
+6	((	NP	
+6.1	তখন	PRP	
+	))
+7	((	NP	
+7.1	গভীর	JJ	
+7.2	ঘুমে	NN	
+	))
+8	((	JJP	
+8.1	আচ্ছন্ন	JJ	
+8.2	,	SYM	
+	))
+9	((	NP	
+9.1	হাতের	NN	
+9.2	কাছে	NST	
+	))
+10	((	NP	
+10.1	কামনার	NN	
+	))
+11	((	NP	
+11.1	ধন	NN	
+	))
+12	((	NP	<ne=NEP>
+12.1	সীজার	NNP	
+	))
+13	((	CCP	
+13.1	তবুও	CC	
+	))
+14	((	RBP	
+14.1	পলকে	RB	
+14.2	পলকে	RDP	
+	))
+15	((	NP	
+15.1	দুঃস্বপ্নে	NN	
+	))
+16	((	VGF	
+16.1	চমকে	VM	
+16.2	উঠছেন	VAUX	
+	))
+17	((	NP	
+17.1	তিনি	PRP	
+17.2	,	SYM	
+	))
+18	((	NP	
+18.1	চিত্কার	NN	
+	))
+19	((	VGNF	
+19.1	করে	VM	
+	))
+20	((	VGF	
+20.1	বললেন	VM	
+20.2	-	SYM	
+	))
+21	((	NP	
+21.1	ঐ	PRP	
+	))
+22	((	NP	
+22.1	কে	WQ	
+22.2	যেন	RP	
+	))
+23	((	NP	<ne=NEP>
+23.1	সীজারকে	NNP	
+	))
+24	((	NP	
+24.1	হত্যা	NN	
+	))
+25	((	VGF	
+25.1	করছে	VM	
+25.2	,	SYM	
+	))
+26	((	VGF	
+26.1	বাঁচাও	VM	
+26.2	-	SYM	
+	))
+27	((	NP	
+27.1	কে	WQ	
+	))
+28	((	VGF	
+28.1	আছে	VM	
+	))
+29	((	NP	
+29.1	তাকে	PRP	
+	))
+30	((	VGF	
+30.1	বাঁচাও	VM	
+30.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="132">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	126	QC	
+	))
+3	((	NP	
+3.1	তাঁর	PRP	
+	))
+4	((	NP	
+4.1	এই	DEM	
+4.2	দুঃস্বপ্ন	XC	
+4.3	ভরা	JJ:?	
+4.4	আর্তনাদে	NN	
+	))
+5	সংস্কারবিহীন	JJ	
+6	((	NP	<ne=NEP>
+6.1	সীজারের	NNP	
+	))
+7	((	NP	
+7.1	মনেও	NN	
+	))
+8	((	NP	
+8.1	কুসংস্কারের	NN	
+	))
+9	((	NP	
+9.1	ডঙ্কা	NN	
+	))
+10	((	VGF	
+10.1	বেজে	VM	
+10.2	ওঠে	VAUX	
+10.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="133">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	127	QC	
+	))
+3	((	NP	
+3.1	ভৃত্যকে	NN	
+	))
+4	((	VGNF	
+4.1	ডেকে	VM	
+	))
+5	((	NP	
+5.1	আদেশ	NN	
+	))
+6	((	VGF	
+6.1	দিলেন	VM	
+	))
+7	((	NP	
+7.1	এখনি	PRP	
+	))
+8	((	VGF	
+8.1	যাও	VM	
+	))
+9	((	NP	
+9.1	পুরোহিতের	NN	
+9.2	কাছে	NST	
+9.3	-	SYM	
+	))
+10	((	NP	
+10.1	দেবতার	NN	
+10.2	উদ্দেশ্যে	PSP	
+	))
+11	((	NP	
+11.1	বলি	NN	
+	))
+12	((	VGNF	
+12.1	দিয়ে	VM	
+	))
+13	((	VGF	
+13.1	জেনে	VM	
+13.2	এস	VAUX	
+	))
+14	((	NP	
+14.1	দিনের	NN	
+	))
+15	((	JJP	
+15.1	শুভ	JJ	
+	))
+16	((	CCP	
+16.1	ও	CC	
+	))
+17	((	JJP	
+17.1	অশুভ	JJ	
+	))
+18	((	NP	
+18.1	বার্তা	NN	
+18.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="134">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	128	QC	
+	))
+3	((	NP	
+3.1	ভৃত্য	NN	
+	))
+4	((	VGF	
+4.1	চলে	VM	
+4.2	যায়	VAUX	
+4.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="135">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	129	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	সীজার	NNP	
+	))
+4	((	NP	
+4.1	অস্থির	JJ	
+4.2	চিত্তে	NN	
+	))
+5	((	NP	
+5.1	পদচারণা	NN	
+	))
+6	((	VGF	
+6.1	করতে	VM	
+6.2	থাকেন	VAUX	
+6.3	,	SYM	
+	))
+7	((	NP	<ne=NEP>
+7.1	ক্যালপানিয়া	NNP	
+	))
+8	((	VGF	
+8.1	আসেন	VM	
+	))
+9	((	NP	<ne=NEP>
+9.1	সীজারের	NNP	
+	))
+10	পাশে	NST	
+11	,	SYM	
+12	((	NP	
+12.1	তিনি	PRP	
+	))
+13	((	NP	
+13.1	যোগ্যা	JJ	
+13.2	সহর্ধমিনী	NN	
+	))
+14	((	VGF	
+14.1	নন	VM	
+14.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="136">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	130	QC	
+	))
+3	((	NP	
+3.1	তাঁর	PRP	
+	))
+4	((	NP	
+4.1	মনে	NN	
+	))
+5	((	VGF	
+5.1	থাকতে	VM	
+5.2	পারে	VAUX	
+	))
+6	((	NP	
+6.1	কোন	QF	
+6.2	নারীসুলভ	JJ	
+6.3	উচ্চাকাঙ্খা	NN	
+	))
+7	((	CCP	
+7.1	কিন্তু	CC	
+	))
+8	((	NP	
+8.1	স্বামীর	NN	
+	))
+9	((	NP	
+9.1	অনুপ্রেরণা	NN	
+	))
+10	((	VGNN	
+10.1	যোগাবার	VM	
+	))
+11	((	NP	
+11.1	ক্ষমতা	NN	
+	))
+12	((	NP	
+12.1	তাঁর	PRP	
+	))
+13	((	VGF	
+13.1	নেই	VM	
+13.2	,	SYM	
+	))
+14	((	NP	
+14.1	তিনি	PRP	
+	))
+15	((	NP	
+15.1	সাধারণ	JJ	
+15.2	নারী	NN	
+	))
+16	((	NP	
+16.1	বর-নারী	NN	
+	))
+17	((	VGNN	
+17.1	হওয়া	VM	
+	))
+18	((	NP	
+18.1	অনেক	QF	
+18.2	দূরে	NST	
+18.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="137">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	131	QC	
+	))
+3	((	CCP	
+3.1	তাই	CC	
+	))
+4	((	NP	
+4.1	তিনি	PRP	
+	))
+5	((	NP	<ne=NEP>
+5.1	সীজারকে	NNP	
+	))
+6	((	VGF	
+6.1	বললেন	VM	
+6.2	-	SYM	
+	))
+7	((	NP	
+7.1	আজকে	NN	
+	))
+8	((	NP	
+8.1	কি	WQ	
+	))
+9	((	NP	
+9.1	তুমি	PRP	
+	))
+10	((	NP	<ne=NEO>
+10.1	সিনেট	NN	
+	))
+11	((	VGF	
+11.1	যাবে	VM	
+11.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="138">
+0	((	SSF	
+	))
+</Sentence>
+
+<Sentence id="139">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	132	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	সীজার	NNP	
+	))
+4	((	VGF	
+4.1	বললেন	VM	
+4.2	-	SYM	
+	))
+5	((	NP	
+5.1	আমি	PRP	
+	))
+6	((	VGF	
+6.1	জানি	VM	
+	))
+7	((	NP	
+7.1	অমঙ্গলের	NN	
+	))
+8	((	NP	
+8.1	বিভীষিকা	NN	
+	))
+9	((	NP	
+9.1	আমার	PRP	
+9.2	পিছনে	NST	
+	))
+10	((	NP	
+10.1	পঙ্গপালের	NN	
+10.2	মতো	PSP	
+	))
+11	((	VGF	
+11.1	ছুটে	VM	
+11.2	আসছে	VAUX	
+11.3	,	SYM	
+	))
+12	((	CCP	
+12.1	কিন্তু	CC	
+	))
+13	((	CCP	
+13.1	তবুও	CC	
+	))
+14	((	NP	
+14.1	আমি	PRP	
+	))
+15	((	NP	
+15.1	আজ	NN	
+	))
+16	((	NP	<ne=NEO>
+16.1	সিনেট	NN	
+	))
+17	((	VGF	
+17.1	যাবো	VM	
+17.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="140">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	133	QC	
+	))
+3	((	NP	
+3.1	দুর্বলা	JJ	
+3.2	নারী	NN	
+	))
+4	((	NP	<ne=NEP>
+4.1	ক্যালপর্নিয়া	NNP	
+	))
+5	((	NP	
+5.1	আতঙ্কে	NN	
+	))
+6	((	NP	
+6.1	কম্পমান	JJ	
+6.2	কণ্ঠে	NN	
+	))
+7	((	VGF	
+7.1	বললেন	VM	
+7.2	-	SYM	
+	))
+8	((	NP	
+8.1	শুভ-অশুভ	JJ	
+8.2	সূচনায়	NN	
+	))
+9	((	NP	
+9.1	আমি	PRP	
+	))
+10	((	NP	
+10.1	বিশ্বাস	NN	
+	))
+11	((	VGF	
+11.1	করিনি	VM	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="141">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	134	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	CCP	
+4.1	তবুও	CC	
+4.2	যেন	RP	
+	))
+5	((	NP	
+5.1	আজ	NN	
+	))
+6	((	NP	
+6.1	মনে	NN	
+	))
+7	((	VGF	
+7.1	হচ্ছে	VM	
+	))
+8	((	NP	
+8.1	কোন	QF	
+8.2	অশুভ	JJ	
+8.3	প্রেতাত্মার	NN	
+	))
+9	((	NP	
+9.1	দল	NN	
+	))
+10	((	NP	
+10.1	আপনাকে	PRP	
+	))
+11	((	NP	
+11.1	ধ্বংস	NN	
+	))
+12	((	VGNN	
+12.1	করার	VM	
+12.2	জন্য	VAUX	
+	))
+13	((	JJP	
+13.1	সঙ্গবদ্ধ	JJ	
+	))
+14	((	VGNF	
+14.1	হয়ে	VM	
+	))
+15	((	VGF	
+15.1	এগিয়ে	VM	
+15.2	আসছে	VAUX	
+15.3	,	SYM	
+	))
+16	((	NP	
+16.1	তাদের	PRP	
+	))
+17	((	NP	
+17.1	জ্বলন্ত	JJ	
+17.2	চক্ষু	NN	
+17.3	হতে	PSP	
+	))
+18	((	NP	
+18.1	রাশি	QF	
+18.2	রাশি	RDP	
+18.3	অগ্নিবৃষ্টি	NN	
+	))
+19	((	CCP	
+19.1	যেন	CC	
+	))
+20	((	NP	
+20.1	আপনার	PRP	
+	))
+21	((	VGNN	
+21.1	চলার	VM	
+	))
+22	((	NP	
+22.1	পথে	NN	
+	))
+23	((	NP	
+23.1	বহ্নিমান	JJ	
+23.2	প্রতিবন্ধক	NN	
+	))
+24	((	NP	
+24.1	সৃষ্টি	NN	
+	))
+25	((	VGF	
+25.1	করেছে	VM	
+25.2	,	SYM	
+	))
+26	((	NP	
+26.1	আপনি	PRP	
+	))
+27	((	VGF	
+27.1	যাবেন	VM	
+27.2	না	NEG	
+	))
+28	((	NP	
+28.1	প্রিয়	NN	
+28.2	,	SYM	
+	))
+29	((	NP	
+29.1	দয়া	NN	
+	))
+30	((	VGNF	
+30.1	করে	VM	
+	))
+31	((	NP	
+31.1	আপনি	PRP	
+	))
+32	((	VGF	
+32.1	যাবেন	VM	
+32.2	না	NEG	
+32.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="142">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	135	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	সীজার	NNP	
+	))
+4	যেন	RP	
+5	((	NP	
+5.1	আজ	NN	
+	))
+6	((	JJP	
+6.1	বিচলিত	JJ	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="143">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	136	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ক্যালপর্নিয়া	NNP	
+	))
+4	((	NP	
+4.1	উত্তরে	NN	
+	))
+5	((	VGF	
+5.1	বললেন	VM	
+	))
+6	((	NP	
+6.1	বিধির	NN	
+	))
+7	((	NP	
+7.1	বিধান	NN	
+	))
+8	((	CCP	
+8.1	যদি	CC	
+	))
+9	((	NP	
+9.1	তাই	PRP	
+	))
+10	((	VGF	
+10.1	হয়	VM	
+	))
+11	((	CCP	
+11.1	তবে	CC	
+	))
+12	((	NP	<ne=NEP>
+12.1	সীজার	NNP	
+	))
+13	((	JJP	
+13.1	নিরুপায়	JJ	
+13.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="144">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	137	QC	
+2.2	-	SYM	
+	))
+3	((	NEGP	
+3.1	না	NEG	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	তা	PRP	
+	))
+5	((	VGF	
+5.1	হয়	VM	
+5.2	না	NEG	
+	))
+6	((	NP	
+6.1	অশুভ	NN	
+	))
+7	((	NP	
+7.1	মহতের	NN	
+7.2	উপর	NST	
+	))
+8	((	VGNF	
+8.1	এসে	VM	
+	))
+9	((	NP	
+9.1	আঘাত	NN	
+	))
+10	((	VGF	
+10.1	হানে	VM	
+10.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="145">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	138	QC	
+	))
+3	((	NP	
+3.1	ভিখারী	NN	
+	))
+4	((	NP	
+4.1	যখন	PRP	
+	))
+5	((	NP	
+5.1	পথ	NN	
+5.2	মাঝে	NST	
+	))
+6	((	JJP	
+6.1	পিষ্ট	JJ	
+	))
+7	((	VGNF	
+7.1	হয়ে	VM	
+	))
+8	((	VGF	
+8.1	মারা	VM	
+8.2	যায়	VAUX	
+	))
+9	((	NP	
+9.1	তখন	PRP	
+	))
+10	((	NP	
+10.1	আকাশে	NN	
+	))
+11	((	NP	
+11.1	ধূমকেতু	NN	
+	))
+12	((	VGF	
+12.1	দেখা	VM	
+12.2	যায়	VAUX	
+12.3	না	NEG	
+12.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="146">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	139	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	NP	
+4.1	ঐ	DEM	
+4.2	ধূমকেতুরই	NN	
+	))
+5	((	NP	
+5.1	বহ্নিমান	JJ	
+5.2	পুচ্ছ	NN	
+	))
+6	((	JJP	
+6.1	উজ্জ্বল	JJ	
+	))
+7	((	VGF	
+7.1	হয়ে	VM	
+7.2	ওঠে	VAUX	
+	))
+8	((	NP	
+8.1	কোন	QF	
+8.2	মহতের	NN	
+	))
+9	((	NP	
+9.1	মৃত্যুতে	NN	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="147">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	140	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	সীজার	NNP	
+	))
+4	((	VGF	
+4.1	বললেন	VM	
+	))
+5	((	NP	<ne=NEP>
+5.1	ক্যালপর্নিয়া	NNP	
+	))
+6	-	SYM	
+7	((	NP	
+7.1	ভীরু	NN	
+	))
+8	((	VGF	
+8.1	মরে	VM	
+	))
+9	((	NP	
+9.1	বার	NN	
+9.2	বার	RDP	
+	))
+10	((	NP	
+10.1	সাহসী	NN	
+	))
+11	((	VGF	
+11.1	মরে	VM	
+	))
+12	((	NP	
+12.1	একবার	NN	
+12.2	,	SYM	
+	))
+13	((	CCP	
+13.1	কিন্তু	CC	
+	))
+14	((	CCP	
+14.1	তবুও	CC	
+	))
+15	((	NP	
+15.1	আমার	PRP	
+	))
+16	((	JJP	
+16.1	আশ্চর্য	JJ	
+	))
+17	((	VGF	
+17.1	লাগে	VM	
+	))
+18	((	NP	
+18.1	কেন	WQ	
+18.2	যেন	RP	
+18.3	-	SYM	
+	))
+19	((	NP	
+19.1	মৃত্যু	NN	
+	))
+20	((	JJP	
+20.1	অবশ্যম্ভাবী	JJ	
+	))
+21	((	VGNF	
+21.1	জেনেও	VM	
+	))
+22	((	NP	
+22.1	আমরা	PRP	
+	))
+23	((	NP	
+23.1	তাকে	PRP	
+	))
+24	((	NP	
+24.1	ভয়	NN	
+	))
+25	((	VGF	
+25.1	করি	VM	
+25.2	,	SYM	
+	))
+26	((	NP	
+26.1	মৃত্যুকে	NN	
+	))
+27	((	NP	
+27.1	সবার	PRP	
+	))
+28	((	NP	
+28.1	ভয়	NN	
+28.2	,	SYM	
+	))
+29	((	CCP	
+29.1	কিন্তু	CC	
+	))
+30	((	NP	
+30.1	সেই	DEM	
+30.2	মৃত্যু	NN	
+	))
+31	((	NP	
+31.1	একদিন	NN	
+	))
+32	((	NP	
+32.1	সবাইকে	PRP	
+	))
+33	((	NP	
+33.1	গ্রাস	NN	
+	))
+34	((	VGF	
+34.1	করবে	VM	
+34.2	,	SYM	
+	))
+35	((	NP	
+35.1	এ	DEM	
+35.2	কথা	NN	
+	))
+36	((	VGNF	
+36.1	জেনেও	VM	
+	))
+37	((	NP	
+37.1	আমরা	PRP	
+	))
+38	((	VGF	
+38.1	মানতে	VM	
+38.2	পারি	VAUX	
+38.3	না	NEG	
+38.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="148">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	141	QC	
+2.2	-	SYM	
+	))
+3	((	NEGP	
+3.1	না	NEG	
+	))
+4	((	NP	
+4.1	ভীরু	XC	
+4.2	কাপুরুষরা	NN	
+	))
+5	((	VGF	
+5.1	মানবে	VM	
+	))
+6	((	NP	
+6.1	পুরোহিতের	NN	
+	))
+7	((	NP	
+7.1	ভবিষ্যত	XC	
+7.2	বাণী	NN	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="149">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	142	QC	
+	))
+3	((	NP	
+3.1	আজ	NN	
+	))
+4	((	CCP	
+4.1	যদি	CC	
+	))
+5	((	JJP	
+5.1	ভীত	JJ	
+	))
+6	((	VGNF	
+6.1	হয়ে	VM	
+	))
+7	((	NP	
+7.1	আমি	PRP	
+	))
+8	((	NP	
+8.1	ঘরে	NN	
+	))
+9	((	NP	
+9.1	স্বেচ্ছাকৃত	JJ	
+9.2	বন্দি	NN	
+	))
+10	((	VGF	
+10.1	হয়ে	VM	
+10.2	থাকি	VAUX	
+	))
+11	((	CCP	
+11.1	তবে	CC	
+	))
+12	((	NP	
+12.1	সেটা	PRP	
+	))
+13	((	VGF	
+13.1	হবে	VM	
+	))
+14	((	NP	
+14.1	আমার	PRP	
+	))
+15	((	NP	
+15.1	মনের	NN	
+	))
+16	((	NP	
+16.1	দুর্বলতা	NN	
+16.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="150">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	143	QC	
+	))
+3	((	NP	
+3.1	আমি	PRP	
+	))
+4	((	VGF	
+4.1	যাবই	VM	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="151">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	144	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ক্যালপর্নিয়ার	NNP	
+	))
+4	((	NP	
+4.1	সুন্দর	JJ	
+4.2	মুখটা	NN	
+4.3	কেমন	RP	
+	))
+5	((	NP	
+5.1	শুষ্ক	JJ	
+5.2	গোলাপের	NN	
+5.3	মত	PSP	
+	))
+6	((	VGF	
+6.1	হয়ে	VM	
+6.2	যায়	VAUX	
+6.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="152">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	145	QC	
+	))
+3	((	JJP	
+3.1	আকুল	JJ	
+	))
+4	((	VGNF	
+4.1	হয়ে	VM	
+	))
+5	((	NP	<ne=NEP>
+5.1	সীজারের	NNP	
+	))
+6	কাছে	NST	
+7	((	NP	
+7.1	প্রার্থনা	NN	
+	))
+8	((	VGF	
+8.1	জানায়	VM	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="153">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	146	QC	
+2.2	-	SYM	
+	))
+3	((	NEGP	
+3.1	না	NEG	
+	))
+4	((	NP	
+4.1	প্রিয়	NN	
+	))
+5	((	NP	
+5.1	আজ	NN	
+	))
+6	((	NP	
+6.1	আপনি	PRP	
+	))
+7	((	VGF	
+7.1	যাবেন	VM	
+7.2	না	NEG	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="154">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	147	QC	
+	))
+3	((	NP	
+3.1	আপনার	PRP	
+	))
+4	((	NP	<ne=NEP>
+4.1	ক্যালপর্নিয়ার	NNP	
+	))
+5	((	NP	
+5.1	একান্ত	JJ	
+5.2	অনুরোধ	NN	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="155">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	148	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	মার্ক	XC	
+3.2	য়্যাণ্টনীকে	NNP	
+	))
+4	((	CCP	
+4.1	বরং	CC	
+	))
+5	((	NP	
+5.1	আপনি	PRP	
+	))
+6	((	NP	
+6.1	আদেশ	NN	
+	))
+7	((	VGF	
+7.1	দিন	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="156">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	149	QC	
+	))
+3	((	NP	<ne=NEO>
+3.1	সীনেট	NN	
+	))
+4	((	VGNF	
+4.1	গিয়ে	VM	
+	))
+5	((	NP	
+5.1	তিনি	PRP	
+	))
+6	((	VGF	
+6.1	জানিয়ে	VM	
+6.2	আসুন	VAUX	
+	))
+7	((	NP	
+7.1	আজ	NN	
+	))
+8	((	NP	
+8.1	আপনি	PRP	
+	))
+9	((	JJP	
+9.1	অসুস্থ	JJ	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="157">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	150	QC	
+	))
+3	((	NP	
+3.1	আপনার	PRP	
+	))
+4	((	NP	
+4.1	পায়ে	NN	
+	))
+5	((	VGF	
+5.1	পড়ছি	VM	
+	))
+6	((	NP	
+6.1	দয়া	NN	
+	))
+7	((	VGNF	
+7.1	করে	VM	
+	))
+8	((	VGF	
+8.1	যাবেন	VM	
+8.2	না	NEG	
+8.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="158">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	151	QC	
+	))
+3	অটল	JJ	
+4	((	NP	<ne=NEP>
+4.1	সীজার	NNP	
+	))
+5	((	CCP	
+5.1	যেন	CC	
+	))
+6	((	RBP	
+6.1	মুহূর্তে	RB	
+	))
+7	((	JJP	
+7.1	চঞ্চল	JJ	
+	))
+8	((	VGF	
+8.1	হয়ে	VM	
+8.2	ওঠে	VAUX	
+8.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="159">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	152	QC	
+	))
+3	((	JJP	
+3.1	স্থির	JJ	
+	))
+4	((	VGF	
+4.1	করেন	VM	
+	))
+5	((	NP	
+5.1	তিনি	PRP	
+	))
+6	((	NP	
+6.1	আজ	NN	
+	))
+7	((	VGF	
+7.1	যাবেন	VM	
+7.2	না	NEG	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="160">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	153	QC	
+	))
+3	((	RBP	
+3.1	ঠিক	RB	
+	))
+4	((	NP	
+4.1	সেই	DEM	
+4.2	মুহূর্তে	NN	
+	))
+5	((	NP	
+5.1	প্রবেশ	NN	
+	))
+6	((	VGF	
+6.1	করলেন	VM	
+	))
+7	((	NP	<ne=NEP>
+7.1	ডিসিয়াস	NNP	
+	))
+8	((	NP	
+8.1	তাঁর	PRP	
+	))
+9	((	NP	
+9.1	উদ্দেশ্য	NN	
+	))
+10	((	RBP	
+10.1	যেমন	PRP	
+10.2	করে	RP	
+	))
+11	((	VGF	
+11.1	হোক	VM	
+	))
+12	((	NP	
+12.1	ছলে	NN	
+	))
+13	((	NP	
+13.1	বলে	NN	
+	))
+14	((	NP	<ne=NEP>
+14.1	সীজারকে	NNP	
+	))
+15	((	NP	
+15.1	আজ	NN	
+	))
+16	((	NP	<ne=NEO>
+16.1	সীনেটে	NN	
+	))
+17	((	VGF	
+17.1	নিয়ে	VM	
+17.2	যেতে	VAUX	
+17.3	হবে	VAUX	
+17.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="161">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	154	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ডিসিয়াসকে	NNP	
+	))
+4	((	VGNF	
+4.1	দেখে	VM	
+	))
+5	((	NP	<ne=NEP>
+5.1	সীজার	NNP	
+	))
+6	((	VGF	
+6.1	বললেন	VM	
+6.2	-	SYM	
+	))
+7	((	NP	
+7.1	ঠিক	JJ	
+7.2	সময়	NN	
+	))
+8	((	VGF	
+8.1	এসেছো	VM	
+	))
+9	((	NP	
+9.1	তুমি	PRP	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="162">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	155	QC	
+	))
+3	((	NP	<ne=NEO>
+3.1	সীনেটে	NN	
+	))
+4	((	NP	
+4.1	আজ	NN	
+	))
+5	((	VGF	
+5.1	জানিয়ে	VM	
+5.2	দাও	VAUX	
+	))
+6	((	NP	<ne=NEP>
+6.1	সীজার	NNP	
+	))
+7	((	VGF	
+7.1	আসছেন	VM	
+7.2	না	NEG	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="163">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	156	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ক্যালপর্নিয়া	NNP	
+	))
+4	((	VGF	
+4.1	বললেন	VM	
+4.2	-	SYM	
+	))
+5	((	VGF	
+5.1	বলবেন	VM	
+	))
+6	((	NP	
+6.1	তিনি	PRP	
+	))
+7	((	NP	
+7.1	আজ	NN	
+	))
+8	((	JJP	
+8.1	অসুস্থ	JJ	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="164">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	157	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	সীজার	NNP	
+	))
+4	((	NP	
+4.1	বাধা	NN	
+	))
+5	((	VGNF	
+5.1	দিয়ে	VM	
+	))
+6	((	VGF	
+6.1	বললেন	VM	
+6.2	-	SYM	
+	))
+7	((	NEGP	
+7.1	না	NEG	
+7.2	,	SYM	
+	))
+8	((	NP	<ne=NEP>
+8.1	সীজার	NNP	
+	))
+9	((	NP	
+9.1	মিথ্যের	NN	
+	))
+10	((	NP	
+10.1	আশ্রয়	NN	
+10.2	নিয়ে	PSP	
+	))
+11	((	NP	
+11.1	নিজের	PRP	
+	))
+12	((	NP	
+12.1	বিজয়	XC	
+12.2	হস্ত	NN	
+	))
+13	((	NP	
+13.1	নিজে	PRP	
+	))
+14	((	JJP	
+14.1	সঙ্কুচিত	JJ	
+	))
+15	((	VGF	
+15.1	করবে	VM	
+15.2	না	NEG	
+15.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="165">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	158	QC	
+	))
+3	((	NP	
+3.1	তুমি	PRP	
+	))
+4	((	RBP	
+4.1	শুধু	RB	
+	))
+5	((	VGNF	
+5.1	গিয়ে	VM	
+	))
+6	((	VGF	
+6.1	বলো	VM	
+	))
+7	((	NP	<ne=NEP>
+7.1	সীজার	NNP	
+	))
+8	((	NP	
+8.1	আজ	NN	
+	))
+9	((	VGF	
+9.1	আসবে	VM	
+9.2	না	NEG	
+9.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="166">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	159	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ডিসিয়াস	NNP	
+	))
+4	((	NP	
+4.1	সরল	JJ	
+4.2	মানুষের	NN	
+4.3	মতো	PSP	
+	))
+5	((	NP	
+5.1	তার	PRP	
+	))
+6	((	NP	
+6.1	কারণ	NN	
+	))
+7	((	VGINF	
+7.1	জানতে	VM	
+	))
+8	((	VGF	
+8.1	চাইলেন	VM	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="167">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	160	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	সীজার	NNP	
+	))
+4	((	JJP	
+4.1	শান্ত	JJ	
+	))
+5	((	CCP	
+5.1	অথচ	CC	
+	))
+6	((	RBP	
+6.1	দৃঢস্বরে	RB	
+	))
+7	((	VGF	
+7.1	বললেন	VM	
+7.2	-	SYM	
+	))
+8	((	CCP	
+8.1	কারণ	CC	
+	))
+9	((	NP	
+9.1	আমার	PRP	
+	))
+10	((	NP	
+10.1	ইচ্ছা	NN	
+10.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="168">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	161	QC	
+	))
+3	((	NP	
+3.1	এর	PRP	
+	))
+4	((	NP	
+4.1	বেশী	QF	
+4.2	কিছু	PRP	
+	))
+5	((	VGF	
+5.1	জানতে	VM	
+5.2	চেও	VAUX	
+5.3	না	NEG	
+5.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="169">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	162	QC	
+	))
+3	((	CCP	
+3.1	তবুও	CC	
+	))
+4	((	NP	
+4.1	তোমাকে	PRP	
+	))
+5	((	VGF	
+5.1	ভালবাসি	VM	
+	))
+6	((	CCP	
+6.1	বলেই	CC	
+	))
+7	((	VGF	
+7.1	বলছি	VM	
+7.2	-	SYM	
+	))
+8	((	NP	
+8.1	আজ	NN	
+	))
+9	((	NP	
+9.1	আমার	PRP	
+	))
+10	((	NP	
+10.1	প্রিয়া	NN	
+	))
+11	((	NP	
+11.1	আমাকে	PRP	
+	))
+12	((	JJP	
+12.1	গৃহবন্দী	JJ	
+	))
+13	((	VGNF	
+13.1	করে	VM	
+	))
+14	((	VGINF	
+14.1	রাখতে	VM	
+	))
+15	((	VGF	
+15.1	চান	VM	
+15.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="170">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	163	QC	
+	))
+3	((	CCP	
+3.1	কেননা	CC	
+	))
+4	((	NP	
+4.1	তিনি	PRP	
+4.2	নাকি	RP	
+	))
+5	((	NP	
+5.1	গতরাত্রে	NN	
+	))
+6	((	NP	
+6.1	এক	QC	
+6.2	দুঃস্বপ্ন	NN	
+	))
+7	((	VGF	
+7.1	দেখেছেন	VM	
+	))
+8	((	NP	
+8.1	আমার	PRP	
+	))
+9	((	NP	
+9.1	মূর্তির	NN	
+	))
+10	((	NP	
+10.1	গাত্র	NN	
+10.2	হতে	PSP	
+	))
+11	((	NP	
+11.1	ফোয়ারার	NN	
+11.2	মতো	PSP	
+	))
+12	((	NP	
+12.1	রুধির	NN	
+	))
+13	((	JJP	
+13.1	নির্গত	JJ	
+	))
+14	((	VGF	
+14.1	হচ্ছে	VM	
+14.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="171">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	164	QC	
+	))
+3	((	CCP	
+3.1	আর	CC	
+	))
+4	((	NP	
+4.1	তারই	PRP	
+	))
+5	((	NP	
+5.1	সৌন্দর্য্যে	NN	
+	))
+6	((	NP	<ne=NEL>
+6.1	রোমের	NNP	
+	))
+7	((	NP	
+7.1	জনগণ	NN	
+	))
+8	((	NP	
+8.1	উল্লাস	NN	
+	))
+9	((	NP	
+9.1	আনন্দে	NN	
+	))
+10	((	JJP	
+10.1	উচ্ছল	JJ	
+	))
+11	((	VGNF	
+11.1	হয়ে	VM	
+	))
+12	((	NP	
+12.1	সেই	DEM	
+12.2	রুধির	XC	
+12.3	ধারায়	NN	
+	))
+13	((	NP	
+13.1	নিজেরা	PRP	
+	))
+14	((	JJP	
+14.1	সিক্ত	JJ	
+	))
+15	((	VGF	
+15.1	হচ্ছেন	VM	
+15.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="172">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	165	QC	
+	))
+3	((	CCP	
+3.1	সেইজন্য	CC	
+	))
+4	((	NP	<ne=NEP>
+4.1	ক্যালপর্নিয়ার	NNP	
+	))
+5	((	NP	
+5.1	অনুরোধ	NN	
+	))
+6	((	NP	
+6.1	আজ	NN	
+6.2	যেন	RP	
+	))
+7	((	NP	
+7.1	আমি	PRP	
+	))
+8	((	NP	<ne=NEO>
+8.1	সীনেটে	NN	
+	))
+9	((	VGF	
+9.1	না	NEG	
+9.2	যাই	VM	
+9.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="173">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	166	QC	
+	))
+3	((	NP	
+3.1	/	SYM	
+3.2	/	SYM	
+3.3	-	SYM	
+3.4	ধন্যবাদ	NN	
+	))
+4	((	NP	
+4.1	বন্ধু	NN	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="174">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	167	QC	
+	))
+3	((	RBP	
+3.1	আপাতত	RB	
+	))
+4	((	NP	
+4.1	আমি	PRP	
+	))
+5	((	NP	
+5.1	কি	WQ	
+	))
+6	((	NP	<ne=NEP>
+6.1	সীজারকে	NNP	
+	))
+7	((	NP	
+7.1	বণিক	XC	
+7.2	চত্বের	NN	
+	))
+8	((	NP	
+8.1	জন	NN	
+8.2	সমীপে	NST	
+	))
+9	((	VGF	
+9.1	নিয়ে	VM	
+9.2	যেতে	VAUX	
+9.3	পারি	VAUX	
+9.4	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="175">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	168	QC	
+	))
+3	((	NP	
+3.1	আমি	PRP	
+	))
+4	((	NP	
+4.1	তার	PRP	
+	))
+5	((	NP	
+5.1	মৃতদেহ	NN	
+	))
+6	((	VGNF	
+6.1	নিয়ে	VM	
+	))
+7	((	NP	
+7.1	অন্ত্যেষ্টিভাষণ	NN	
+	))
+8	((	VGINF	
+8.1	দিতে	VM	
+	))
+9	((	VGF	
+9.1	চাই	VM	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="176">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	169	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুটাস	NNP	
+	))
+4	((	NP	<ne=NEP>
+4.1	য়্যাণ্টনীর	NNP	
+	))
+5	((	NP	
+5.1	আবেদন	NN	
+	))
+6	((	NP	
+6.1	মঞ্জুর	NN	
+	))
+7	((	VGF	
+7.1	করলেন	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="177">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	170	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ক্যাসিয়াস	NNP	
+	))
+4	((	CCP	
+4.1	কিন্তু	CC	
+	))
+5	((	RBP	
+5.1	অলক্ষ্যে	RB	
+	))
+6	((	NP	
+6.1	বাধা	NN	
+	))
+7	((	VGF	
+7.1	দিলেন	VM	
+7.2	-	SYM	
+	))
+8	((	NP	<ne=NEP>
+8.1	ব্রুটাস	NNP	
+	))
+9	((	NP	
+9.1	তুমি	PRP	
+	))
+10	((	NP	
+10.1	কি	WQ	
+	))
+11	((	VGF	
+11.1	করছো	VM	
+	))
+12	((	VGF	
+12.1	বুঝতে	VM	
+12.2	পারছি	VAUX	
+12.3	না	NEG	
+12.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="178">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	171	QC	
+	))
+3	((	NP	
+3.1	ওর	PRP	
+	))
+4	((	NP	
+4.1	কথায়	NN	
+	))
+5	((	CCP	
+5.1	যদি	CC	
+	))
+6	((	NP	
+6.1	জনগণ	NN	
+	))
+7	((	JJP	
+7.1	ক্ষিপ্ত	JJ	
+	))
+8	((	VGF	
+8.1	হয়ে	VM	
+8.2	ওঠে	VAUX	
+8.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="179">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	172	QC	
+2.2	-	SYM	
+	))
+3	((	NP	
+3.1	সেটা	PRP	
+	))
+4	((	VGNN	
+4.1	সামলাবার	VM	
+	))
+5	((	NP	
+5.1	ভার	NN	
+	))
+6	((	NP	
+6.1	আমার	PRP	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="180">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	173	QC	
+	))
+3	((	CCP	
+3.1	কেননা	CC	
+	))
+4	((	NP	<ne=NEP>
+4.1	সীজারের	NNP	
+	))
+5	((	NP	
+5.1	অন্ত্যেষ্টিভাষণ	NN	
+	))
+6	((	NP	
+6.1	আমি	PRP	
+	))
+7	((	RBP	
+7.1	সর্বাগ্রে	RB:?	
+	))
+8	((	VGF	
+8.1	দেবো	VM	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="181">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	174	QC	
+2.2	-	SYM	
+	))
+3	((	VGF	
+3.1	জানিনা	VM	
+	))
+4	((	NP	
+4.1	কি	WQ	
+	))
+5	((	VGF	
+5.1	হবে	VM	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="182">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	175	QC	
+	))
+3	((	NP	
+3.1	আমার	PRP	
+	))
+4	((	CCP	
+4.1	কিন্তু	CC	
+	))
+5	((	NP	
+5.1	সন্দেহ	NN	
+	))
+6	((	VGF	
+6.1	হচ্ছে	VM	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="183">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	176	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ক্যাসিয়াসের	NNP	
+	))
+4	মত	PSP	
+5	((	JJP	
+5.1	কূট	JJ	
+	))
+6	((	VGF	
+6.1	নন	VM	
+	))
+7	((	NP	<ne=NEP>
+7.1	ব্রুটাস	NNP	
+	))
+8	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="184">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	177	QC	
+	))
+3	((	NP	
+3.1	তিনি	PRP	
+	))
+4	((	JJP	
+4.1	বিজ্ঞ	JJ	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="185">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	178	QC	
+	))
+3	((	CCP	
+3.1	তাই	CC	
+	))
+4	((	NP	
+4.1	তিনি	PRP	
+	))
+5	((	VGF	
+5.1	বললেন	VM	
+5.2	-	SYM	
+	))
+6	মহান	JJ	
+7	((	NP	<ne=NEP>
+7.1	য়্যাণ্টনী	NNP	
+	))
+8	((	NP	
+8.1	আপনি	PRP	
+	))
+9	((	NP	<ne=NEP>
+9.1	সীজারের	NNP	
+	))
+10	((	NP	
+10.1	শবদেহ	NN	
+	))
+11	((	VGNF	
+11.1	নিয়ে	VM	
+11.2	গিয়ে	VAUX	
+	))
+12	((	NP	<ne=NEP>
+12.1	সীজারের	NNP	
+	))
+13	সম্পর্কে	PSP	
+14	((	JJP	
+14.1	মুখর	JJ	
+	))
+15	((	VGF	
+15.1	হয়ে	VM	
+15.2	উঠুন	VAUX	
+	))
+16	((	NP	
+16.1	তাতে	PRP	
+	))
+17	((	NP	
+17.1	আপত্তি	NN	
+	))
+18	((	VGF	
+18.1	নেই	VM	
+18.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="186">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	179	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	NP	
+4.1	দয়া	NN	
+	))
+5	((	VGNF	
+5.1	করে	VM	
+	))
+6	((	NP	
+6.1	আমাদের	PRP	
+	))
+7	((	JJP	
+7.1	দোষী	JJ	
+	))
+8	((	VGF	
+8.1	করবেন	VM	
+8.2	না	NEG	
+8.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="187">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	180	QC	
+2.2	-	SYM	
+	))
+3	((	JJP	
+3.1	মহানুভব	JJ	
+	))
+4	((	NP	
+4.1	আপনি	PRP	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="188">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	181	QC	
+	))
+3	((	NP	
+3.1	আপনি	PRP	
+	))
+4	((	JJP	
+4.1	নিশ্চিত	JJ	
+	))
+5	((	VGF	
+5.1	থাকতে	VM	
+5.2	পারেন	VAUX	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="189">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	182	QC	
+	))
+3	((	NP	
+3.1	একে	PRP	
+3.2	একে	RDP	
+	))
+4	((	NP	
+4.1	সকলেই	PRP	
+	))
+5	((	NP	
+5.1	সভাগৃহ	NN	
+	))
+6	((	NP	
+6.1	ত্যাগ	NN	
+	))
+7	((	VGF	
+7.1	করলেন	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="190">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	183	QC	
+	))
+3	((	NP	
+3.1	তখন	PRP	
+	))
+4	((	VGNF	
+4.1	এসে	VM	
+	))
+5	((	NP	<ne=NEP>
+5.1	য়্যাণ্টনী	NNP	
+	))
+6	((	RBP	
+6.1	ধীরে	RB	
+6.2	ধীরে	RDP	
+	))
+7	((	NP	<ne=NEP>
+7.1	সীজারের	NNP	
+	))
+8	পাশে	NST	
+9	((	NP	
+9.1	নতজানু	NN	
+	))
+10	((	VGNF	
+10.1	হয়ে	VM	
+	))
+11	((	VGF	
+11.1	বসলেন	VM	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="191">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	184	QC	
+	))
+3	((	NP	
+3.1	আবেগরুদ্ধ	JJ	
+3.2	কণ্ঠে	NN	
+	))
+4	((	VGF	
+4.1	বললেন	VM	
+4.2	-	SYM	
+	))
+5	((	NP	
+5.1	আমায়	PRP	
+	))
+6	((	NP	
+6.1	ক্ষমা	NN	
+	))
+7	((	VGF	
+7.1	করো	VM	
+	))
+8	((	NP	
+8.1	বন্ধু	NN	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="192">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	185	QC	
+	))
+3	((	NP	
+3.1	যে	DEM	
+3.2	জহ্লাদরা	NN	
+	))
+4	((	NP	
+4.1	তোমাকে	PRP	
+	))
+5	((	NP	
+5.1	হত্যা	NN	
+	))
+6	((	VGF	
+6.1	করলো	VM	
+6.2	,	SYM	
+	))
+7	((	NP	
+7.1	আজ	NN	
+	))
+8	((	NP	
+8.1	তাদেরই	PRP	
+8.2	সাথে	PSP	
+	))
+9	((	NP	
+9.1	আমায়	PRP	
+	))
+10	((	NP	
+10.1	মিত্রতা	NN	
+	))
+11	((	VGF	
+11.1	করতে	VM	
+11.2	হলো	VAUX	
+11.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="193">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	186	QC	
+	))
+3	((	NP	
+3.1	তুমি	PRP	
+	))
+4	((	JJP	
+4.1	মহান	JJ	
+	))
+5	((	NP	
+5.1	তুমি	PRP	
+	))
+6	((	JJP	
+6.1	বীর	JJ	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="194">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	187	QC	
+	))
+3	((	NP	
+3.1	তোমাকে	PRP	
+	))
+4	((	NP	
+4.1	যারা	PRP	
+	))
+5	((	NP	
+5.1	আঘাত	NN	
+	))
+6	((	VGF	
+6.1	করছে	VM	
+	))
+7	((	NP	
+7.1	তাদের	PRP	
+	))
+8	((	NP	
+8.1	আমি	PRP	
+	))
+9	((	VGF	
+9.1	চিনি	VM	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="195">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	188	QC	
+	))
+3	((	NP	
+3.1	তোমারই	PRP	
+	))
+4	((	NP	
+4.1	রক্তাক্ত	JJ	
+4.2	ক্ষতমুখ	NN	
+	))
+5	((	NP	
+5.1	তাদের	PRP	
+	))
+6	((	NP	
+6.1	রক্তাক্ত	JJ	
+6.2	ওষ্ঠ	NN	
+	))
+7	((	VGNF	
+7.1	খুলে	VM	
+	))
+8	((	NP	
+8.1	নিঃশব্দ	JJ	
+8.2	আবেদন	NN	
+	))
+9	((	VGF	
+9.1	করছে	VM	
+9.2	...	SYM	
+	))
+10	((	NP	
+10.1	সেই	DEM	
+10.2	নিঃশব্দের	NN	
+	))
+11	((	NP	
+11.1	জোয়ারে	NN	
+	))
+12	((	NP	
+12.1	আমি	PRP	
+	))
+13	((	VGNN	
+13.1	গর্জে	VM	
+13.2	ওঠার	VAUX	
+	))
+14	((	NP	
+14.1	ভাষার	NN	
+	))
+15	((	NP	
+15.1	বাণ	NN	
+	))
+16	((	VGF	
+16.1	আনবো	VM	
+16.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="196">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	189	QC	
+	))
+3	((	NP	
+3.1	তোমাকে	PRP	
+	))
+4	((	NP	
+4.1	স্পর্শ	NN	
+	))
+5	((	VGNF	
+5.1	করে	VM	
+	))
+6	((	VGF	
+6.1	বলছি	VM	
+6.2	-	SYM	
+	))
+7	((	NP	<ne=NEP>
+7.1	সীজারের	NNP	
+	))
+8	((	NP	
+8.1	মৃত্যু	NN	
+	))
+9	((	NP	
+9.1	বহন	NN	
+	))
+10	((	VGF	
+10.1	করে	VM	
+10.2	আনবে	VAUX	
+	))
+11	((	NP	
+11.1	পৃথিবীর	NN	
+	))
+12	((	NP	
+12.1	মানুষের	NN	
+	))
+13	((	NP	
+13.1	অভিশাপ	NN	
+13.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="197">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	190	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	ইতালী	NNP	
+	))
+4	((	JJP	
+4.1	সাবধান	JJ	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="198">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	191	QC	
+	))
+3	((	NP	
+3.1	সর্বনাশ	NN	
+	))
+4	((	NP	
+4.1	গৃহযুদ্ধ	NN	
+	))
+5	((	RBP	
+5.1	অচিরেই	RB	
+	))
+6	((	NP	
+6.1	সুরু	NN	
+	))
+7	((	VGF	
+7.1	হচ্ছে	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="199">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	192	QC	
+	))
+3	((	NP	
+3.1	মানুষ	NN	
+	))
+4	((	VGF	
+4.1	ভুলে	VM	
+4.2	যাবে	VAUX	
+	))
+5	((	NP	
+5.1	দয়া	NN	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	মায়া	NN	
+	))
+7	((	NP	
+7.1	স্নেহ	NN	
+	))
+8	((	NP	
+8.1	ভালবাসা	NN	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="200">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	193	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	সীজারের	NNP	
+	))
+4	((	NP	
+4.1	আত্মা	NN	
+	))
+5	((	NP	
+5.1	ধ্বংসের	NN	
+	))
+6	((	NP	
+6.1	সম্রাজ্ঞীকে	NN	
+	))
+7	((	NP	
+7.1	সাথী	NN	
+	))
+8	((	VGNF	
+8.1	করে	VM	
+	))
+9	((	NP	
+9.1	আক্রমণ	NN	
+	))
+10	((	VGF	
+10.1	করবে	VM	
+	))
+11	((	NP	<ne=NEL>
+11.1	ইতালীকে	NNP	
+	))
+12	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="201">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	194	QC	
+	))
+3	((	NP	
+3.1	আগুন	NN	
+3.2	...	SYM	
+	))
+4	((	NP	
+4.1	আগুন	NN	
+	))
+5	((	VGF	
+5.1	জ্বলবে	VM	
+5.2	...	SYM	
+	))
+6	((	NP	
+6.1	সবকিছু	PRP	
+	))
+7	((	VGNF	
+7.1	পুড়ে	VM	
+	))
+8	((	NP	
+8.1	ছাই	NN	
+	))
+9	((	VGF	
+9.1	হয়ে	VM	
+9.2	যাবে	VAUX	
+9.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="202">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	195	QC	
+	))
+3	((	NP	
+3.1	প্রতিশোধ	NN	
+	))
+4	((	NP	
+4.1	সে	PRP	
+	))
+5	((	VGF	
+5.1	নেবেই	VM	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="203">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	196	QC	
+	))
+3	((	NP	
+3.1	রক্তের	NN	
+	))
+4	((	NP	
+4.1	প্রতিশোধ	NN	
+	))
+5	((	NP	
+5.1	রক্ত	NN	
+5.2	দিয়েই	PSP	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="204">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	197	QC	
+	))
+3	((	NP	
+3.1	এমন	DEM	
+3.2	সময়	NN	
+	))
+4	((	NP	
+4.1	এক	QC	
+4.2	অনুচর	NN	
+	))
+5	((	VGNF	
+5.1	এসে	VM	
+	))
+6	((	VGF	
+6.1	জানায়	VM	
+6.2	,	SYM	
+	))
+7	((	NP	<ne=NEP>
+7.1	সীজারের	NNP	
+	))
+8	((	NP	
+8.1	ভাগিনেয়	NN	
+	))
+9	((	NP	<ne=NEP>
+9.1	আইভিয়াস	NNP	
+	))
+10	((	VGF	
+10.1	আসছেন	VM	
+	))
+11	((	NP	<ne=NEL>
+11.1	রোমে	NNP	
+	))
+12	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="205">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	198	QC	
+	))
+3	((	NP	
+3.1	পরক্ষণেই	NN	
+	))
+4	((	NP	<ne=NEP>
+4.1	সীজারের	NNP	
+	))
+5	((	NP	
+5.1	মৃতদেহর	NN	
+5.2	দিকে	NST	
+	))
+6	((	VGNF	
+6.1	তাকিয়ে	VM	
+	))
+7	((	NP	
+7.1	অনুচর	NN	
+	))
+8	((	VGF	
+8.1	কেঁদে	VM	
+8.2	উঠলো	VAUX	
+8.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="206">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	199	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	য়্যাণ্টনী	NNP	
+	))
+4	((	NP	
+4.1	তাকে	PRP	
+	))
+5	((	NP	
+5.1	সান্ত্বনা	NN	
+5.2	দিয়ে	PSP	
+	))
+6	((	VGF	
+6.1	বললেন	VM	
+6.2	-	SYM	
+	))
+7	((	VGF	
+7.1	কেঁদো	VM	
+7.2	না	NEG	
+	))
+8	((	NP	
+8.1	বন্ধু	NN	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="207">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	200	QC	
+	))
+3	((	NP	
+3.1	এ	PRP	
+	))
+4	((	NP	
+4.1	বড়	INTF	
+4.2	সংক্রামক	JJ	
+4.3	রোগ	NN	
+4.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="208">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	201	QC	
+	))
+3	((	RBP	
+3.1	আপাততঃ	RB	
+	))
+4	((	VGF	
+4.1	এসো	VM	
+	))
+5	((	NP	
+5.1	আমরা	PRP	
+	))
+6	((	NP	<ne=NEP>
+6.1	সীজারের	NNP	
+	))
+7	((	NP	
+7.1	মৃতদেহ	NN	
+	))
+8	((	NP	
+8.1	ধরাধরি	NN	
+	))
+9	((	VGNF	
+9.1	করে	VM	
+	))
+10	((	VGF	
+10.1	নিয়ে	VM	
+10.2	যাই	VAUX	
+10.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="209">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	202	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	সীজারের	NNP	
+	))
+4	((	NP	
+4.1	মৃতদেহসহ	NN	
+	))
+5	((	NP	
+5.1	ওরাও	PRP	
+	))
+6	((	VGF	
+6.1	চলে	VM	
+6.2	গেল	VAUX	
+6.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="210">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	203	QC	
+	))
+3	((	NP	
+3.1	সভাগৃহ	NN	
+	))
+4	((	NP	
+4.1	এখন	PRP	
+	))
+5	((	JJP	
+5.1	সম্পূর্ণ	INTF	
+5.2	নির্জন	JJ	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="211">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	204	QC	
+	))
+3	((	NEGP	
+3.1	না	NEG	
+	))
+4	((	NP	
+4.1	তাই	PRP	
+4.2	বা	RP:?	
+	))
+5	((	NP	
+5.1	কেন	WQ	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="212">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	205	QC	
+	))
+3	((	NP	
+3.1	সাক্ষী	NN	
+	))
+4	((	VGF	
+4.1	রয়েছে	VM	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="213">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	206	QC	
+	))
+3	((	NP	
+3.1	তার	PRP	
+	))
+4	((	NP	
+4.1	মর্মর	JJ	
+4.2	মূর্তি	NN	
+	))
+5	((	RBP	
+5.1	উঁচু	JJ	
+5.2	করে	RP	
+	))
+6	((	VGF	
+6.1	দাঁড়িয়ে	VM	
+6.2	আছে	VAUX	
+	))
+7	((	NP	
+7.1	সভাগৃহে	NN	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="214">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	207	QC	
+	))
+3	((	BLK	
+3.1	আচ্ছা	INJ	
+	))
+4	((	NP	
+4.1	ইতিহাস	NN	
+	))
+5	((	NP	
+5.1	একটা	QC	
+5.2	প্রশ্ন	NN	
+	))
+6	((	VGF	
+6.1	করবো	VM	
+6.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="215">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	208	QC	
+	))
+3	((	VGF	
+3.1	বলতে	VM	
+3.2	পারো	VAUX	
+	))
+4	((	NP	
+4.1	শত্রুর	NN	
+	))
+5	((	NP	
+5.1	এই	DEM	
+5.2	শোচনীর	JJ	
+5.3	পরিণামে	NN	
+	))
+6	((	NP	<ne=NEL>
+6.1	পম্পী	NNP	
+	))
+7	কি	RP	
+8	((	JJP	
+8.1	তৃপ্ত	JJ	
+	))
+9	((	VGF	
+9.1	হননি	VM	
+9.2	...	SYM	
+9.3	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="216">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	209	QC	
+	))
+3	((	NP	
+3.1	দ্বিতীয়	QO	
+3.2	পরিচ্ছেদ	NN	
+	))
+4	((	NP	<ne=NEL>
+4.1	রোমের	NNP	
+	))
+5	((	NP	
+5.1	সেই	DEM	
+5.2	প্রসিদ্ধ	JJ	
+5.3	বাজার	NN	
+5.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="217">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	210	QC	
+	))
+3	((	NP	
+3.1	যেখানে	PRP	
+	))
+4	((	NP	
+4.1	প্রকাশ্য	JJ	
+4.2	সমাবেশ	NN	
+	))
+5	((	VGF	
+5.1	হয়	VM	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="218">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	211	QC	
+	))
+3	((	NP	
+3.1	দোষীর	NN	
+	))
+4	((	NP	
+4.1	বিচার	NN	
+	))
+5	((	VGF	
+5.1	হয়	VM	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="219">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	212	QC	
+	))
+3	((	NP	
+3.1	সে	PRP	
+	))
+4	((	NP	
+4.1	সাজা	NN	
+	))
+5	((	VGF	
+5.1	পায়	VM	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="220">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	213	QC	
+	))
+3	((	VGF	
+3.1	হয়	VM	
+	))
+4	((	NP	
+4.1	ব্যবসা	XC	
+4.2	বাণিজ্য	NN	
+4.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="221">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	214	QC	
+	))
+3	((	NP	
+3.1	পৃথিবীর	NN	
+	))
+4	((	NP	
+4.1	প্রতি	JJ	
+4.2	প্রান্তর	NN	
+4.3	থেকে	PSP	
+	))
+5	((	VGF	
+5.1	ছুটে	VM	
+5.2	আসে	VAUX	
+	))
+6	((	NP	
+6.1	বণিকেরা	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="222">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	215	QC	
+	))
+3	সুদূর	JJ	
+4	((	NP	<ne=NEL>
+4.1	চীন	NNP	
+	))
+5	থেকে	PSP	
+6	((	VGF	
+6.1	আসে	VM	
+	))
+7	((	NP	
+7.1	চীনা	XC	
+7.2	মাটির	NN	
+	))
+8	((	NP	
+8.1	পাত্র	NN	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="223">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	216	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	বঙ্গদেশ	NNP	
+	))
+4	থেকে	PSP	
+5	((	NP	
+5.1	মসলিন	NN	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="224">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	217	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	যবদ্বীপ	NNP	
+	))
+4	থেকে	PSP	
+5	((	VGF	
+5.1	আসে	VM	
+	))
+6	((	NP	
+6.1	সুগন্ধী	JJ	
+6.2	মসলা	NN	
+6.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="225">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	218	QC	
+	))
+3	((	RBP	
+3.1	শুধু	RB	
+3.2	কি	RP	
+	))
+4	((	NP	
+4.1	তাই	PRP	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="226">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	219	QC	
+	))
+3	((	VGF	
+3.1	আসে	VM	
+	))
+4	((	NP	
+4.1	দেশ	XC	
+4.2	বিদেশের	NN	
+	))
+5	((	NP	
+5.1	গুপ্তচর	NN	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="227">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	220	QC	
+	))
+3	((	NP	
+3.1	গুপ্ত	JJ	
+3.2	কথাও	NN	
+	))
+4	((	NP	
+4.1	এখানে	PRP	
+	))
+5	((	NP	
+5.1	ফেরি	NN	
+	))
+6	((	VGF	
+6.1	হয়	VM	
+	))
+7	((	NP	
+7.1	তখন	PRP	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="228">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	221	QC	
+	))
+3	((	NP	
+3.1	বাজার	NN	
+	))
+4	((	VGF	
+4.1	হয়	VM	
+	))
+5	((	NP	
+5.1	লোকে	NN	
+	))
+6	((	JJP	
+6.1	লোকারণ্য	JJ	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="229">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	222	QC	
+	))
+3	((	NP	
+3.1	একটুকরো	QC	
+3.2	রুটি	NN	
+	))
+4	((	NP	
+4.1	আর	CC	
+	))
+5	((	NP	
+5.1	একমুঠো	QC	
+5.2	আনন্দের	NN	
+	))
+6	((	NP	
+6.1	উপকরণ	NN	
+	))
+7	((	NP	
+7.1	এই	PRP	
+	))
+8	((	VGNF	
+8.1	পেলেই	VM	
+	))
+9	((	NP	
+9.1	তারা	PRP	
+	))
+10	((	JJP	
+10.1	খুশি	JJ	
+10.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="230">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	223	QC	
+	))
+3	((	NP	
+3.1	আজও	NN	
+	))
+4	((	NP	
+4.1	জমায়েত	NN	
+	))
+5	((	VGF	
+5.1	হয়েছে	VM	
+	))
+6	((	NP	
+6.1	জনতা	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="231">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	224	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	NP	
+4.1	আজ	NN	
+	))
+5	((	NP	
+5.1	তাদের	PRP	
+5.2	-	SYM	
+	))
+6	((	NP	
+6.1	কোনও	QF	
+6.2	উল্লাস	NN	
+	))
+7	((	VGF	
+7.1	নেই	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="232">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	225	QC	
+	))
+3	((	VGF	
+3.1	আছে	VM	
+	))
+4	((	RBP	
+4.1	শুধু	RB	
+	))
+5	((	NP	
+5.1	ঘনীভূত	JJ	
+5.2	শোক	NN	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="233">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	226	QC	
+	))
+3	মহামান্য	JJ	
+4	((	NP	<ne=NEP>
+4.1	সীজার	NNP	
+	))
+5	((	RBP	
+5.1	আর	RB	
+	))
+6	((	NP	
+6.1	ইহজগতে	NN	
+	))
+7	((	VGF	
+7.1	নেই	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="234">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	227	QC	
+	))
+3	((	NP	
+3.1	তার	PRP	
+	))
+4	((	NP	
+4.1	স্থান	NN	
+	))
+5	((	NP	
+5.1	আজ	NN	
+	))
+6	((	NP	
+6.1	পূরণ	NN	
+	))
+7	((	VGF	
+7.1	করবেন	VM	
+	))
+8	((	NP	<ne=NEP>
+8.1	ব্রুটাস	NNP	
+	))
+9	((	CCP	
+9.1	ও	CC	
+	))
+10	((	NP	
+10.1	তাঁর	PRP	
+	))
+11	((	NP	
+11.1	সাথীরা	NN	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="235">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	228	QC	
+	))
+3	((	NP	
+3.1	তাঁরা	PRP	
+	))
+4	((	VGF	
+4.1	জানিয়েছেন	VM	
+4.2	,	SYM	
+4.3	-	SYM	
+	))
+5	((	NP	<ne=NEL>
+5.1	রোমের	NNP	
+	))
+6	((	NP	<ne=NETE>
+6.1	একনায়কতন্ত্রের	NN	
+	))
+7	((	NP	
+7.1	অবসান	NN	
+	))
+8	((	VGF	
+8.1	হলো	VM	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="236">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	229	QC	
+	))
+3	((	NP	
+3.1	এবার	NN	
+	))
+4	((	JJP	
+4.1	প্রতিষ্ঠিত	JJ	
+	))
+5	((	VGF	
+5.1	হবে	VM	
+	))
+6	((	NP	<ne=NETE>
+6.1	গণতন্ত্র	NN	
+	))
+7	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="237">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	230	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	রোমের	NNP	
+	))
+4	((	NP	
+4.1	জনতা	NN	
+	))
+5	((	RBP	
+5.1	শুধু	RB	
+	))
+6	((	NP	
+6.1	এই	DEM	
+6.2	কথাই	NN	
+	))
+7	((	VGF	
+7.1	জানেন	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="238">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	231	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	NP	
+4.1	এর	PRP	
+4.2	পিছনে	NST	
+4.3	যে	RP	
+	))
+5	((	NP	
+5.1	একটা	QC	
+5.2	বিরাট	JJ	
+5.3	ষড়যন্ত্র	NN	
+	))
+6	((	VGF	
+6.1	আছে	VM	
+	))
+7	((	NP	
+7.1	তা	PRP	
+	))
+8	((	NP	
+8.1	তাদের	PRP	
+	))
+9	((	JJP	
+9.1	অজ্ঞাত	JJ	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="239">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	232	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুটাস	NNP	
+	))
+4	((	CCP	
+4.1	তাই	CC	
+	))
+5	((	NP	
+5.1	ঘোষণা	NN	
+	))
+6	((	VGF	
+6.1	করেছেন	VM	
+	))
+7	((	NP	
+7.1	অন্ত্যেষ্টিক্রিয়ার	NN	
+	))
+8	((	NP	
+8.1	দিনে	NN	
+	))
+9	((	NP	
+9.1	তিনি	PRP	
+	))
+10	((	NP	
+10.1	নিজে	PRP	
+	))
+11	((	VGF	
+11.1	জানাবেন	VM	
+	))
+12	((	NP	
+12.1	সীজার-হত্যাব়	NN	
+	))
+13	((	NP	
+13.1	কারণ	NN	
+13.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="240">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	233	QC	
+	))
+3	((	NP	
+3.1	জনতার	NN	
+	))
+4	((	NP	
+4.1	সমারোহ	NN	
+	))
+5	((	CCP	
+5.1	তাই	CC	
+	))
+6	((	NP	
+6.1	বাজার	XC	
+6.2	চত্বরে	NN	
+6.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="241">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	234	QC	
+	))
+3	((	NP	
+3.1	জনতা	NN	
+	))
+4	((	NP	
+4.1	চীত্কার	NN	
+	))
+5	((	VGF	
+5.1	করে	VM	
+5.2	-	SYM	
+	))
+6	((	NP	
+6.1	সীজার	XC	
+6.2	হত্যার	NN	
+	))
+7	((	NP	
+7.1	আমরা	PRP	
+	))
+8	((	NP	
+8.1	কারণ	NN	
+	))
+9	((	VGF	
+9.1	জানতে	VM	
+9.2	চাই	VAUX	
+9.3	...	SYM	
+	))
+10	((	NP	<ne=NEP>
+10.1	ব্রুটাস	NNP	
+	))
+11	((	VGF	
+11.1	এগিয়ে	VM	
+11.2	গেলেন	VAUX	
+11.3	,	SYM	
+	))
+12	((	NP	
+12.1	জনতার	NN	
+12.2	উদ্দেশ্যে	PSP	
+	))
+13	((	VGF	
+13.1	বললেন	VM	
+13.2	-	SYM	
+	))
+14	((	NP	
+14.1	প্রিয়	JJ	
+14.2	রোম-বাসী	NN	
+	))
+15	((	NP	
+15.1	যারা	PRP	
+	))
+16	((	NP	
+16.1	আমার	PRP	
+	))
+17	((	NP	
+17.1	কথা	NN	
+	))
+18	((	VGF	
+18.1	শুনতে	VM	
+18.2	চাও	VAUX	
+	))
+19	((	NP	
+19.1	তারা	PRP	
+	))
+20	((	NP	
+20.1	এখানে	PRP	
+	))
+21	((	VGF	
+21.1	থাকো	VM	
+21.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="242">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	235	QC	
+	))
+3	((	NP	
+3.1	যারা	PRP	
+	))
+4	((	NP	<ne=NEP>
+4.1	ক্যাসিয়াসের	NNP	
+	))
+5	((	NP	
+5.1	কথা	NN	
+	))
+6	((	VGF	
+6.1	শুনতে	VM	
+6.2	চাও	VAUX	
+	))
+7	((	NP	
+7.1	তারা	PRP	
+	))
+8	((	NP	
+8.1	তার	PRP	
+8.2	দিকে	NST	
+	))
+9	((	VGF	
+9.1	চলে	VM	
+9.2	যাও	VAUX	
+9.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="243">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	236	QC	
+	))
+3	((	NP	
+3.1	আমরা	PRP	
+	))
+4	((	NP	
+4.1	তোমাদের	PRP	
+	))
+5	((	NP	
+5.1	সীজার	XC	
+5.2	হত্যার	NN	
+	))
+6	((	NP	
+6.1	কারণ	NN	
+	))
+7	((	VGF	
+7.1	জানাবো	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="244">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	237	QC	
+	))
+3	((	NP	
+3.1	জনতা	NN	
+3.2	যেন	RP	
+	))
+4	((	VGF	
+4.1	দুলে	VM	
+4.2	ওঠে	VAUX	
+4.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="245">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	238	QC	
+	))
+3	((	NP	
+3.1	কোনদিকে	NN	
+	))
+4	((	VGF	
+4.1	যাবে	VM	
+	))
+5	((	NP	
+5.1	তারা	PRP	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="246">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	239	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ক্যাসিয়াস	NNP	
+	))
+4	((	CCP	
+4.1	না	CC	
+	))
+5	((	NP	<ne=NEP>
+5.1	ব্রুটাস	NNP	
+	))
+6	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="247">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	240	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুটাস	NNP	
+	))
+4	((	CCP	
+4.1	না	CC	
+	))
+5	((	NP	<ne=NEP>
+5.1	ক্যাসিয়াস	NNP	
+	))
+6	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="248">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	241	QC	
+	))
+3	((	VGNF	
+3.1	দেখতে	VM	
+3.2	দেখতে	RDP	
+	))
+4	((	NP	
+4.1	দুটো	QC	
+4.2	ভাগ	NN	
+	))
+5	((	VGF	
+5.1	হয়ে	VM	
+5.2	গেল	VAUX	
+	))
+6	((	NP	
+6.1	জনতার	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="249">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	242	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুটাস	NNP	
+	))
+4	((	NP	
+4.1	এবার	NN	
+	))
+5	((	NP	
+5.1	বাজারের	NN	
+	))
+6	((	NP	
+6.1	সুউচ্চ	JJ	
+6.2	মঞ্চে	NN	
+	))
+7	((	VGF	
+7.1	উঠে	VM	
+7.2	দাঁড়ালেন	VAUX	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="250">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	243	QC	
+	))
+3	((	NP	
+3.1	স্তব্ধ	JJ	
+3.2	জনতা	NN	
+3.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="251">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	244	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুটাস	NNP	
+	))
+4	((	NP	
+4.1	ধীরে	RB	
+4.2	ধীরে	RDP	
+	))
+5	((	NP	
+5.1	শুরু	NN	
+	))
+6	((	VGF	
+6.1	করলেন	VM	
+	))
+7	((	NP	
+7.1	তাঁর	PRP	
+	))
+8	((	NP	
+8.1	বক্তব্য	NN	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="252">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	245	QC	
+2.2	-	SYM	
+	))
+3	((	BLK	
+3.1	হে	INJ	
+	))
+4	((	NP	
+4.1	আমার	PRP	
+	))
+5	((	NP	
+5.1	প্রিয়	JJ	
+5.2	স্বদেশীয়	JJ	
+5.3	বন্ধুগণ	NN	
+5.4	!	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="253">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	246	QC	
+	))
+3	((	NP	
+3.1	তোমরা	PRP	
+	))
+4	((	JJP	
+4.1	স্থির	JJ	
+	))
+5	((	VGNF	
+5.1	হয়ে	VM	
+	))
+6	((	VGF	
+6.1	শোনো	VM	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="254">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	247	QC	
+	))
+3	((	NP	
+3.1	আমার	PRP	
+3.2	প্রতি	PSP	
+	))
+4	((	CCP	
+4.1	যদি	CC	
+	))
+5	((	NP	
+5.1	তোমাদের	PRP	
+	))
+6	((	NP	
+6.1	এতটুকু	QF	
+6.2	আস্থা	NN	
+	))
+7	((	VGF	
+7.1	থাকে	VM	
+7.2	,	SYM	
+	))
+8	((	CCP	
+8.1	তবেই	CC	
+	))
+9	((	NP	
+9.1	আমাকে	PRP	
+	))
+10	((	NP	
+10.1	বিশ্বাস	NN	
+	))
+11	((	VGF	
+11.1	করতে	VM	
+11.2	পারবে	VAUX	
+11.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="255">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	248	QC	
+	))
+3	((	NP	
+3.1	তোমরা	PRP	
+	))
+4	((	NP	
+4.1	তোমাদের	PRP	
+	))
+5	((	NP	
+5.1	জ্ঞান	XC	
+5.2	চক্ষু	NN	
+	))
+6	((	VGNF	
+6.1	খুলে	VM	
+	))
+7	((	VGF	
+7.1	দেখ	VM	
+7.2	,	SYM	
+	))
+8	((	NP	
+8.1	বিচার	NN	
+	))
+9	((	VGF	
+9.1	করো	VM	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="256">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	249	QC	
+	))
+3	((	RBP	
+3.1	হয়তো	RB	
+	))
+4	((	NP	
+4.1	তোমাদের	PRP	
+4.2	মধ্যে	NST	
+	))
+5	((	NP	<ne=NEP>
+5.1	সীজারের	NNP	
+	))
+6	((	NP	
+6.1	কোনো	QF	
+6.2	বন্ধু	NN	
+	))
+7	((	VGF	
+7.1	থাকতে	VM	
+7.2	পারে	VAUX	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="257">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	250	QC	
+	))
+3	((	CCP	
+3.1	তবে	CC	
+	))
+4	((	NP	
+4.1	তাকে	PRP	
+	))
+5	((	NP	
+5.1	আমি	PRP	
+	))
+6	((	VGF	
+6.1	বলব	VM	
+6.2	-	SYM	
+	))
+7	((	NP	<ne=NEP>
+7.1	সীজারের	NNP	
+	))
+8	প্রতি	PSP	
+9	((	NP	<ne=NEP>
+9.1	ব্রুটাসের	NNP	
+	))
+10	((	NP	
+10.1	ভালবাসা	NN	
+	))
+11	((	NP	
+11.1	কারো	PRP	
+11.2	চাইতে	PSP	
+	))
+12	((	JJP	
+12.1	কম	JJ	
+	))
+13	((	VGF	
+13.1	নয়	VM	
+13.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="258">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	251	QC	
+	))
+3	((	RBP	
+3.1	হয়ত	RB	
+	))
+4	((	NP	
+4.1	বন্ধুটি	NN	
+	))
+5	((	NP	
+5.1	দাবি	NN	
+	))
+6	((	VGF	
+6.1	করতে	VM	
+6.2	পারে	VAUX	
+	))
+7	((	CCP	
+7.1	তবে	CC	
+	))
+8	((	NP	
+8.1	আমি	PRP	
+	))
+9	((	NP	<ne=NEP>
+9.1	সীজারের	NNP	
+	))
+10	((	NP	
+10.1	শত্রু	NN	
+	))
+11	((	VGF	
+11.1	হলাম	VM	
+	))
+12	((	NP	
+12.1	কেন	WQ	
+12.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="259">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	252	QC	
+	))
+3	((	NP	
+3.1	আমার	PRP	
+	))
+4	((	NP	
+4.1	উত্তর	NN	
+4.2	-	SYM	
+	))
+5	((	NP	<ne=NEP>
+5.1	সীজারের	NNP	
+	))
+6	চেয়ে	PSP	
+7	((	VGF	
+7.1	ভালবাসি	VM	
+	))
+8	((	NP	
+8.1	আমি	PRP	
+	))
+9	((	NP	
+9.1	আমার	PRP	
+	))
+10	((	NP	<ne=NEL>
+10.1	রোমকে	NNP	
+	))
+11	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="260">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	253	QC	
+	))
+3	((	NP	
+3.1	সে	PRP	
+	))
+4	((	NP	
+4.1	সবার	PRP	
+4.2	থেকে	PSP	
+	))
+5	((	JJP	
+5.1	বড়	JJ	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="261">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	254	QC	
+	))
+3	((	NP	
+3.1	তোমরা	PRP	
+	))
+4	((	NP	
+4.1	কি	WQ	
+	))
+5	((	VGF	
+5.1	চাও	VM	
+	))
+6	এই	DEM	
+7	((	NP	<ne=NEL>
+7.1	রোমের	NNP	
+	))
+8	((	NP	
+8.1	মাটিতে	NN	
+	))
+9	((	NP	
+9.1	সবাইকে	PRP	
+	))
+10	((	NP	
+10.1	ক্রীতদাস	NN	
+	))
+11	((	VGF	
+11.1	করে	VM	
+11.2	রাখুক	VAUX	
+11.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="262">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	255	QC	
+	))
+3	((	VGF	
+3.1	চাও	VM	
+3.2	না	NEG	
+3.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="263">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	256	QC	
+	))
+3	((	CCP	
+3.1	তাইতো	CC	
+	))
+4	((	NP	<ne=NEP>
+4.1	সীজারকে	NNP	
+	))
+5	((	NP	
+5.1	মৃত্যুবরণ	NN	
+	))
+6	((	VGF	
+6.1	করতে	VM	
+6.2	হলো	VAUX	
+6.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="264">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	257	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	সীজার	NNP	
+	))
+4	((	NP	
+4.1	আমাকে	PRP	
+	))
+5	((	VGF	
+5.1	ভালবাসতেন	VM	
+	))
+6	((	RBP	
+6.1	সত্যি	RB	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="265">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	258	QC	
+	))
+3	((	CCP	
+3.1	তাইতো	CC	
+	))
+4	((	NP	
+4.1	আমি	PRP	
+	))
+5	((	VGF	
+5.1	কাঁদি	VM	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="266">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	259	QC	
+	))
+3	((	NP	
+3.1	তাঁর	PRP	
+	))
+4	((	NP	
+4.1	সৌভাগ্যে	NN	
+	))
+5	((	NP	
+5.1	আমার	PRP	
+	))
+6	((	NP	
+6.1	আনন্দ	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="267">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	260	QC	
+	))
+3	((	NP	
+3.1	তার	PRP	
+	))
+4	((	NP	
+4.1	বীরত্বের	NN	
+4.2	জন্য	PSP	
+	))
+5	((	NP	
+5.1	আমিও	PRP	
+	))
+6	((	NP	
+6.1	মাথা	NN	
+	))
+7	((	JJP	
+7.1	নত	JJ	
+	))
+8	((	VGNF	
+8.1	করে	VM	
+	))
+9	((	NP	
+9.1	শ্রদ্ধা	NN	
+	))
+10	((	VGF	
+10.1	জানাই	VM	
+10.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="268">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	CCP	
+2.1	261	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	NP	
+4.1	বন্ধুগণ	NN	
+4.2	!	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="269">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	262	QC	
+	))
+3	((	NP	
+3.1	তিনি	PRP	
+	))
+4	((	VGF	
+4.1	ছিলেন	VM	
+	))
+5	((	JJP	
+5.1	উচ্চাকাঙ্খী	JJ	
+5.2	বিলাসী	JJ	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="270">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	263	QC	
+	))
+3	((	CCP	
+3.1	তাই	CC	
+	))
+4	((	NP	
+4.1	তাঁকে	PRP	
+	))
+5	((	NP	
+5.1	হত্যা	NN	
+	))
+6	((	VGINF	
+6.1	করতে	VM	
+	))
+7	((	JJP	
+7.1	বাধ্য	JJ	
+	))
+8	((	VGF	
+8.1	হলাম	VM	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="271">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	264	QC	
+	))
+3	((	CCP	
+3.1	যদি	CC	
+	))
+4	((	NP	
+4.1	এখনো	PRP	
+	))
+5	((	NP	
+5.1	কেউ	PRP	
+	))
+6	((	NP	
+6.1	তাঁর	PRP	
+	))
+7	((	NP	
+7.1	ক্রীতদাস	NN	
+	))
+8	((	VGNF	
+8.1	হয়ে	VM	
+	))
+9	((	VGNF	
+9.1	বাঁচতে	VM	
+	))
+10	((	NP	
+10.1	আশা	NN	
+	))
+11	((	VGF	
+11.1	রাখে	VM	
+11.2	,	SYM	
+	))
+12	((	CCP	
+12.1	তবে	CC	
+	))
+13	((	NP	
+13.1	সামনে	NST	
+	))
+14	((	VGF	
+14.1	এসো	VM	
+14.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="272">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	265	QC	
+	))
+3	((	NP	
+3.1	আমি	PRP	
+	))
+4	((	NP	
+4.1	অপরাধীর	NN	
+4.2	মতো	PSP	
+	))
+5	((	NP	
+5.1	ক্ষমা	NN	
+	))
+6	((	VGF	
+6.1	চেয়ে	VM	
+6.2	নেবো	VAUX	
+6.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="273">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	266	QC	
+	))
+3	((	VGF	
+3.1	বলো	VM	
+	))
+4	((	NP	
+4.1	কেউ	PRP	
+	))
+5	((	NP	
+5.1	এমন	PRP	
+	))
+6	((	VGF	
+6.1	আছো	VM	
+	))
+7	((	NP	
+7.1	যে	PRP	
+	))
+8	((	NP	<ne=NEL>
+8.1	রোমে	NNP	
+	))
+9	((	RBP	
+9.1	স্বাধীনভাবে	RB	
+	))
+10	((	VGF	
+10.1	বাঁচতে	VM	
+10.2	চায়	VAUX	
+10.3	না	NEG	
+10.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="274">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	267	QC	
+	))
+3	((	VGF	
+3.1	বলো	VM	
+	))
+4	((	NP	
+4.1	কেউ	PRP	
+	))
+5	((	NP	
+5.1	এমন	PRP	
+	))
+6	((	VGF	
+6.1	আছো	VM	
+	))
+7	((	NP	
+7.1	যে	PRP	
+	))
+8	((	NP	<ne=NEL>
+8.1	রোমকে	NNP	
+	))
+9	((	VGF	
+9.1	ভালবাস	VM	
+9.2	না	NEG	
+9.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="275">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	268	QC	
+	))
+3	((	VGF	
+3.1	বল	VM	
+	))
+4	((	NP	
+4.1	উত্তর	NN	
+	))
+5	((	VGF	
+5.1	দাও	VM	
+5.2	...	SYM	
+	))
+6	((	VGF	
+6.1	দাও	VM	
+	))
+7	((	NP	
+7.1	উত্তর	NN	
+7.2	...	SYM	
+	))
+8	((	NP	
+8.1	জনতার	NN	
+	))
+9	((	NP	
+9.1	নিখুত	JJ	
+9.2	কণ্ঠ	NN	
+9.3	যেন	RP	
+	))
+10	((	RBP	
+10.1	একসাথে	RB	
+	))
+11	((	JJP	
+11.1	ধ্বনিত	JJ	
+	))
+12	((	VGF	
+12.1	হয়	VM	
+12.2	-	SYM	
+	))
+13	((	NEGP	
+13.1	না	NEG	
+	))
+14	((	NP	<ne=NEP>
+14.1	ব্রুটাস	NNP	
+	))
+15	((	NEGP	
+15.1	না	NEG	
+15.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="276">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	269	QC	
+	))
+3	((	JJP	
+3.1	তেমন	DEM	
+3.2	অভাগ্য	JJ	
+	))
+4	((	NP	
+4.1	এখানে	PRP	
+	))
+5	((	NP	
+5.1	কেউ	PRP	
+	))
+6	((	VGF	
+6.1	নেই	VM	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="277">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	270	QC	
+2.2	/	SYM	
+2.3	/	SYM	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুটাসও	NNP	
+	))
+4	((	NP	
+4.1	নিদ্রা	NN	
+	))
+5	((	VGNN	
+5.1	যাবার	VM	
+5.2	আগে	NST	
+	))
+6	((	NP	
+6.1	অনুচরদের	NN	
+	))
+7	((	NP	
+7.1	বিশ্রাম	NN	
+	))
+8	((	VGNN	
+8.1	করার	VM	
+8.2	জন্য	PSP	
+	))
+9	((	NP	<ne=NEP>
+9.1	লুসিয়াসকে	NNP	
+	))
+10	((	NP	
+10.1	আদেশ	NN	
+	))
+11	((	VGF	
+11.1	দিলেন	VM	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="278">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	271	QC	
+	))
+3	((	RBP	
+3.1	শুধু	RB	
+	))
+4	((	NP	<ne=NEP>
+4.1	ক্লডিয়াস	NNP	
+	))
+5	((	CCP	
+5.1	ও	CC	
+	))
+6	((	NP	
+6.1	দু-এক	QC	
+6.2	জন	CL	
+6.3	অনুচরকে	NN	
+	))
+7	((	NP	
+7.1	নিজের	PRP	
+	))
+8	((	NP	
+8.1	শিবিরে	NN	
+	))
+9	((	VGF	
+9.1	ডেকে	VM	
+9.2	পাঠালেন	VAUX	
+9.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="279">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	272	QC	
+	))
+3	((	NP	
+3.1	রাত্রি	NN	
+	))
+4	((	VGF	
+4.1	এনেছে	VM	
+	))
+5	((	NP	
+5.1	আঁধারের	NN	
+	))
+6	((	NP	
+6.1	দৃশ্যপট	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="280">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	273	QC	
+	))
+3	((	VGF	
+3.1	সেজেছে	VM	
+	))
+4	((	RBP	
+4.1	তমসারূপে	RB	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="281">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	274	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুটাসের	NNP	
+	))
+4	((	NP	
+4.1	চোখে	NN	
+	))
+5	((	NP	
+5.1	ঘুম	NN	
+	))
+6	((	VGF	
+6.1	আসেনা	VM	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="282">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	275	QC	
+	))
+3	((	NP	
+3.1	ভৃত্য	NN	
+	))
+4	((	NP	<ne=NEP>
+4.1	লুসিয়াসকে	NNP	
+	))
+5	((	VGF	
+5.1	বললেন	VM	
+	))
+6	((	NP	
+6.1	তার	PRP	
+	))
+7	((	NP	
+7.1	বীনা	NN	
+	))
+8	((	VGINF	
+8.1	বাজাতে	VM	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="283">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	276	QC	
+	))
+3	((	RBP	
+3.1	ঘুমচোখে	RB	
+	))
+4	((	NP	
+4.1	ভৃত্য	NN	
+	))
+5	((	NP	<ne=NEP>
+5.1	লুসিয়াস	NNP	
+	))
+6	((	NP	
+6.1	কর্তব্য	NN	
+	))
+7	((	VGF	
+7.1	করে	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="284">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	277	QC	
+	))
+3	((	RBP	
+3.1	ঘুমচোখে	RB	
+	))
+4	((	VGF	
+4.1	বাজায়	VM	
+	))
+5	((	NP	
+5.1	বীনা	NN	
+5.2	...	SYM	
+	))
+6	((	NP	
+6.1	তার	PRP	
+	))
+7	((	NP	
+7.1	ঝঙ্কার	NN	
+	))
+8	((	NP	
+8.1	মৃদু	JJ	
+8.2	তালে	NN	
+	))
+9	((	JJP	
+9.1	ধ্বনিত	JJ	
+	))
+10	((	VGF	
+10.1	হয়	VM	
+	))
+11	((	NP	
+11.1	বাতাসের	NN	
+	))
+12	((	NP	
+12.1	তরঙ্গে	NN	
+12.2	তরঙ্গে	RDP	
+12.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="285">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	278	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুটাস	NNP	
+	))
+4	((	JJP	
+4.1	স্তব্ধ	JJ	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="286">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	279	QC	
+	))
+3	((	JJP	
+3.1	কি	INTF	
+3.2	অপূর্ব	JJ	
+	))
+4	((	JJP	
+4.1	কি	INTF	
+4.2	মিষ্টি	JJ	
+	))
+5	((	NP	
+5.1	সেই	DEM	
+5.2	সুর	NN	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="287">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	280	QC	
+	))
+3	((	JJP	
+3.1	তন্দ্রাচ্ছন্ন	JJ	
+	))
+4	((	VGF	
+4.1	হয়ে	VM	
+4.2	পড়ে	VAUX	
+	))
+5	((	NP	<ne=NEP>
+5.1	লুসিয়াস	NNP	
+	))
+6	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="288">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	281	QC	
+	))
+3	((	NP	
+3.1	তাকে	PRP	
+	))
+4	((	VGNF	
+4.1	দেখে	VM	
+	))
+5	((	NP	<ne=NEP>
+5.1	ব্রুটাসের	NNP	
+	))
+6	((	NP	
+6.1	মনে	NN	
+	))
+7	((	NP	
+7.1	করুণা	NN	
+	))
+8	((	VGF	
+8.1	জাগে	VM	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="289">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	282	QC	
+	))
+3	((	NP	
+3.1	বীনাটি	NN	
+	))
+4	((	NP	
+4.1	তার	PRP	
+	))
+5	((	NP	
+5.1	হাত	NN	
+5.2	থেকে	PSP	
+	))
+6	((	VGNF	
+6.1	নিয়ে	VM	
+	))
+7	((	NP	
+7.1	নিষ্কৃতি	NN	
+	))
+8	((	VGF	
+8.1	দিলেন	VM	
+	))
+9	((	NP	
+9.1	তাকে	PRP	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="290">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	283	QC	
+	))
+3	((	NP	
+3.1	সবাই	PRP	
+	))
+4	((	VGF	
+4.1	পড়েছে	VAUX	
+4.2	ঘুমিয়ে	VM	
+4.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="291">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	284	QC	
+	))
+3	((	NP	
+3.1	ঘুম	NN	
+	))
+4	((	VGF	
+4.1	নেই	VM	
+	))
+5	((	RBP	
+5.1	শুধু	RB	
+	))
+6	((	NP	<ne=NEP>
+6.1	ব্রুটাসের	NNP	
+	))
+7	((	NP	
+7.1	চোখে	NN	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="292">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	285	QC	
+	))
+3	((	NP	
+3.1	এইসময়	NN	
+	))
+4	((	NP	
+4.1	তার	PRP	
+	))
+5	((	NP	
+5.1	একমাত্র	JJ	
+5.2	সাথী	NN	
+	))
+6	((	NP	
+6.1	পুঁথি	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="293">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	286	QC	
+	))
+3	((	JJP	
+3.1	গভীর	JJ	
+	))
+4	((	JJP	
+4.1	আরো	INTF	
+4.2	গভীর	JJ	
+	))
+5	((	VGF	
+5.1	হয়	VM	
+	))
+6	((	NP	
+6.1	রাত্রি	NN	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="294">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	287	QC	
+	))
+3	((	NP	
+3.1	সারা	QF	
+3.2	শিবিরটা	NN	
+	))
+4	((	NP	
+4.1	আলো	NN	
+	))
+5	((	NP	
+5.1	অন্ধকারের	NN	
+	))
+6	((	NP	
+6.1	কুয়াশায়	NN	
+	))
+7	((	VGNN	
+7.1	ঢাকা	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="295">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	288	QC	
+	))
+3	((	NP	
+3.1	কোনো	QF	
+3.2	এক	QC	
+3.3	অদৃশ্য	JJ	
+3.4	অবয়ব	NN	
+	))
+4	((	NP	
+4.1	তার	PRP	
+4.2	সম্মুখে	NST	
+	))
+5	((	JJP	
+5.1	দণ্ডায়মান	JJ	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="296">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	289	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুটাস	NNP	
+	))
+4	((	VGF	
+4.1	চমকে	VM	
+4.2	ওঠেন	VAUX	
+4.3	...	SYM	
+	))
+5	((	NP	
+5.1	কে	WQ	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	কে	WQ	
+6.2	!	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="297">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	290	QC	
+	))
+3	((	NP	
+3.1	অদৃশ্য	NN	
+3.2	থেকে	PSP	
+	))
+4	((	VGF	
+4.1	ভেসে	VM	
+4.2	আসে	VAUX	
+	))
+5	((	NP	
+5.1	একটা	QC	
+5.2	ভারী	JJ	
+5.3	গম্ভীর	JJ	
+5.4	স্বর	NN	
+5.5	-	SYM	
+	))
+6	((	NP	
+6.1	আমি	PRP	
+	))
+7	((	NP	<ne=NEP>
+7.1	সীজারের	NNP	
+	))
+8	((	NP	
+8.1	প্রেতাত্মা	NN	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="298">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	291	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুটাস	NNP	
+	))
+4	((	NP	
+4.1	নিথর	JJ	
+	))
+5	((	JJP	
+5.1	নিস্পন্দ	JJ	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="299">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	292	QC	
+	))
+3	((	NP	
+3.1	তিনিও	PRP	
+	))
+4	((	NP	
+4.1	কুসংস্কারে	NN	
+	))
+5	((	JJP	
+5.1	আবদ্ধ	JJ	
+	))
+6	((	VGF	
+6.1	নন	VM	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="300">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	293	QC	
+	))
+3	((	CCP	
+3.1	তবুও	CC	
+	))
+4	((	NP	
+4.1	অজানা	JJ	
+4.2	আশঙ্কায়	NN	
+	))
+5	((	NP	
+5.1	মুহূর্তের	NN	
+5.2	জন্য	PSP	
+	))
+6	((	NP	
+6.1	তাঁর	PRP	
+	))
+7	((	NP	
+7.1	হিয়া	NN	
+	))
+8	((	VGF	
+8.1	কেঁপে	VM	
+8.2	ওঠে	VAUX	
+8.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="301">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	294	QC	
+	))
+3	((	NP	
+3.1	অস্পষ্ট	JJ	
+3.2	জড়িত	JJ	
+3.3	কণ্ঠে	NN	
+	))
+4	((	VGF	
+4.1	বললেন	VM	
+4.2	-	SYM	
+	))
+5	((	NP	
+5.1	এখানে	PRP	
+	))
+6	((	VGNN	
+6.1	আসার	VM	
+	))
+7	((	NP	
+7.1	কারণ	NN	
+	))
+8	((	NP	
+8.1	কি	WQ	
+8.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="302">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	295	QC	
+2.2	-	SYM	
+	))
+3	((	RBP	
+3.1	শুধু	RB	
+	))
+4	((	VGF	
+4.1	বলতে	VM	
+4.2	এসেছি	VAUX	
+4.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="303">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	296	QC	
+	))
+3	((	NP	
+3.1	আমাদের	PRP	
+	))
+4	((	RBP	
+4.1	আবার	RB	
+	))
+5	((	VGF	
+5.1	দেখা	VM	
+5.2	হবে	VAUX	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="304">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	297	QC	
+2.2	-	SYM	
+	))
+3	((	RBP	
+3.1	আবার	RB	
+3.2	!	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="305">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	298	QC	
+2.2	-	SYM	
+	))
+3	((	BLK	
+3.1	হ্যাঁ	INJ	
+	))
+4	((	NP	<ne=NEL>
+4.1	ফিলিপিতে	NNP	
+	))
+5	((	RBP	
+5.1	আবার	RB	
+	))
+6	((	VGF	
+6.1	দেখা	VM	
+6.2	হবে	VAUX	
+6.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="306">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	299	QC	
+	))
+3	((	NP	
+3.1	আরো	JJ	
+3.2	কিছু	PRP	
+	))
+4	((	NP	
+4.1	জিজ্ঞাসা	NN	
+	))
+5	((	VGNN	
+5.1	করার	VM	
+5.2	আগেই	NST	
+	))
+6	((	NP	
+6.1	সেই	DEM	
+6.2	ছায়ামূর্তি	NN	
+	))
+7	((	NP	
+7.1	বিদায়	NN	
+	))
+8	((	VGF	
+8.1	নিলো	VM	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="307">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	300	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুটাস	NNP	
+	))
+4	((	NP	
+4.1	চীত্কার	NN	
+	))
+5	((	VGNF	
+5.1	করে	VM	
+	))
+6	((	NP	
+6.1	সবাইকে	PRP	
+	))
+7	((	VGF	
+7.1	জাগিয়ে	VM	
+7.2	তুললেন	VAUX	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="308">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	301	QC	
+	))
+3	((	NP	
+3.1	সবাইকে	PRP	
+	))
+4	((	NP	
+4.1	জিজ্ঞাসা	NN	
+	))
+5	((	VGF	
+5.1	করলেন	VM	
+5.2	-	SYM	
+	))
+6	((	NP	
+6.1	তোরা	PRP	
+	))
+7	((	NP	
+7.1	কিছু	PRP	
+	))
+8	((	VGF	
+8.1	দেখেছিস	VM	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="309">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	302	QC	
+	))
+3	((	NP	
+3.1	প্রত্যেকেই	PRP	
+	))
+4	((	VGF	
+4.1	জানালো	VM	
+4.2	-	SYM	
+	))
+5	((	NEGP	
+5.1	না	NEG	
+	))
+6	((	NP	
+6.1	তারা	PRP	
+	))
+7	((	NP	
+7.1	কিছুই	PRP	
+	))
+8	((	VGF	
+8.1	দেখেনি	VM	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="310">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	303	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুটাস	NNP	
+	))
+4	((	JJP	
+4.1	চঞ্চল	JJ	
+	))
+5	((	VGF	
+5.1	হয়ে	VM	
+5.2	উঠলেন	VAUX	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="311">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	304	QC	
+	))
+3	((	NP	
+3.1	তিনি	PRP	
+	))
+4	((	NP	
+4.1	আদেশ	NN	
+	))
+5	((	VGF	
+5.1	দিলেন	VM	
+	))
+6	((	NP	<ne=NEP>
+6.1	ক্যাসিয়াসকে	NNP	
+	))
+7	((	NP	
+7.1	এখনি	PRP	
+	))
+8	((	NP	
+8.1	সংবাদ	NN	
+	))
+9	((	VGF	
+9.1	দাও	VM	
+	))
+10	((	CCP	
+10.1	যেন	CC	
+	))
+11	((	NP	
+11.1	তাঁর	PRP	
+	))
+12	((	NP	
+12.1	সৈন্যদল	NN	
+12.2	নিয়ে	PSP	
+	))
+13	((	NP	<ne=NEL>
+13.1	ফিলিপিতে	NNP	
+	))
+14	((	VGF	
+14.1	চলে	VM	
+14.2	যান	VAUX	
+14.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="312">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	305	QC	
+	))
+3	((	NP	
+3.1	আমিও	PRP	
+	))
+4	((	NP	
+4.1	দেরী	NN	
+	))
+5	((	VGF	
+5.1	করছি	VM	
+5.2	না	NEG	
+5.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="313">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	306	QC	
+	))
+3	((	NP	
+3.1	আদেশ	NN	
+	))
+4	((	VGNF	
+4.1	নিয়ে	VM	
+	))
+5	((	NP	
+5.1	অনুচর	NN	
+	))
+6	((	VGF	
+6.1	চলে	VM	
+6.2	যায়	VAUX	
+6.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="314">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	307	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুটাস	NNP	
+	))
+4	((	RBP	
+4.1	আবার	RB	
+	))
+5	((	NP	
+5.1	অস্থির	JJ	
+5.2	পদ-চারণায়	NN	
+	))
+6	((	VGF	
+6.1	মেতে	VM	
+6.2	ওঠেন	VAUX	
+6.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="315">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	308	QC	
+	))
+3	((	NP	
+3.1	মুহূর্তের	NN	
+	))
+4	((	NP	
+4.1	দুঃস্বপ্ন	NN	
+	))
+5	((	NP	
+5.1	তাঁকে	PRP	
+	))
+6	((	JJP	
+6.1	চিন্তিত	JJ	
+	))
+7	((	NP	
+7.1	করে	VM	
+7.2	তোলে	VAUX	
+	))
+8	((	NP	
+8.1	চোখের	NN	
+8.2	সামনে	NST	
+	))
+9	((	VGF	
+9.1	ভেসে	VM	
+9.2	ওঠে	VAUX	
+	))
+10	((	NP	<ne=NEP>
+10.1	সীজারের	NNP	
+	))
+11	((	NP	
+11.1	মুখটা	NN	
+11.2	,	SYM	
+	))
+12	যে	DEM	
+13	((	NP	<ne=NEP>
+13.1	সীজার	NNP	
+	))
+14	((	NP	
+14.1	তাকে	PRP	
+	))
+15	((	VGF	
+15.1	ভালবাসত	VM	
+15.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="316">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	309	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	যে	DEM	
+3.2	সীজার	NNP	
+	))
+4	((	VGF	
+4.1	ভাবতে	VM	
+4.2	পারেনি	VAUX	
+	))
+5	((	NP	
+5.1	তার	PRP	
+	))
+6	((	NP	
+6.1	পরম	JJ	
+6.2	হিতৈষী	NN	
+	))
+7	((	NP	<ne=NEP>
+7.1	ব্রুটাস	NNP	
+	))
+8	((	NP	
+8.1	তাঁকে	PRP	
+	))
+9	((	NP	
+9.1	চরম	JJ	
+9.2	আঘাত	NN	
+	))
+10	((	VGF	
+10.1	হানবে	VM	
+10.2	...	SYM	
+	))
+11	((	NP	
+11.1	তিনি	PRP	
+11.2	যেন	RP	
+	))
+12	((	VGF	
+12.1	শুনতে	VM	
+12.2	পাচ্ছেন	VAUX	
+	))
+13	((	NP	<ne=NEP>
+13.1	সীজারের	NNP	
+	))
+14	((	NP	
+14.1	শেষ	JJ	
+14.2	কটি	QF	
+14.3	কথা	NN	
+14.4	...	SYM	
+	))
+15	((	BLK	
+15.1	হায়	INJ	
+	))
+16	((	NP	<ne=NEP>
+16.1	ব্রুটাস	NNP	
+	))
+17	!	SYM	
+	))
+</Sentence>
+
+<Sentence id="317">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	310	QC	
+	))
+3	((	RBP	
+3.1	শেষে	RB	
+	))
+4	((	NP	
+4.1	তুমিও	PRP	
+4.2	...	SYM	
+	))
+5	((	NEGP	
+5.1	না	NEG	
+5.2	...	SYM	
+	))
+6	((	NEGP	
+6.1	না	NEG	
+6.2	...	SYM	
+	))
+7	((	NP	<ne=NEP>
+7.1	ব্রুটাস	NNP	
+	))
+8	((	NP	
+8.1	চীত্কার	NN	
+	))
+9	((	VGF	
+9.1	করে	VM	
+9.2	ওঠেন	VAUX	
+9.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="318">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	311	QC	
+	))
+3	((	NP	
+3.1	তাঁর	PRP	
+	))
+4	((	NP	
+4.1	চীত্কারে	NN	
+	))
+5	((	NP	
+5.1	রাত্রির	NN	
+	))
+6	((	NP	
+6.1	নিস্তব্ধতা	NN	
+	))
+7	((	VGF	
+7.1	হয়	VM	
+	))
+8	((	NP	
+8.1	খান	NN	
+8.2	খান	RDP	
+8.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="319">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	312	QC	
+	))
+3	((	NP	
+3.1	প্রথম	QO	
+3.2	পরিচ্ছেদ	NN	
+	))
+4	((	NP	
+4.1	ইতিহাস	NN	
+	))
+5	((	NP	
+5.1	এ	PRP	
+	))
+6	((	NP	
+6.1	কোথায়	WQ	
+	))
+7	((	VGF	
+7.1	নিয়ে	VM	
+7.2	এলে	VAUX	
+	))
+8	((	NP	
+8.1	এবার	NN	
+8.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="320">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	313	QC	
+2.2	-	SYM	
+	))
+3	((	NP	
+3.1	এটা	PRP	
+	))
+4	((	NP	<ne=NEL>
+4.1	ফিলিপি	NNP	
+	))
+5	((	NP	
+5.1	জনান্তিক	NN	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="321">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	314	QC	
+	))
+3	((	NP	
+3.1	তুমি	PRP	
+	))
+4	((	VGF	
+4.1	জান	VM	
+	))
+5	((	NP	
+5.1	কি	WQ	
+	))
+6	((	NP	<ne=NEL>
+6.1	ফিলিপির	NNP	
+	))
+7	((	NP	
+7.1	নামকরনের	NN	
+	))
+8	((	NP	
+8.1	কারণ	NN	
+8.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="322">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	315	QC	
+	))
+3	((	VGF	
+3.1	জাননা	VM	
+	))
+4	((	CCP	
+4.1	তবে	CC	
+	))
+5	((	VGF	
+5.1	শোন	VM	
+5.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="323">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	316	QC	
+	))
+3	((	NP	
+3.1	বহুদিন	NN	
+3.2	আগে	NST	
+	))
+4	((	NP	<ne=NEL>
+4.1	ম্যাসিডনের	NNP	
+	))
+5	((	NP	
+5.1	অধীশ্বর	NN	
+	))
+6	((	VGF	
+6.1	ছিলেন	VM	
+	))
+7	((	NP	<ne=NEP>
+7.1	ফিলিপ	NNP	
+	))
+8	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="324">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	317	QC	
+	))
+3	((	NP	
+3.1	তাঁর	PRP	
+	))
+4	((	NP	
+4.1	স্বপ্ন	NN	
+	))
+5	((	VGF	
+5.1	ছিলো	VM	
+	))
+6	((	NP	
+6.1	পৃথিবী	NN	
+	))
+7	((	NP	
+7.1	দিগ্বিজয়ের	NN	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="325">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	318	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	NP	
+4.1	মনের	NN	
+	))
+5	((	NP	
+5.1	আকাঙ্ক্ষা	NN	
+	))
+6	((	NP	
+6.1	মনে	NN	
+	))
+7	((	VGNF	
+7.1	রেখেই	VM	
+	))
+8	((	NP	
+8.1	তিনি	PRP	
+	))
+9	((	NP	
+9.1	পৃথিবী	NN	
+	))
+10	((	VGNF	
+10.1	ছেড়ে	VM	
+	))
+11	((	VGF	
+11.1	চলে	VM	
+11.2	যান	VAUX	
+11.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="326">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	319	QC	
+	))
+3	((	RBP	
+3.1	এরপর	RB	
+	))
+4	((	VGF	
+4.1	এগিয়ে	VM	
+4.2	আসেন	VAUX	
+	))
+5	((	NP	
+5.1	তাঁর	PRP	
+	))
+6	((	NP	
+6.1	পুত্র	NN	
+	))
+7	((	NP	<ne=NEP>
+7.1	আলেকজাণ্ডার	NNP	
+	))
+8	...	SYM	
+9	সেই	DEM	
+10	((	NP	<ne=NEP>
+10.1	ফিলিপই	NNP	
+	))
+11	((	NP	
+11.1	নিজের	PRP	
+	))
+12	((	NP	
+12.1	নামে	NN	
+	))
+13	((	NP	
+13.1	নামকরণ	NN	
+	))
+14	((	VGF	
+14.1	করলেন	VM	
+	))
+15	((	NP	<ne=NEL>
+15.1	থেইস	XC	
+15.2	রাজ্যের	NNP	
+	))
+16	((	NP	
+16.1	সীমান্ত	NN	
+	))
+17	((	NP	<ne=NEL>
+17.1	ফিলিপি	NNP	
+	))
+18	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="327">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	320	QC	
+	))
+3	((	NP	
+3.1	আজ	NN	
+	))
+4	সেই	DEM	
+5	((	NP	<ne=NEP>
+5.1	ফিলিপও	NNP	
+	))
+6	((	VGF	
+6.1	নেই	VM	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="328">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	321	QC	
+	))
+3	((	VGF	
+3.1	নেই	VM	
+	))
+4	((	NP	<ne=NEP>
+4.1	আলেকজাণ্ডারও	NNP	
+	))
+5	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="329">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	322	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	JJP	
+4.1	সেই	DEM	
+4.2	স্মৃতিবিজড়িত	JJ	
+	))
+5	((	NP	<ne=NEL>
+5.1	ফিলিপি	NNP	
+	))
+6	((	NP	
+6.1	আজও	NN	
+	))
+7	((	VGF	
+7.1	দাঁড়িয়ে	VM	
+7.2	আছে	VAUX	
+	))
+8	((	NP	
+8.1	পৃথিবীর	NN	
+	))
+9	((	NP	
+9.1	মাটিতে	NN	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="330">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	323	QC	
+	))
+3	((	NP	
+3.1	যাকে	PRP	
+	))
+4	((	NP	
+4.1	কেন্দ্র	NN	
+	))
+5	((	VGNF	
+5.1	করে	VM	
+	))
+6	((	NP	
+6.1	আজকের	NN	
+	))
+7	((	NP	
+7.1	রণাঙ্গন	NN	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="331">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	324	QC	
+	))
+3	((	NP	
+3.1	একদিকে	NN	
+	))
+4	((	NP	<ne=NEP>
+4.1	য়্যাণ্টনী	NNP	
+	))
+5	((	NP	<ne=NEP>
+5.1	অক্টেভিয়াস	NNP	
+	))
+6	((	NP	<ne=NEP>
+6.1	লেপিদাস	NNP	
+	))
+7	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="332">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	325	QC	
+	))
+3	((	NP	
+3.1	অপর	JJ	
+3.2	দিকে	NN	
+	))
+4	((	NP	<ne=NEP>
+4.1	ব্রুটাস	NNP	
+	))
+5	((	CCP	
+5.1	ও	CC	
+	))
+6	((	NP	<ne=NEP>
+6.1	ক্যাসিয়াস	NNP	
+	))
+7	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="333">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	326	QC	
+	))
+3	((	VGF	
+3.1	দেখে	VM	
+3.2	যাও	VAUX	
+	))
+4	((	NP	
+4.1	জনান্তিক	NN	
+4.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="334">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	327	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	য়্যাণ্টনীর	NNP	
+	))
+4	((	NP	
+4.1	রণস্থল	NN	
+4.2	সম্বন্ধে	PSP	
+	))
+5	((	NP	
+5.1	দূরদর্শিতা	NN	
+	))
+6	((	VGF	
+6.1	আছে	VM	
+	))
+7	((	NP	<ne=NEP>
+7.1	অক্টেভিয়াসের	NNP	
+	))
+8	((	NP	
+8.1	তা	PRP	
+	))
+9	((	VGF	
+9.1	নেই	VM	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="335">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	328	QC	
+	))
+3	((	NP	
+3.1	কে	WQ	
+	))
+4	((	NP	
+4.1	কোনদিকে	WQ	
+	))
+5	((	VGF	
+5.1	যাবে	VM	
+	))
+6	((	NP	
+6.1	এই	PRP	
+6.2	নিয়ে	PSP	
+	))
+7	((	VGF	
+7.1	বাধে	VM	
+	))
+8	((	NP	
+8.1	তর্ক	NN	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="336">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	329	QC	
+	))
+3	((	RBP	
+3.1	ঠিক	RB	
+	))
+4	((	NP	
+4.1	সেই	DEM	
+4.2	সময়	NN	
+	))
+5	((	NP	
+5.1	দূত	NN	
+	))
+6	((	VGNF	
+6.1	এসে	VM	
+	))
+7	((	NP	
+7.1	সংবাদ	NN	
+	))
+8	((	VGF	
+8.1	জানায়	VM	
+8.2	-	SYM	
+	))
+9	((	NP	
+9.1	সীমান্তে	NN	
+	))
+10	((	NP	
+10.1	শত্রুসৈন্য	NN	
+	))
+11	((	NP	
+11.1	জমায়েত	NN	
+	))
+12	((	VGF	
+12.1	হয়েছে	VM	
+12.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+</Story>

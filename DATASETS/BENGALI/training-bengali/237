@@ -1,0 +1,5784 @@
+<Story id="">
+<Sentence id="1">
+0	((	SSF	
+1	﻿		
+2	<		
+3	document		
+4	>		
+5	docnumber	9	
+6	<		
+7	author		
+8	>		
+9	lastname	Dandapat	
+10	firstname	Sandipan	
+11	lastname	Banerjee	
+12	firstname	Pratyush	
+13	<		
+14	availability		
+15	>		
+16	Phyisical		
+17	<		
+18	bytecount		
+19	>		
+20	12		
+21	<		
+22	creation		
+23	>		
+24	29-10-2006		
+25	IIT		
+26	Kharagpur		
+27	Dandapat		
+28	Sandipan		
+29	Banerjee		
+30	Pratysh		
+31	<		
+32	distributor		
+33	>		
+34	<		
+35	edition		
+36	>		
+37	1		
+38	<		
+39	encoding		
+40	>		
+41	orginalencoding	aci	
+42	newencoding	UTF8	
+43	<		
+44	sentencemarker		
+45	>		
+46	?		
+	))
+</Sentence>
+
+<Sentence id="2">
+0	((	SSF	
+1	/		
+2	!		
+	))
+</Sentence>
+
+<Sentence id="3">
+0	((	SSF	
+1	/		
+2	।		
+	))
+</Sentence>
+
+<Sentence id="4">
+0	((	SSF	
+1	<		
+2	language		
+3	>		
+4	Name	bn	
+5	writingsystem	LTR	
+6	script		
+7	<		
+8	normalization		
+9	>		
+10	normalized	No	
+11	<		
+12	projectdesc		
+13	>		
+14	IL-IL		
+15	consortia		
+16	<		
+17	pubaddress		
+18	>		
+19	Co-ordinator		
+20	,		
+21	TDIL		
+22	Programme		
+23	,		
+24	Ministry		
+25	of		
+26	Information		
+27	Technology		
+28	,		
+29	Government		
+30	of		
+31	India		
+32	,		
+33	Electronics		
+34	Niketan		
+35	6		
+36	,		
+37	C		
+38	.		
+	))
+</Sentence>
+
+<Sentence id="5">
+0	((	SSF	
+1	G		
+2	.		
+	))
+</Sentence>
+
+<Sentence id="6">
+0	((	SSF	
+1	O		
+2	.		
+	))
+</Sentence>
+
+<Sentence id="7">
+0	((	SSF	
+1	Complex		
+2	,		
+3	New		
+4	Delhi		
+5	110		
+6	003		
+7	India		
+8	।		
+	))
+</Sentence>
+
+<Sentence id="8">
+0	((	SSF	
+1	<		
+2	pubdate		
+3	>		
+4	<		
+5	publicationstml		
+6	>		
+7	copyrighted		
+8	<		
+9	publisher		
+10	>		
+11	Books		
+12	<		
+13	translation		
+14	>		
+15	availability		
+16	(		
+17	NO		
+18	)		
+19	<		
+20	wordcount		
+21	>		
+22	1713		
+23	<		
+24	body		
+25	>		
+26	<		
+27	P		
+28	>		
+	))
+</Sentence>
+
+<Sentence id="9">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	1	QC	
+	))
+3	((	NP	
+3.1	মূল্যায়ন	NN	
+	))
+4	((	NP	
+4.1	প্রসঙ্গে	NN	
+	))
+5	((	NP	
+5.1	বিশ্ব	XC	
+5.2	শান্তির	NN	
+	))
+6	((	NP	
+6.1	ক্ষেত্রে	NN	
+	))
+7	((	NP	<ne=NEL>
+7.1	ভারতের	NNP	
+	))
+8	((	JJP	
+8.1	সমন্বয়মুখী	JJ	
+	))
+9	((	NP	
+9.1	সাধনা	NN	
+	))
+10	((	CCP	
+10.1	ও	CC	
+	))
+11	((	NP	
+11.1	ত্যাগের	NN	
+	))
+12	((	NP	
+12.1	উল্লেখ	NN	
+	))
+13	((	VGNF	
+13.1	করে	VM	
+	))
+14	((	NP	<ne=NEP>
+14.1	স্টেন	XC	
+14.2	কোনো	NNP	
+	))
+15	((	VGF	
+15.1	বলেন	VM	
+15.2	-	SYM	
+15.3	.	SYM	
+15.4	.	SYM	
+15.5	.	SYM	
+15.6	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="10">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	2	QC	
+	))
+3	((	NP	<ne=NEO>
+3.1	বিশ্বভারতীর	NNP	
+	))
+4	((	NP	
+4.1	এই	DEM	
+4.2	বিদেশী	JJ	
+4.3	অধ্যাপক	NN	
+	))
+5	((	NP	
+5.1	যখন	PRP	
+	))
+6	((	NP	<ne=NEL>
+6.1	শান্তিনিকেতনে	NNP	
+	))
+7	((	VGF	
+7.1	আসেন	VM	
+7.2	,	SYM	
+	))
+8	((	NP	
+8.1	তখন	PRP	
+	))
+9	((	NP	
+9.1	তাঁর	PRP	
+	))
+10	((	NP	
+10.1	বয়স	NN	
+	))
+11	((	RBP	
+11.1	প্রায়	RB	
+	))
+12	((	NP	<ne=NEN>
+12.1	ষাট	QC	
+12.2	-	SYM	
+	))
+13	((	CCP	
+13.1	কিন্তু	CC	
+	))
+14	((	NP	
+14.1	বয়সের	NN	
+	))
+15	((	NP	
+15.1	ভার	NN	
+	))
+16	((	NP	
+16.1	তাঁকে	PRP	
+	))
+17	((	JJP	
+17.1	ক্লান্ত	JJ	
+	))
+18	((	VGF	
+18.1	করে	VM	
+18.2	নি	NEG	
+	))
+19	((	RBP	
+19.1	এতোটুকু	RB	
+19.2	;	SYM	
+	))
+20	((	NP	
+20.1	কী	JJ	
+20.2	উত্সাহের	NN	
+20.3	সঙ্গে	NST	
+	))
+21	((	NP	
+21.1	তিনি	PRP	
+	))
+22	((	NP	
+22.1	ছাত্রদের	NN	
+	))
+23	((	VGF	
+23.1	পড়াতেন	VM	
+	))
+24	((	VGINF	
+24.1	ভাবতে	VM	
+	))
+25	((	JJP	
+25.1	অবাক	JJ	
+	))
+26	((	VGF	
+26.1	লাগে	VM	
+26.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="11">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	3	QC	
+	))
+3	((	NP	
+3.1	গ্রামীণ	JJ	
+3.2	সভা	XC	
+3.3	সমিতি	NN	
+	))
+4	((	CCP	
+4.1	,	SYM	
+	))
+5	((	NP	
+5.1	মেলা	NN	
+	))
+6	((	CCP	
+6.1	,	SYM	
+	))
+7	((	NP	
+7.1	নানা	JJ	
+7.2	সাংস্কৃতিক	JJ	
+7.3	অনুষ্ঠানেও	NN	
+	))
+8	((	RBP	
+8.1	সুযোগমতো	RB	
+	))
+9	((	NP	
+9.1	যোগ	NN	
+	))
+10	((	VGINF	
+10.1	দিতে	VM	
+	))
+11	((	NP	
+11.1	তিনি	PRP	
+	))
+12	((	VGF	
+12.1	ভুলতেন	VM	
+12.2	না	NEG	
+12.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="12">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	4	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	রবীন্দ্রনাথের	NNP	
+	))
+4	((	NP	
+4.1	বড়দা	NN	
+	))
+5	((	NP	<ne=NEP>
+5.1	দ্বিজেন্দ্রনাথ	XC	
+5.2	ঠাকুর	NNP	
+	))
+6	((	CCP	
+6.1	,	SYM	
+	))
+7	((	NP	<ne=NETP>
+7.1	আচার্য	XC	
+7.2	ক্ষিতিমোহন	XC	
+7.3	সেন	NNP	
+	))
+8	((	CCP	
+8.1	,	SYM	
+	))
+9	((	NP	<ne=NEP>
+9.1	নেপালচন্দ্র	XC	
+9.2	রায়	NNP	
+	))
+10	প্রমুখ	RP	
+11	'র	RP	
+12	সঙ্গে	NST	
+13	((	NP	<ne=NEP>
+13.1	স্টেন	XC	
+13.2	কোনোর	NNP	
+	))
+14	((	NP	
+14.1	খুবই	JJ	
+14.2	ঘনিষ্ঠতা	NN	
+	))
+15	((	VGF	
+15.1	হয়	VM	
+15.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="13">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	5	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	দ্বিজেন্দ্রনাথের	NNP	
+	))
+4	সঙ্গে	NST	
+5	((	NP	<ne=NETO>
+5.1	উপনিষদের	NNP	
+	))
+6	((	NP	
+6.1	আলোচনা	NN	
+	))
+7	((	VGNF	
+7.1	করে	VM	
+	))
+8	((	NP	
+8.1	কতো	QF	
+8.2	সময়ই	NN	
+8.3	না	RP:?	
+	))
+9	((	VGF	
+9.1	কেটেছে	VM	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="14">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	6	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ক্ষিতিমোহন	XC	
+3.2	সেনের	NNP	
+	))
+4	((	NP	<ne=NETE>
+4.1	বাউলতত্ত্ব	NNP	
+	))
+5	((	NP	
+5.1	আলোচনা	NN	
+	))
+6	((	CCP	
+6.1	ও	CC	
+	))
+7	((	NP	
+7.1	লেখালেখিতে	NN	
+	))
+8	((	NP	<ne=NEP>
+8.1	স্টেন	XC	
+8.2	কোনোর	NNP	
+	))
+9	((	NP	
+9.1	খুবই	JJ	
+9.2	উত্সাহ	NN	
+	))
+10	((	VGF	
+10.1	ছিল	VM	
+10.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="15">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	7	QC	
+	))
+3	((	NP	
+3.1	তাঁর	PRP	
+3.2	কাছে	NST	
+	))
+4	((	NP	
+4.1	বাউলদের	NN	
+	))
+5	((	NP	
+5.1	কথা	NN	
+	))
+6	((	VGNF	
+6.1	শুনে	VM	
+	))
+7	((	NP	
+7.1	এই	DEM	
+7.2	সম্প্রদায়	NN	
+7.3	সম্বন্ধে	PSP	
+	))
+8	((	NP	<ne=NEP>
+8.1	স্টেন	XC	
+8.2	কোনোর	NNP	
+	))
+9	((	NP	
+9.1	বিশেষ	JJ	
+9.2	কৌতূহল	NN	
+	))
+10	((	VGF	
+10.1	জাগে	VM	
+10.2	;	SYM	
+	))
+11	((	NP	
+11.1	একবার	NN	
+11.2	তো	RP	
+	))
+12	((	NP	<ne=NEL>
+12.1	কেঁদুলির	NNP	
+	))
+13	((	NP	
+13.1	মেলায়	NN	
+	))
+14	((	VGNF	
+14.1	গিয়ে	VM	
+	))
+15	((	NP	
+15.1	তিনি	PRP	
+	))
+16	((	NP	
+16.1	একরাত	NN	
+	))
+17	((	NP	
+17.1	এঁদের	PRP	
+	))
+18	((	NP	
+18.1	সান্নিধ্যে	NN	
+	))
+19	((	VGF	
+19.1	কাটিয়েও	VM	
+19.2	আসেন	VAUX	
+19.3	-	SYM	
+	))
+20	((	NP	
+20.1	এ-কথা	NN	
+	))
+21	((	NP	
+21.1	তিনি	PRP	
+	))
+22	((	VGF	
+22.1	ভোলেন	VM	
+22.2	নি	NEG	
+	))
+23	((	NP	
+23.1	কোনোদিনও	NN	
+23.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="16">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	8	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	শান্তিনিকেতনে	NNP	
+	))
+4	((	NP	<ne=NEP>
+4.1	স্টেন	XC	
+4.2	কোনোকে	NNP	
+	))
+5	((	NP	<ne=NETP>
+5.1	শ্রী	XC	
+5.2	শৈল	XC	
+5.3	কম্ব	NNP	
+	))
+6	((	CCP	
+6.1	ও	CC	
+	))
+7	((	NP	<ne=NETP>
+7.1	মিসেস	XC	
+7.2	কোনোকে	NNP	
+	))
+8	((	NP	<ne=NEP>
+8.1	সাবিত্রী	XC	
+8.2	দেবী	NNP	
+	))
+9	((	NP	
+9.1	নামে	NN	
+	))
+10	((	JJP	
+10.1	অভিহিত	JJ	
+	))
+11	((	VGF	
+11.1	করা	VM	
+11.2	হয়	VAUX	
+11.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="17">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	9	QC	
+	))
+3	((	NP	<ne=NETP>
+3.1	মিসেস	XC	
+3.2	কোনোর	NNP	
+	))
+4	সঙ্গে	NST	
+5	((	NP	
+5.1	আশ্রমের	NN	
+	))
+6	((	NP	
+6.1	মেয়েদের	NN	
+	))
+7	((	NP	
+7.1	সখ্যতা	NN	
+	))
+8	((	VGF	
+8.1	গড়ে	VM	
+8.2	উঠে	VAUX	
+8.3	,	SYM	
+	))
+9	((	NP	
+9.1	যা	PRP	
+	))
+10	((	NP	
+10.1	তাঁর	PRP	
+	))
+11	((	NP	
+11.1	স্মৃতি	NN	
+	))
+12	((	VGF	
+12.1	হয়ে	VM	
+12.2	ছিল	VAUX	
+	))
+13	((	NP	
+13.1	বহুকাল	NN	
+13.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="18">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	10	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	শান্তিনিকেতন	NNP	
+	))
+4	থেকে	PSP	
+5	((	NP	
+5.1	বিদায়	NN	
+	))
+6	((	NP	
+6.1	গ্রহণের	NN	
+6.2	পর	NST	
+	))
+7	((	NP	
+7.1	স্বদেশে	NN	
+	))
+8	((	VGNN	
+8.1	ফেরার	VM	
+	))
+9	((	NP	
+9.1	পথে	NN	
+	))
+10	((	NP	<ne=NEP>
+10.1	স্টেন	XC	
+10.2	কোনো	NNP	
+	))
+11	((	NP	<ne=NEP>
+11.1	রবীন্দ্রনাথকে	NNP	
+	))
+12	((	VGF	
+12.1	লেখেন	VM	
+	))
+13	(	SYM	
+14	((	NP	<ne=NETI>
+14.1	27শে	QO	
+14.2	এপ্রিল	NNP	
+	))
+15	,	SYM	
+16	((	NP	<ne=NETI>
+16.1	1925	QC	
+	))
+17	)	SYM	
+18	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="19">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	11	QC	
+	))
+3	((	NP	<ne=NETI>
+3.1	1926	XC	
+3.2	সালে	NNP	
+	))
+4	((	NP	
+4.1	তাঁরই	PRP	
+	))
+5	((	NP	
+5.1	আগ্রহে	NN	
+	))
+6	((	NP	<ne=NEP>
+6.1	রবীন্দ্রনাথ	NNP	
+	))
+7	((	NP	<ne=NEL>
+7.1	নরওয়ে	NNP	
+	))
+8	((	VGF	
+8.1	যান	VM	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="20">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	12	QC	
+	))
+3	((	NP	
+3.1	সেখানে	PRP	
+	))
+4	((	VGNF	
+4.1	পৌঁছলে	VM	
+	))
+5	((	NP	
+5.1	তিনি	PRP	
+	))
+6	((	NP	<ne=NEP>
+6.1	রবীন্দ্রনাথ	NNP	
+	))
+7	((	CCP	
+7.1	ও	CC	
+	))
+8	((	NP	
+8.1	তাঁর	PRP	
+	))
+9	((	NP	
+9.1	সঙ্গীদের	NN	
+	))
+10	((	NP	
+10.1	যথোচিত	JJ	
+10.2	আপ্যায়ন	NN	
+	))
+11	((	VGF	
+11.1	করেন	VM	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="21">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	13	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	শান্তিনিকেতনে	NNP	
+	))
+4	((	NP	
+4.1	দীর্ঘকাল	NN	
+	))
+5	((	VGNF	
+5.1	না	NEG	
+5.2	থাকলেও	VM	
+	))
+6	((	NP	
+6.1	এই	DEM	
+6.2	সময়টাই	NN	
+6.3	নাকি	RP	
+	))
+7	((	VGF	
+7.1	ছিল	VM	
+	))
+8	((	NP	
+8.1	তাঁদের	PRP	
+	))
+9	((	NP	
+9.1	জীবনের	NN	
+	))
+10	((	NP	
+10.1	সবচেয়ে	INTF	
+10.2	সুখকর	JJ	
+10.3	অধ্যায়	NN	
+10.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="22">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	14	QC	
+	))
+3	((	NP	
+3.1	পরবর্তী	JJ	
+3.2	কালে	NN	
+	))
+4	((	NP	
+4.1	স্মৃতিচারণ	NN	
+	))
+5	((	VGNF	
+5.1	করতে	VM	
+5.2	গিয়ে	VAUX	
+	))
+6	((	NP	<ne=NEP>
+6.1	স্টেন	XC	
+6.2	কোনো	NNP	
+	))
+7	((	VGF	
+7.1	বলেছেন	VM	
+7.2	-	SYM	
+7.3	.	SYM	
+7.4	.	SYM	
+7.5	.	SYM	
+7.6	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="23">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	15	QC	
+	))
+3	((	CCP	
+3.1	আর	CC	
+	))
+4	((	NP	<ne=NEP>
+4.1	রবীন্দ্রনাথ	NNP	
+	))
+5	?	SYM	
+	))
+</Sentence>
+
+<Sentence id="24">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	16	QC	
+	))
+3	((	NP	
+3.1	তিনি	PRP	
+	))
+4	((	VGF	
+4.1	ছিলেন	VM	
+	))
+5	((	NP	
+5.1	সমস্ত	QF	
+5.2	হৃদয়	NN	
+	))
+6	((	VGNF	
+6.1	জুড়ে	VM	
+	))
+7	((	NP	
+7.1	-সবার	PRP	
+7.2	উপরে	NST	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="25">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	17	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	স্টেন	XC	
+3.2	কোনো	NNP	
+	))
+4	((	VGF	
+4.1	বলেছেন	VM	
+4.2	-	SYM	
+4.3	.	SYM	
+4.4	.	SYM	
+4.5	.	SYM	
+4.6	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="26">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	18	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	কার্লো	XC	
+3.2	ফর্মিকি	NNP	
+	))
+4	:	SYM	
+5	((	NP	
+5.1	রবীন্দ্র-জীবনের	NN	
+5.2	সঙ্গে	NST	
+	))
+6	((	NP	
+6.1	যাঁরা	PRP	
+	))
+7	((	JJP	
+7.1	সম্যক	XC	
+7.2	পরিচিত	JJ	
+7.3	,	SYM	
+	))
+8	((	NP	<ne=NEL>
+8.1	ইতালীর	NNP	
+	))
+9	((	NP	<ne=NEP>
+9.1	কার্লো	XC	
+9.2	ফর্মিকি	NNP	
+	))
+10	(	SYM	
+11	((	NP	<ne=NEP>
+11.1	Carlo	XC	
+11.2	Formichi	NNP	
+	))
+12	)	SYM	
+13	((	CCP	
+13.1	ও	CC	
+	))
+14	((	NP	<ne=NEP>
+14.1	জুসেপ্পে	XC	
+14.2	তুচ্চি-র	NNP	
+	))
+15	((	NP	
+15.1	নাম	NN	
+	))
+16	((	NP	
+16.1	তাঁদের	PRP	
+	))
+17	((	JJP	
+17.1	অজানা	JJ	
+	))
+18	((	VGF	
+18.1	নয়	VM	
+18.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="27">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	19	QC	
+	))
+3	((	NP	<ne=NETI>
+3.1	1924	XC	
+3.2	সালে	NNP	
+	))
+4	((	NP	<ne=NEL>
+4.1	দক্ষিণ	XC	
+4.2	আমেরিকা	NNP	
+	))
+5	থেকে	PSP	
+6	((	NP	
+6.1	প্রত্যাবর্তনের	NN	
+	))
+7	((	NP	
+7.1	সময়	NN	
+	))
+8	((	NP	<ne=NEP>
+8.1	রবীন্দ্রনাথ	NNP	
+	))
+9	((	NP	
+9.1	কয়েকদিন	NN	
+	))
+10	((	NP	<ne=NEL>
+10.1	ইতালীতে	NNP	
+	))
+11	((	VGF	
+11.1	থাকেন	VM	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="28">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	20	QC	
+	))
+3	((	NP	
+3.1	সে	DEM	
+3.2	সময়	NN	
+	))
+4	((	NP	
+4.1	খ্যাতনামা	JJ	
+4.2	সংস্কৃতজ্ঞ	JJ	
+4.3	পণ্ডিত	NN	
+	))
+5	((	NP	<ne=NEP>
+5.1	ফার্মিকির	NNP	
+	))
+6	সঙ্গে	NST	
+7	((	NP	
+7.1	তাঁর	PRP	
+	))
+8	((	NP	
+8.1	পরিচয়	NN	
+	))
+9	((	VGF	
+9.1	ঘটে	VM	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="29">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	21	QC	
+	))
+3	((	NP	
+3.1	তিনি	PRP	
+	))
+4	((	RBP	
+4.1	সর্বদা	RB	
+	))
+5	((	NP	<ne=NEP>
+5.1	রবীন্দ্রনাথের	NNP	
+	))
+6	সঙ্গে	NST	
+7	((	VGF	
+7.1	থাকেন	VM	
+	))
+8	((	CCP	
+8.1	এবং	CC	
+	))
+9	((	NP	
+9.1	ভালো	JJ	
+9.2	ইংরেজী	NNP	
+	))
+10	((	VGF	
+10.1	জানতেন	VM	
+	))
+11	((	CCP	
+11.1	বলে	CC	
+	))
+12	((	NP	<ne=NEP>
+12.1	রবীন্দ্রনাথের	NNP	
+	))
+13	((	NP	
+13.1	দোভাষীর	NN	
+	))
+14	((	NP	
+14.1	কাজ	NN	
+	))
+15	((	VGF	
+15.1	করেছেন	VM	
+15.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="30">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	22	QC	
+	))
+3	((	NP	
+3.1	অত্যন্ত	INTF	
+3.2	চতুর	JJ	
+3.3	এই	DEM	
+3.4	ব্যক্তি	NN	
+	))
+4	((	NP	<ne=NEP>
+4.1	মুসোলিনীর	NNP	
+	))
+5	((	NP	
+5.1	ঘোর	JJ	
+5.2	সমর্থক	NN	
+	))
+6	((	VGF	
+6.1	ছিলেন	VM	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="31">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	23	QC	
+	))
+3	((	NP	
+3.1	তাঁর	PRP	
+	))
+4	((	NP	
+4.1	বাক্-পটুতায়	NN	
+	))
+5	((	NP	<ne=NEP>
+5.1	রবীন্দ্রনাথ	NNP	
+	))
+6	((	JJP	
+6.1	খুশী	JJ	
+	))
+7	((	VGF	
+7.1	হন	VM	
+	))
+8	((	CCP	
+8.1	এবং	CC	
+	))
+9	((	NP	
+9.1	তাঁকে	PRP	
+	))
+10	((	NP	<ne=NEO>
+10.1	বিশ্বভারতীতে	NNP	
+	))
+11	((	NP	
+11.1	যোগ	NN	
+	))
+12	((	VGNN	
+12.1	দেবার	VM	
+12.2	জন্য	PSP	
+	))
+13	((	NP	
+13.1	আমন্ত্রণ	NN	
+	))
+14	((	VGF	
+14.1	জানিয়ে	VM	
+14.2	আসেন	VAUX	
+14.3	-	SYM	
+	))
+15	((	NP	
+15.1	এই	DEM	
+15.2	সুযোগে	NN	
+	))
+16	((	NP	<ne=NEL>
+16.1	ইতালীর	NNP	
+	))
+17	((	NP	
+17.1	সর্বেসর্বা	NN	
+	))
+18	((	NP	<ne=NEP>
+18.1	মুসোলিনী	NNP	
+	))
+19	((	NP	<ne=NEL>
+19.1	ভারতের	NNP	
+	))
+20	((	CCP	
+20.1	তথা	CC	
+	))
+21	((	NP	<ne=NEP>
+21.1	রবীন্দ্রনাথের	NNP	
+	))
+22	((	NP	
+22.1	সহানুভূতি	NN	
+	))
+23	((	NP	
+23.1	লাভের	NN	
+23.2	জন্য	PSP	
+	))
+24	((	NP	
+24.1	সার্বিক	JJ	
+24.2	প্রয়াস	NN	
+	))
+25	((	VGINF	
+25.1	চালাতে	VM	
+	))
+26	((	NP	
+26.1	শুরু	NN	
+	))
+27	((	VGF	
+27.1	করলেন	VM	
+27.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="32">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	24	QC	
+	))
+3	((	NP	
+3.1	তিনি	PRP	
+	))
+4	((	NP	<ne=NEP>
+4.1	ফার্মিকির	NNP	
+	))
+5	মাধ্যমে	PSP	
+6	((	RBP	
+6.1	শুধু	RB	
+	))
+7	((	NP	
+7.1	শুভেচ্ছা	XC	
+7.2	বাণীই	NN	
+	))
+8	((	VGF	
+8.1	পাঠালেন	VM	
+8.2	না	NEG	
+8.3	,	SYM	
+	))
+9	((	NP	
+9.1	কিছুদিন	NN	
+9.2	পরে	NST	
+	))
+10	((	NP	<ne=NEL>
+10.1	ইতালীর	NNP	
+	))
+11	((	NP	
+11.1	খ্যাতনামা	JJ	
+11.2	পণ্ডিত	NN	
+	))
+12	((	NP	<ne=NEP>
+12.1	তুচ্চিকেও	NNP	
+	))
+13	((	NP	<ne=NEL>
+13.1	শান্তিনিকেতনে	NNP	
+	))
+14	((	VGF	
+14.1	পাঠালেন	VM	
+14.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="33">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	25	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	রবীন্দ্রনাথ	NNP	
+	))
+4	((	RBP	
+4.1	স্বভাবতই	RB	
+	))
+5	((	JJP	
+5.1	প্রীত	JJ	
+	))
+6	((	VGF	
+6.1	হন	VM	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="34">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	26	QC	
+	))
+3	((	NP	
+3.1	তিনি	PRP	
+	))
+4	((	NP	
+4.1	এক	QC	
+4.2	তারবার্তায়	NN	
+	))
+5	((	NP	<ne=NEP>
+5.1	মুসোলিনীকে	NNP	
+	))
+6	((	VGF	
+6.1	জানালেন	VM	
+6.2	-	SYM	
+6.3	.	SYM	
+6.4	.	SYM	
+6.5	.	SYM	
+6.6	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="35">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	27	QC	
+	))
+3	((	NP	<ne=NETI>
+3.1	1925	XC	
+3.2	সালের	NNP	
+	))
+4	((	NP	<ne=NETI>
+4.1	21শে	QO	
+4.2	নভেম্বর	NNP	
+	))
+5	((	NP	<ne=NEP>
+5.1	ফর্মিকি	NNP	
+	))
+6	((	NP	
+6.1	`	SYM	
+6.2	অভ্যাগত	XC	
+6.3	অধ্যাপক	NN	
+6.4	'	SYM	
+	))
+7	((	FRAGP	
+7.1	রূপে	RP	
+	))
+8	((	NP	<ne=NEL>
+8.1	শান্তিনিকেতনে	NNP	
+	))
+9	((	VGNF	
+9.1	এলে	VM	
+	))
+10	((	NP	<ne=NEL>
+10.1	আম্রকুঞ্জের	NNP	
+	))
+11	((	NP	
+11.1	এক	QC	
+11.2	অনুষ্ঠানে	NN	
+	))
+12	((	NP	
+12.1	`	SYM	
+12.2	শান্তিমন্দির	XC	
+12.3	পুণ্য	XC	
+12.4	অঙ্গন	NNP	
+12.5	'	SYM	
+	))
+13	((	NP	
+13.1	গানটি	NN	
+	))
+14	((	VGNF	
+14.1	গেয়ে	VM	
+	))
+15	((	NP	
+15.1	তাঁকে	PRP	
+	))
+16	((	NP	
+16.1	অভ্যর্থনা	NN	
+	))
+17	((	VGF	
+17.1	জানান	VM	
+17.2	হয়	VAUX	
+17.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="36">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	28	QC	
+2.2	/	SYM	
+2.3	/	SYM	
+	))
+3	((	NP	<ne=NEL>
+3.1	শান্তিনিকেতনে	NNP	
+	))
+4	((	NP	
+4.1	খ্রীষ্টীয়	JJ	
+4.2	সংস্কৃতির	NN	
+	))
+5	((	NP	
+5.1	চর্চা-কেন্দ্র	NN	
+	))
+6	((	NP	
+6.1	প্রতিষ্ঠার	NN	
+6.2	জন্য	PSP	
+	))
+7	((	NP	<ne=NEP>
+7.1	রবীন্দ্রনাথ	NNP	
+	))
+8	`	SYM	
+9	((	NP	<ne=NEO>
+9.1	সোসাইটি	XC	
+9.2	অব্	XC	
+9.3	ফ্রেণ্ডস	NN	
+	))
+10	'	SYM	
+11	((	FRAGP	
+11.1	-এর	RP	
+11.2	কাছে	NST	
+	))
+12	((	NP	
+12.1	এক	QC	
+12.2	প্রস্তাব	NN	
+	))
+13	((	VGF	
+13.1	পাঠিয়েছিলেন	VM	
+13.2	,	SYM	
+	))
+14	((	NP	
+14.1	যা	PRP	
+	))
+15	((	RBP	
+15.1	সাদরে	RB	
+	))
+16	((	JJP	
+16.1	গৃহীত	JJ	
+	))
+17	((	VGF	
+17.1	হয়েছিল	VM	
+17.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="37">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	29	QC	
+	))
+3	((	NP	
+3.1	এ-প্রসঙ্গে	NN	
+	))
+4	((	NP	
+4.1	আলোচনা	NN	
+	))
+5	((	VGNF	
+5.1	করতে	VM	
+5.2	গিয়ে	VAUX	
+	))
+6	((	NP	<ne=NEP>
+6.1	রবীন্দ্রনাথ	NNP	
+	))
+7	((	NP	<ne=NEP>
+7.1	হোরেস	XC	
+7.2	আলেকজাণ্ডারকে	NNP	
+	))
+8	((	VGF	
+8.1	লেখেন	VM	
+	))
+9	(	SYM	
+10	((	NP	<ne=NETI>
+10.1	1938	QC	
+	))
+11	((	NP	<ne=NETI>
+11.1	জুন	NNP	
+11.2	28	QC	
+	))
+12	)	SYM	
+13	((	NP	
+13.1	-	SYM	
+13.2	The	UNK	
+13.3	co-operation	NN	
+	))
+14	((	NP	
+14.1	of	PSP	
+14.2	friends	NN	
+	))
+15	((	VGF	
+15.1	will	VM	
+15.2	.	SYM	
+15.3	.	SYM	
+15.4	.	SYM	
+	))
+16	((	NP	
+16.1	Institution	NN	
+16.2	.	SYM	
+16.3	"	SYM	
+	))
+17	((	NP	
+17.1	এখানে	PRP	
+	))
+18	((	VGNN	
+18.1	বলা	VM	
+	))
+19	((	JJP	
+19.1	আবশ্যক	JJ	
+	))
+20	((	CCP	
+20.1	যে	CC	
+	))
+21	((	NP	<ne=NEP>
+21.1	মার্জারী	XC	
+21.2	সাইকস্	NNP	
+	))
+22	((	NP	
+22.1	নামে	NN	
+	))
+23	((	NP	
+23.1	এক	QC	
+23.2	বিদেশিনী	NN	
+	))
+24	`	SYM	
+25	((	NP	<ne=NEO>
+25.1	সোসাইটি	XC	
+25.2	অব্	XC	
+25.3	ফ্রেণ্ডস	NN	
+	))
+26	'	SYM	
+27	((	FRAGP	
+27.1	-এর	RP	
+27.2	মাধ্যমে	PSP	
+	))
+28	((	NP	<ne=NETI>
+28.1	1939	XC	
+28.2	সালে	NNP	
+	))
+29	((	NP	<ne=NEL>
+29.1	শান্তিনিকেতনে	NNP	
+	))
+30	((	VGF	
+30.1	আসেন	VM	
+30.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="38">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	30	QC	
+	))
+3	((	NP	<ne=NEO>
+3.1	বিশ্বভারতীর	NNP	
+	))
+4	((	NP	
+4.1	ইতিহাসে	NN	
+	))
+5	((	NP	
+5.1	তাঁর	PRP	
+	))
+6	((	NP	
+6.1	নাম	NN	
+	))
+7	((	JJP	
+7.1	বিশেষ	INTF	
+7.2	উল্লেখযোগ্য	JJ	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="39">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	31	QC	
+	))
+3	((	NP	<ne=NETI>
+3.1	1946	XC	
+3.2	সালের	NNP	
+	))
+4	((	NP	<ne=NETI>
+4.1	6ই	QO	
+4.2	ফ্রেব্রুয়ারী	NNP	
+	))
+5	((	NP	<ne=NEL>
+5.1	শ্রীনিকেতনের	NNP	
+	))
+6	((	NP	
+6.1	পল্লী-সংগঠন	XC	
+6.2	বিভাগের	NN	
+	))
+7	((	NP	
+7.1	24তম	QO	
+7.2	বর্ষপূর্তি	XC	
+7.3	অনুষ্ঠানে	NN	
+	))
+8	((	NP	<ne=NEP>
+8.1	হোরেস	XC	
+8.2	আলেকজাণ্ডার	NNP	
+	))
+9	((	NP	
+9.1	সভাপতিত্ব	NN	
+	))
+10	((	VGF	
+10.1	করেন	VM	
+10.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="40">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	32	QC	
+	))
+3	((	NP	
+3.1	আলোচনা	NN	
+	))
+4	((	NP	
+4.1	প্রসঙ্গে	NN	
+	))
+5	((	NP	
+5.1	তিনি	PRP	
+	))
+6	((	NP	
+6.1	এই	DEM	
+6.2	বিভাগটির	NN	
+	))
+7	((	NP	
+7.1	ভূমিকার	NN	
+	))
+8	((	NP	
+8.1	মূল্যায়ন	NN	
+	))
+9	((	VGNF	
+9.1	করে	VM	
+	))
+10	((	VGF	
+10.1	বলেন	VM	
+10.2	-	SYM	
+10.3	.	SYM	
+10.4	.	SYM	
+10.5	.	SYM	
+10.6	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="41">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	33	QC	
+	))
+3	((	NP	
+3.1	এর	PRP	
+	))
+4	((	RBP	
+4.1	ঠিক	RB	
+	))
+5	((	NP	<ne=NEM>
+5.1	দুবছর	NN	
+	))
+6	পরে	NST	
+7	((	NP	
+7.1	তিনি	PRP	
+	))
+8	((	RBP	
+8.1	পুনরায়	RB	
+	))
+9	((	NP	
+9.1	সপ্তাহকালের	NN	
+9.2	জন্য	PSP	
+	))
+10	((	NP	<ne=NEL>
+10.1	শান্তিনিকেতনে	NNP	
+	))
+11	((	VGF	
+11.1	আসেন	VM	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="42">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	34	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	বিশ্বভারতীর	NNP	
+	))
+4	((	NP	<ne=NEO>
+4.1	শিক্ষা	XC	
+4.2	ভবনের	NNP	
+	))
+5	((	NP	
+5.1	ছাত্ররা	NN	
+	))
+6	((	NP	
+6.1	এই	DEM	
+6.2	সময়	NN	
+	))
+7	((	NP	
+7.1	গ্রমোন্নয়নের	NN	
+	))
+8	((	NP	
+8.1	কাজে	NN	
+	))
+9	((	RBP	
+9.1	বিশেষভাবে	RB	
+	))
+10	((	JJP	
+10.1	ব্রতী	JJ	
+	))
+11	((	VGF	
+11.1	হয়েছিল	VM	
+11.2	-	SYM	
+	))
+12	((	NP	<ne=NEP>
+12.1	হোরেস	XC	
+12.2	আলেকজাণ্ডার	NNP	
+	))
+13	((	NP	
+13.1	এই	DEM	
+13.2	কাজে	NN	
+	))
+14	((	NP	
+14.1	ছাত্রদের	NN	
+	))
+15	((	RBP	
+15.1	নানাভাবে	RB	
+	))
+16	((	NP	
+16.1	পথ	NN	
+	))
+17	((	NP	
+17.1	নির্দেশ	NN	
+	))
+18	((	VGNF	
+18.1	করে	VM	
+	))
+19	((	NP	
+19.1	মূল্যবান	JJ	
+19.2	পরামর্শ	NN	
+	))
+20	((	VGF	
+20.1	দেন	VM	
+20.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="43">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	35	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	হোরেস	XC	
+3.2	আলেকজাণ্ডার	NNP	
+	))
+4	((	NP	<ne=NETP>
+4.1	মহাত্মা	XC	
+4.2	গান্ধীর	NNP	
+	))
+5	((	NP	
+5.1	একান্ত	JJ	
+5.2	অনুরাগী	NN	
+	))
+6	((	CCP	
+6.1	এবং	CC	
+	))
+7	((	NP	<ne=NEP>
+7.1	সি	XC	
+7.2	.	SYM	
+7.3	এফ	XC	
+7.4	.	SYM	
+7.5	এণ্ড্রুজের	NNP	
+	))
+8	((	NP	
+8.1	ঘনিষ্ঠ	JJ	
+8.2	বন্ধু	NN	
+8.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="44">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	36	QC	
+	))
+3	((	NP	
+3.1	মানুষের	NN	
+3.2	প্রতি	PSP	
+	))
+4	((	NP	
+4.1	ভালোবাসা	NN	
+	))
+5	((	NP	
+5.1	বন্ধন-মুক্তি	NN	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	বিশ্বশান্তি	NN	
+6.2	-	SYM	
+	))
+7	((	NP	
+7.1	এই	PRP	
+	))
+8	((	VGF	
+8.1	ছিল	VM	
+	))
+9	((	NP	
+9.1	তাঁর	PRP	
+	))
+10	((	NP	
+10.1	জীবনাদর্শ	NN	
+10.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="45">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	37	QC	
+	))
+3	((	NP	<ne=NETI>
+3.1	1949	XC	
+3.2	সালের	NNP	
+	))
+4	((	NP	
+4.1	ডিসেম্বর	XC	
+4.2	মাসে	NNP	
+	))
+5	((	NP	<ne=NEL>
+5.1	শান্তিনিকেতনের	NNP	
+	))
+6	((	JJP	
+6.1	সপ্তাহব্যাপী	JJ	
+6.2	আয়োজিত	JJ	
+	))
+7	`	SYM	
+8	((	NP	<ne=NEO>
+8.1	ওয়ার্ল্ড	XC	
+8.2	প্যাসিফিস্ট	XC	
+8.3	মিশন	NNP	
+	))
+9	'	SYM	
+10	((	FRAGP	
+10.1	-এর	RP	
+	))
+11	((	NP	
+11.1	অধিবেশনে	NN	
+	))
+12	((	NP	
+12.1	তিনি	PRP	
+	))
+13	((	JJP	
+13.1	উপস্থিত	JJ	
+	))
+14	((	VGF	
+14.1	ছিলেন	VM	
+14.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="46">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	38	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	শান্তিনিকেতন	NNP	
+	))
+4	((	VGNN	
+4.1	ছেড়ে	VM	
+4.2	যাবার	VAUX	
+4.3	পূর্বে	NST	
+	))
+5	((	NP	
+5.1	তিনি	PRP	
+	))
+6	((	NP	
+6.1	মিশনের	NN	
+	))
+7	((	NP	
+7.1	সদস্যদের	NN	
+	))
+8	((	NP	
+8.1	পক্ষ	NN	
+8.2	থেকে	PSP	
+	))
+9	((	NP	<ne=NEP>
+9.1	রবীন্দ্রনাথ	XC	
+9.2	ঠাকুর	NNP	
+	))
+10	((	CCP	
+10.1	,	SYM	
+	))
+11	((	NP	<ne=NEP>
+11.1	প্রতিমা	XC	
+11.2	দেবী	NNP	
+	))
+12	((	CCP	
+12.1	ও	CC	
+	))
+13	((	NP	<ne=NEL>
+13.1	বিশ্বভারতীর	NNP	
+	))
+14	((	NP	
+14.1	ছাত্র	XC	
+14.2	কর্মীদের	NN	
+14.3	উদ্দেশ্যে	PSP	
+	))
+15	((	VGF	
+15.1	লেখেন	VM	
+15.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="47">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	39	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	শান্তিনিকেতন-বিশ্বভারতী	NNP	
+	))
+4	((	CCP	
+4.1	ও	CC	
+	))
+5	((	NP	<ne=NEP>
+5.1	রবীন্দ্রনাথের	NNP	
+	))
+6	প্রতি	PSP	
+7	((	NP	<ne=NEP>
+7.1	হোরেস	XC	
+7.2	আলেকজাণ্ডারের	NNP	
+	))
+8	((	NP	
+8.1	আকর্ষণ	NN	
+	))
+9	((	VGF	
+9.1	ছিল	VM	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="48">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	40	QC	
+	))
+3	((	CCP	
+3.1	তাই	CC	
+	))
+4	((	NP	<ne=NEL>
+4.1	রবিতীর্থে	NNP	
+	))
+5	((	NP	
+5.1	তাঁর	PRP	
+	))
+6	((	NP	
+6.1	আগমন	NN	
+	))
+7	((	VGF	
+7.1	ঘটেছে	VM	
+	))
+8	((	NP	
+8.1	বারেবার	NN	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="49">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	41	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	হোরেস	XC	
+3.2	আলেকজাণ্ডার	NNP	
+	))
+4	((	CCP	
+4.1	যদিও	CC	
+	))
+5	((	NP	
+5.1	বাংলা	NNP	
+	))
+6	((	VGF	
+6.1	জানতেন	VM	
+6.2	না	NEG	
+6.3	,	SYM	
+	))
+7	((	CCP	
+7.1	তবুও	CC	
+	))
+8	((	NP	
+8.1	অনেক	QF	
+8.2	কারণেই	NN	
+	))
+9	((	NP	
+9.1	তিনি	PRP	
+	))
+10	((	NP	
+10.1	নিজেকে	PRP	
+	))
+11	((	NP	
+11.1	বাঙালী	NN	
+	))
+12	((	NP	
+12.1	মনে	NN	
+	))
+13	((	VGF	
+13.1	করতেন	VM	
+13.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="50">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	42	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	ভারতবর্ষের	NNP	
+	))
+4	((	NP	
+4.1	জনগণের	NN	
+4.2	জন্য	PSP	
+	))
+5	((	NP	
+5.1	তাঁর	PRP	
+	))
+6	((	NP	
+6.1	যে	DEM	
+6.2	ভালোবাসা	NN	
+	))
+7	((	VGF	
+7.1	ছিল	VM	
+7.2	,	SYM	
+	))
+8	((	NP	
+8.1	তা	PRP	
+	))
+9	((	NP	
+9.1	আমাদের	PRP	
+	))
+10	((	JJP	
+10.1	অভিভূত	JJ	
+	))
+11	((	VGF	
+11.1	করে	VM	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="51">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	43	QC	
+	))
+3	((	NP	
+3.1	স্বাধীনতাকামী	JJ	
+3.2	ভারতীয়দের	NN	
+3.3	প্রতি	PSP	
+	))
+4	((	NP	
+4.1	তাঁর	PRP	
+	))
+5	((	NP	
+5.1	সহানুভূতির	NN	
+	))
+6	((	NP	
+6.1	অন্ত	NN	
+	))
+7	((	VGF	
+7.1	ছিল	VM	
+7.2	না	NEG	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="52">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	44	QC	
+	))
+3	((	RBP	
+3.1	প্রসঙ্গত	RB	
+	))
+4	((	VGF	
+4.1	বলি	VM	
+4.2	-	SYM	
+	))
+5	((	NP	<ne=NETI>
+5.1	1943	XC	
+5.2	সালে	NNP	
+	))
+6	((	NP	<ne=NEL>
+6.1	বাংলাদেশ	NNP	
+	))
+7	((	NP	
+7.1	যখন	PRP	
+	))
+8	((	NP	
+8.1	চরম	JJ	
+8.2	দুর্ভিক্ষের	NN	
+	))
+9	((	NP	
+9.1	কবলে	NN	
+9.2	;	SYM	
+	))
+10	((	NP	
+10.1	সে-সময়	NN	
+	))
+11	((	NP	
+11.1	তিনি	PRP	
+	))
+12	((	NP	
+12.1	এখানেই	PRP	
+	))
+13	((	VGF	
+13.1	ছিলেন	VM	
+	))
+14	((	CCP	
+14.1	এবং	CC	
+	))
+15	((	NP	
+15.1	যথা	JJ	
+15.2	সময়ে	NN	
+	))
+16	((	NP	<ne=NEL>
+16.1	ইংলণ্ডে	NNP	
+	))
+17	((	NP	
+17.1	প্রত্যাবর্তন	NN	
+	))
+18	((	VGNF	
+18.1	করে	VM	
+	))
+19	((	NP	
+19.1	গভর্মেণ্ট	NN	
+	))
+20	((	CCP	
+20.1	ও	CC	
+	))
+21	((	NP	
+21.1	দেশবাসীর	NN	
+21.2	কাছে	NST	
+	))
+22	((	NP	
+22.1	সহায়তার	NN	
+	))
+23	((	NP	
+23.1	আবেদন	NN	
+	))
+24	((	VGF	
+24.1	জানান	VM	
+24.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="53">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	45	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	ইংলণ্ড	NNP	
+	))
+4	((	NP	
+4.1	তখন	PRP	
+	))
+5	((	NP	
+5.1	যুদ্ধে	NN	
+	))
+6	((	JJP	
+6.1	বিপর্য্যস্ত	JJ	
+6.2	-	SYM	
+	))
+7	((	CCP	
+7.1	তবুও	CC	
+	))
+8	((	NP	
+8.1	মানবদরদী	JJ	
+8.2	এই	DEM	
+8.3	মানুষটির	NN	
+	))
+9	((	NP	
+9.1	আবেদনে	NN	
+	))
+10	((	NP	
+10.1	সাড়া	NN	
+	))
+11	((	VGF	
+11.1	দিয়েছিলেন	VM	
+	))
+12	((	NP	
+12.1	সে-দেশের	NN	
+	))
+13	((	NP	
+13.1	হাজার	QF	
+13.2	হাজার	RDP	
+13.3	মানুষ	NN	
+13.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="54">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	46	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	তান	XC	
+3.2	য়ুন	XC	
+3.3	শান	NNP	
+	))
+4	:	SYM	
+5	((	NP	<ne=NEP>
+5.1	তান	XC	
+5.2	য়ুন	XC	
+5.3	শান	NNP	
+	))
+6	-এর	RP	
+7	সঙ্গে	NST	
+8	((	NP	<ne=NEP>
+8.1	রবীন্দ্রনাথের	NNP	
+	))
+9	((	NP	
+9.1	প্রথম	QO	
+9.2	সাক্ষাত	NN	
+	))
+10	((	NP	<ne=NEL>
+10.1	1927	XC	
+10.2	সালে	NNP	
+	))
+11	((	NP	<ne=NEL>
+11.1	সিঙ্গাপুরে	NNP	
+	))
+12	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="55">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	47	QC	
+	))
+3	((	NP	
+3.1	এই	DEM	
+3.2	সময়েই	NN	
+	))
+4	((	NP	
+4.1	তিনি	PRP	
+	))
+5	((	NP	<ne=NEL>
+5.1	শান্তিনিকেতনে	NNP	
+	))
+6	((	NP	
+6.1	যোগদানের	NN	
+6.2	জন্য	PSP	
+	))
+7	((	NP	
+7.1	মনস্থির	NN	
+	))
+8	((	VGF	
+8.1	করেন	VM	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="56">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	48	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	তান	XC	
+3.2	য়ুন	XC	
+3.3	শান	NNP	
+	))
+4	((	VGF	
+4.1	বলেছেন	VM	
+4.2	-	SYM	
+	))
+5	((	NP	
+5.1	"	SYM	
+5.2	প্রথম	QO	
+5.3	দর্শনেই	NN	
+	))
+6	((	NP	
+6.1	আমি	PRP	
+	))
+7	((	NP	
+7.1	তাঁকে	PRP	
+	))
+8	((	VGF	
+8.1	ভালোবেসেছিলাম	VM	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="57">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	49	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	NP	
+4.1	তাঁর	PRP	
+4.2	প্রতি	PSP	
+	))
+5	((	NP	
+5.1	আমার	PRP	
+	))
+6	((	NP	
+6.1	আকর্ষণের	NN	
+	))
+7	((	NP	
+7.1	সূচনা	NN	
+	))
+8	((	NP	
+8.1	তারও	PRP	
+	))
+9	((	NP	
+9.1	অনেক	QF	
+9.2	আগে	NST	
+9.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="58">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	50	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	চীনে	NNP	
+	))
+4	((	NP	
+4.1	অবস্থানকালে	NN	
+	))
+5	((	NP	
+5.1	তাঁর	PRP	
+	))
+6	((	NP	
+6.1	প্রতিটি	QF	
+6.2	বক্তৃতা	NN	
+6.3	,	SYM	
+	))
+7	((	NP	
+7.1	প্রতিটি	QF	
+7.2	লেখার	NN	
+7.3	জন্য	PSP	
+	))
+8	((	NP	
+8.1	আমি	PRP	
+	))
+9	((	JJP	
+9.1	উন্মুখ	JJ	
+	))
+10	((	VGF	
+10.1	হয়ে	VM	
+10.2	থাকতাম	VAUX	
+10.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="59">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	51	QC	
+	))
+3	((	NP	
+3.1	প্রথম	QO	
+3.2	দর্শনেই	NN	
+	))
+4	((	NP	
+4.1	আমি	PRP	
+	))
+5	((	NP	<ne=NEP>
+5.1	রবীন্দ্রনাথের	NNP	
+	))
+6	মধ্যে	NST	
+7	((	VGF	
+7.1	দেখেছিলাম	VM	
+	))
+8	((	NP	<ne=NEL>
+8.1	ভারতের	NNP	
+	))
+9	((	NP	
+9.1	প্রকৃত	JJ	
+9.2	প্রতিনিধি	NN	
+9.3	-	SYM	
+	))
+10	((	NP	
+10.1	প্রকৃত	JJ	
+10.2	প্রতীক	NN	
+10.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="60">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	52	QC	
+	))
+3	((	NP	
+3.1	"	SYM	
+3.2	/	SYM	
+3.3	/	SYM	
+3.4	বহু	QF	
+3.5	বছর	NN	
+3.6	পরে	NST	
+	))
+4	((	NP	<ne=NETI>
+4.1	1972	XC	
+4.2	সালের	NNP	
+	))
+5	((	NP	<ne=NETI>
+5.1	2রা	QO	
+5.2	মার্চ	NNP	
+	))
+6	`	SYM	
+7	((	NP	<ne=NEO>
+7.1	ইন্দো-জাপান	XC	
+7.2	টেগোর	XC	
+7.3	এসোসিয়েশন	NNP	
+	))
+8	'	SYM	
+9	((	FRAGP	
+9.1	-এর	RP	
+	))
+10	((	NP	
+10.1	সদস্যদের	NN	
+10.2	সঙ্গে	NST	
+	))
+11	((	NP	
+11.1	তিনি	PRP	
+	))
+12	((	NP	<ne=NEL>
+12.1	শান্তিনিকেতনে	NNP	
+	))
+13	((	NP	
+13.1	ভ্রমণে	NN	
+	))
+14	((	VGF	
+14.1	আসেন	VM	
+14.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="61">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	53	QC	
+	))
+3	((	RBP	
+3.1	প্রসঙ্গত	RB	
+	))
+4	((	VGF	
+4.1	বলি	VM	
+4.2	,	SYM	
+	))
+5	((	NP	<ne=NEP>
+5.1	মাকিকোহাশিমতো	NNP	
+	))
+6	বিপ্লবী	XC	
+7	((	NP	<ne=NEP>
+7.1	রাসবিহারী	XC	
+7.2	বসুর	NNP	
+	))
+8	((	NP	
+8.1	শ্যালিকা	NN	
+8.2	-	SYM	
+	))
+9	((	NP	
+9.1	বর্তমানে	NN	
+	))
+10	((	NP	<ne=NEL>
+10.1	জাপানেই	NNP	
+	))
+11	((	VGF	
+11.1	থাকেন	VM	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="62">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	54	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ব্রুনার	NNP	
+	))
+4	((	CCP	
+4.1	ও	CC	
+	))
+5	((	NP	<ne=NEP>
+5.1	হাইল্ড	NNP	
+	))
+6	:	SYM	
+7	((	NP	<ne=NEL>
+7.1	হাংগেরির	NNP	
+	))
+8	((	NP	<ne=NETP>
+8.1	মিসেস	XC	
+8.2	ব্রুনার	NNP	
+	))
+9	((	CCP	
+9.1	ও	CC	
+	))
+10	((	NP	
+10.1	তাঁর	PRP	
+	))
+11	((	NP	
+11.1	কন্যা	NN	
+	))
+12	((	NP	<ne=NEP>
+12.1	হাইল্ড	NNP	
+	))
+13	((	NP	<ne=NETI>
+13.1	1930	XC	
+13.2	সালে	NNP	
+	))
+14	((	NP	<ne=NEL>
+14.1	শান্তিনিকেতনে	NNP	
+	))
+15	((	VGF	
+15.1	আসেন	VM	
+15.2	-	SYM	
+	))
+16	((	NP	
+16.1	উভয়েই	PRP	
+	))
+17	((	VGF	
+17.1	ছিলেন	VM	
+	))
+18	((	NP	
+18.1	শিল্পী	NN	
+18.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="63">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	55	QC	
+	))
+3	((	NP	
+3.1	এখানে	PRP	
+	))
+4	((	VGNN	
+4.1	আসার	VM	
+	))
+5	((	NP	
+5.1	সময়ে	NN	
+	))
+6	((	NP	
+6.1	তাঁরা	PRP	
+	))
+7	((	NP	<ne=NEL>
+7.1	বুদ্ধগয়ার	NNP	
+	))
+8	((	NP	<ne=NETE>
+8.1	বোধিবৃক্ষের	NNP	
+	))
+9	((	NP	
+9.1	একটি	QC	
+9.2	চারাগাছ	NN	
+	))
+10	((	NP	
+10.1	সঙ্গে	NST	
+10.2	করে	RP	
+	))
+11	((	VGF	
+11.1	আনেন	VM	
+11.2	,	SYM	
+	))
+12	((	NP	<ne=NED>
+12.1	1939	XC	
+12.2	সালে	NNP	
+	))
+13	((	NP	
+13.1	বিশ্বভারতীর	NNP	
+	))
+14	((	NP	
+14.1	বৃক্ষরোপণ	XC	
+14.2	উত্সবে	NNP	
+	))
+15	((	NP	
+15.1	সেটি	PRP	
+	))
+16	((	NP	<ne=NEL>
+16.1	চীনভবনে	NNP	
+	))
+17	((	JJP	
+17.1	রোপিত	JJ	
+	))
+18	((	VGF	
+18.1	হয়	VM	
+	))
+19	(	SYM	
+20	((	NP	<ne=NETI>
+20.1	13	QC	
+20.2	আগস্ট	NNP	
+	))
+21	)	SYM	
+22	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="64">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	56	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	শান্তিনিকেতনে	NNP	
+	))
+4	((	NP	
+4.1	তাঁরা	PRP	
+	))
+5	((	VGF	
+5.1	ছিলেন	VM	
+	))
+6	মোট	QF	
+7	((	NP	<ne=NEM>
+7.1	সাত	QC	
+7.2	মাস	NN	
+	))
+8	,	SYM	
+9	((	NP	
+9.1	পরে	NST	
+	))
+10	((	NP	
+10.1	এখান	PRP	
+10.2	থেকে	PSP	
+	))
+11	((	VGNF	
+11.1	চলে	VM	
+11.2	গিয়ে	VAUX	
+	))
+12	((	NP	<ne=NEL>
+12.1	ভারতের	NNP	
+	))
+13	((	NP	
+13.1	বিভিন্ন	JJ	
+13.2	স্থান	NN	
+	))
+14	((	NP	
+14.1	পরিদর্শন	NN	
+	))
+15	((	VGNF	
+15.1	করে	VM	
+	))
+16	((	NP	
+16.1	তাঁরা	PRP	
+	))
+17	((	NP	<ne=NEL>
+17.1	দিল্লী	NNP	
+	))
+18	((	VGF	
+18.1	যান	VM	
+	))
+19	((	CCP	
+19.1	ও	CC	
+	))
+20	((	NP	
+20.1	সেখানে	PRP	
+	))
+21	((	NP	
+21.1	শিল্পী	NN	
+21.2	হিসাবে	PSP	
+	))
+22	((	NP	
+22.1	খুবই	QF	
+22.2	খ্যাতি	NN	
+	))
+23	((	NP	
+23.1	অর্জন	NN	
+	))
+24	((	VGF	
+24.1	করেন	VM	
+24.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="65">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	57	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	দিল্লীতেই	NNP	
+	))
+4	((	NP	<ne=NEP>
+4.1	ব্রুনারের	NNP	
+	))
+5	((	NP	
+5.1	মৃত্যু	NN	
+	))
+6	((	VGF	
+6.1	হয়	VM	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="66">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	58	QC	
+	))
+3	((	NP	
+3.1	তাঁর	PRP	
+	))
+4	((	NP	
+4.1	মৃত্যুর	NN	
+	))
+5	((	NP	
+5.1	বহু	QF	
+5.2	বত্সর	NN	
+5.3	পরে	NST	
+	))
+6	((	NP	<ne=NEP>
+6.1	হাইল্ড	NNP	
+	))
+7	((	NP	
+7.1	একবার	NN	
+	))
+8	((	NP	<ne=NEL>
+8.1	শান্তিনিকেতনে	NNP	
+	))
+9	((	VGF	
+9.1	এসেছিলেন	VM	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="67">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	59	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	আগাথা	XC	
+3.2	হ্যারিসন	NNP	
+	))
+4	:	SYM	
+5	((	NP	
+5.1	মানবতার	NN	
+	))
+6	((	NP	
+6.1	আদর্শে	NN	
+	))
+7	((	JJP	
+7.1	উদ্বুদ্ধ	JJ	
+	))
+8	((	NP	<ne=NETP>
+8.1	মিস	XC	
+8.2	আগাথা	XC	
+8.3	হ্যারিসন	NNP	
+	))
+9	((	NP	<ne=NEP>
+9.1	এণ্ড্রজের	NNP	
+	))
+10	মাধ্যমে	PSP	
+11	((	NP	
+11.1	প্রথমে	NN	
+	))
+12	((	NP	<ne=NEL>
+12.1	শান্তিনিকেতনে	NNP	
+	))
+13	((	VGF	
+13.1	আসেন	VM	
+	))
+14	((	NP	<ne=NETI>
+14.1	1930	XC	
+14.2	সালে	NNP	
+	))
+15	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="68">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	60	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	রবীন্দ্রনাথের	NNP	
+	))
+4	সঙ্গে	NST	
+5	((	NP	
+5.1	বিভিন্ন	JJ	
+5.2	বিষয়ে	NN	
+	))
+6	((	NP	
+6.1	আলোচনা	NN	
+	))
+7	((	VGNF	
+7.1	করে	VM	
+	))
+8	((	NP	
+8.1	তিনি	PRP	
+	))
+9	((	JJP	
+9.1	অত্যন্ত	INTF	
+9.2	প্রীত	JJ	
+	))
+10	((	VGF	
+10.1	হন	VM	
+	))
+11	((	NP	
+11.1	পরবর্তী	JJ	
+11.2	কালে	NN	
+	))
+12	((	NP	
+12.1	এই	DEM	
+12.2	প্রসঙ্গে	NN	
+	))
+13	((	NP	
+13.1	তিনি	PRP	
+	))
+14	((	VGF	
+14.1	বলেছেন	VM	
+14.2	-	SYM	
+14.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="69">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	61	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	শান্তিনিকেতনের	NNP	
+	))
+4	প্রতি	PSP	
+5	((	NP	<ne=NETP>
+5.1	মিস	XC	
+5.2	আগাথা	XC	
+5.3	হ্যারিসনের	NNP	
+	))
+6	((	NP	
+6.1	নিখাদ	JJ	
+6.2	আকর্ষণ	NN	
+	))
+7	((	VGF	
+7.1	ছিল	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="70">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	62	QC	
+	))
+3	((	CCP	
+3.1	তাই	CC	
+	))
+4	((	NP	
+4.1	সুযোগ-সুবিধা	NN	
+	))
+5	((	VGNF	
+5.1	হলেই	VM	
+	))
+6	((	NP	
+6.1	তিনি	PRP	
+	))
+7	((	NP	
+7.1	এখানে	PRP	
+	))
+8	((	VGF	
+8.1	চলে	VM	
+8.2	আসতেন	VAUX	
+8.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="71">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	63	QC	
+	))
+3	((	NP	<ne=NETI>
+3.1	1946	XC	
+3.2	সালে	NNP	
+	))
+4	((	NP	
+4.1	ফেব্রুয়ারী	XC	
+4.2	মাসে	NNP	
+	))
+5	((	NP	
+5.1	শ্রীনিকেতন-মেলা	NNP	
+	))
+6	((	CCP	
+6.1	ও	CC	
+	))
+7	((	NP	
+7.1	প্রদর্শনীর	NN	
+	))
+8	((	NP	
+8.1	(	SYM	
+8.2	14তম	QO	
+8.3	বর্ষপূর্তি	NN	
+8.4	)	SYM	
+	))
+9	((	NP	
+9.1	উদ্বোধক	NN	
+	))
+10	((	VGF	
+10.1	ছিলেন	VM	
+	))
+11	((	NP	
+11.1	এই	DEM	
+11.2	বিদেশিনী	NN	
+11.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="72">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	64	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	শান্তিনিকেতন	NNP	
+	))
+4	((	CCP	
+4.1	ও	CC	
+	))
+5	((	NP	<ne=NEL>
+5.1	শ্রীনিকেতন	NNP	
+	))
+6	-	SYM	
+7	((	NP	<ne=NEO>
+7.1	বিশ্বভারতীর	NNP	
+	))
+8	((	NP	
+8.1	এই	DEM	
+8.2	দুই	QC	
+8.3	কর্মক্ষেত্রের	NN	
+	))
+9	((	NP	
+9.1	অবদানের	NN	
+	))
+10	((	NP	
+10.1	উল্লেখ	NN	
+	))
+11	((	VGNF	
+11.1	করে	VM	
+	))
+12	((	NP	
+12.1	তিনি	PRP	
+	))
+13	((	VGF	
+13.1	বলেন	VM	
+	))
+14	((	CCP	
+14.1	যে	CC	
+14.2	,	SYM	
+	))
+15	((	NP	<ne=NEO>
+15.1	বিশ্বভারতী	NNP	
+	))
+16	((	RBP	
+16.1	যথার্থই	RB	
+	))
+17	((	NP	
+17.1	`	SYM	
+17.2	বিশ্ব-নীড়	NN	
+17.3	'	SYM	
+17.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="73">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	65	QC	
+	))
+3	((	NP	<ne=NETI>
+3.1	1949	XC	
+3.2	সালের	NNP	
+	))
+4	((	NP	
+4.1	ডিসেম্বরে	NNP	
+	))
+5	((	NP	<ne=NEL>
+5.1	শান্তিনিকেতনে	NNP	
+	))
+6	`	SYM	
+7	((	NP	<ne=NEO>
+7.1	ওয়ার্ল্ড	XC	
+7.2	প্যাসিফিস্ট	XC	
+7.3	মিশন	NNP	
+	))
+8	'	SYM	
+9	((	FRAGP	
+9.1	-এর	RP	
+	))
+10	((	NP	
+10.1	অধিবেশন	NN	
+	))
+11	((	VGF	
+11.1	হয়	VM	
+11.2	-	SYM	
+	))
+12	((	NP	
+12.1	সপ্তাহব্যাপী	JJ	
+12.2	আয়োজিত	JJ	
+12.3	এই	DEM	
+12.4	অনুষ্ঠানেও	NN	
+	))
+13	((	NP	<ne=NEP>
+13.1	আগাথা	XC	
+13.2	হ্যারিসন	NNP	
+	))
+14	((	JJP	
+14.1	উপস্থিত	JJ	
+	))
+15	((	VGF	
+15.1	ছিলেন	VM	
+15.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="74">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	66	QC	
+	))
+3	((	RBP	
+3.1	প্রসঙ্গত	RB	
+	))
+4	((	JJP	
+4.1	উল্লেখ্য	JJ	
+4.2	,	SYM	
+	))
+5	((	NP	<ne=NEP>
+5.1	মার্জারী	XC	
+5.2	সাইকসের	NNP	
+	))
+6	((	NP	
+6.1	উদ্যোগে	NN	
+	))
+7	((	JJP	
+7.1	প্রতিষ্ঠিত	JJ	
+	))
+8	`	SYM	
+9	((	NP	<ne=NEL>
+9.1	দীনবন্ধু	XC	
+9.2	ভবন	NNP	
+	))
+10	'	SYM	
+11	((	FRAGP	
+11.1	-এর	RP	
+	))
+12	((	NP	
+12.1	উদ্বোধনের	NN	
+12.2	জন্য	PSP	
+	))
+13	((	NP	
+13.1	এ-সময়	NN	
+	))
+14	((	NP	
+14.1	তাঁকে	PRP	
+	))
+15	((	NP	
+15.1	আমন্ত্রণ	NN	
+	))
+16	((	VGF	
+16.1	জানানো	VM	
+16.2	হয়েছিল	VAUX	
+16.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="75">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	67	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ই	XC	
+3.2	.	SYM	
+3.3	হফ্ম্যান	NNP	
+	))
+4	:	SYM	
+5	((	NP	
+5.1	জারমান	JJ	
+5.2	বৌদ্ধভিক্ষু	NN	
+	))
+6	((	NP	<ne=NEP>
+6.1	ই	XC	
+6.2	.	SYM	
+6.3	হফ্ম্যান	NNP	
+	))
+7	((	NP	<ne=NEP>
+7.1	ব্রহ্মচারী	XC	
+7.2	গোবিন্দ	NNP	
+	))
+8	((	NP	
+8.1	নামেই	NN	
+	))
+9	((	JJP	
+9.1	অধিক	INTF	
+9.2	পরিচিত	JJ	
+9.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="76">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	68	QC	
+	))
+3	((	NP	
+3.1	বৌদ্ধধর্ম	NN	
+3.2	-	SYM	
+	))
+4	((	RBP	
+4.1	বিশেষভাবে	RB	
+	))
+5	((	NP	
+5.1	`	SYM	
+5.2	অভিধর্ম	NN	
+5.3	'	SYM	
+	))
+6	((	FRAGP	
+6.1	সম্বন্ধে	PSP	
+	))
+7	((	VGNF	
+7.1	লিখে	VM	
+	))
+8	((	NP	
+8.1	তিনি	PRP	
+	))
+9	((	NP	
+9.1	প্রভূত	JJ	
+9.2	খ্যাতি	NN	
+	))
+10	((	NP	
+10.1	অর্জন	NN	
+	))
+11	((	VGF	
+11.1	করেন	VM	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="77">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	69	QC	
+	))
+3	((	NP	<ne=NETI>
+3.1	1931	XC	
+3.2	সালে	NNP	
+	))
+4	((	NP	<ne=NEP>
+4.1	হফ্ম্যান	NNP	
+	))
+5	((	NP	<ne=NEO>
+5.1	বিশ্বভারতীতে	NNP	
+	))
+6	((	NP	
+6.1	যোগ	NN	
+	))
+7	((	VGF	
+7.1	দেন	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="78">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	70	QC	
+	))
+3	((	NP	
+3.1	তিনি	PRP	
+	))
+4	((	NP	<ne=NEL>
+4.1	শিক্ষাভবন	NNP	
+	))
+5	((	CCP	
+5.1	ও	CC	
+	))
+6	((	NP	<ne=NEL>
+6.1	বিদ্যাভবনে	NNP	
+	))
+7	((	NP	
+7.1	জারমান	NNP	
+	))
+8	((	CCP	
+8.1	,	SYM	
+	))
+9	((	NP	
+9.1	ফরাসী	NNP	
+	))
+10	((	CCP	
+10.1	ও	CC	
+	))
+11	((	NP	
+11.1	ইংরাজী	NNP	
+	))
+12	((	NP	
+12.1	ভাষা	NN	
+	))
+13	((	VGF	
+13.1	পড়াতেন	VM	
+13.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="79">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	71	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	শান্তিনিকেতনে	NNP	
+	))
+4	((	JJP	
+4.1	থাকাকালীন	JJ	
+	))
+5	((	NP	
+5.1	তিনি	PRP	
+	))
+6	((	NP	<ne=NEL>
+6.1	পশ্চিম	XC	
+6.2	তিব্বতের	NNP	
+	))
+7	((	RBP	
+7.1	প্রায়	RB	
+	))
+8	((	NP	
+8.1	বিশটি	QC	
+8.2	মঠ	NN	
+	))
+9	((	NP	
+9.1	পরিদর্শন	NN	
+	))
+10	((	VGNF	
+10.1	করে	VM	
+	))
+11	((	NP	
+11.1	বিভিন্ন	JJ	
+11.2	দেবদেবীর	NN	
+	))
+12	((	JJP	
+12.1	মূল্যবান	JJ	
+	))
+13	((	NP	
+13.1	মূর্তি	NN	
+	))
+14	((	CCP	
+14.1	ও	CC	
+	))
+15	((	NP	
+15.1	চিত্র	NN	
+	))
+16	((	NP	
+16.1	সংগ্রহ	NN	
+	))
+17	((	VGF	
+17.1	করেন	VM	
+17.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="80">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	72	QC	
+	))
+3	((	NP	
+3.1	এই	DEM	
+3.2	সংগ্রহের	NN	
+3.3	মধ্যে	NST	
+	))
+4	((	NP	
+4.1	ভারতীয়	JJ	
+4.2	বৌদ্ধ	JJ	
+4.3	সিদ্ধাদের	NN	
+	))
+5	((	NP	
+5.1	মূর্তি-চিত্রই	NN	
+	))
+6	((	VGF	
+6.1	ছিল	VM	
+	))
+7	((	JJP	
+7.1	বেশী	JJ	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="81">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	73	QC	
+	))
+3	((	NP	<ne=NEO>
+3.1	বিশ্বভারতীতে	NNP	
+	))
+4	((	NP	
+4.1	নিয়মিত	JJ	
+4.2	ক্লাশ	NN	
+	))
+5	((	VGINF	
+5.1	নেওয়া	VM	
+5.2	ব্যতীত	PSP	
+	))
+6	((	NP	
+6.1	তিনি	PRP	
+	))
+7	((	NP	
+7.1	অবসর	XC	
+7.2	সময়ে	NN	
+	))
+8	((	NP	
+8.1	ছবি	NN	
+	))
+9	((	VGF	
+9.1	আঁকতেন	VM	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="82">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	74	QC	
+	))
+3	((	NP	
+3.1	তাঁর	PRP	
+	))
+4	((	NP	
+4.1	ছবির	NN	
+4.2	মধ্যে	NST	
+	))
+5	((	NP	
+5.1	রুশশিল্পী	NN	
+	))
+6	((	NP	<ne=NEP>
+6.1	রোএরিখ-এর	NNP	
+	))
+7	((	NP	
+7.1	প্রভাব	NN	
+	))
+8	((	VGF	
+8.1	দেখা	VM	
+8.2	যায়	VAUX	
+8.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="83">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	75	QC	
+	))
+3	((	NP	<ne=NETI>
+3.1	1934	XC	
+3.2	সালের	NNP	
+	))
+4	((	NP	
+4.1	এপ্রিল	XC	
+4.2	মাসে	NNP	
+	))
+5	((	NP	<ne=NEL>
+5.1	কলা	XC	
+5.2	ভবনে	NNP	
+	))
+6	((	NP	
+6.1	তাঁর	PRP	
+	))
+7	((	NP	
+7.1	চিত্রাবলীর	NN	
+	))
+8	((	NP	
+8.1	একটি	QC	
+8.2	প্রদর্শনী	NN	
+	))
+9	((	JJP	
+9.1	অনুষ্ঠিত	JJ	
+	))
+10	((	VGF	
+10.1	হয়েছিল	VM	
+10.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="84">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	76	QC	
+	))
+3	((	NP	
+3.1	সে-বছরই	NN	
+	))
+4	((	NP	<ne=NEP>
+4.1	হফ্ম্যান	NNP	
+	))
+5	((	NP	<ne=NEL>
+5.1	সারনাথের	NNP	
+	))
+6	((	NP	<ne=NEO>
+6.1	Buddhist	XC	
+6.2	Research	XC	
+6.3	Institution-এর	NNP	
+	))
+7	((	NP	
+7.1	ডিরেক্টর	NN	
+	))
+8	((	JJP	
+8.1	নিযুক্ত	JJ	
+	))
+9	((	VGF	
+9.1	হন	VM	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="85">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	77	QC	
+	))
+3	((	NP	<ne=NETP>
+3.1	রেভারেণ্ড	XC	
+3.2	গে-সে-থুব-তেন	NNP	
+	))
+4	:	SYM	
+5	((	NP	
+5.1	তিব্বতীয়	JJ	
+5.2	বৌদ্ধধর্মে	NN	
+	))
+6	((	JJP	
+6.1	অভিজ্ঞ	JJ	
+6.2	,	SYM	
+	))
+7	((	NP	<ne=NEL>
+7.1	মঙ্গোলিয়ার	NNP	
+	))
+8	((	NP	
+8.1	বৌদ্ধভিক্ষু	NN	
+	))
+9	((	NP	<ne=NEP>
+9.1	গে-সে-থুব-তেন	NNP	
+	))
+10	((	NP	<ne=NETI>
+10.1	1931	XC	
+10.2	সালে	NNP	
+	))
+11	((	NP	<ne=NEL>
+11.1	শান্তিনিকেতনে	NNP	
+	))
+12	((	VGF	
+12.1	আসেন	VM	
+12.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="86">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	78	QC	
+	))
+3	((	NP	<ne=NEO>
+3.1	বিশ্বভারতীতে	NNP	
+	))
+4	((	NP	
+4.1	তিনি	PRP	
+	))
+5	((	NP	
+5.1	পালিভাষা	NNP	
+	))
+6	((	VGF	
+6.1	পড়াতেন	VM	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="87">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	79	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ফব্রি	NNP	
+	))
+4	-	SYM	
+5	((	NP	<ne=NEP>
+5.1	রবীন্দ্রনাথ	NNP	
+	))
+6	((	NP	
+6.1	তাঁর	PRP	
+	))
+7	((	NP	
+7.1	আবেদনে	NN	
+	))
+8	((	NP	
+8.1	কতখানি	QF	
+8.2	সাড়া	NN	
+	))
+9	((	VGF	
+9.1	দিয়েছিলেন	VM	
+	))
+10	((	CCP	
+10.1	বা	CC	
+	))
+11	((	NP	<ne=NEP>
+11.1	ফাব্রির	NNP	
+	))
+12	((	NP	
+12.1	অন্যত্র	PRP	
+	))
+13	((	VGNN	
+13.1	যাবার	VM	
+	))
+14	((	NP	
+14.1	কোনো	QF	
+14.2	সুযোগ	NN	
+	))
+15	((	RBP	
+15.1	আদৌ	RB	
+	))
+16	((	VGF	
+16.1	হয়েছিল	VM	
+16.2	কিনা	RP	
+	))
+17	((	VGF	
+17.1	জানি	VM	
+17.2	না	NEG	
+17.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="88">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	80	QC	
+	))
+3	((	CCP	
+3.1	তবে	CC	
+	))
+4	((	VGF	
+4.1	বলতে	VM	
+4.2	পারি	VAUX	
+	))
+5	((	NP	<ne=NEP>
+5.1	রবীন্দ্রনাথের	NNP	
+	))
+6	((	NP	
+6.1	সান্নিধ্যলাভে	NN	
+	))
+7	((	JJP	
+7.1	প্রয়াসী	JJ	
+	))
+8	((	NP	
+8.1	এই	DEM	
+8.2	বিদেশী	NN	
+	))
+9	((	NP	<ne=NEO>
+9.1	বিশ্বভারতীতে	NNP	
+	))
+10	((	NP	
+10.1	যোগদানের	NN	
+10.2	জন্য	PSP	
+	))
+11	((	JJP	
+11.1	অত্যন্ত	INTF	
+11.2	উত্সুক	JJ	
+	))
+12	((	VGF	
+12.1	হয়েছিলেন	VM	
+	))
+13	((	CCP	
+13.1	এবং	CC	
+	))
+14	((	NP	
+14.1	এই	DEM	
+14.2	মর্মে	NN	
+	))
+15	((	NP	
+15.1	বছর	NN	
+15.2	দুয়েক	QC	
+15.3	পূর্বে	NST	
+	))
+16	(	SYM	
+17	((	NP	<ne=NEP>
+17.1	রবীন্দ্রনাথ	NNP	
+	))
+18	((	NP	
+18.1	তখন	PRP	
+	))
+19	((	NP	<ne=NEL>
+19.1	চীনে	NNP	
+	))
+20	)	SYM	
+21	((	NP	
+21.1	একখানি	QC	
+21.2	পত্রও	NN	
+	))
+22	((	VGF	
+22.1	লিখেন	VM	
+22.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="89">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	81	QC	
+	))
+3	((	NP	
+3.1	যাই	PRP	
+	))
+4	((	VGF	
+4.1	হোক	VM	
+4.2	,	SYM	
+	))
+5	((	RBP	
+5.1	প্রায়	RB	
+	))
+6	((	NP	<ne=NEM>
+6.1	আট	QC	
+6.2	বত্সর	NN	
+	))
+7	পর	NST	
+8	((	NP	
+8.1	তাঁর	PRP	
+	))
+9	((	NP	
+9.1	ইচ্ছা	NN	
+	))
+10	((	JJP	
+10.1	বাস্তবায়িত	JJ	
+	))
+11	((	VGF	
+11.1	হলো	VM	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="90">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	82	QC	
+	))
+3	((	NP	<ne=NETI>
+3.1	1934	XC	
+3.2	সালের	NNP	
+	))
+4	মাঝামাঝি	NST	
+5	((	NP	<ne=NEP>
+5.1	ফাব্রি	NNP	
+	))
+6	((	NP	<ne=NEL>
+6.1	শান্তিনিকেতনে	NNP	
+	))
+7	((	VGF	
+7.1	আসেন	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="91">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	83	QC	
+	))
+3	((	NP	
+3.1	এখানে	PRP	
+	))
+4	((	VGNF	
+4.1	এসে	VM	
+	))
+5	((	NP	
+5.1	তিনি	PRP	
+	))
+6	((	NP	<ne=NEL>
+6.1	বিদ্যাভবন-এ	NNP	
+	))
+7	((	NP	
+7.1	গবেষণামূলক	JJ	
+7.2	কাজে	NN	
+	))
+8	((	NP	
+8.1	আত্মনিয়োগ	NN	
+	))
+9	((	VGF	
+9.1	করেন	VM	
+9.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="92">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	84	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ফাব্রির	NNP	
+	))
+4	((	NP	
+4.1	আর	QF	
+4.2	এক	QC	
+4.3	পরিচয়	NN	
+4.4	-	SYM	
+	))
+5	((	NP	
+5.1	তিনি	PRP	
+	))
+6	((	NP	
+6.1	একজন	QC	
+6.2	শিল্প	XC	
+6.3	সমালোচক	NN	
+6.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="93">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	85	QC	
+	))
+3	`	SYM	
+4	((	NP	<ne=NETO>
+4.1	Problems	XC	
+4.2	of	XC	
+4.3	Indian	XC	
+4.4	History	NN	
+	))
+5	'	SYM	
+6	((	FRAGP	
+6.1	সম্বন্ধে	PSP	
+	))
+7	((	NP	<ne=NEO>
+7.1	বিশ্বভারতীতে	NNP	
+	))
+8	((	NP	
+8.1	তিনি	PRP	
+	))
+9	((	NP	
+9.1	কয়েকটি	QF	
+9.2	ভাষণও	NN	
+	))
+10	((	VGF	
+10.1	দেন	VM	
+10.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="94">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	86	QC	
+	))
+3	((	NP	
+3.1	তাঁর	PRP	
+	))
+4	((	NP	
+4.1	স্ত্রীও	NN	
+	))
+5	((	NP	
+5.1	একজন	QC	
+5.2	প্রতিভাসম্পন্না	JJ	
+5.3	চিত্রশিল্পী	NN	
+5.4	-	SYM	
+	))
+6	((	NP	<ne=NEL>
+6.1	কলাভবনে	NNP	
+	))
+7	((	NP	
+7.1	তাঁর	PRP	
+	))
+8	((	NP	
+8.1	চিত্রকলার	NN	
+	))
+9	((	NP	
+9.1	এক	QC	
+9.2	আকর্ষণীয়	JJ	
+9.3	প্রদর্শনী	NN	
+	))
+10	((	JJP	
+10.1	অনুষ্ঠিত	JJ	
+	))
+11	((	VGF	
+11.1	হয়েছিল	VM	
+11.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="95">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	87	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	ইনিগা	XC	
+3.2	জিয়ানসন	NNP	
+	))
+4	:	SYM	
+5	((	NP	<ne=NEP>
+5.1	রবীন্দ্রনাথ	NNP	
+	))
+6	((	NP	<ne=NETI>
+6.1	1922	XC	
+6.2	সালে	NNP	
+	))
+7	((	NP	
+7.1	যখন	PRP	
+	))
+8	((	NP	<ne=NEL>
+8.1	সুইডেন	NNP	
+	))
+9	((	NP	
+9.1	ভ্রমণে	NN	
+	))
+10	((	VGF	
+10.1	যান	VM	
+10.2	,	SYM	
+	))
+11	((	NP	<ne=NETP>
+11.1	কাউণ্টেস	XC	
+11.2	হ্যামিল্টন	NNP	
+	))
+12	((	NP	
+12.1	নামে	NN	
+	))
+13	((	NP	<ne=NEL>
+13.1	ভারত	NNP	
+	))
+14	অনুরাগিণী	JJ	
+15	এক	QC	
+16	অভিজাত	JJ	
+17	মহিলার	NN	
+18	সঙ্গে	NST	
+19	((	NP	
+19.1	তাঁর	PRP	
+	))
+20	((	NP	
+20.1	পরিচয়	NN	
+	))
+21	((	VGF	
+21.1	হয়	VM	
+21.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="96">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	88	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	রবীন্দ্রনাথের	NNP	
+	))
+4	সঙ্গে	NST	
+5	((	NP	
+5.1	কথাবার্তার	NN	
+5.2	ফলে	PSP	
+	))
+6	((	NP	<ne=NEP>
+6.1	হ্যামিলটন	NNP	
+	))
+7	((	NP	<ne=NEO>
+7.1	বিশ্বভারতীতে	NNP	
+	))
+8	((	NP	
+8.1	কারুশিল্পের	NN	
+	))
+9	((	NP	
+9.1	প্রবর্তনে	NN	
+	))
+10	((	NP	<ne=NEP>
+10.1	রবীন্দ্রনাথের	NNP	
+	))
+11	((	NP	
+11.1	ইচ্ছার	NN	
+	))
+12	((	NP	
+12.1	কথা	NN	
+	))
+13	((	VGF	
+13.1	জানতে	VM	
+13.2	পারেন	VAUX	
+13.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="97">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	89	QC	
+	))
+3	((	NP	
+3.1	এই	DEM	
+3.2	বিদেশিনীর	NN	
+	))
+4	((	NP	
+4.1	প্রচেষ্টায়	NN	
+	))
+5	`	SYM	
+6	((	NP	<ne=NEO>
+6.1	দি	XC	
+6.2	স্লয়েড	XC	
+6.3	য়্যাসোসিয়শন	XC	
+6.4	অব্	XC	
+6.5	সুইডেন	NNP	
+	))
+7	'	SYM	
+8	((	FRAGP	
+8.1	-এর	RP	
+8.2	মাধ্যমে	NST	
+	))
+9	((	NP	
+9.1	স্লয়েড	XC	
+9.2	শিক্ষিকা	NN	
+	))
+10	((	NP	<ne=NEP>
+10.1	ইনিগা	XC	
+10.2	জিয়ানসন	NNP	
+	))
+11	((	NP	<ne=NETI>
+11.1	1934	XC	
+11.2	সালে	NNP	
+	))
+12	((	NP	<ne=NEL>
+12.1	শান্তিনিকেতনে	NNP	
+	))
+13	((	VGF	
+13.1	আসেন	VM	
+13.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="98">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	90	QC	
+	))
+3	`	SYM	
+4	((	NP	<ne=NEO>
+4.1	দি	XC	
+4.2	স্লয়েড	XC	
+4.3	য়্যাসোসিয়েশন	XC	
+4.4	অব্	XC	
+4.5	সুইডেন	NNP	
+	))
+5	'	SYM	
+6	((	NP	<ne=NEP>
+6.1	জিয়ানসনকেই	NNP	
+	))
+7	((	RBP	
+7.1	শুধু	RB	
+	))
+8	((	VGF	
+8.1	পাঠালেন	VM	
+8.2	না	NEG	
+8.3	,	SYM	
+	))
+9	((	NP	
+9.1	সঙ্গে	NST	
+	))
+10	((	VGF	
+10.1	পাঠালেন	VM	
+	))
+11	((	NP	
+11.1	শিক্ষাদানের	NN	
+11.2	জন্য	PSP	
+	))
+12	((	JJP	
+12.1	প্রয়োজনীয়	JJ	
+	))
+13	((	NP	
+13.1	ছোট	JJ	
+13.2	ছোট	RDP	
+13.3	তাঁত	NN	
+	))
+14	((	CCP	
+14.1	ও	CC	
+	))
+15	((	NP	
+15.1	নানাবিধ	JJ	
+15.2	যন্ত্রপাতি	NN	
+15.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="99">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	91	QC	
+	))
+3	((	NP	<ne=NEL>
+3.1	শান্তিনিকেতনে	NNP	
+	))
+4	((	NP	
+4.1	অধুনালুপ্ত	JJ	
+4.2	নাট্যঘরকে	NN	
+	))
+5	((	NP	
+5.1	কর্মকেন্দ্র	NN	
+	))
+6	((	VGNF	
+6.1	করে	VM	
+	))
+7	((	NP	<ne=NEP>
+7.1	জিয়ানসন	NNP	
+	))
+8	((	NP	
+8.1	অত্যন্ত	JJ	
+8.2	উত্সাহের	NN	
+8.3	সঙ্গে	NST	
+	))
+9	((	NP	
+9.1	ছাত্র-ছাত্রীদের	NN	
+	))
+10	((	NP	
+10.1	শিক্ষা	NN	
+	))
+11	((	VGINF	
+11.1	দিতে	VM	
+	))
+12	((	NP	
+12.1	শুরু	NN	
+	))
+13	((	VGF	
+13.1	করেন	VM	
+13.2	-	SYM	
+	))
+14	((	NP	
+14.1	বহু	QF	
+14.2	ছাত্র-ছাত্রী	NN	
+	))
+15	((	NP	
+15.1	তাঁর	PRP	
+15.2	কাছে	NST	
+	))
+16	((	NP	
+16.1	বয়ন-শিল্প	NN	
+	))
+17	((	VGF	
+17.1	শেখেন	VM	
+17.2	,	SYM	
+	))
+18	((	NP	
+18.1	যাদের	PRP	
+	))
+19	((	NP	
+19.1	কয়েকজন	NN	
+	))
+20	((	NP	
+20.1	এই	DEM	
+20.2	কারুকলাকে	NN	
+	))
+21	((	RBP	
+21.1	বিশেষভাবে	RB	
+	))
+22	((	NP	
+22.1	আয়ত্ব	NN	
+	))
+23	((	VGNF	
+23.1	করে	VM	
+	))
+24	((	NP	
+24.1	পরবর্তীকালে	NN	
+	))
+25	((	NP	<ne=NEO>
+25.1	বিশ্বভারতীতে	NNP	
+	))
+26	((	NP	
+26.1	এই	DEM	
+26.2	শিল্পধারাকে	NN	
+	))
+27	((	JJP	
+27.1	অব্যাহত	JJ	
+	))
+28	((	VGF	
+28.1	রাখেন	VM	
+28.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="100">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	92	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	আইনা	XC	
+3.2	সেডারব্লম	NNP	
+	))
+4	:	SYM	
+5	((	NP	<ne=NEP>
+5.1	ইনগা	XC	
+5.2	জিয়ানসন	NNP	
+	))
+6	((	NP	<ne=NEL>
+6.1	শান্তিনিকেতন	NNP	
+	))
+7	থেকে	PSP	
+8	((	VGNF	
+8.1	চলে	VM	
+8.2	গেলে	VAUX	
+	))
+9	((	NP	
+9.1	তাঁর	PRP	
+	))
+10	((	NP	
+10.1	স্থানে	NN	
+	))
+11	((	NP	
+11.1	যোগ	NN	
+	))
+12	((	VGF	
+12.1	দেন	VM	
+	))
+13	((	NP	<ne=NEP>
+13.1	আইনা	XC	
+13.2	সেডারব্লম	NNP	
+	))
+14	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="101">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	93	QC	
+	))
+3	((	NP	<ne=NETP>
+3.1	কাউণ্টেস	XC	
+3.2	হ্যামিল্টন	NNP	
+	))
+4	((	NP	
+4.1	এ	DEM	
+4.2	সম্বন্ধে	NN	
+	))
+5	((	NP	
+5.1	এক	QC	
+5.2	পত্রে	NN	
+	))
+6	((	NP	<ne=NEP>
+6.1	রবীন্দ্রনাথকে	NNP	
+	))
+7	((	VGF	
+7.1	লেখেন	VM	
+7.2	-	SYM	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="102">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	94	QC	
+	))
+3	((	RBP	
+3.1	বস্তুত	RB	
+	))
+4	((	NP	<ne=NEP>
+4.1	সেডারব্লম	NNP	
+	))
+5	((	NP	
+5.1	তাঁর	PRP	
+	))
+6	((	NP	
+6.1	ঐকান্তিক	JJ	
+6.2	প্রয়াস	NN	
+	))
+7	((	CCP	
+7.1	ও	CC	
+	))
+8	((	NP	
+8.1	কর্তব্যবোধের	NN	
+8.2	দ্বারা	PSP	
+	))
+9	((	NP	<ne=NEO>
+9.1	বিশ্বভারতীর	NNP	
+	))
+10	((	NP	
+10.1	বয়নশিল্পের	NN	
+	))
+11	((	NP	
+11.1	ক্ষেত্রে	NN	
+	))
+12	((	NP	
+12.1	মূল্যবান	JJ	
+12.2	অবদান	NN	
+	))
+13	((	VGF	
+13.1	রেখে	VM	
+13.2	গেছেন	VAUX	
+13.3	-	SYM	
+	))
+14	((	NP	
+14.1	এখানকার	PRP	
+	))
+15	((	NP	
+15.1	বয়নবিভাগের	NN	
+	))
+16	((	NP	
+16.1	বিবর্তনের	NN	
+	))
+17	((	NP	
+17.1	ধারা	NN	
+	))
+18	((	NP	
+18.1	লক্ষ্য	NN	
+	))
+19	((	VGNF	
+19.1	করলে	VM	
+	))
+20	((	NP	
+20.1	এ	DEM	
+20.2	কথার	NN	
+	))
+21	((	NP	
+21.1	যাথার্থ্য	NN	
+	))
+22	((	VGF	
+22.1	বোঝা	VM	
+22.2	যাবে	VAUX	
+22.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="103">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	95	QC	
+	))
+3	((	NP	<ne=NEO>
+3.1	বিশ্বভারতীর	NNP	
+	))
+4	((	NP	<ne=NEL>
+4.1	শিল্পসদনের	NNP	
+	))
+5	((	NP	
+5.1	সাইড	XC	
+5.2	ব্যাগ	NN	
+	))
+6	((	CCP	
+6.1	ও	CC	
+	))
+7	((	NP	
+7.1	বস্ত্রাদি	NN	
+	))
+8	((	NP	
+8.1	অভিনবত্বে	NN	
+	))
+9	((	NP	
+9.1	আজও	NN	
+	))
+10	((	JJP	
+10.1	আকর্ষণীয়	JJ	
+10.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="104">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	96	QC	
+2.2	/	SYM	
+2.3	/	SYM	
+	))
+3	((	NP	
+3.1	উপাদান	NN	
+	))
+4	((	NP	
+4.1	সংগ্রহ	NN	
+	))
+5	((	VGF	
+5.1	করবেন	VM	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	সংগ্রহ	NN	
+	))
+7	((	VGF	
+7.1	করবেন	VM	
+	))
+8	((	NP	
+8.1	অর্থ	NN	
+	))
+9	((	CCP	
+9.1	এবং	CC	
+	))
+10	((	RBP	
+10.1	বিশেষভাবে	RB	
+	))
+11	((	NP	
+11.1	প্রচার	NN	
+	))
+12	((	VGF	
+12.1	করবেন	VM	
+	))
+13	((	NP	<ne=NEL>
+13.1	দীনবন্ধু-ভবনের	NNP	
+	))
+14	((	NP	
+14.1	উদ্দেশ্য	NN	
+	))
+15	((	CCP	
+15.1	ও	CC	
+	))
+16	((	NP	
+16.1	আদর্শ	NN	
+16.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="105">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	97	QC	
+	))
+3	দীর্ঘ	JJ	
+4	((	NP	<ne=NEM>
+4.1	আট	QC	
+4.2	বত্সর	NN	
+	))
+5	((	JJP	
+5.1	অত্যন্ত	JJ	
+	))
+6	((	NP	
+6.1	উত্সাহ	NN	
+	))
+7	((	CCP	
+7.1	ও	CC	
+	))
+8	((	RBP	
+8.1	নিষ্ঠাভরে	RB	
+	))
+9	((	NP	
+9.1	কাজ	NN	
+	))
+10	((	VGNN	
+10.1	করার	VM	
+10.2	পর	NST	
+	))
+11	((	NP	<ne=NEP>
+11.1	মার্জারী	XC	
+11.2	সাইকস	NNP	
+	))
+12	((	NP	<ne=NEL>
+12.1	শান্তিনিকেতন	NNP	
+	))
+13	থেকে	PSP	
+14	((	VGF	
+14.1	চলে	VM	
+14.2	যান	VAUX	
+14.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="106">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	98	QC	
+	))
+3	((	CCP	
+3.1	কিন্তু	CC	
+	))
+4	((	NP	<ne=NEL>
+4.1	রবিতীর্থের	NNP	
+	))
+5	((	NP	
+5.1	কথা	NN	
+	))
+6	((	NP	
+6.1	কোনো	QF	
+6.2	দিনই	NN	
+	))
+7	((	VGF	
+7.1	ভোলেননি	VM	
+7.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="107">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	99	QC	
+	))
+3	`	SYM	
+4	((	NP	<ne=NETO>
+4.1	বিশ্বভারতী	XC	
+4.2	কোয়ার্টারলি	NNP	
+	))
+5	'	SYM	
+6	((	CCP	
+6.1	ও	CC	
+	))
+7	`	SYM	
+8	((	NP	<ne=NETO>
+8.1	বিশ্বভারতী	XC	
+8.2	নিউজ	NNP	
+	))
+9	'	SYM	
+10	((	FRAGP	
+10.1	-এর	RP	
+	))
+11	((	NP	
+11.1	কয়েকটি	QF	
+11.2	সংখ্যায়	NN	
+	))
+12	((	NP	
+12.1	তাঁর	PRP	
+	))
+13	((	NP	
+13.1	যে	DEM	
+13.2	মূল্যবান	JJ	
+13.3	প্রবন্ধাবলী	NN	
+	))
+14	((	JJP	
+14.1	প্রকাশিত	JJ	
+	))
+15	((	VGF	
+15.1	হয়	VM	
+15.2	,	SYM	
+	))
+16	((	NP	
+16.1	তার	PRP	
+16.2	মধ্যে	NST	
+	))
+17	((	NP	
+17.1	এই	DEM	
+17.2	বিদেশিনীর	NN	
+	))
+18	((	NP	
+18.1	স্বকীয়	JJ	
+18.2	চিন্তাভাবনা	NN	
+	))
+19	((	CCP	
+19.1	ও	CC	
+	))
+20	((	NP	
+20.1	মননশীলতার	NN	
+	))
+21	((	NP	
+21.1	পরিচয়	NN	
+	))
+22	((	JJP	
+22.1	পরিস্ফুট	JJ	
+	))
+23	((	VGF	
+23.1	হয়েছে	VM	
+23.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="108">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	100	QC	
+	))
+3	((	NP	
+3.1	তিনি	PRP	
+	))
+4	((	NP	<ne=NEP>
+4.1	রবীন্দ্রনাথের	NNP	
+	))
+5	((	NP	<ne=NETO>
+5.1	ছেলেবেলা	NNP	
+	))
+6	((	CCP	
+6.1	,	SYM	
+	))
+7	((	NP	<ne=NETO>
+7.1	মুক্তধারা	NNP	
+	))
+8	((	CCP	
+8.1	,	SYM	
+	))
+9	((	NP	<ne=NETO>
+9.1	নটীর	XC	
+9.2	পূজা	NNP	
+	))
+10	((	CCP	
+10.1	,	SYM	
+	))
+11	((	CCP	
+11.1	ও	CC	
+	))
+12	((	NP	<ne=NETO>
+12.1	চণ্ডালিকা	NNP	
+	))
+13	((	NP	
+13.1	ইংরেজীতে	NNP	
+	))
+14	((	NP	
+14.1	অনুবাদ	NN	
+	))
+15	((	VGF	
+15.1	করেন	VM	
+15.2	-	SYM	
+	))
+16	((	NP	<ne=NEP>
+16.1	রবীন্দ্রনাথের	NNP	
+	))
+17	((	NP	
+17.1	জীবনচর্চার	NN	
+17.2	মতো	PSP	
+	))
+18	((	NP	
+18.1	তাঁর	PRP	
+	))
+19	((	NP	
+19.1	সাহিত্যও	NN	
+	))
+20	((	NP	<ne=NEP>
+20.1	সাইকসকে	NNP	
+	))
+21	((	JJP	
+21.1	অভিভূত	JJ	
+	))
+22	((	VGF	
+22.1	করেছিল	VM	
+22.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="109">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	101	QC	
+	))
+3	((	NP	
+3.1	পরিশেষে	NN	
+	))
+4	((	VGF	
+4.1	বলি	VM	
+4.2	-	SYM	
+	))
+5	((	NP	<ne=NETO>
+5.1	Rabindranath	XC	
+5.2	Tagore	NNP	
+	))
+6	((	NP	
+6.1	নামে	NN	
+	))
+7	((	NP	
+7.1	তিনি	PRP	
+	))
+8	((	NP	
+8.1	যে	DEM	
+8.2	গ্রন্থ	NN	
+	))
+9	((	VGF	
+9.1	লেখেন	VM	
+	))
+10	((	NP	<ne=NETP>
+10.1	শ্রী	XC	
+10.2	হীরেন্দ্র	XC	
+10.3	নাথ	XC	
+10.4	দত্ত	NNP	
+	))
+11	((	NP	
+11.1	তা	PRP	
+	))
+12	((	NP	
+12.1	বাংলায়	NNP	
+	))
+13	((	NP	
+13.1	অনুবাদ	NN	
+	))
+14	((	VGF	
+14.1	করেন	VM	
+14.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="110">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	102	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	জু	XC	
+3.2	পেয়ঁ	NNP	
+	))
+4	:	SYM	
+5	((	NP	
+5.1	আন্তর্জাতিক	XC	
+5.2	খ্যাতিসম্পন্ন	JJ	
+5.3	চীনা	JJ	
+5.4	চিত্রশিল্পী	NN	
+	))
+6	((	NP	<ne=NEP>
+6.1	জু	XC	
+6.2	পেয়ঁ	NNP	
+	))
+7	((	NP	
+7.1	অভ্যাগত	XC	
+7.2	অধ্যাপক	NN	
+7.3	রূপে	PSP	
+	))
+8	((	NP	<ne=NETI>
+8.1	1939	XC	
+8.2	সালে	NNP	
+	))
+9	((	NP	
+9.1	ডিসেম্বর	XC	
+9.2	মাসে	NNP	
+	))
+10	((	NP	<ne=NEO>
+10.1	বিশ্বভারতীতে	NNP	
+	))
+11	((	NP	
+11.1	যোগ	NN	
+	))
+12	((	VGF	
+12.1	দেন	VM	
+12.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="111">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	103	QC	
+	))
+3	((	NP	
+3.1	তিনি	PRP	
+	))
+4	((	NP	<ne=NEO>
+4.1	চাইনিজ	XC	
+4.2	ন্যাশনাল	XC	
+4.3	ইউনিভার্সিটির	NNP	
+	))
+5	((	NP	
+5.1	ফাইন	XC	
+5.2	আর্টের	NN	
+	))
+6	((	NP	
+6.1	বিভাগীয়	JJ	
+6.2	প্রধান	NN	
+6.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="112">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	104	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	জু	XC	
+3.2	পেয়ঁই	NNP	
+	))
+4	((	NP	<ne=NEL>
+4.1	শান্তিনিকেতনে	NNP	
+	))
+5	((	JJP	
+5.1	আগত	JJ	
+	))
+6	((	NP	
+6.1	প্রথম	QO	
+6.2	চীনা	JJ	
+6.3	শিল্পী	NN	
+6.4	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="113">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	105	QC	
+	))
+3	((	NP	
+3.1	এখানে	PRP	
+	))
+4	((	VGNN	
+4.1	আসার	VM	
+	))
+5	((	NP	
+5.1	কয়েকদিন	NN	
+5.2	পরে	NST	
+	))
+6	((	NP	<ne=NEL>
+6.1	কলাভবনে	NNP	
+	))
+7	((	JJP	
+7.1	আয়োজিত	JJ	
+	))
+8	((	NP	
+8.1	এক	QC	
+8.2	সম্বর্ধনা-সভায়	NN	
+	))
+9	((	NP	
+9.1	তাকে	PRP	
+	))
+10	((	NP	
+10.1	স্বাগত	NN	
+	))
+11	((	VGF	
+11.1	জানানো	VM	
+11.2	হয়	VAUX	
+11.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="114">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	106	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	রবীন্দ্রনাথের	NNP	
+	))
+4	((	NP	
+4.1	সম্বর্ধনা	XC	
+4.2	ভাষণের	NN	
+	))
+5	((	NP	
+5.1	প্রত্যুত্তরে	NN	
+	))
+6	((	NP	<ne=NEP>
+6.1	জু	XC	
+6.2	পেয়ঁ	NNP	
+	))
+7	((	VGF	
+7.1	বলেন	VM	
+7.2	-	SYM	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="115">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	107	QC	
+	))
+3	((	NP	<ne=NETI>
+3.1	1939	XC	
+3.2	সালের	NNP	
+	))
+4	((	NP	<ne=NETI>
+4.1	21শে	QO	
+4.2	ডিসেম্বর	NNP	
+	))
+5	((	NP	<ne=NEP>
+5.1	জু	XC	
+5.2	পেয়ঁ-র	NNP	
+	))
+6	((	NP	
+6.1	দেড়	XC	
+6.2	শতাধিক	QC	
+6.3	চিত্রাবলীর	NN	
+	))
+7	((	NP	
+7.1	এক	QC	
+7.2	প্রদর্শনীর	NN	
+	))
+8	((	NP	
+8.1	উদ্বোধন	NN	
+	))
+9	((	VGF	
+9.1	করেন	VM	
+	))
+10	((	NP	<ne=NEP>
+10.1	রবীন্দ্রনাথ	NNP	
+	))
+11	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="116">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	108	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	তান	XC	
+3.2	য়ুন-শানও	NNP	
+	))
+4	((	NP	
+4.1	এই	DEM	
+4.2	সময়	NN	
+	))
+5	((	NP	
+5.1	এক	QC	
+5.2	ভাষণ	NN	
+	))
+6	((	VGF	
+6.1	দেন	VM	
+6.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="117">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	109	QC	
+	))
+3	((	NP	
+3.1	পরের	NST	
+	))
+4	((	NP	
+4.1	বত্সর	NN	
+	))
+5	(	SYM	
+6	((	NP	<ne=NETI>
+6.1	1940	NNP	
+	))
+7	((	NP	
+7.1	ফেব্রুয়ারী	NNP	
+7.2	)	SYM	
+	))
+8	`	SYM	
+9	((	NP	<ne=NEO>
+9.1	ইণ্ডিয়ান	XC	
+9.2	সোসাইটি	XC	
+9.3	অব	XC	
+9.4	ওরিয়েণ্টাল	XC	
+9.5	আর্টহল	NNP	
+	))
+10	'	SYM	
+11	((	FRAGP	
+11.1	-এও	RP	
+	))
+12	((	NP	
+12.1	তাঁর	PRP	
+	))
+13	((	NP	
+13.1	চিত্রের	NN	
+	))
+14	((	NP	
+14.1	প্রদর্শনী	NN	
+	))
+15	((	VGF	
+15.1	হয়	VM	
+15.2	-	SYM	
+	))
+16	((	NP	
+16.1	এই	DEM	
+16.2	প্রদর্শনীর	NN	
+	))
+17	((	NP	
+17.1	উদ্বোধন	NN	
+	))
+18	((	VGF	
+18.1	করেন	VM	
+	))
+19	((	NP	<ne=NEP>
+19.1	অবনীন্দ্রনাথ	XC	
+19.2	ঠাকুর	NNP	
+	))
+20	৷	SYM	
+	))
+</Sentence>
+
+<Sentence id="118">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	110	QC	
+	))
+3	((	NP	
+3.1	দীর্ঘদিন	NN	
+3.2	পরে	NST	
+	))
+4	(	SYM	
+5	((	NP	<ne=NETI>
+5.1	1940	NNP	
+	))
+6	((	NP	<ne=NETI>
+6.1	নভেম্বর	NNP	
+6.2	22	QC	
+	))
+7	)	SYM	
+8	((	NP	
+8.1	এই	DEM	
+8.2	শিল্পী-অধ্যাপক	NN	
+	))
+9	((	NP	<ne=NEL>
+9.1	শান্তিনিকেতন	NNP	
+	))
+10	((	NP	
+10.1	ত্যাগ	NN	
+	))
+11	((	VGNF	
+11.1	করে	VM	
+	))
+12	((	VGF	
+12.1	চলে	VM	
+12.2	যান	VAUX	
+12.3	-	SYM	
+	))
+13	((	NP	<ne=NEL>
+13.1	উত্তরায়ণে	NNP	
+	))
+14	((	NP	
+14.1	এক	QC	
+14.2	সভার	NN	
+14.3	মাধ্যমে	PSP	
+	))
+15	((	NP	
+15.1	তাঁকে	PRP	
+	))
+16	((	NP	
+16.1	বিদায়	NN	
+	))
+17	((	VGF	
+17.1	জানানো	VM	
+17.2	হয়	VAUX	
+17.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="119">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	111	QC	
+	))
+3	((	NP	
+3.1	এ-কথা	NN	
+	))
+4	((	RBP	
+4.1	নিঃসন্দেহে	RB	
+	))
+5	((	VGF	
+5.1	বলা	VM	
+5.2	যায়	VAUX	
+5.3	,	SYM	
+	))
+6	((	NP	<ne=NEP>
+6.1	জু	XC	
+6.2	পেয়ঁ-র	NNP	
+	))
+7	((	NP	<ne=NEL>
+7.1	শান্তিনিকেতনে	NNP	
+	))
+8	((	NP	
+8.1	আগমনের	NN	
+8.2	ফলে	PSP	
+	))
+9	((	NP	<ne=NEL>
+9.1	ভারত	NNP	
+	))
+10	((	CCP	
+10.1	ও	CC	
+	))
+11	((	NP	<ne=NEL>
+11.1	চীনের	NNP	
+	))
+12	((	NP	
+12.1	সাংস্কৃতিক	JJ	
+12.2	সম্পর্ক	NN	
+	))
+13	((	JJP	
+13.1	আরও	INTF	
+13.2	ঘনিষ্ঠ	JJ	
+	))
+14	((	VGF	
+14.1	হয়েছিল	VM	
+14.2	-	SYM	
+	))
+15	((	NP	
+15.1	সুযোগ	NN	
+	))
+16	((	VGF	
+16.1	ঘটেছিল	VM	
+	))
+17	((	NP	
+17.1	উভয়	JJ	
+17.2	দেশের	NN	
+	))
+18	((	NP	
+18.1	শিল্পসৃষ্টির	NN	
+	))
+19	((	JJP	
+19.1	বিভিন্ন	JJ	
+	))
+20	((	NP	
+20.1	সূত্র	NN	
+	))
+21	((	CCP	
+21.1	ও	CC	
+	))
+22	((	NP	
+22.1	প্রকরণগত	JJ	
+22.2	বিষয়	NN	
+22.3	নিয়ে	PSP	
+	))
+23	((	NP	
+23.1	আলোচনা	NN	
+	))
+24	((	VGNN	
+24.1	করার	VM	
+24.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="120">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	112	QC	
+	))
+3	((	NP	<ne=NETI>
+3.1	1953	XC	
+3.2	সালে	NNP	
+	))
+4	((	NP	<ne=NETI>
+4.1	26	QC	
+4.2	সেপ্টেম্বর	NNP	
+	))
+5	((	NP	<ne=NEL>
+5.1	পিকিং	XC	
+5.2	হাসপাতালে	NNP	
+	))
+6	((	NP	<ne=NEP>
+6.1	জু	XC	
+6.2	পেয়ঁ-র	NNP	
+	))
+7	((	NP	
+7.1	পরলোকগমন	NN	
+	))
+8	((	VGF	
+8.1	করেন	VM	
+8.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="121">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	113	QC	
+	))
+3	((	NP	
+3.1	তাঁর	PRP	
+	))
+4	((	NP	
+4.1	কিছু	QF	
+4.2	কিছু	RDP	
+4.3	চিত্র	NN	
+4.4	-	SYM	
+	))
+5	((	RBP	
+5.1	বিশেষভাবে	RB	
+	))
+6	((	NP	<ne=NEP>
+6.1	রবীন্দ্রনাথ	NNP	
+	))
+7	((	CCP	
+7.1	,	SYM	
+	))
+8	((	NP	<ne=NEP>
+8.1	গান্ধীজী	NNP	
+	))
+9	((	CCP	
+9.1	,	SYM	
+	))
+10	((	NP	<ne=NEL>
+10.1	ছাতিমতলা-র	NNP	
+	))
+11	মতো	PSP	
+12	((	NP	
+12.1	উল্লেখ্য	JJ	
+12.2	চিত্রগুলি	NN	
+	))
+13	`	SYM	
+14	((	NP	<ne=NETO>
+14.1	বিশ্বভারতী	XC	
+14.2	নিউজ	NNP	
+	))
+15	'	SYM	
+16	((	CCP	
+16.1	ও	CC	
+	))
+17	`	SYM	
+18	((	NP	<ne=NETO>
+18.1	বিশ্বভারতী	XC	
+18.2	কোয়াটারলি	NNP	
+	))
+19	'	SYM	
+20	((	FRAGP	
+20.1	তে	RP	
+	))
+21	((	NP	
+21.1	বিভিন্ন	JJ	
+21.2	সময়ে	NN	
+	))
+22	((	JJP	
+22.1	প্রকাশিত	JJ	
+	))
+23	((	VGF	
+23.1	হয়	VM	
+23.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="122">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	114	QC	
+	))
+3	((	NP	<ne=NEP>
+3.1	তাই	XC	
+3.2	সু	NNP	
+	))
+4	:	SYM	
+5	((	NP	<ne=NEL>
+5.1	চীনের	NNP	
+	))
+6	((	NP	
+6.1	খ্যাতনামা	JJ	
+6.2	বৌদ্ধ	JJ	
+6.3	পণ্ডিত	NN	
+	))
+7	((	NP	<ne=NEP>
+7.1	তাই-সু-র	NNP	
+	))
+8	((	NP	
+8.1	নেতৃত্বে	NN	
+	))
+9	((	NP	
+9.1	চীনা	JJ	
+9.2	বৌদ্ধ	JJ	
+9.3	শুভেচ্ছা	XC	
+9.4	বাহিনী	NN	
+	))
+10	((	NP	<ne=NEL>
+10.1	ভারত	NNP	
+	))
+11	((	NP	
+11.1	পর্যটন	XC	
+11.2	কালে	NN	
+	))
+12	((	NP	<ne=NETI>
+12.1	1940	XC	
+12.2	সালের	NNP	
+	))
+13	((	NP	<ne=NETI>
+13.1	17ই	QO	
+13.2	জানুয়ারী	NNP	
+	))
+14	((	NP	<ne=NEL>
+14.1	শান্তিনিকেতনে	NNP	
+	))
+15	((	VGF	
+15.1	পৌঁছোয়	VM	
+15.2	৷	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="123">
+0	((	SSF	
+1	((	NP	
+1.1	<	SYM	
+1.2	sentence	NN	
+1.3	>	SYM	
+	))
+2	((	BLK	
+2.1	115	QC	
+	))
+3	((	NP	<ne=NEO>
+3.1	বিশ্বভারতীর	NNP	
+	))
+4	((	NP	
+4.1	পক্ষ	NN	
+4.2	থেকে	PSP	
+	))
+5	((	NP	
+5.1	এই	DEM	
+5.2	বিদেশী	JJ	
+5.3	অতিথিদের	NN	
+	))
+6	((	NP	
+6.1	বিশেষ	JJ	
+6.2	সম্বর্ধনা	NN	
+	))
+7	((	VGF	
+7.1	জানানো	VM	
+7.2	হয়	VAUX	
+7.3	৷	SYM	
+	))
+	))
+</Sentence>
+
+</Story>

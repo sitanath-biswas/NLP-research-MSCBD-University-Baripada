@@ -1,0 +1,1001 @@
+﻿ID	Value
+htd1	ସପ୍ତପୁରୀଗୁଡ଼ିକର\N_NNP ଦର୍ଶନଦ୍ୱାରା\N_NN ମୋକ୍ଷପ୍ରାପ୍ତି\N_NNV ହୋଇଥାଏ\V_VM_VF |\RD_PUNC
+htd2	ହିନ୍ଦୁଧର୍ମରେ\N_NN ତୀର୍ଥକ୍ଷେତ୍ରର\N_NN ଗୁରୁତ୍ଵପୂର୍ଣ୍ଣ\JJ ଭୂମିକା\N_NN ରହିଛି|\V_VM_VF
+htd3	ଏପରିକି\DM_DMD ପ୍ରତ୍ୟେକ\QT_QTF ତୀର୍ଥ\N_NN ଶ୍ରେଷ୍ଠ\N_NN ଏବଂ\CC_CCD ମୁଖ୍ୟ\N_NN ଅଟନ୍ତି\V_VM_VF କିନ୍ତୁ\CC_CCD ସାତଟି\RP_CL ସ୍ଥାନର\N_NN ଗୁରୁତ୍ଵପୂର୍ଣ୍ଣ\JJ ମହତ୍ତ୍ଵ\N_NN ଏବଂ\CC_CCD ମାନ୍ୟତା\N_NNV ରହିଛି|\V_VM_VF
+htd4	ଏହି\DM_DMD ସପ୍ତ\QT_QTC ଧର୍ମସ୍ଥଳୀ\N_NN ସାତୋଟି\RP_CL ନଗର\N_NN କିମ୍ବା\CC_CCD ସପ୍ତପୂରୀରୂପରେ\N_NNP ଗ୍ରନ୍ଥଗୁଡିକରେ\N_NN ବର୍ଣ୍ଣିତ\N_NNV ହୋଇଛି|\V_VM_VINF
+htd5	ଏହା\DM_DMD କୁହାଯାଇଅଛି\V_VM_VF ଯେ\CC_CCD ବର୍ଷା\N_NN ଚାରିମାସରେ\N_NST ଏହି\DM_DMD ସପ୍ତପୂରୀଗୁଡିକର\N_NNP ଦର୍ଶନ\N_NNV ମୋକ୍ଷପ୍ରଦାନକାରୀ\JJ ହୋଇଥାଏ\V_VM_VF |\RD_PUNC
+htd6	ଏହାର\DM_DMD ନାମ\N_NN ବନାରସ\N_NNP କିମ୍ବା\CC_CCD ବାରଣାସୀ\N_NNP ମଧ୍ୟ\RP_RPD ଅଟେ|\V_VM_VF
+htd7	ଗଙ୍ଗାର\N_NNP ତଟଦେଶରେ\N_NN ଭଗବାନ\N_NN ଶଙ୍କରଙ୍କର\N_NNP ପ୍ରସିଦ୍ଧ\JJ ପୀଠ\N_NN ଅବସ୍ଥିତ|\V_VM_VF
+htd8	ମୋଗଲ୍‌ସରାଇରୁ\N_NNP ଅମୃତସର\N_NNP ଏବଂ\CC_CCD ଡେରାଡୁନ\N_NNP ଯାଉଥିବା\V_VM_VNF ମୁଖ୍ୟ\JJ ରେଲୱେ\N_NN ଲାଇନର\N_NN ମୋଗଲ୍‌ସରାଇ\N_NNP ଷ୍ଟେସନଠାରୁ\N_NN ୭\QT_QTC ମାଇଲ୍‌\N_NN ପରେ\PSP କାଶୀ\N_NNP ଏବଂ\CC_CCD ସେଠାରୁ\DM_DMD ୪\QT_QTC କି.ମି.\N_NN ଆଗରେ\PSP ବନାରସ୍‌\N_NNP ଛାଉଣି\N_NN ଷ୍ଟେସନ\N_NN ଅବସ୍ଥିତ\V_VM_VF
+htd9	ଆହ୍ଲାବାଦ\N_NNP ପ୍ରୟାଗ\N_NNP ଷ୍ଟେସନଠାରୁ\N_NN ମଧ୍ୟ\RP_RPD ଏକ\QT_QTC ସିଧା\JJ ଲାଇନ୍‌\N_NN କାଶୀ\N_NNP ହୋଇ\V_VM_VNF ବନାରସ୍‌\N_NNP ଛାଉଣି\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ଯାଇଛି|\V_VM_VF
+htd10	ପୂର୍ବୋତ୍ତର\JJ ରେଲ୍ଓ୍ୱେର\N_NN ଏକ\QT_QTC ଲାଇନ\N_NN ଭଟ୍‌ନିରୁ\N_NNP ଏବଂ\CC_CCD ଅନ୍ୟଟି\RP_CL ଛପରାରୁ\N_NNP ଆହ୍ଲାବାଦ୍‌\N_NNP ସହର\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ଯାଇଛି\V_VM_VF ।\RD_PUNC
+htd11	ଏହି\DM_DMD ରାସ୍ତାଦେଇ\N_NN ମଧ୍ୟ\RP_RPD ବନାରସ୍‌\N_NNP ସହର\N_NN ହୋଇ\V_VM_VNF ଛାଉଣି\N_NNP ଯାଇପାରିବେ\V_VM_VNF |\RD_PUNC
+htd12	ପତିତପାବନୀ\JJ ଗଙ୍ଗା\N_NNP ହରିଦ୍ଵାରରେ\N_NNP ପାର୍ବତୀୟ\JJ କ୍ଷେତ୍ରକୁ\N_NN ପରିତ୍ୟାଗ\N_NNV କରି\V_VM_VNF ସମତଳ\JJ ଭୂମିରେ\N_NN ପ୍ରବେଶ\N_NNV କରିଛି\V_VM_VF |\RD_PUNC
+htd13	ଏଥିପାଇଁ\CC_CCD ହରିଦ୍ଵାରକୁ\N_NNP ଗଙ୍ଗାଦ୍ଵାର\N_NNP ମଧ୍ୟ\RP_RPD କୁହାଯାଏ\V_VM_VF |\RD_PUNC
+htd14	ହରିଦ୍ଵାରରେ\N_NNP ପ୍ରତିଦିନ\N_NST ସଂଧ୍ୟାରେ\N_NN ହେଉଥିବା\V_VM_VNF ମା\N_NN ’\RD_PUNC ଗଙ୍ଗାଙ୍କର\N_NNP ଆଳତି\N_NN ସମୟରେ\N_NN ଶ୍ରଦ୍ଧାଳୁମାନଙ୍କର\N_NN ଭିଡ\N_NN ଜମିଥାଏ\V_VM_VF |\RD_PUNC
+htd15	ଗଙ୍ଗାନଦୀରେ\N_NNP ଭାସୁଥିବା\V_VM_VNF ଦୀପମାଳାଗୁଡିକର\N_NNP ଦୃଶ୍ୟ\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ|\V_VM_VF
+htd16	ଉତ୍ତର\N_NNP ରେଲ୍‌ଓ୍ୱେର\N_NN ମୋଗଲସରାଇ\N_NNP ଠାରୁ\PSP ଅମୃତସର\N_NNP ଯାଉଥିବା\V_VM_VNF ମୁଖ୍ୟ\JJ ଲାଇନ୍‌ରେ\N_NN ଷ୍ଟେସନ\N_NN ଅବସ୍ଥିତ\V_VM_VF
+htd17	ଲକ୍ସର\N_NNP ଠାରୁ\PSP ଗୋଟିଏ\RP_CL ଲାଇନ୍‌\N_NN ହରିଦ୍ଵାର\N_NNP ପର୍ଯ୍ୟନ୍ତ\PSP ଯାଇଛି\V_VM_VF |\RD_PUNC
+htd18	ପ୍ରାଚୀନ\JJ କାଳରେ\N_NN ପିତାମହ\JJ ବ୍ରହ୍ମା\N_NNP କାଞ୍ଚିରେ\N_NNP ମା\N_NN ଭଗବତୀଙ୍କର\N_NNP ଦର୍ଶନ\N_NNV ପାଇଁ\PSP କଠୋର\JJ ତପସ୍ୟା\N_NN କରିଥିଲେ\V_VM_VF |\RD_PUNC
+htd19	ସେତେବେଳେ\CC_CCS ମହାଲକ୍ଷ୍ମୀ\N_NNP ହାତରେ\N_NN ପଦ୍ମ\N_NNP ଧାରଣକରି\V_VM_VNF ତାଙ୍କ\PR_PRP ସାମ୍ନାରେ\PSP ପ୍ରକଟ\N_NNV ହୋଇଥିଲେ\V_VM_VF |\RD_PUNC
+htd20	ଦକ୍ଷିଣ\N_NNP ରେଲ୍‌ଓ୍ୱେର\N_NN ଚେନ୍ନାଇ\N_NNP ଷ୍ଟେସନ\N_NN ଠାରୁ\PSP ଧନୁଷ୍କୋଟି\N_NNP ଯାଇଥିବା\V_VM_VNF ମୁଖ୍ୟ\JJ ଲାଇନ୍‌\N_NN ଉପରେ\PSP ଚେନ୍ନାଇରୁ\N_NNP ୩୫\QT_QTC ମାଇଲ\N_NN ଦୂରରେ\N_NST ଚେଙ୍ଗଲ୍‌ପଟ୍‍\N_NNP ଷ୍ଟେସନ\N_NN ଅଛି\V_VM_VF ।\RD_PUNC
+htd21	ଚେଙ୍ଗଲ୍‌ପଟ୍‌\N_NNP ଷ୍ଟେସନ\N_NN ଠାରୁ\PSP ଗୋଟିଏ\RP_CL ଲାଇନ୍‌\N_NN ଅର୍କୋନମ୍‌\N_NNP ପର୍ଯ୍ୟନ୍ତ\PSP ଯାଇଛି\V_VM_VF |\RD_PUNC
+htd22	ଚେଙ୍ଗଲ୍‌ପେଟ୍‍\N_NNP ଷ୍ଟେସନରୁ\N_NN ଅର୍କୋନମ୍‌\N_NNP ଯାଉଥିବା\V_VM_VNF ଲାଇନ\N_NN ଉପରେ\RB କାଞ୍ଜିଭରମ୍‌\N_NNP ଷ୍ଟେସନ\N_NN ଅବସ୍ଥିତ\V_VM_VF |\RD_PUNC
+htd23	ଷ୍ଟେସନର\N_NN ନାମ\N_NN ନିଶ୍ଚିତ\RP_INTF ଭାବରେ\RB କାଁଚିବରମ୍‌\N_NNP ଅଟେ\V_VM_VF କିନ୍ତୁ\CC_CCD ସହରର\N_NN ନାମ\N_NN କାଞ୍ଚିପୁରମ୍‌\N_NNP ଅଟେ\V_VM_VF |\RD_PUNC
+htd24	ଅଯୋଧ୍ୟା\N_NNP ପ୍ରଭୁ\N_NN ଶ୍ରୀରାମଙ୍କର\N_NNP ଅବତାରର\N_NN ପବିତ୍ର\JJ ଭୂମି\N_NN |\RD_PUNC
+htd25	ଅଯୋଧ୍ୟା\N_NNP ପବିତ୍ର\JJ ସରଯୂ\N_NNP ନଦୀ\N_NN କୂଳରେ\N_NN ଅବସ୍ଥିତ\V_VM_VF |\RD_PUNC
+htd26	ଉତ୍ତର\N_NNP ରେଲ୍‌ଓ୍ୱେର\N_NN ମୋଗଲ୍‌ସରାଇ\N_NNP -\RD_PUNC ଲକ୍ଷ୍ନୈା\N_NNP ଲାଇନରେ\N_NN ମୋଗଲ୍‌ସରାଇ\N_NNP ଷ୍ଟେସନ\N_NN ଠାରୁ\PSP ୧୨୮\QT_QTC ମାଇଲ\QT_QTF ଦୂରରେ\N_NN ଅଯୋଧ୍ୟା\N_NNP ଷ୍ଟେସନ\N_NN ଅବସ୍ଥିତ\V_VM_VF
+htd27	ଶିପ୍ରା\N_NNP କିମ୍ବା\CC_CCD କ୍ଷୀପ୍ରା\N_NNP ନଦୀ\N_NN କୂଳରେ\N_NN ଅବସ୍ଥିତ\JJ ମହାକାଳଙ୍କର\N_NNP ଏହି\DM_DMD ଉଜ୍ଜୟିନୀ\N_NNP ନଗରୀ\N_NN ପତିତପାବନୀ\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd28	କଥିତ\JJ ଅଛି\V_VM_VF ଯେ\CC_CCS ଉଜ୍ଜୟିନୀରେ\N_NNP ମହାକାଳଙ୍କୁ\N_NNP ପ୍ରଣାମ\N_NN କଲେ\V_VM_VNF ମୃତ୍ୟୁର\N_NN ଚିନ୍ତା\N_NN ରହେ\V_VM_VF ନାହିଁ\RP_NEG |\RD_PUNC
+htd29	ମଧ୍ୟ\N_NNP ରେଲ୍‌ଓ୍ୱେର\N_NN ମୁମ୍ବାଇ-ଭୋପାଳ-ଦିଲ୍ଲୀ\N_NNP ଲାଇନ୍‌ରେ\N_NN ଭୋପାଳ\N_NNP ଷ୍ଟେସନ\N_NN ଠାରୁ\PSP ଗୋଟେ\RP_CL ଲାଇନ\N_NN ଉଜ୍ଜୟିନି\N_NNP ଯାଇଛି\N_NN ।\RD_PUNC
+htd30	ପଶ୍ଚିମ\N_NNP ରେଲ୍‌ଓ୍ୱେର\N_NN ମୁମ୍ବାଈ-କୋଟା-ଦିଲ୍ଲୀ\N_NNP ଲାଇନ\N_NN ଉପରେ\PSP ନାଗ୍‌ଦା\N_NNP ଷ୍ଟେସନଠାରୁ\N_NN ଗୋଟିଏ\RP_CL ବଡ\QT_QTF ଲାଇନ୍‌\N_NN ମଧ୍ୟ\RP_RPD ଉଜ୍ଜୟିନି\N_NNP ପର୍ଯ୍ୟନ୍ତ\PSP ଯାଇଛି\N_NNP ।\RD_PUNC
+htd31	ସେହି\DM_DMD ଲାଇନରେ\N_NN ମହୁ\N_NNP ଷ୍ଟେସନ\N_NN ଠାରୁ\PSP ଗୋଟିଏ\RP_CL ଲାଇନ\N_NN ମଧ୍ୟ\RP_RPD ଉଜ୍ଜୟିନୀକୁ\N_NNP ଯାଇଛି\V_VM_VF ।\RD_PUNC
+htd32	ଦ୍ଵାରକା\N_NNP ଚାରିଧାମ\N_NN ମଧ୍ୟରୁ\PR_PRC ଗୋଟିଏ\RP_CL ଧାମ\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd33	ଭଗବାନ\N_NN କୃଷ୍ଣ\N_NNP ଏହାକୁ\DM_DMD ସମୁଦ୍ରର\N_NN ମଝିରେ\PSP ସ୍ୱତନ୍ତ୍ରଭାବରେ\N_NN ନିର୍ମାଣ\N_NNV କରିଥିଲେ\V_VM_VF |\RD_PUNC
+htd34	ପଶ୍ଚିମ\N_NNP ରେଲ୍‌ଓ୍ୱେର\N_NN ସୁରେନ୍ଦ୍ରନଗର\N_NNP -\RD_PUNC ଓଖା\N_NNP ପୋର୍ଟ\N_NN ଲାଇନ୍‌\N_NN ଉପରେ\PSP ଅବସ୍ଥିତ\JJ ଏହି\DM_DMD ନଗରୀ\N_NN ପାଇଁ\PSP ସମୁଦ୍ରକୂଳରେ\N_NN ଏକ\QT_QTC ଷ୍ଟେସନ୍‌\N_NN ଅଛି\V_VM_VF ।\RD_PUNC
+htd35	ଯମୁନା\N_NNP ନଦୀକୂଳରେ\N_NN ଭଗବାନ\N_NN ଶ୍ରୀକୃଷ୍ଣଙ୍କର\N_NNP ଅବତାର\JJ ଲୀଳାଭୂମି\N_NN ଏହି\DM_DMD ପବିତ୍ର\JJ ମଥୁରା\N_NNP ନଗରୀ\N_NN ।\RD_PUNC
+htd36	ପୂର୍ବତଟ\N_NNP ରେଲ୍‌ଓ୍ୱେର\N_NN ଆଗ୍ରା\N_NNP ଫୋର୍ଟଠାରୁ\N_NN ଗୋରଖ୍‌ପୁର\N_NNP ଯାଇଥିବା\V_VM_VNF ଲାଇନ୍‌\N_NN ତଥା\CC_CCD ପଶ୍ଚିମ\N_NNP ରେଲ୍‌ଓ୍ୱେର\N_NN ମୁମ୍ବାଇ-କୋଟା-ଦିଲ୍ଲୀ\N_NNP ଲାଇନ\N_NN ଉପରେ\PSP ମଥୁରା\N_NNP ଷ୍ଟେସନ୍‌\N_NN ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd37	ଗଢ-ମୁକ୍ତେଶ୍ଵର\N_NNP ହିନ୍ଦୁମାନଙ୍କର\N_NN ପବିତ୍ର\JJ ତୀର୍ଥସ୍ଥାନ\N_NN ।\RD_PUNC
+htd38	ଗଢ-ମୁକ୍ତେଶ୍ଵରର\N_NNP ଗଙ୍ଗା\N_NNP ମେଳାକୁ\N_NN ଚାଲନ୍ତୁ|\V_VM_VF
+htd39	ଗାଜିଆବାଦ୍‌\N_NNP ଜ୍ଜିଲ୍ଲାର\N_NN ଗଢ଼-ମୁକ୍ତେଶ୍ଵରରେ\N_NNP ପତିତପାବନୀ\JJ ଗଙ୍ଗା\N_NNP ତଟରେ\N_NN ପ୍ରତ୍ୟେକ\PR_PRC ବର୍ଷ\N_NN କାର୍ତ୍ତିକପୂର୍ଣ୍ଣିମା\N_NNP ଅବସରରେ\N_NN ହେଉଥିବା\V_VM_VNF ଉତ୍ତରଭାରତର\N_NNP ପ୍ରସିଦ୍ଧ\JJ ଏବଂ\CC_CCD ପ୍ରାଚୀନ\JJ ଧାର୍ମିକ\JJ ମେଳାର\N_NN ଇତିହାସ\N_NN ପ୍ରାୟତଃ\RP_RPD ୫\QT_QTC ହଜାର\QT_QTC ବର୍ଷ\N_NN ପୁରୁଣା\N_NN |\RD_PUNC
+htd40	ଏଥର\DM_DMD ମଧ୍ୟ\RP_RPD ଗଢ-ମୁକ୍ତେଶ୍ଵର\N_NNP ମେଳାରେ\N_NN ବିପୁଳ\JJ ଜନସମାଗମ\N_NN ହୋଇଛି\V_VM_VF ଏବଂ\CC_CCD ମୁଖ୍ୟ\JJ ସ୍ନାନ\N_NNV ପାଇଁ\PSP ଶ୍ରଦ୍ଧାଳୁମାନଙ୍କର\N_NN ଭିଡ଼\N_NN ଜମୁଛି\V_VM_VF |\RD_PUNC
+htd41	ମୁଖ୍ୟ\JJ ସ୍ନାନ\N_NN ନଭେମ୍ବର\N_NNP ମାସ\N_NN ୧୩\QT_QTC ତାରିଖରେ\N_NN ହେବ\V_VM_VNF ।\RD_PUNC
+htd42	ଗଢ-ମୁକ୍ତେଶ୍ଵର\N_NNP ବିଷୟରେ\N_NN କୁହାଯାଏ\V_VM_VNF ଯେ\CC_CCS ମହାଭାରତରେ\N_NNP ବିନାଶକାରୀ\JJ ଯୁଦ୍ଧ\N_NN ପରେ\PSP ଯୋଗୀରାଜ\JJ ଶ୍ରୀକୃଷ୍ଣ\N_NNP ,\RD_PUNC ଧର୍ମରାଜ\JJ ଯୁଧିଷ୍ଠିର\N_NNP ଏବଂ\CC_CCD ଅର୍ଜ୍ଜୁନଙ୍କ\N_NNP ମନରେ\N_NN ଯୁଦ୍ଧର\N_NN ବିଭୀଷିକା\N_NN ଓ\CC_CCD ନରସଂହାର\N_NN ଦେଖି\V_VM_VNF ବହୁତ\RP_INTF ଗ୍ଲାନି\N_NNV ଆସିଥିଲା\V_VM_VF |\RD_PUNC
+htd43	ସେମାନେ\PR_PRP ଏହି\DM_DMD ଚିନ୍ତାରେ\N_NN ପଡିଗଲେ\V_VM_VNF ଯେ\CC_CCS ଯୁଦ୍ଧରେ\N_NN ମୃତ୍ୟୁବରଣ\N_NN କରିଥିବା\V_VM_VNF ଅଂସଖ୍ୟ\QT_QTF କୁଟୁମ୍ବ\N_NN ,\RD_PUNC ବନ୍ଧୁ\N_NN ପରିଜନ\N_NN ଏବଂ\CC_CCD ନିର୍ଦ୍ଦୋଷ\JJ ଲୋକମାନଙ୍କର\N_NN ଆତ୍ମାର\N_NN ଶାନ୍ତି\N_NN ପାଇଁ\PSP କଣ\PR_PRQ ଉପାୟ\N_NN କିମ୍ବା\CC_CCD ସଂସ୍କାର\N_NN କରାଯିବ\V_VM_VNF |\RD_PUNC
+htd44	ସେତେବେଳେ\CC_CCS ସେମାନେ\PR_PRP ଏକ\QT_QTC ରାୟରୁ\N_NN ନିର୍ଣ୍ଣୟ\N_NN ନେଲେ\V_VM_VF |\RD_PUNC
+htd45	ଖାଣ୍ତବବନରେ\N_NNP ଭଗବାନ\N_NN ପର୍ଶୁରାମଙ୍କଦ୍ଵାରା\N_NNP ସ୍ଥାପିତ\JJ ଶିବବଲ୍ଲଭପୁର\N_NNP ନାମକ\N_NN ସ୍ଥାନରେ\N_NN ଥିବା\V_VM_VNF ମୁକ୍ତେଶ୍ଵର\N_NNP ମହାଦେବଙ୍କର\N_NN ପୂଜା\N_NN ,\RD_PUNC ଯଜ୍ଞ\N_NN ତଥା\CC_CCD ପତିତପାବନି\JJ ଗଙ୍ଗାରେ\N_NNP ସ୍ନାନକରି\V_VM_VNF ଏବଂ\CC_CCD ସେଠାରେ\DM_DMD ପିଣ୍ତଦାନ\N_NN କଲେ\V_VM_VNF ସମସ୍ତ\PR_PRC ସଂସ୍କାର\N_NN ପୂର୍ଣ\N_NN ହୋଇଯିବେ\V_VM_VF ।\RD_PUNC
+htd46	ଜାଣିରଖିବା\V_VM_VNF ଉଚିତ୍‍\V_VM_VF ଯେ\CC_CCS ଶିବବଲ୍ଲଭପୁର\N_NNP ହିଁ\RP_RPD ବର୍ତ୍ତମାନ\N_NST ଗଢ-ମୁକ୍ତେଶ୍ଵର\N_NNP ନାମରେ\N_NN ପରିଚିତ\V_VM_VF ।\RD_PUNC
+htd47	ଭଗବାନ\N_NN ରାମଙ୍କର\N_NNP ପୂର୍ବଜ\N_NN ମହାରାଜ\N_NN ଶିବି\N_NNP ନିଜର\PR_PRF ବାନପ୍ରସ୍ଥ\N_NN ଗଢ-ମୁକ୍ତେଶ୍ଵରରେ\N_NNP ହିଁ\RP_RPD କଟାଇଥିଲେ\V_VM_VF |\RD_PUNC
+htd48	ମହାରାଜ\N_NN ଶିବି\N_NNP ଭଗବାନ\N_NN ପର୍ଶୁରାମଙ୍କଦ୍ୱାରା\N_NNP ଏଠାରେ\DM_DMD ଶିବ\N_NNP ମନ୍ଦିରର\N_NN ସ୍ଥାପନା\N_NNV କରାଇଥିଲେ\V_VM_VF |\RD_PUNC
+htd49	ସେହି\DM_DMD ସମୟରେ\N_NN ଗଢ-ମୁକ୍ତେଶ୍ଵର\N_NNP ବଲ୍ଲଭ\N_NNP ସଂପ୍ରଦାୟର\N_NN ପ୍ରମୁଖ\JJ କେନ୍ଦ୍ରସ୍ଥଳୀ\N_NN ଥିଲା\V_VM_VF |\RD_PUNC
+htd50	ଗଢ଼-ମୁକ୍ତେଶ୍ଵରର\N_NNP ନାମ\N_NN ଶିବବଲ୍ଲଭପୁର\N_NNP ହୋଇଗଲା\V_VM_VF ।\RD_PUNC
+htd51	ଗଢ଼-ମୁକ୍ତେଶ୍ୱର\N_NNP ସମ୍ପର୍କିତ\JJ ବର୍ଣ୍ଣନା\N_NN ଶିବପୁରାଣରୁ\N_NNP ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd52	ଏକାଦଶୀରୁ\N_NNP ଚତୁଃର୍ଦଶୀ\N_NNP ପର୍ଯ୍ୟନ୍ତ\PSP ଗଢ଼-ମୁକ୍ତେଶ୍ଵରରେ\N_NNP ମହାଭାରତ\N_NNP ଯୁଦ୍ଧରେ\N_NN ମୃତବରଣ\N_NN କରିଥିବା\V_VM_VNF ସମସ୍ତ\PR_PRC ଲୋକଙ୍କର\N_NN ଅମର\JJ ଆତ୍ମାର\N_NN ସଦ୍‌ଗତି\N_NN ପାଇଁ\PSP ଯାଗଯଜ୍ଞ\N_NN କରାଯାଏ\V_VM_VF ।\RD_PUNC
+htd53	ଚତୁଃର୍ଦ୍ଦଶୀ\JJ ଦିନ\N_NN ସଂଧ୍ୟାରେ\N_NN ଯଜ୍ଞର\N_NN ସମାପ୍ତି\N_NNV ପରେ\PSP ଗଙ୍ଗାରେ\N_NNP ଦୀପଦାନ\N_NN ଦେଇ\V_VM_VNF ସେହି\DM_DMD ଅମର\JJ ଆତ୍ମାଗୁଡିକୁ\N_NN ଶ୍ରଦ୍ଧାଞ୍ଜଳୀ\N_NN ଅର୍ପଣ\N_NNV କରାଯାଏ\V_VM_VF ।\RD_PUNC
+htd54	ତହିଁଆରଦିନ\N_NST ପ୍ରାତଃକାଳରେ:\N_NST ପୂର୍ଣ୍ଣିମା\N_NN ଦିନ\N_NN ସମସ୍ତେ\PR_PRC ଗଙ୍ଗାସ୍ନାନ\N_NN କରି\V_VM_VNF ପୂଜାଅର୍ଚ୍ଚନା\N_NN ଆଦି\RP_RPD ସମାପନ\N_NNV କରନ୍ତି\V_VM_VF ।\RD_PUNC
+htd55	ପ୍ରତ୍ୟେକ\PR_PRC ବର୍ଷ\N_NN ଲକ୍ଷ-ଲକ୍ଷ\QT_QTC ଶ୍ରଦ୍ଧାଳୁ\JJ ଗଢ଼-ମୁକ୍ତେଶ୍ଵର\N_NNP କାର୍ତ୍ତିକପୂର୍ଣ୍ଣିମାରେ\N_NNP କଳୁଷନାଶିନ\JJ ପାପହାରିଣୀ\JJ ଗଙ୍ଗାରେ\N_NNP ସ୍ନାନ\N_NN ଏବଂ\CC_CCD ନିଜ\PR_PRF ଆତ୍ମୀୟ\JJ ସ୍ଵଜନମାନଙ୍କ\N_NN ଆତ୍ମାର\N_NN ଶାନ୍ତି\N_NN ପାଇଁ\PSP ଏଠାରେ\DM_DMD ଦୀପଦାନ\N_NN କରିବାକୁ\V_VM_VINF ଆସନ୍ତି\V_VM_VF |\RD_PUNC
+htd56	ଚତୁଃର୍ଦଶୀ\JJ ଦିନ\N_NN ସଂଧ୍ୟାରେ\N_NN ଅସଂଖ୍ୟ\QT_QTF ଲୋକ\N_NN ନିଜର\PR_PRF ସ୍ଵଜନମାନଙ୍କୁ\N_NN ଶ୍ରଦ୍ଧାଞ୍ଜଳି\N_NN ଅର୍ପଣକରିବା\V_VM_VNF ପାଇଁ\PSP ଗଙ୍ଗାରେ\N_NNP ଦୀପଦାନ\N_NNV କରନ୍ତି\V_VM_VF |\RD_PUNC
+htd57	ସେହି\DM_DMD ସମୟରେ\N_NN ଗଙ୍ଗାନଦୀର\N_NNP ଧାରା\N_NN ସହିତ\PSP ଭାସମାନ\JJ ଦୀପଗୁଡିକର\N_NN ଦୃଶ୍ୟ\N_NN ବାସ୍ତବିକ\JJ ମନୋହାରୀ\JJ ଓ\CC_CCD ଶାନ୍ତିପ୍ରଦାୟକ\JJ ।\RD_PUNC
+htd58	ଗଢ଼-ମୁକ୍ତେଶ୍ଵରରେ\N_NNP ଧାର୍ମିକ\JJ ମହତ୍ତ୍ଵରଖୁଥିବା\N_NN ଅନେକ\QT_QTF ସ୍ଥାନ\N_NN ରହିଛି\V_VM_VF ,\RD_PUNC ଯେପରିକି\CC_CCD ନହୁଷ-କୂପ\N_NNP (ନକ୍‌କା\N_NNP କୁଆଁ)\N_NNP ,\RD_PUNC ମୁକ୍ତେଶ୍ଵର\N_NNP ମହାଦେବଙ୍କର\N_NN ମନ୍ଦିର\N_NN ,\RD_PUNC ବଦ୍ରିନାଥ\N_NNP ମନ୍ଦିର\N_NN ଇତ୍ୟାଦି\RP_RPD |\RD_PUNC
+htd59	ପରମ୍ପରା\N_NN ଅଛି\V_VM_VF ଯେ\CC_CCS ବଦ୍ରିନାଥ\N_NNP ମନ୍ଦିରକୁ\N_NN କେବଳ\RP_INTF ଆଳତି\N_NN ସମୟରେ\N_NN ହିଁ\RP_RPD ଖୋଲାଯାଇଥାଏ\V_VM_VF |\RD_PUNC
+htd60	ଏହି\DM_DMD ମନ୍ଦିର\N_NN ବର୍ଷରେ\N_NN କେବଳ\CC_CCD ଥରେ\RP_CL ମାତ୍ର\N_NN ଅକ୍ଷୟତୃତୀୟା\N_NNP ଦିନ\N_NN ପର୍ଶୁରାମ\N_NNP ଜୟନ୍ତୀ\N_NN ଦିନ\N_NN ସାରା\QT_QTF ଦର୍ଶନାର୍ଥୀମାନଙ୍କ\N_NN ପାଇଁ\PSP ଖୋଲାହୋଇଥାଏ\V_VM_VF |\RD_PUNC
+htd61	ମୁକ୍ତେଶ୍ଵର\N_NNP ମହାଦେବ\N_NN ମନ୍ଦିର\N_NN ସାମ୍ନାରେ\PSP ସୁବିସ୍ତୃତ\JJ ବାଲି\N_NN ପଡିଆ\N_NN ରହିଛି\V_VM_VF ,\RD_PUNC ତାହା\DM_DMD ମିରାବାଈଙ୍କର\N_NNP ବାଲି\N_NN ନାମରେ\N_NN ଚିରପରିଚିତ\V_VM_VF ।\RD_PUNC
+htd62	ଥରେ\RP_CL ମୀରାବାଈ\N_NNP ଏଠାକୁ\DM_DMD ଗଙ୍ଗାସ୍ନାନ\N_NN ପାଇଁ\PSP ଆସିଥିଲେ\V_VM_VF ବୋଲି\CC_CCD ଏକ\QT_QTC ବିଶ୍ୱାସ\N_NNV ରହିଛି\V_VM_VF ।\RD_PUNC
+htd63	କୁହାଯାଏ\V_VM_VF ଯେ\CC_CCD କି\CC_CCD ଥରେ\RP_CL ମାତା\N_NN ପାର୍ବତୀ\N_NNP ପ୍ରଭୁ\N_NN ଶଙ୍କରଙ୍କୁ\PR_PRP ପ୍ରଶ୍ନ\N_NN କରିଥିଲେ|\V_VM_VF
+htd64	ପ୍ରଭୁ\N_NN ଏମିତି\QT_QTF ଏକ\QT_QTC ଉପାୟ\N_NN ଏବଂ\CC_CCD ସ୍ଥାନ\N_NN କୁହନ୍ତୁ\V_VM_VF ,\RD_PUNC ଯାହାଦ୍ଵାରା\CC_CCS ସଂସାରରେ\N_NN ଅନେକ\QT_QTF ବ୍ୟାଧି\N_NN ଏବଂ\CC_CCD ପାପତ୍ରସ୍ତ\JJ ଜୀବାତ୍ମାକୁ\N_NN ମୁକ୍ତି\N_NNV ମିଳିପାରିବ\V_VM_VF |\RD_PUNC
+htd65	ସେମାନେ\PR_PRP ଏମିତି\DM_DMD କେଉଁ\DM_DMQ କାମ\N_NN କରିବେ\V_VM_VNF ଯାହାଦ୍ଵାରା\CC_CCS ସେମାନଙ୍କୁ\PR_PRP ଆପଣଙ୍କର\PR_PRP ସ୍ନେହ\N_NN ମିଳିପାରିବ\V_VM_VF |\RD_PUNC
+htd66	ଏହା\DM_DMD ଉପରେ\PSP ପ୍ରଭୁ\N_NN ଶଙ୍କର\N_NNP କହିଲେ\V_VM_VF ଯେ\CC_CCS କି\CC_CCD ଦେବୀ\N_NN ସତ୍ୟ\N_NNP ଯୁଗରେ\N_NN ସବୁ\QT_QTF ତୀର୍ଥ\N_NN ପୁଣ୍ୟଫଳ\N_NN ପ୍ରଦାନକରନ୍ତି\V_VM_VF ,\RD_PUNC ତ୍ରେତା\N_NNP ଯୁଗରେ\N_NN ପୁଷ୍କର\N_NNP ,\RD_PUNC ଦ୍ଵାପରରେ\N_NNP କୁରୁକ୍ଷେତ୍ର\N_NNP ତୀର୍ଥ\N_NN ପୁଣ୍ୟଫଳ\N_NN ପ୍ରଦାନ\N_NN କରନ୍ତି\V_VM_VF ଏବଂ\CC_CCD କଳିକାଳରେ\N_NNP କେବଳ\CC_CCD ଗଙ୍ଗା\N_NNP ସ୍ନାନରେ\N_NNV ପୁଣ୍ୟ\JJ ଫଳ\N_NN ପ୍ରାପ୍ତି\N_NNV ହୋଇଥାଏ|\V_VM_VF
+htd67	ଗଙ୍ଗାତଟରେ\N_NNP ଶିବବଲ୍ଲଭପୁର\N_NNP ନାମକ\N_NN ଗୋଟିଏ\RP_CL ସ୍ଥାନ\N_NN ଅଛି\V_VM_VF ।\RD_PUNC
+htd68	ଶିବବଲ୍ଲଭପୁର\N_NNP ନାମକ\N_NN ସ୍ଥାନରେ\N_NN ଶିବ\N_NNP ବାସ\N_NNV କରନ୍ତି\V_VM_VF |\RD_PUNC
+htd69	ଶିବବଲ୍ଲଭପୁର\N_NNP ଶିବଙ୍କର\N_NNP ଅତ୍ୟନ୍ତ\RP_INTF ପ୍ରିୟ\N_NN ସ୍ଥାନ\N_NN ।\RD_PUNC
+htd70	ଶିବବଲ୍ଲଭପୁର\N_NNP ଜମ୍ବୁଦ୍ଵୀପର\N_NNP ଆର୍ଯାବର୍ତ୍ତ\N_NNP ଦେଶରେ\N_NN ହସ୍ତିନାପୁରର\N_NNP ପୂର୍ବ\JJ ଦିଗରେ\N_NN ଅବସ୍ଥିତ\V_VM_VF |\RD_PUNC
+htd71	ଗଙ୍ଗାତଟରେ\N_NNP ଅବସ୍ଥିତ\JJ ଶିବବଲ୍ଲଭପୁର\N_NNP ଦେବାଦେବୀ\N_NN ,\RD_PUNC ଋଷି\N_NN ,\RD_PUNC ମୁନିଗଣ\N_NN ଏବଂ\CC_CCD ପିତୃଦେବମାନଙ୍କୁ\N_NN ସନ୍ତୋଷ\N_NN ପ୍ରଦାନ\N_NNV କରିଥାଏ|\V_VM_VF
+htd72	ଶିବବଲ୍ଲଭପୁର\N_NNP କ୍ଷେତ୍ର\N_NN ମୋ\PR_PRP ପାଇଁ\PSP କାଶୀ\N_NNP ସମାନ\N_NN ପ୍ରିୟ\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd73	ଗଢ଼-ମୁକ୍ତେଶ୍ଵରରେ\N_NNP ଅବସ୍ଥିତ\V_VM_VF ଗଙ୍ଗାମନ୍ଦିର\N_NN ବହୁତ\QT_QTF ଉଞ୍ଚାରେ\N_NN ନିର୍ମାଣ\N_NNV କରାଯାଇଛି\V_VM_VF |\RD_PUNC
+htd74	ଗଢ଼-ମୁକ୍ତେଶ୍ଵରରେ\N_NNP ଥିବା\V_VM_VNF ଗଙ୍ଗାମନ୍ଦିରରେ\N_NNP ଗଙ୍ଗାମାତାଙ୍କ\N_NNP ବ୍ୟତୀତ\CC_CCD ବ୍ରହ୍ମାଙ୍କର\N_NNP ମୂର୍ତ୍ତି\N_NN ମଧ୍ୟ\RP_RPD ଲଗାଯାଇଅଛି\V_VM_VF |\RD_PUNC
+htd75	ଗଢ଼-ମୁକ୍ତେଶ୍ଵରର\N_NNP ଗଙ୍ଗାମନ୍ଦିରରେ\N_NNP ଏମିତି\DM_DMR ଏକ\QT_QTC ପଥର\N_NN ବି\RP_RPD ଅଛି\V_VM_VF ,\RD_PUNC ଯାହାକୁ\DM_DMR ଧ୍ୟାନର\N_NN ସହିତ\PSP ଦେଖିଲେ\V_VM_VNF ତାହା\DM_DMD ଉପରେ\PSP ଭଗବାନ\N_NN ଶିବଙ୍କର\N_NNP ଆକୃତିର\N_NN ଆଭାସ\N_NN ମିଳିଥାଏ|\N_NN
+htd76	ଗଢ଼-ମୁକ୍ତେଶ୍ଵରର\N_NNP ଗଙ୍ଗାମନ୍ଦିରରେ\N_NN ପହଞ୍ଝିବା\V_VM_VNF ପାଇଁ\PSP ଅତୀତରେ\N_NST ୧୦୧\QT_QTC ପାହାଚ\N_NN ଚଢିବାକୁ\V_VM_VINF ପଡୁଥିଲା\V_VM_VF ।\RD_PUNC
+htd77	କିନ୍ତୁ\CC_CCD ବର୍ତ୍ତମାନ\N_NST ଗଢ଼-ମୁକ୍ତେଶ୍ଵରର\N_NNP ଗଙ୍ଗାମନ୍ଦିରରେ\N_NNP ୮୬ଟି\RP_CL ପାହାଚ\N_NN ଅଛି|\V_VM_VF
+htd78	କଥିତ\N_NNV ଅଛି\V_VM_VF ଯେ\CC_CCS କି\CC_CCD ୧୯୩୭\QT_QTC ମସିହା\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ଗଙ୍ଗା\N_NNP ଗଢ଼-ମୁକ୍ତେଶ୍ଵରର\N_NNP ଗଙ୍ଗାମନ୍ଦିରର\N_NNP ପାହାଚକୁ\N_NN ସ୍ପର୍ଶକରି\V_VM_VNF ପ୍ରବାହିତ\JJ ହେଉଥିଲା\V_VM_VF ।\RD_PUNC
+htd79	କିନ୍ତୁ\CC_CCD ଧିରେ-ଧିରେ\JJ ଗଙ୍ଗା\N_NNP ସ୍ଥାନ\N_NN ଛାଡି\V_VM_VNF ଚାଲିଗଲେ|\V_VM_VF
+htd80	ବର୍ତ୍ତମାନ\N_NST ଗଙ୍ଗାତଟ\N_NNP ଏ\DM_DMD ମନ୍ଦିର\N_NN ଠାରୁ\PSP ପ୍ରାୟ\N_NN ୧୦\QT_QTC କିଲୋମିଟର\QT_QTF ଦୂରରେ\N_NN ଅଛି|\V_VM_VF
+htd81	ଗଙ୍ଗାତଟରେ\N_NNP ଥିବା\V_VM_VNF ବାଲିଆ\JJ ପଡିଆରେ\N_NN ମହୋତ୍ସବ\N_NN ଅନୁଷ୍ଠିତ\JJ ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd82	ମେଳା\N_NN ସମୟରେ\N_NN ତଟଦେଶରେ\N_NN ତମ୍ବୁ\N_NN ଦ୍ୱାରା\PSP ଗୋଟିଏ\RP_CL ନଗରୀ\N_NN ହୋଇଯାଏ|\V_VM_VF
+htd83	ମହୋତ୍ସବ\N_NN ସ୍ଥଳୀ\N_NN ଦିଲ୍ଲୀରୁ\N_NNP ପାଖାପାଖି\QT_QTF ୯୦\QT_QTC କିଲୋମିଟର\N_NN ଅଟେ|\V_VM_VF
+htd84	ମହୋତ୍ସବ\N_NN ସ୍ଥଳୀକୁ\N_NN କାର୍‌\N_NNP ଆଦି\RP_RPD ମାଧ୍ୟମରେ\PR_PRC ଆରାମରେ\N_NN ପହଞ୍ଚି\N_NNV ପାରିବେ|\V_VM_VF
+htd85	ଗଢ଼-ମୁକ୍ତେଶ୍ଵରରେ\N_NNP ଭକ୍ତମାନଙ୍କୁ\N_NN ପ୍ରଥମେ\N_NN ମହୋତ୍ସବ\N_NN ସ୍ଥଳୀ\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ପାଦରେ\N_NN ଚାଲିକରି\V_VM_VNF ଯିବାକୁ\V_VM_VNF ପଡୁଥିଲା\V_VM_VF |\RD_PUNC
+htd86	କିନ୍ତୁ\CC_CCD ଏବେ\N_NN ଯାତାୟତର\N_NN ପର୍ଯ୍ୟାପ୍ତ\RP_INTF ସୁଯୋଗ\N_NN ଉପଲବ୍ଧ\N_NNV ହେଉଅଛି\V_VM_VF |\RD_PUNC
+htd87	ଅନେକ\QT_QTF ଲୋକ\N_NN ବଳଦ\N_NNP ଗାଡି\N_NN ,\RD_PUNC ଟ୍ରାକ୍ଟର\N_NNP ,\RD_PUNC ଟ୍ରଲି\N_NNP ,\RD_PUNC କାର୍‌\N_NNP ଏବଂ\CC_CCD ଅନ୍ୟ\RP_RPD କୌଣସି\N_NN ମାଧ୍ୟମ\N_NN ଦ୍ୱାରା\PSP ମହୋତ୍ସବ\N_NN ସ୍ଥଳରେ\N_NN ପହଞ୍ଚିଥାନ୍ତି\V_VM_VF |\RD_PUNC
+htd88	ଅନୁମାନ\N_NN କରାଯାଏ\V_VM_VF ଯେ\CC_CCD ପ୍ରତିବର୍ଷ\N_NN ପାଖାପାଖି\QT_QTF କୋଡ଼ିଏ\QT_QTC ଲକ୍ଷ\QT_QTC ଲୋକ\N_NN ଗଢ଼-ମୁକ୍ତେଶ୍ଵର\N_NNP ମହୋତ୍ସବରେ\N_NN ଗଙ୍ଗାସ୍ନାନ\N_NN କରିବାକୁ\V_VM_VINF ଆସନ୍ତି\V_VM_VF |\RD_PUNC
+htd89	ମେଳାରେ\N_NN ଭାଗ\N_NN ନେବାକୁ\V_VM_VINF ଆସୁଥିବା\V_VM_VNF ଅଧିକାଂଶ\QT_QTF ଶ୍ରଦ୍ଧାଳୁ\JJ ଭକ୍ତ\N_NN ଲଗାଯାଇଥିବା\V_VM_VNF ତମ୍ବୁରେ\N_NN ହିଁ\RP_RPD ରହିଥାଅନ୍ତି\V_VM_VF ।\RD_PUNC
+htd90	ମେଳା\N_NN ବ୍ୟତୀତ\CC_CCD ସାଧାରଣ\JJ ଦିନମାନଙ୍କରେ\N_NN ଆସୁଥିବା\V_VM_VNF ଶ୍ରଦ୍ଧାଳୁମାନେ\JJ ବ୍ରଜଘାଟର\N_NNP ପାଖାପାଖି\N_NN ନିର୍ମିତ\JJ ଧର୍ମଶାଳାମାନଙ୍କରେ\N_NN ରୁହନ୍ତି\V_VM_VF |\RD_PUNC
+htd91	ଏମିତିତ\CC_CCD ଏଠାରେ\DM_DMD ଖାଇବା-ପିଇବା\V_VM_VNF ଜିନିଷ\N_NN ଅଧିକାଂଶ\QT_QTF ଦୋକାନରେ\N_NN ମିଳିଯାଇଥାଏ\V_VM_VF |\RD_PUNC
+htd92	କିନ୍ତୁ\CC_CCD ସାମୁହିକ\JJ ରୂପରେ\N_NN ମେଳାକୁ\N_NN ଆସୁଥିବା\V_VM_VNF ଶ୍ରଦ୍ଧାଳୁ\JJ ନିଜର\PR_PRF ଭୋଜନାଦିର\N_NN ବ୍ୟବସ୍ଥା\N_NN ନିଜେ\PR_PRF ହିଁ\RP_RPD କରିଥାଆନ୍ତି\V_VM_VF |\RD_PUNC
+htd93	କାର୍ତ୍ତିକପୂର୍ଣ୍ଣିମା\N_NNP ଅବସରରେ\N_NN ଗଢ଼-ମୁକ୍ତେଶ୍ଵରରେ\N_NNP ଗଙ୍ଗାତଟରେ\N_NNP ହେଉଥିବା\V_VM_VNF ମେଳା\N_NN ପ୍ରସିଦ୍ଧ\JJ ମେଳାଗୁଡିକ\N_NN ମଧ୍ୟରୁ\PR_PRC ଅନ୍ୟତମ\V_VM_VF ।\RD_PUNC
+htd94	ମେଳା\N_NN ଗଙ୍ଗା\N_NNP କୂଳେ-କୂଳେ\N_NN ପାଖାପାଖି\QT_QTF ୧୧\QT_QTC କିଲୋମିଟର\N_NN କ୍ଷେତ୍ର\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ପରିବ୍ୟାପ୍ତ\V_VM_VF ।\RD_PUNC
+htd95	ଏହି\DM_DMD ବର୍ଷ\N_NN ମେଳାର\N_NN ଆୟୋଜନ\N_NN ମେଳାସ୍ଥଳୀକୁ\N_NN ୨୦ଟି\RP_CL ସେକ୍ଟରରେ\N_NN ବାଣ୍ଟିକରି\V_VM_VNF କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd96	ସୁରକ୍ଷା\N_NN ଦୃଷ୍ଟିକୋଣରୁ\N_NN ଗଢ଼-ମୁକ୍ତେଶ୍ଵରରେ\N_NNP ପୂର୍ବ\N_NN ଅପେକ୍ଷା\N_NN ପୋଲିସ୍‌ଫୋର୍ସ\N_NN ଅଧିକ\QT_QTF ଲଗାଯାଇଅଛି\V_VM_VF |\RD_PUNC
+htd97	ପ୍ରମୁଖ\JJ ସ୍ଥାନମାନଙ୍କରେ\N_NN କ୍ଲୋଜ୍‌ସର୍କିଟ୍‍\N_NN କ୍ୟାମେରା\N_NN ମଧ୍ୟ\RP_RPD ଲଗାଯାଇଅଛି\V_VM_VF |\RD_PUNC
+htd98	ଗଙ୍ଗାସ୍ନାନ\N_NN ପାଇଁ\PSP ଅନେକ\QT_QTF ଘାଟ\N_NN ମଧ୍ୟ\RP_RPD ତିଆରି\N_NNV କରାଯାଇଅଛି\V_VM_VF |\RD_PUNC
+htd99	ହସ୍ତିନାପୁରର\N_NNP ଏକ\QT_QTC ଐତିହାସିକ\JJ ମର୍ଯ୍ୟାଦା\N_NN ରହିଛି\V_VM_VF |\RD_PUNC
+htd100	ଜୈନ\N_NNP ଜଗତଠାରୁଭିନ୍ନ\N_NN ଭାରତବର୍ଷର\N_NNP ସଂପୂର୍ଣ୍ଣ\QT_QTF ଜାତିମାନଙ୍କ\N_NN ପାଇଁ\PSP ଏହି\DM_DMD ସ୍ଥାନର\N_NN ବିଶେଷ\JJ ମହତ୍ତ୍ଵ\N_NN ରହିଛି\V_VM_VF |\RD_PUNC
+htd101	ହସ୍ତିନାପୁରକୁ\N_NNP ଯିବାପାଇଁ\V_VM_VNF ହେଲେ\V_VM_VNF ଆମକୁ\PR_PRP ଦିଲ୍ଲୀରୁ\N_NNP କାଶ୍ମୀରୀଗେଟ୍‍\N_NNP ବସ୍‌ସ୍ଥଳୀକୁ\N_NN ଯିବା\V_VM_VNF ସୁବିଧାଜନକ\N_NN ବୋଲି\CC_CCD ବୁଝାଯାଏ|\V_VM_VF
+htd102	କାଶ୍ମୀରୀଗେଟରୁ\N_NNP \N_NN ସବୁସମୟରେ\N_NN ମେରଠ-ପର୍ଯନ୍ତ\N_NNP ବସ୍‌ଗୁଡିକ\N_NN ଯାଇଥାଏ\V_VM_VF |\RD_PUNC
+htd103	ପୁଣି\CC_CCD ମେରଠ୍‌ରୁ\N_NNP ହସ୍ତିନାପୁରକୁ\N_NNP ଯିବାପାଇଁ\PSP ବସ୍\N_NNP ମିଳିଯାଇଥାଏ\V_VM_VF |\RD_PUNC
+htd104	ଦିଲ୍ଲୀରୁ\N_NNP ହସ୍ତିନାପୁରର\N_NNP ଦୂରତା\N_NN ପାଖାପାଖି\N_NST ୧୦୫\QT_QTC କିଲୋମିଟର\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd105	ହସ୍ତିନାପୁରକୁ\N_NNP ଶାସ୍ତ୍ରରେ\N_NN ଆହୁରି\RP_INTF ଅନେକ\QT_QTF ନାମରେ\N_NN ମଧ୍ୟ\RP_RPD ଜଣାଯାଇଥାଏ\V_VM_VF ,\RD_PUNC ଯେମିତି\CC_CCS ଗଜପୁର୍‌\N_NNP ,\RD_PUNC ନାଗପୁର୍‌\N_NNP ,\RD_PUNC ଅସଂଧିବତ\N_NNP ,\RD_PUNC ବ୍ରହ୍ମସ୍ଥଳ\N_NNP ,\RD_PUNC ଶାନ୍ତିନଗର\N_NNP ,\RD_PUNC କୁଜାରପୁର\N_NNP ଇତ୍ୟାଦି\RP_RPD |\RD_PUNC
+htd106	ହସ୍ତିନାପୁରରେ\N_NNP ଜୈନଧର୍ମର\N_NNP ଚବିଶି\QT_QTC ତୀର୍ଥଙ୍କରମାନଙ୍କ\N_NN ମଧ୍ୟରୁ\PR_PRC ସର୍ବପ୍ରଥମ\JJ ତୀର୍ଥଙ୍କର\N_NN ଆଦିନାଥ\N_NNP ପ୍ରଭୁ\N_NN ନିଜର\PR_PRF ଚାରିଶହ\QT_QTC ଦିନର\N_NN ବ୍ରତ\N_NN ପରେ\PSP ଶ୍ରେୟାଂଶକୁମାରଙ୍କ\N_NNP ହାତରୁ\N_NN ଆଖୁରସ\N_NN ଗ୍ରହଣକରି\V_VM_VNF ନିଜ\PR_PRF ବ୍ରତର\N_NN ଉଦ୍‌ଯାପନ\N_NNV କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd107	ହସ୍ତିନାପୁରରେ\N_NNP ହିଁ\RP_RPD ଶ୍ରୀ\N_NN ଶାନ୍ତିନାଥ\N_NNP ପ୍ରଭୁ\N_NN ,\RD_PUNC କୃନ୍ତନାଥ\N_NNP ପ୍ରଭୁ\N_NN ଏବଂ\CC_CCD ଶ୍ରୀ\N_NN ଅରହନାଥ\N_NNP ପ୍ରଭୁଙ୍କର\N_NN ଦର୍ଶନରୁ\N_NN ବାରୋଟି\QT_QTC କଲ୍ୟାଣ\N_NN ପ୍ରାପ୍ତହେଲା\V_VM_VF ।\RD_PUNC
+htd108	ଭଗବାନ\N_NN ମଲ୍ଲୀନାଥଙ୍କର\N_NNP ସମ୍ବତ୍ସରଉତ୍ସବ\N_NN ମଧ୍ୟ\RP_RPD ହସ୍ତିନାପୁରରେ\N_NNP ହିଁ\RP_RPD ହୋଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd109	ହସ୍ତିନାପୁରରେ\N_NNP ହିଁ\RP_RPD ମୁନି\N_NN ସୁବ୍ରତନାଥ\N_NNP ସ୍ଵାମୀ\N_NN ,\RD_PUNC ଭଗବାନ\N_NN ପାର୍ଶ୍ୱନାଥ୍‌\N_NNP ଏବଂ\CC_CCD ଭଗବାନ\N_NN ମହାବୀର୍‌\N_NNP ସ୍ଵାମୀ\N_NN ନିଜସ୍ୱ\PR_PRF ଦିବ୍ୟ\JJ ବାଣୀରେ\N_NN ପ୍ରବଚନ\N_NNV ଦେଇଥିଲେ\V_VM_VF ।\RD_PUNC
+htd110	ହସ୍ତିନାପୁରରେ\N_NNP ପଦଧୌତ\N_NNV ଏବଂ\CC_CCD ପୂଜାର୍ଚ୍ଚନା\N_NNV ସମୟ\N_NN ପ୍ରାତଃ\N_NST ୮ଟାରୁ\QT_QTC ସଂଧ୍ୟା\N_NST ୫ଟା\QT_QTC ପର୍ଯ୍ୟନ୍ତ\PSP ଚାଲିଥାଏ\V_VM_VF ।\RD_PUNC
+htd111	ଆଉ\CC_CCD ଦିଗମ୍ବର\N_NNP ଜୈନମନ୍ଦିରରେ\N_NNP ପୂଜା\N_NN କରିବାର\V_VM_VNF ସମୟ\N_NN ସକାଳ\N_NST ୭ଟା\QT_QTC ବେଳେ\N_NN ଆରମ୍ଭ\N_NN ହୋଇଥାଏ\V_VM_VF |\RD_PUNC
+htd112	ହସ୍ତିନାପୁରରେ\N_NNP ଆଦିନାଥ\N_NNP ଭଗବାନ\N_NN ଦୀକ୍ଷା\N_NN ନେବାକୁ\V_VM_VINF ୪ଶହ\QT_QTC ଦିନ\N_NN ପରେ\PSP ବୈଶାଖ\N_NNP ଶୁକ୍ଳତୃତୀୟା\N_NNP ଦିନରେ\N_NN ଆସିଥିଲେ\V_VM_VF |\RD_PUNC
+htd113	ଲୋକମାନେ\N_NN ଦୂର-ଦୂରାନ୍ତରୁ\N_NN ତାଙ୍କର\PR_PRP ଦର୍ଶନ\N_NNV ପାଇଁ\PSP ଯାଉଥିଲେ\V_VM_VF |\RD_PUNC
+htd114	ରାଜକୁମାର\JJ ଶ୍ରୟୋଂଷକୁମାର\N_NNP ଯେତେବେଳେ\CC_CCS ଏହି\DM_DMD କଥା\N_NN ସମ୍ପର୍କରେ\N_NN ଜାଣିଲେ\V_VM_VF ,ସେତେବେଳେ\CC_CCS ତାଙ୍କ\PR_PRP ନିଜର\PR_PRF ପୂର୍ବଜମାନଙ୍କର\N_NN ଅନ୍ନ-ଜଳ\N_NN ତ୍ୟାଗ\N_NNV ପ୍ରଥା\N_NN ମନେପଡ଼ିଗଲା\V_VM_VF ।\RD_PUNC
+htd115	ରାଜକୁମାର\JJ ଶ୍ରେୟଂଷକୁମାର\N_NNP ଆଦିନାଥ\N_NNP ପ୍ରଭୁଙ୍କଠାରେ\N_NN ବ୍ରତର\N_NN ଉଦ୍‌ଯାପନ\N_NNV ପାଇଁ\PSP ଆଖୁରସ\N_NN ଗ୍ରହଣ\N_NN କରିବାକୁ\V_VM_VINF ପ୍ରାର୍ଥନାକଲେ\V_VM_VF ଯାହାକୁ\PR_PRL ସେ\PR_PRP ସ୍ୱୀକାର\N_NN କଲେ\V_VM_VF ।\RD_PUNC
+htd116	ପରବର୍ତ୍ତୀ\JJ ସମୟରେ\N_NN ଏହି\DM_DMD ଦିନକୁ\N_NN ଅକ୍ଷୟତୃତୀୟା\N_NNP କୁହାଗଲା\V_VM_VF |\RD_PUNC
+htd117	ହସ୍ତିନାପୁରରେ\N_NNP ଭଗବାନ\N_NN ନିଜସ୍ୱ\PR_PRF ପ୍ରବଚନ\N_NN ଦ୍ୱାରା\PSP ୬ଜଣ\QT_QTC ମହାରାଜଙ୍କୁ\N_NN ଜୈନଧର୍ମ\N_NNP ଅନୁଗାମୀ\N_NN କରାଇଥିଲେ\V_VM_VF ।\RD_PUNC
+htd118	୨୪ଜଣ\QT_QTC ତୀର୍ଥଙ୍କର\N_NN ମଧ୍ୟରୁ\PR_PRC ୨୦ତମ\QT_QTC ତୀର୍ଥଯାତ୍ରୀ\N_NN ଶ୍ରୀ-ମୁନି\JJ ସୁବ୍ରତ\N_NNP ସ୍ଵାମୀ\N_NN ,\RD_PUNC ୨୩ତମ\QT_QTC ତୀର୍ଥଯାତ୍ରୀ\N_NN ପାର୍ଶ୍ଵନାଥ\N_NNP ଭଗବାନ\N_NN ଏବଂ\CC_CCD ଅନ୍ତିମ\JJ ତୀର୍ଥଯାତ୍ରୀ\N_NN ଶ୍ରୀ-ମହାବୀର\N_NNP ସ୍ଵାମୀ\N_NN ମଧ୍ୟ\RP_RPD ଏହି\DM_DMD ସ୍ଥାନକୁ\N_NN ନିଜର\PR_PRF ଚରଣସ୍ପର୍ଶରେ\N_NN ପବିତ୍ର\N_NN କଲେ\V_VM_VF |\RD_PUNC
+htd119	ଭାରତରେ\N_NNP ମୋଟ୍‌\QT_QTF ୧୨ଜଣ\QT_QTC ଚକ୍ରବର୍ତ୍ତୀ\JJ ସମ୍ରାଟ\N_NN ଥିଲେ\V_VM_VF ।\RD_PUNC
+htd120	ଭାରତରେ\N_NNP ମୋଟ୍‌\QT_QTF ୧୨ଜଣ\QT_QTC ଚକ୍ରବର୍ତ୍ତୀ\JJ ସମ୍ରାଟମାନଂକ\N_NN ମଧ୍ୟରୁ\PR_PRC ୬ଜଣଙ୍କର\QT_QTC ଜନ୍ମସ୍ଥାନ\N_NN ହସ୍ତିନାପୁର\N_NNP ଅଟେ\V_VM_VF ।\RD_PUNC
+htd121	ରାମାୟଣ\N_NNP କାଳର\N_NN ପର୍ଶୁରାମ\N_NNP ମଧ୍ୟ\RP_RPD ହସ୍ତିନାପୁରରେ\N_NNP ଜନ୍ମ\N_NN ହୋଇଥିଲେ\V_VM_VF |\RD_PUNC
+htd122	ହସ୍ତିନାପୁର\N_NNP କୌରବ\N_NNP ଏବଂ\CC_CCD ପାଣ୍ତବମାନଙ୍କର\N_NNP ରାଜଧାନୀ\N_NN ରହିଅାସିଛି\V_VM_VF |\RD_PUNC
+htd123	କାର୍ତ୍ତିକପୂର୍ଣ୍ଣିମା\N_NNP ଏବଂ\CC_CCD ବୈଶାଖ\N_NNP ଶୁକ୍ଳତୃତୀୟା\N_NNP ଦିନ\N_NN ଶ୍ୱେତାମ୍ବର\N_NNP ଜୈନମନ୍ଦିରରେ\N_NN ଏବଂ\CC_CCD କାର୍ତ୍ତିକ\N_NNP ଶୁକ୍ଳ୍\N_NNP ଅମାବାସ୍ୟା\N_NN ଠାରୁ\PSP ପୂର୍ଣ୍ଣିମା\N_NN ମଧ୍ୟରେ\PR_PRC ଦିଗମ୍ବର\N_NNP ଜୈନମନ୍ଦିରରେ\N_NN କାର୍ଯ୍ୟକ୍ରମର\N_NN ଅୟୋଜନ\N_NNV କରାଯାଇଥିଲା\V_VM_VF |\RD_PUNC
+htd124	ଭଗବାନ\N_NN ଆଦିନାଥ\N_NNP ପୋଦନପୁର୍‌\N_NNP ଏବଂ\CC_CCD ହସ୍ତିନାପୁର\N_NNP ରାଜ୍ୟକୁ\N_NN ନିଜର\PR_PRF ପୁତ୍ର\N_NN ବାହୁବଳୀକୁ\N_NNP ସମର୍ପଣ\N_NNV କରିଥିଲେ\V_VM_VF |\RD_PUNC
+htd125	ବାହୁବଳୀ\N_NNP ପୋଦନପୁରକୁ\N_NNP ଶାସନ\N_NN କଲେ\V_VM_VF ।\RD_PUNC
+htd126	ଯେତେବେଳେ\PR_PRL କି\CC_CCD ତାଙ୍କର\PR_PRP ପୁତ୍ର\N_NN ସୋମୟଂଶ\N_NNP ହସ୍ତିନାପୁରରେ\N_NNP ରାଜୁତି\N_NNV କଲେ\V_VM_VF ।\RD_PUNC
+htd127	ବାହୁବଳୀଙ୍କର\N_NNP ସାନଭାଇ\N_NN ଶ୍ରେୟାଂଷକୁମାର\N_NNP ଆଦିନାଥ\N_NNP ଭଗବାନଙ୍କର\N_NN ଚରଣାଭିଷେକ\N_NN କରିଥିଲେ|\V_VM_VF
+htd128	ଶ୍ରେୟାଂଷକୁମାରଙ୍କ\N_NNP ସ୍ମୃତିରେ\N_NN ରତ୍ନସ୍ତମ୍ଭ\N_NN ନିର୍ମାଣ\N_NNV କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd129	ସେଠାରେ\DM_DMD ଆଦିନାଥ\N_NNP ଭଗବାନଙ୍କର\N_NN ଚରଣ\N_NN ପାଦୁକା\N_NN ମଧ୍ୟ\RP_RPD ସ୍ଥାପନ\N_NNV କରାଯାଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd130	ଶ୍ରୀ\N_NN ଶାନ୍ତିନାଥ\N_NNP ଭଗବାନ\N_NN ,\RD_PUNC ଶ୍ରୀ\N_NN କୁନ୍ଥନାଥ\N_NNP ଭଗବାନ\N_NN ଏବଂ\CC_CCD ଅରହନାଥ\N_NNP ଭଗବାନଙ୍କର\N_NN ଚାରୋଟି\QT_QTC କଲ୍ୟାଣକର\JJ ସ୍ମୃତି\N_NN ମଧ୍ୟରୁ\PR_PRC ଏଠାରେ\DM_DMD ତିନିଗୋଟି\QT_QTC ସ୍ତମ୍ଭ\N_NN ନିର୍ମାଣ\N_NNV କରାଗଲା|\V_VM_VF
+htd131	ରାଜା\N_NN ଶିବରାଜ\N_NNP ମହାବୀର\N_NNP ସ୍ଵାମୀଙ୍କର\N_NN ପ୍ରବଚନ\N_NNV ଶୁଣିକରି\V_VM_VNF ଜୈନଧର୍ମକୁ\N_NNP ଆପଣେଇଥିଲେ\V_VM_VF ;\RD_PUNC ମହାବୀର\N_NNP ସ୍ଵାମୀଙ୍କର\N_NN ସ୍ମୃତିରେ\N_NN ରାଜା\N_NN ଶିବରାଜ\N_NNP ହସ୍ତିନାପୁରରେ\N_NNP ଏକ\QT_QTC ସ୍ତମ୍ଭ\N_NN ନିର୍ମାଣ\N_NNV କରାଇଥିଲେ\V_VM_VF ।\RD_PUNC
+htd132	ସମ୍ରାଟ୍‌\JJ ଅଶୋକଙ୍କର\N_NNP ଜଣେ\PR_PRF ବଂଶଧର\N_NN ମଧ୍ୟ\RP_RPD ତାଙ୍କର\PR_PRP ଶାସନକାଳରେ\N_NN ଅନେକ\QT_QTF ଜୈନମନ୍ଦିର\N_NNP ନିର୍ମାଣ\N_NNV କଲେ\V_VM_VF |\RD_PUNC
+htd133	କିନ୍ତୁ\CC_CCD ସମୟ\N_NN ସହିତ\PSP ଏହି\DM_DMD ପ୍ରାଚୀନ\JJ ସ୍ତମ୍ଭ\N_NN ଏବଂ\CC_CCD ମନ୍ଦିର\N_NN ଧିରେ-ଧିରେ\JJ ବିଲୀନ\N_NNV ହୋଇଗଲା\V_VM_VF ।\RD_PUNC
+htd134	ଏହି\DM_DMD ହସ୍ତିନାପୁର\N_NNP ନଗରୀ\N_NN ପବିତ୍ର\JJ ଗଂଗାନଦୀ\N_NNP ତଟରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd135	ହସ୍ତିନାପୁରରେ\N_NNP ପହଞ୍ଚିଲା\V_VM_VNF ପରେ\PSP ଲୋକମାନେ\N_NN ରହିବା\V_VM_VNF ପାଇଁ\PSP ଧର୍ମଶାଳାର\N_NN ସୁବିଧା\N_NN ମଧ୍ୟ\RP_RPD ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd136	ଶ୍ଵେତାମ୍ବର\N_NNP ଟ୍ରଷ୍ଟ\N_NN ଧର୍ମଶାଳାରେ\N_NN ରହିବା\V_VM_VNF ପାଇଁ\PSP ୪୦୦ଟି\QT_QTC କୋଠରୀ\N_NN ଏବଂ\CC_CCD ସକାଳ\N_NST ଜଳଖିଆ\N_NN ,\RD_PUNC ଦିପହରର\N_NST ଖାଇବା\V_VM_VNF ଏବଂ\CC_CCD ରାତ୍ରଭୋଜନ\N_NN ପାଇଁ\PSP ମଧ୍ୟ\RP_RPD ବ୍ୟବସ୍ଥା\N_NN ହୋଇଥାଏ\V_VM_VF |\RD_PUNC
+htd137	ଏହିପରି\DM_DMD ଅନେକ\QT_QTF ଧର୍ମଶାଳା\N_NN ଖୁବ୍‌\RP_INTF ସହଜରେ\N_NN ମିଳିଯାଇଥାଏ\V_VM_VF |\RD_PUNC
+htd138	ଅତିଶୟ\JJ କ୍ଷେତ୍ର\N_NN ତିଜାରା\N_NNP :\RD_PUNC ଏଠାରେ\DM_DMD ଇଚ୍ଛାଠାରୁ\N_NN ଅଧିକ\QT_QTF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd139	ଚନ୍ଦ୍ରପ୍ରଭୁ\N_NNP ଦିଗମ୍ବର\N_NNP ଜୈନ\N_NN ଅତିଶୟ-କ୍ଷେତ୍ର\N_NNP ଦେହରା-\N_NNP ତିଜାରା\N_NNP ରାଜସ୍ଥାନର\N_NNP ଅଲଓ୍ୱାର\N_NNP ଜିଲ୍ଲାରେ\N_NN ଅବସ୍ଥିତ\V_VM_VF |\RD_PUNC
+htd140	ଏହାକୁ\DM_DMD ଅତିଶୟ-କ୍ଷେତ୍ର\N_NNP କୁହାଯାଇଥାଏ\V_VM_VF |\RD_PUNC
+htd141	ଅତିଶୟର\N_NN ଅର୍ଥ\N_NN ହେଉଛି\V_VM_VF ସାମାନ୍ୟରୁ\QT_QTF ବହୁତ\RP_INTF ଅଧିକ\QT_QTF |\RD_PUNC
+htd142	ଅର୍ଥାତ୍‍\CC_CCD ଏଭଳି\CC_CCS କ୍ଷେତ୍ର\N_NN ଯେଉଁଠାରେ\CC_CCS କିଛି\QT_QTF ଅସାଧାରଣ\JJ ଘଟଣା\N_NN ଘଟିଥିବ\V_VM_VF କିମ୍ବା\CC_CCD କିଛି\QT_QTF ଚମତ୍କାରିତା\JJ ହୋଇଥିବ\V_VM_VF ।\RD_PUNC
+htd143	ଅର୍ଥାତ୍‍\CC_CCD ଯଦି\CC_CCD ସାଧାରଣ\JJ ସ୍ତରରେ\N_NN ଯାହା\PR_PRL କିଛି\QT_QTF ମଗାଯାଏ\V_VM_VF ,\RD_PUNC ତାଠାରୁ\DM_DMD ଯଥେଷ୍ଟ\RP_INTF ଅଧିକ\N_NN ପ୍ରାପ୍ତି\N_NNV ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd144	ଏତେ\QT_QTF ମିଳିଥାଏ\V_VM_VF ଯେ\CC_CCD ତୁମେ\PR_PRP ଆଶ୍ଚର୍ଯ୍ୟ\N_NN ହୋଇଯିବ\V_VM_VF |\RD_PUNC
+htd145	ଏହା\DM_DMD ହିଁ\RP_RPD ତିଜାରା\N_NNP କ୍ଷେତ୍ରର\N_NN ମାନ୍ୟତା\N_NN ଅଟେ|\V_VM_VF
+htd146	ତିଜାରାର\N_NNP ଏହାକୁ\DM_DMD ଅତିଶୟ-କ୍ଷେତ୍ର\N_NNP କହିବା\V_VM_VF ନା\RP_NEG ମନ୍ଦିର\N_NN ଅଲବର\N_NNP ଜିଲ୍ଲାରୁ\N_NN ୫୨\QT_QTC କିଲୋମିଟର\N_NN ଏବଂ\CC_CCD ଦିଲ୍ଲୀରୁ\N_NNP ୧୧୭\QT_QTC କିଲୋମିଟର\N_NN ଦୂରରେ\N_NST ଏହା\DM_DMD ଅବସ୍ଥିତ\V_VM_VF
+htd147	ତିଜାରା\N_NNP ଅତିଶୟ-କ୍ଷେତ୍ରରେ\N_NNP ୨୪\QT_QTC ତୀର୍ଥଙ୍କର\N_NN ମଧ୍ୟରୁ\PR_PRC ଅଷ୍ଟମ\QT_QTO ତୀର୍ଥଙ୍କର\N_NN ଶ୍ରୀ\N_NN ଚନ୍ଦ୍ରପ୍ରଭୁ\N_NNP ଭଗବାନଙ୍କର\N_NN ଆରାଧନା\N_NNV କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd148	ତିଜାରା\N_NNP ଅତିଶୟ-କ୍ଷେତ୍ରରେ\N_NNP ଚନ୍ଦ୍ରପ୍ରଭୁ\N_NNP ଭଗବାନଙ୍କର\N_NN ଧଳାରଂଗର\N_NNP ଅତ୍ୟନ୍ତ\RP_INTF ଆକର୍ଷକ\JJ ମାର୍ବଲର\JJ ପ୍ରତିମୂର୍ତ୍ତି\N_NN ସ୍ଥାପିତ\N_NNV ହୋଇଅଛି\V_VM_VF |\RD_PUNC
+htd149	ସେହି\DM_DMD ମୂର୍ତ୍ତି\N_NN ଏହି\DM_DMD କ୍ଷେତ୍ରରେ\N_NN କରାଯାଇଥିବା\V_VM_VNF ଖୋଦନ\N_NNV ସମୟରେ\N_NN ୧୯୫୬\QT_QTC ମସିହା\N_NN ଅଗଷ୍ଟ\N_NNP ମାସ\N_NN ୧୬\QT_QTC ତାରିଖରେ\N_NN ବାହାରିଥିଲା\V_VM_VF |\RD_PUNC
+htd150	କୁହାଯାଏ\V_VM_VF ଯେ\CC_CCD ତିଜାରା\N_NNP କ୍ଷେତ୍ରର\N_NN ଏକ\QT_QTC ଖ୍ୟାତନାମା\JJ ବୈଦ୍ୟ\N_NN ବିହାରିଲାଲଙ୍କର\N_NNP ପତ୍ନୀ\N_NN ସରସ୍ଵତୀ\N_NNP ଦେବୀ\N_NN ତିନି\QT_QTC ଦିନ\N_NN ଉପବାସ\N_NN ରଖିଥିଲେ\V_VM_VF |\RD_PUNC
+htd151	ବ୍ରତପାଳନର\N_NNV ତୃତୀୟ\QT_QTO ଦିନ\N_NN ରାତିରେ\N_NST ସେ\PR_PRP ସ୍ୱପ୍ନରେ\N_NN ନିଜ\PR_PRF ଘର\N_NN ନିକଟରେ\N_NST ଥିବା\V_VM_VNF ଏକ\QT_QTC ସ୍ଥାନ\N_NN ବିଷୟରେ\N_NN କିଛି\QT_QTF ଅଦ୍ଭୁତ\JJ କଥା\N_NN ଦେଖିପାରିଲେ\V_VM_VF ।\RD_PUNC
+htd152	ପରଦିନ\N_NN ସକାଳୁ\N_NST ଯେତେବେଳେ\CC_CCS ଏହି\DM_DMD ସ୍ଥାନକୁ\N_NN ଖୋଦନ\N_NNV କରାଗଲା\V_VM_VF ,\RD_PUNC
+htd153	ସେଠାରେ\DM_DMD ଚନ୍ଦ୍ରପ୍ରଭୁ\N_NNP ଭଗବାନଙ୍କର\N_NN ଭବ୍ୟ\JJ ପ୍ରତିମା\N_NN ପ୍ରାପ୍ତ\N_NNV ହେଲା|\V_VM_VF
+htd154	ଖୋଦନ\N_NNV କରିସାରିବା\V_VM_VNF ପରେ\PSP ଯେଉଁ\PR_PRL ସମୟରେ\N_NN ପ୍ରତିମା\N_NN ବାହାର\V_VM_VNF କରାଯାଇଥିଲା\V_VM_VNF ,\RD_PUNC
+htd155	ଶ୍ରଦ୍ଧାଳୁ\JJ ଭକ୍ତମାନେ\N_NN ଏହି\DM_DMD ଅର୍ଥ\N_NN ବାହାରକଲେ\V_VM_VF ।\RD_PUNC
+htd156	ଏହିପରି\DM_DMD ପ୍ରକୃତି\N_NN ମଧ୍ୟ\RP_RPD ଏହି\DM_DMD ମୂର୍ତ୍ତିର\N_NN ଜଳାଭିଷେକ\N_NNV କରି\V_VM_VNF ଏହାକୁ\DM_DMD ପବିତ୍ର\N_NN କରିଦେଲା\V_VM_VF ।\RD_PUNC
+htd157	ଏହି\DM_DMD ଘଟଣାର\N_NN କିଛି\QT_QTF ବର୍ଷ\N_NN ପରେ\PSP ସେହି\DM_DMD କ୍ଷେତ୍ରରୁ\N_NN ୧୯୭୨\QT_QTC ମସିହା\N_NN ମାର୍ଚ୍ଚ\N_NNP ୨୯\QT_QTC ତାରିଖରେ\N_NN ଚନ୍ଦ୍ରପ୍ରଭୁ\N_NNP ଭଗବାନଙ୍କର\N_NN କଳା\JJ ରଂଗର\N_NN ପଦ୍ମାସନ\JJ ମୁଦ୍ରାରେ\N_NN ଆଉ\CC_CCD ଏକ\QT_QTC ମୂର୍ତ୍ତି\N_NN ପ୍ରାପ୍ତ\N_NNV ହେଲା|\V_VM_VF
+htd158	ଏହି\DM_DMD ମୂର୍ତ୍ତି\N_NN ମନ୍ଦିରର\N_NN ଦକ୍ଷିଣ\N_NNP ଦରଜାର\N_NN ଖୋଦନ\N_NNV ସମୟରେ\N_NN ପ୍ରାପ୍ତ\N_NNV ହେଲା\V_VM_VF ।\RD_PUNC
+htd159	ଅତିଶୟ-କ୍ଷେତ୍ରରେ\N_NNP ସ୍ଥାପିତ\JJ ଏହି\DM_DMD ମନ୍ଦିରର\N_NN ବାହ୍ୟ\JJ ସୌନ୍ଦର୍ଯ୍ୟ\N_NN ଅତ୍ୟନ୍ତ\RP_INTF ମନମୁଗ୍ଧକର\JJ |\RD_PUNC
+htd160	ଏବଂ\CC_CCD ଏହି\DM_DMD ଆକର୍ଷଣୀୟ\JJ ସାଜସଜା\N_NN ଅତ୍ୟନ୍ତ\RP_INTF ଲୋଭନୀୟ\JJ |\RD_PUNC
+htd161	ମନ୍ଦିରର\N_NN ପ୍ରାଗଂଣରେ\N_NN ପର୍ଯ୍ୟାପ୍ତ\RP_INTF ସ୍ଥାନ\N_NN ଉପଲବ୍ଧ\V_VM_VF
+htd162	ଗୋଟିଏ\RP_CL ଥରରେ\RP_CL ହିଁ\RP_RPD ଏଠାରେ\DM_DMD ଦୁଇ\QT_QTC ହଜାର\QT_QTC ଲୋକ\N_NN ସହଜରେ\N_NN ଉପସ୍ଥିତ\N_NNV ରହିପାରିବେ\V_VM_VNF |\RD_PUNC
+htd163	ତିଜାରରେ\N_NNP ଗୋଟିଏ\RP_CL ବଡ\JJ ହଲ୍‌\N_NN ଅଛି\V_VM_VF |\RD_PUNC
+htd164	ତିଜାରାରେ\N_NNP ଥିବା\V_VM_VNF ହଲ୍‌ର\N_NN ଦୁଇପଟ\N_NN ଏବଂ\CC_CCD ପାଚେରୀରେ\N_NN କାଚରେ\N_NN କାମ\N_NN କରାଯାଇଅଛି|\V_VM_VF
+htd165	ଚିତ୍ର\N_NN ମାଧ୍ୟମରେ\PR_PRC ଏହା\DM_DMD ଉପରେ\PSP ପୌରାଣିକ\JJ କଥା\N_NN ବର୍ଣ୍ମନା\N_NNV କରାଯାଇଅଛି\V_VM_VF |\RD_PUNC
+htd166	ବ୍ୟକ୍ତି\N_NN ଏହି\DM_DMD ମୂର୍ତ୍ତି\N_NN ସାମ୍‌ନାରେ\N_NST ସ୍ଵଚ୍ଛ\JJ ମନରେ\N_NN ପ୍ରାର୍ଥନା\N_NNV କରିଥାଏ\V_VM_VF |\RD_PUNC
+htd167	ବ୍ୟକ୍ତିର\N_NN ସମସ୍ତ\PR_PRC ଇଛା\N_NN ପୂରଣ\N_NN ହୋଇଥାଏ\V_VM_VF |\RD_PUNC
+htd168	ଯାଦୁବିଦ୍ୟା\N_NN ଦ୍ୱାରା\PSP ପ୍ରଭାବିତ\JJ ଜନସାଧାରଣ\N_NN ମଧ୍ୟ\RP_RPD ନିଜର\PR_PRF ସମସ୍ୟା\N_NN ନିବାରଣ\N_NNV ପାଇଁ\PSP ତିଜାରାକୁ\N_NNP ଆସିଥାନ୍ତି\V_VM_VF |\RD_PUNC
+htd169	ମନ୍ଦିର\N_NN ସମ୍ମୁଖରେ\N_NST ଗୋଟିଏ\RP_CL ଅତ୍ୟନ୍ତ\RP_INTF ଆକର୍ଷକ\JJ ସ୍ତମ୍ଭ\N_NN ସ୍ଥାପିତ\N_NNV ହୋଇଅଛି\V_VM_VF |\RD_PUNC
+htd170	ଏହାକୁ\DM_DMD ମାନସ୍ତମ୍ଭ\N_NNP କହି\V_VM_VNF ସମ୍ବୋଧନ\N_NN କରାଯାଇଥାଏ\V_VM_VF |\RD_PUNC
+htd171	ସ୍ତମ୍ଭ\N_NN ଉପରେ\PSP ଭଗବାନଙ୍କର\N_NN ମୂର୍ତ୍ତିଗୁଡିକ\N_NN ଲଗାଯାଇଅଛି\V_VM_VF |\RD_PUNC
+htd172	ଭଗବାନଙ୍କ\N_NN ମୂର୍ତ୍ତିଗୁଡିକୁ\N_NN ଦୂରରୁ\N_NN ହିଁ\RP_RPD ଦର୍ଶନ\N_NNV କରାଯାଇଥାଏ\V_VM_VF |\RD_PUNC
+htd173	ଏହାକୁ\DM_DMD ମାନସ୍ତମ୍ଭ\N_NNP କୁହାଯାଇଥାଏ\V_VM_VF
+htd174	ଏହି\DM_DMD ସ୍ତମ୍ଭର\N_NN ଦର୍ଶନ\N_NNV ମାତ୍ରକେ\N_NN ହିଁ\RP_RPD ବ୍ୟକ୍ତିର\N_NN ଅହଂକାର\N_NN କମ୍\QT_QTF ହୋଇଯାଇଥାଏ\V_VM_VF |\RD_PUNC
+htd175	ସାଧାରଣ\JJ ନିୟମ\N_NN ଏହା\DM_DMD ଅଟେ\V_VM_VF ଯେ\CC_CCD ମାନସ୍ତମ୍ଭର\N_NNP ଉପରିଭାଗରେ\N_NST ତୀର୍ଥଙ୍କର\N_NNP ଭଗବାନଙ୍କର\N_NN ଚାରିଗୋଟି\RP_CL ମୂର୍ତ୍ତି\N_NN ସ୍ଥାପିତ\N_NNV କରାଯାଇଅଛି\V_VM_VF |\RD_PUNC
+htd176	ତିଜାରାରେ\N_NNP ବର୍ଷକୁ\N_NN ଦୁଇଥର\RP_CL ବିଶେଷ\JJ କାର୍ଯ୍ୟକ୍ରମ\N_NN ଆୟୋଜନ\N_NNV କରାଯାଇଥାଏ\V_VM_VF |\RD_PUNC
+htd177	ଥରେ\RP_CL ଫାଲ୍‌ଗୁନ\JJ ସପ୍ତମୀରେ\N_NN ଏବଂ\CC_CCD ଦ୍ଵିତୀୟଥର\RP_CL ଶ୍ରାବଣ\JJ ଶୁକ୍ଳ\JJ ଦଶମୀ\JJ ତିଥିରେ\N_NN |\RD_PUNC
+htd178	ତିଜାରାର\N_NNP ଅତିଶୟ-କ୍ଷେତ୍ରରେ\N_NNP ଶ୍ରଦ୍ଧାଳୁମାନଙ୍କର\N_NN ରହିବା\N_NNV ପାଇଁ\PSP ୩୦୦ଟି\QT_QTC କୋଠରୀ\N_NN ବିଶିଷ୍ଟ\N_NN ଧର୍ମଶାଳା\N_NN ନିର୍ମାଣ\N_NNV କରାଯାଇଅଛି\V_VM_VF |\RD_PUNC
+htd179	ପ୍ରାଚୀନ\JJ କାଳରେ\N_NN ତିଜାରା\N_NNP ଅତିଶୟ-ଦେହରା\N_NNP ନାମରେ\N_NN ପ୍ରସିଦ୍ଧ\N_NN ଥିଲା\V_VM_VF |\RD_PUNC
+htd180	ସମୟାନୁଯାୟୀ\N_NN ଏହି\DM_DMD ସ୍ଥାନ\N_NN ଦେହରା-ତିଜାରା\N_NNP ଆଉ\CC_CCD ଏବେ\N_NST ଏହାକୁ\DM_DMD ଖାଲି\N_NN ତିଜାରା\N_NNP ହିଁ\RP_RPD କୁହାଯାଉଅଛି|\V_VM_VF
+htd181	ବସ୍ତର\N_NNP ଜିଲ୍ଲାର\N_NN ମୁଖ୍ୟାଳୟ\N_NN ଜଗଦଲପୁରରୁ\N_NNP ଦକ୍ଷିଣରେ\N_NNP ୩୫\QT_QTC କିଲୋମିଟର\N_NN ଦୂରରେ\N_NST କାଙ୍କେରଘାଟିର\N_NNP ରାଷ୍ଟୀୟ\JJ ଉଦ୍ୟାନ\N_NN ରହିଅଛି\V_VM_VF ।\RD_PUNC
+htd182	କାଙ୍କେର‍ଘାଟି\N_NNP ରାଷ୍ଟୀୟ\JJ ବଗିଚାରେ\N_NN ନିଜର\PR_PRF ଜଳପ୍ରପାତଗୁଡିକ\N_NN ,\RD_PUNC ଗୁମ୍ଫାଗୁଡିକ\N_NN ଏବଂ\CC_CCD ଜୈବ\JJ ବିବିଧତା\N_NN ପାଇଁ\PSP ପ୍ରସିଦ୍ଧ\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd183	କାଙ୍କେରଘାଟିର\N_NNP ମୁଖ୍ୟ\N_NN ପର୍ଯ୍ୟଟନସ୍ଥଳୀ\N_NN ନିମ୍ନାନୁସାରେ\N_NN ବର୍ଣ୍ଣିତ\V_VM_VF ।\RD_PUNC
+htd184	ଜଗଦଲ୍‌ପୁରରୁ\N_NNP ୩୫\QT_QTF କିଲୋମିଟର\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ତୀର୍ଥଗଢ଼ର\N_NNP ମନମୋହକ\JJ ଜଳପ୍ରପାତ\N_NN ପର୍ଯ୍ୟଟକମାନଙ୍କର\N_NN ମନମୋହି\N_NN ନେଇଥାଏ\V_VM_VF |\RD_PUNC
+htd185	ପର୍ଯ୍ୟଟକ\N_NN ଏହାର\DM_DMD ମନମୋହକ\JJ ଦୃଶ୍ୟରେ\N_NN ଏପରି\CC_CCD ଭାବରେ\N_NN ନିଜକୁ\PR_PRF ହଜାଇ\N_NNV ଦିଅନ୍ତି\V_VM_VF ଯେ\CC_CCS ।\RD_PUNC
+htd186	ଏଠାରୁ\DM_DMD ଫେରିଯିବା\N_NNV ପାଇଁ\PSP ମନ\N_NN ହୁଏ\V_VM_VF ନାହିଁ\RP_NEG |\RD_PUNC
+htd187	ମୁନଗାବହାର\N_NNP ନଦୀ\N_NN ଉପରେ\PSP ଅବସ୍ଥିତ\V_VM_VF ଏହି\DM_DMD ଜଳପ୍ରପାତ\N_NN ଚନ୍ଦ୍ରାକାର\JJ ରୂପରେ\N_NN ବଣ\N_NN ପାହାଡରୁ\N_NN ୩୦୦\QT_QTC ଫୁଟ୍‍\N_NN ତଳେ\PSP ସିଢି଼ନୁମା\N_NNP ପ୍ରାକୃତିକ\JJ ସଂରଚନା\N_NN ଉପରେ\PSP ପଡିଥାଏ\V_VM_VF ।\RD_PUNC
+htd188	ପାଣିପଡିବା\N_NN ଦ୍ଵାରା\PSP ଦେଖାଯାଉଥିବା\V_VM_VNF ଦୁଧିଆ\JJ ଫେଣ\N_NN ଏବଂ\CC_CCD ପାଣିବୁନ୍ଦାଗୁଡିକର\N_NN ଯେଉଁ\CC_CCS ପ୍ରାକୃତିକ\JJ ଫୁଆର\N_NN ପର୍ଯ୍ୟଟକମାନଙ୍କୁ\N_NN ଆଂଶିକ\JJ ଭିଜାଇ\V_VM_VNF ଦେଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd189	ଭୂବିଜ୍ଞାନରେ\N_NNP ଏମ୍‍.ଟେକ୍‍.\N_NNP କରିଥିବାରୁ\V_VM_VNF ମୁଁ\PR_PRP ଏହାର\DM_DMD ଭୂବୈଜ୍ଞାନିକ\N_NN ଉତ୍ପତ୍ତି\N_NNV ଜାଣିବା\N_NNV ପାଇଁ\PSP ପୟାସ\N_NNV କରିଥିଲି|\V_VM_VF
+htd190	ମୁଁ\PR_PRP ଏହା\DM_DMD ପାଇଥିଲି\V_VM_VF |\RD_PUNC
+htd191	କୋଟି-କୋଟି\QT_QTC ବର୍ଷ\N_NST ପୂର୍ବେ\PSP କୈଣସି\PR_PRQ ଭୂମିକମ୍ପ\N_NN ଦ୍ଵାରା\PSP ତିଆରି\N_NNV ଚନ୍ଦ୍ରଭ୍ରଂସ\N_NNP ଦ୍ୱାରା\PSP ନଦୀର\N_NN ତଳପାର୍ଶ୍ୱ\N_NST ଚଟାଣ\N_NN ତଳକୁ\N_NN ଭୁଷୁଡି\N_NNV ପଡିଲା\V_VM_VF |\RD_PUNC
+htd192	ଏବଂ\CC_CCD ଏଥିରୁ\DM_DMD ତିଆରି\N_NNV ହୋଇଥିବା\V_VM_VNF ସିଡିନୁମାଘାଟିରେ\N_NNP ଏହି\DM_DMD ମନୋରମ\JJ ଜଳପ୍ରପାତର\N_NN ସୃଷ୍ଟି\N_NN ହୋଇଥିବ\V_VM_VF \V_VM_VF ।\RD_PUNC
+htd193	ତୀର୍ଥଗଢ଼\N_NNP ଜଳପ୍ରପାତରୁ\N_NN ୨୦\QT_QTC କିଲୋମିଟର\QT_QTC ଦୂରରେ\N_NN ଥିବା\V_VM_VF ପ୍ରତ୍ନତାତ୍ୱିକ\JJ ମହତ୍ତ୍ୱର\N_NN ମନ୍ଦିର\N_NN ଚିଙ୍ଗିତରାଇରେ\N_NNP ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd194	ତୀର୍ଥଗଢ଼\N_NNP ସହିତ\PSP ଚିଙ୍ଗିତରାଇ\N_NNP ଏବଂ\CC_CCD ଚନ୍ଦ୍ରଗିରି\N_NNP ଐତିହାସିକ\JJ ମହତ୍ତ୍ୱ\N_NN ରଖିଥାଏ|\V_VM_VF
+htd195	ଏହା\DM_DMD କଥିତ\N_NNV ଅଛି\V_VM_VF |\RD_PUNC
+htd196	ଏହି\DM_DMD ରାଜ୍ୟରେ\N_NN କୌଣସି\PR_PRQ ରାଜାଙ୍କର\N_NN ଦୁଇଟି\RP_CL ପୁଅ\N_NN ଥିଲେ\V_VM_VF |\RD_PUNC
+htd197	ରାଜକୁମାର\N_NN ଚନ୍ଦ୍ରଦେବଙ୍କୁ\N_NNP ଉତ୍ତରାଧିକାରୀ\JJ ସୂତ୍ରରେ\N_NN ଚନ୍ଦ୍ରଗିରି\N_NNP କ୍ଷେତ୍ର\N_NN ମିଳିଥିଲା|\V_VM_VF
+htd198	ଚନ୍ଦ୍ରଗିରୀଙ୍କ\N_NNP ନାମରେ\N_NN ହିଁ\RP_RPD ଏହି\DM_DMD ସହର\N_NN ନାମ\N_NN ଚନ୍ଦ୍ରଗିରୀ\N_NNP ହୋଇଥିଲା|\V_VM_VF
+htd199	ସେହିପରି\CC_CCS ତାଙ୍କ\PR_PRP ଭାଇଙ୍କୁ\N_NN ତୀର୍ଥଗଢ଼ର\N_NNP ଜାଗିର\N_NN ମିଳିଲା|\V_VM_VF
+htd200	ଯାହାର\PR_PRL ନାମ\N_NN ତାଙ୍କର\PR_PRP ନାମାନୁସାରେ\N_NN ତୀର୍ଥଗଢ଼\N_NNP ହୋଇଗଲା|\V_VM_VF
+htd201	ଚନ୍ଦ୍ରଗିରି\N_NNP ଏବଂ\CC_CCD ଚିଙ୍ଗିତରାଇରେ\N_NNP ପ୍ରତ୍ନତାତ୍ତ୍ୱିକ\JJ ମହତ୍ତ୍ଵର\N_NN ଅବଶେଷ\QT_QTF ପ୍ରାପ୍ତ\N_NNV ହୋଇଥାଏ\V_VM_VF |\RD_PUNC
+htd202	ଜଗଦଲ୍‌ପୁରରୁ\N_NNP ୩୦\QT_QTC କିଲୋମିଟର\N_NN ଦୂରରେ\N_NST ପୃଥିବୀ\N_NN ପ୍ରସିଦ୍ଧ\N_NN କୋଟମ୍‌ସରର\N_NNP ପ୍ରାକୃତିକ\JJ ଗୁମ୍ପାଗୁଡିକ\N_NN ଅବସ୍ଥିତ\V_VM_VF |\RD_PUNC
+htd203	ପୃଥିବୀର\N_NN ସବୁଠାରୁ\RP_INTF ଦୀର୍ଘ\N_NN ଏହି\DM_DMD ଗୁମ୍ଫାର\N_NN ଲମ୍ବ\N_NN ୪୫୦୦\QT_QTC ମିଟର\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd204	ଜମିଯାଇଥିବା\V_VM_VNF ଚୂନପଥରଗୁଡ଼ିକ\N_NN ତରଳିବା\V_VM_VNF ସଂରଚନା\JJ ପଦ୍ଧତିଦ୍ୱାରା\N_NN ଏହି\DM_DMD ଗୁମ୍ଫାଗୁଡ଼ିକ\N_NN ତିଆରି\N_NNV ହୋଇଥିବାରୁ\V_VM_VNF ଏହା\DM_DMD ସୁପ୍ରସିଦ୍ଧ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd205	ଚୂନପଥର\N_NN ଜମିବା\V_VM_VNF କାରଣରୁ\CC_CCD ସ୍ଟଲେଗ୍‌ଟାଇଟ୍‍\N_NN ,\RD_PUNC ସ୍ଟଲେଗ୍‌ମାଇଟ୍\N_NN ଏବଂ\CC_CCD ଡ୍ରପିସ୍ଟୋନ‍\N_NN ପରି\N_NN ସଂରଚନାଗୁଡିକ\N_NN ତିଆରି\N_NNV ହୋଇଯାଇଥାଏ\V_VM_VF |\RD_PUNC
+htd206	ଛାତ\N_NN ଉପରେ\PSP ଝୁଲୁଥିବା\V_VM_VNF ଝୁମର୍‌\N_NN ସ୍ଟଲେଗ୍‌ଟାଇଟ୍‍\N_NN ,\RD_PUNC ଜମି\N_NN ଉପରଦେଇ\N_NST ଯାଇଥିବା\V_VM_VNF ସ୍ତମ୍ଭ\N_NN ସ୍ଟଲେଗ୍‌ଟାଇଟ୍‌\N_NN ଏବଂ\CC_CCD ଛାତ\N_NN ଓ\CC_CCD ଜମିରୁ\N_NN ମିଳିଥିବା\V_VM_VNF ବଡବଡ\JJ ସ୍ତମ୍ଭକୁ\N_NN ଡ୍ରପିଷ୍ଟୋନ‍\N_NN କୁହାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd207	ଡା.ଶଙ୍କର\N_NNP ତିୱାରୀ\N_NN ପ୍ରଥମଥର\QT_QTO ପାଇଁ\PSP ଏହି\DM_DMD ଗୁମ୍ଫା\N_NN ସମ୍ପର୍କରେ\N_NN ବର୍ଣ୍ଣନା\N_NN କରିଥିଲେ\V_VM_VF |\RD_PUNC
+htd208	ଏହି\DM_DMD ଗୁମ୍ଫାରେ\N_NN ଛୋଟ-ଛୋଟ\JJ ପୋଖରୀ\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd209	ଗୁମ୍ଫାଗୁଡିକରେ\N_NN ଦୃଷ୍ଟିଗୋଚର\N_NN ହେଉଥିବା\V_VM_VNF ଛୋଟଛୋଟ\JJ ମାଛଗୁଡିକର\N_NN ଆଖି\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳେନାହିଁ\V_VM_VF |\RD_PUNC
+htd210	ଦୀର୍ଘଦିନ\JJ ଧରି\V_VM_VNF ଅନ୍ଧାରରେ\N_NN ରହିବା\V_VM_VNF କାରଣରୁ\RP_RPD ସେମାନଙ୍କ\PR_PRP ଆଖିର\N_NN ଉପଯୋଗିତା\N_NN ସରିଯାଇଛି\V_VM_VF |\RD_PUNC
+htd211	ଏବେ\CC_CCS ଏହି\DM_DMD ମାଛଗୁଡିକ\N_NN ଜନ୍ମରୁ\N_NN ହିଁ\RP_RPD ଅନ୍ଧହୋଇ\V_VM_VNF ଜନ୍ମ\N_NN ନେଉଛନ୍ତି\V_VM_VF ।\RD_PUNC
+htd212	ଏହା\DM_DMD ଡାର୍‌ଉଇନ୍‌ଙ୍କ\N_NNP ସିଦ୍ଧାନ୍ତର\N_NN ମହତ୍ତ୍ୱକୁ\N_NN ବଢାଇ\V_VM_VNF ଦେଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd213	କୋଟମସର୍‌ରୁ\N_NNP ୧୬\QT_QTC କିଲୋମିଟର\N_NN ଦୂରରେ\N_NST କୈଳାସ\N_NNP ଗୁମ୍ଫା\N_NN ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd214	ଏଠାରେ\DM_DMD ଥିବା\V_VM_VNF ବଡବଡ\JJ ହଲ୍‌\N_NN କୌଣସି\DM_DMQ ରାଜାଙ୍କର\N_NN ଦରବାର\N_NN ଭଳି\N_NN ପ୍ରତୀୟମାନ\N_NN ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd215	ଚୂନପଥରର\N_NN ଆକୃତିଗୁଡିକ\N_NN ଶିବଲିଙ୍ଗସଦୃଶ\N_NN ଦେଖାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd216	ଏଥିପାଇଁ\CC_CCD ଏହି\DM_DMD ଗୁମ୍ଫାର\N_NN ଧାର୍ମିକ\JJ ମହତ୍ତ୍ଵ\N_NN ରହିଛି\V_VM_VF |\RD_PUNC
+htd217	କୈଳାସ\N_NNP ଗୁମ୍ଫାରେ\N_NN ମହାଶିବରାତ୍ରୀ\N_NNP ଦିନ\N_NN ଭକ୍ତମାନଙ୍କର\N_NN ଭିଡ଼\N_NN ଲାଗିରହିଥାଏ\V_VM_VF |\RD_PUNC
+htd218	କୈଳାସ\N_NNP ଗୁମ୍ପାର\N_NN ଉଚ୍ଚତା\QT_QTF ୫୦\QT_QTC ମିଟର\N_NN ଓ\CC_CCD ୨୫୦୦\QT_QTC ମିଟର\N_NN ଲମ୍ବା\QT_QTF ଅଟେ\V_VM_VF |\RD_PUNC
+htd219	ଦଣ୍ତକ\N_NNP ଗୁମ୍ଫା\N_NN କୋଟମ୍‌ସରରୁ\N_NNP ୮\QT_QTC କିଲୋମିଟର\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF |\RD_PUNC
+htd220	ଦଣ୍ତକ\N_NNP ଗୁମ୍ଫାରେ\N_NN ମଧ୍ୟ\RP_RPD କୋଟମସର\N_NNP ଗୁମ୍ପା\N_NN ଭଳି\N_NN ସ୍ଟଲେଗ୍‌ଟାଇଟ୍‍\N_NN ,\RD_PUNC ସ୍ଟଲେଗମାଇଟ\N_NN ଏବଂ\CC_CCD ଡ୍ରପିସ୍ଟୋନ‍\N_NN ପରି\N_NN ସଂରଚନାଗୁଡିକ\N_NN ଭବ୍ୟ\JJ ସ୍ଵରୂପ\N_NN ପ୍ରଦାନ\N_NN କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd221	କାଙ୍ଗେର୍‌\N_NNP ଘାଟିକୁ\N_NN ଲାଗିଥିବା\V_VM_VNF ଅରଣ୍ୟକ\N_NN ଗୁମ୍ଫାରେ\N_NN ଜାଧରାଝାମ୍ପି\N_NNP ଏବଂ\CC_CCD ମକରକକ୍ଷର\N_NNP ଅବଶେଷ\N_NN ସଂରଚନାଗୁଡିକ\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd222	ରାୟପୁରରୁ\N_NNP ଜଗଦଲ୍‌ପୁର\N_NNP ଆସିବା\V_VM_VNF ସମୟରେ\N_NN ବସ୍ତର\N_NNP ଜିଲ୍ଲାକୁ\N_NN ସ୍ଵାଗତ\N_NN କରିବାକୁ\V_VM_VINF କାଙ୍କେରର\N_NNP ବିରାଟ\JJ ପାହାଡଗୁଡିକ\N_NN ସଙ୍ଗେସଙ୍ଗେ\N_NN ଦେଖାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd223	କାଙ୍କେରରୁ\N_NNP ୨୨\QT_QTC କିଲୋମିଟର\N_NN ପରେ\PSP କେଶକାଲ୍‌ର\N_NNP ମନୋରମ\JJ ଘାଟି\N_NN ଆରମ୍ଭ\N_NN ହୋଇଯାଏ\V_VM_VF |\RD_PUNC
+htd224	ହେୟାରପିନ୍‌\N_NN ଭଳି\N_NN ମୋଡ଼ି\V_VM_VNF ହୋଇଥିବା\V_VM_VNF ଏହି\DM_DMD ମନୋରମ\JJ ଘାଟି\N_NN ପର୍ଯ୍ୟଟକମାନଙ୍କର\N_NN ମନକୁ\N_NN ମୋହିନେଇଥାଏ\V_VM_VF |\RD_PUNC
+htd225	କେଶକାଲ୍‌\N_NNP ଘାଟିର\N_NN ଶେଷରେ\N_NN ଦଣ୍ତକାରଣ୍ୟର\N_NNP ଲମ୍ବା\JJ ସମତଳ\JJ ଭୂମି\N_NN ଆରମ୍ଭ\N_NN ହୋଇଥାଏ\V_VM_VF |\RD_PUNC
+htd226	ପଞ୍ଚବଟୀର\N_NNP ବିଶ୍ରାମଗୃହ\N_NN ଏବଂ\CC_CCD ଓ୍ୱାଚିଙ୍ଗ୍‌\N_NN ଟାୱାରରୁ\N_NN କେଶକାଲ୍‌\N_NNP ଘାଟିର\N_NN ମନୋରମ\JJ ଦୃଶ୍ୟ\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳେ\V_VM_VF |\RD_PUNC
+htd227	ଆମେ\PR_PRP ଏହି\DM_DMD ପୃଥିବୀର\N_NN ସୌନ୍ଦର୍ଯ୍ୟକୁ\N_NN ଦେଖୁଛେ\V_VM_VF ବୋଲି\PSP ଅକସ୍ମାତ୍‌\RP_INTF ଏହା\DM_DMD ବିଶ୍ୱାସ\N_NN କରିହୁଏ\V_VM_VF ନାହିଁ\RP_NEG ।\RD_PUNC
+htd228	ଅନତିଦୂର\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ଏହି\DM_DMD ପର୍ବତମାଳାଗୁଡିକ\N_NN ବିସ୍ତୃତ\JJ ହୋଇରହିଛି\V_VM_VF ।\RD_PUNC
+htd229	ସବୁଜ\JJ ଚାଦରରେ\N_NN ଘୋଡ଼ାଇ\N_NN ହୋଇଥିବା\V_VM_VNF ସୁନ୍ଦର\JJ ପୃଥିବୀ\N_NN ,\RD_PUNC ମେଘଗୁଡିକର\N_NN ପର୍ବତ\N_NN ସହିତ\PSP ଆସି\V_VM_VF ବାଡେଇ\V_VM_VNF ହେବା\V_VM_VNF ଦୃଶ୍ୟ\N_NN ସତରେ\N_NN ହିମାଳୟ\N_NNP ପର୍ବତର\N_NN ଅନୁଭବ\N_NN ଆଣି\V_VM_VNF ଦେଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd230	ବାସ୍ତବିକ\JJ ବସ୍ତର\N_NNP ଜିଲ୍ଲାର\N_NN ସୀମା\QT_QTF ଏହିଠାରୁ\CC_CCD ଆରମ୍ଭ\PSP ହୋଇଥାଏ\V_VM_VF |\RD_PUNC
+htd231	ବସ୍ତରର\N_NNP ପ୍ରଧାନ\JJ କାର୍ଯ୍ୟାଳୟ\N_NN ଜଗଦଲ୍‌ପୁରରୁ\N_NNP ୧୦୫\QT_QTC କିଲୋମିଟର\QT_QTF ଦୂରତାରେ\PSP ଅବସ୍ଥିତ\V_VM_VF ବାରସୁର୍‌\N_NNP ପର୍ଯ୍ୟନ୍ତ\PSP ପହଞ୍ଚିବା\N_NNV ପାଇଁ\PSP ଗୀଦମ୍‌\N_NNP ହୋଇଯିବାକୁ\V_VM_VINF ପଡିଥାଏ\V_VM_VF ।\RD_PUNC
+htd232	ବାରସୁର୍‌\N_NNP ଗୀଦମ୍‌ଠାରୁ\N_NNP ୨୨\QT_QTC କିଲୋମିଟର\N_NN ଦୂରରେ\N_NN ଅବସ୍ଥିତ\V_VM_VF |\RD_PUNC
+htd233	ଏଠାରେ\DM_DMD ଗଣେଶଙ୍କର\N_NNP ଏକ\QT_QTC ବିଶାଳ\JJ ପ୍ରତିମୂର୍ତ୍ତି\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳେ\V_VM_VF |\RD_PUNC
+htd234	ବାରସୁର\N_NNP ନାଗ\N_NNP ରାଜାମାନଙ୍କର\N_NN ଏବଂ\CC_CCD କାକତୀୟ\N_NNP ଶାସକମାନଙ୍କର\N_NN ରାଜଧାନୀ\N_NN ଥିଲା\V_VM_VF |\RD_PUNC
+htd235	ବାରସୁର\N_NNP ଏକାଦଶ\QT_QTO ଏବଂ\CC_CCD ଦ୍ୱାଦଶ\QT_QTO ଶତାବ୍ଦୀରେ\QT_QTC ନିର୍ମିତ\JJ ମନ୍ଦିରଗୁଡିକ\N_NN ପାଇଁ\PSP ପ୍ରସିଦ୍ଧ\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd236	ବାରସୁର୍‌\N_NNP ମନ୍ଦିରରେ\N_NN ଥିବା\V_VM_VNF ମାମୁ-ଭଣଜା\N_NNP ମନ୍ଦିର\N_NN ମୁଖ୍ୟତଃ\N_NN ଶିବମନ୍ଦିର\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd237	ମାମୁ-ଭଣଜା\N_NNP ମନ୍ଦିର\N_NN ଦୁଇଟି\QT_QTC ଗର୍ଭଗୃହ\N_NN ସଂଯୁକ୍ତ\N_NN ମନ୍ଦିର\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd238	ମାମୁ-ଭଣଜା\N_NNP ମନ୍ଦିରର\N_NN ମଣ୍ତପ\N_NN ପରସ୍ପର\PR_PRC ସହିତ\PSP ଯୋଡି\N_NN ହୋଇଅଛନ୍ତି\V_VM_VF ।\RD_PUNC
+htd239	ବାରସୁର୍‌ର\N_NNP ଭଗ୍ନ\JJ ମନ୍ଦିରଗୁଡ଼ିକରେ\N_NN ମୈଥୁନରତ\V_VM_VNF ପ୍ରତିମାଗୁଡିକର\N_NN ମୂର୍ତ୍ତିକଳା\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd240	ଐତିହାସିକ\JJ ଏବଂ\CC_CCD ବିଖ୍ୟାତ\JJ ଶିକ୍ଷାବିତ\JJ ଡାଃ.କେ.କେ.ଝାଙ୍କ\N_NN ଅନୁସାରେ\N_NN ଏହି\DM_DMD ନଗରୀ\N_NN ପ୍ରାଚୀନ\JJ କାଳରୁ\N_NN ବେବଶ୍ଵତପୁର\N_NNP ନାମରେ\N_NN ପରିଚିତ\JJ ଥିଲା\V_VM_VF ।\RD_PUNC
+htd241	ଚନ୍ଦ୍ରାଦିତ୍ୟ\N_NNP ମନ୍ଦିରର\N_NN ନିର୍ମାଣ\N_NN ନାଗରାଜା\N_NN ଚନ୍ଦ୍ରାଦିତ୍ୟ\N_NNP ନିର୍ମାଣ\N_NN କରିଥିଲେ\V_VM_VF ଏବଂ\CC_CCD ତାଙ୍କରି\PR_PRP ନାମାନୁସାରେ\N_NN ଏହି\DM_DMD ମନ୍ଦିର\N_NN ପରିଚିତି\JJ ଲାଭ\N_NN କରିଅଛି\V_VM_VF ।\RD_PUNC
+htd242	ବତିସଟି\QT_QTC ସ୍ତମ୍ଭ\N_NN ଉପରେ\N_NN ଦଣ୍ଡାୟମାନ\N_NN ବତିସା\N_NNP ମନ୍ଦିରର\N_NN ନିର୍ମାଣ\N_NN ଶକ୍ତ\JJ ପଥରରେ\N_NN ହୋଇଥିଲା\V_VM_VF |\RD_PUNC
+htd243	ବତ୍ତିସାମନ୍ଦିରର\N_NNP ନିର୍ମାଣ\N_NN ଗୁଣ୍ତମହାଦେବୀ\N_NNP ସୋମେଶ୍ଵର\N_NNP ଦେବଙ୍କର\N_NN ଶାସନ\N_NN କାଳରେ\N_NN ହୋଇଥିଲା|\V_VM_VF
+htd244	ବତ୍ତିସାମନ୍ଦିରରେ\N_NNP ଶିବ\N_NNP ଏବଂ\CC_CCD ନନ୍ଦଙ୍କର\N_NNP ସୁନ୍ଦର\JJ ପ୍ରତିମାଗୁଡିକ\N_NN ଅଛି\V_VM_VF ।\RD_PUNC
+htd245	ଏକ\QT_QTC ହଜାର\QT_QTF ବର୍ଷ\N_NN ପୂର୍ବେ\N_NN ଏହି\DM_DMD ବତ୍ତିସାମନ୍ଦିରକୁ\N_NNP ବଡ\JJ ବୈଜ୍ଞନିକ\JJ ପ୍ରଣାଳୀ\N_NN ଅନୁସାରେ\N_NN ପଥରଗୁଡିକୁ\N_NN ବ୍ୟବସ୍ଥିତ\JJ କରି\V_VM_VF ତିଆରି\N_NN କରାଯାଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd246	ଏହି\DM_DMD ମନ୍ଦିର\N_NN ପ୍ରତ୍ନତତ୍ତ୍ଵ\N_NN ବିଭାଗ\N_NN ଦ୍ଵାରା\PSP ସଂରକ୍ଷିତ\JJ ସ୍ମାରକୀ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd247	ଭଗବାନ\N_NN ଗଣେଶଙ୍କର\N_NNP ଦୁଇଟି\QT_QTC ବିଶାଳ\RP_INTF ଶକ୍ତ\JJ ପଥର\N_NN ଦ୍ୱାରା\PSP ନିର୍ମିତ\JJ ପ୍ରତିମାଯୋଡି\N_NN ଆଶ୍ଚର୍ଯ୍ୟଚକିତ\N_NN କରିଦେଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd248	ମାମୁ-ଭଣଜା\N_NNP ମନ୍ଦିର\N_NN ଶିଳ୍ପୀର\N_NN ଦୃଷ୍ଟିକୋଣରୁ\N_NN ଉତ୍କୃଷ୍ଟ\JJ ଏବଂ\CC_CCD ଦର୍ଶନୀୟ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd249	ବସ୍ତର\N_NNP ଜିଲ୍ଲାର\N_NN ବିକାଶ\N_NN ଖଣ୍ତ\N_NN ବସ୍ତରରେ\N_NNP ଜଗଦଲପୁରରୁ\N_NNP ପାଖା-ପାଖି\QT_QTF ୮୦\QT_QTC କିଲୋମିଟର\N_NN ଦୂର\N_NN ଛିନ୍ଦକ\JJ ନାଗବଂଶି\JJ ରାଜା\N_NN ଧାରାବର୍ଷାଙ୍କର\N_NNP ରାଣୀ\N_NN ଗୁଣ୍ତମହାଦେବୀଙ୍କ\N_NNP ଦ୍ଵାରା\PSP ନାରାୟଣପାଲର\N_NNP ବିଷ୍ଣୁ\N_NNP ମନ୍ଦିରକୁ\N_NN ଖ୍ରୀଷ୍ଟପୂର୍ବ\N_NN ୧୧୧୧\QT_QTC ରେ\PSP ତିଆରି\N_NN କରାଇଥିଲେ\V_VM_VF ।\RD_PUNC
+htd250	ଗୁଣ୍ତମହାଦେବୀଙ୍କର\N_NNP ପୁତ୍ର\N_NN ସୋମେଶ୍ଵର\N_NNP ଦେବ\N_NN ଜଣେ\QT_QTF ପ୍ରତାପୀ\JJ ସମ୍ରାଟ\N_NN ଥିଲେ\V_VM_VF ।\RD_PUNC
+htd251	ମନ୍ଦିର\N_NN ସମ୍ପୂର୍ଣ୍ଣ\N_NN ହେଉହେଉ\V_VM_VNF ଧାରାବର୍ଷା\N_NNP ଏବଂ\CC_CCD ସୋମେଶ୍ଵର\N_NNP ଦେବ\N_NN ଇହଧାମ\N_NN ପରିତ୍ୟାଗ\N_NN କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd252	ଏବଂ\CC_CCD ଗୁଣ୍ତମହାଦେବୀଙ୍କର\N_NNP ନାତି\N_NN ଛିନ୍ଦକ\JJ ନାଗବଂଶୀ\JJ ରାଜା\N_NN କହ୍ନର\N_NNP ଦେବଙ୍କର\N_NN ଶାସନ\N_NN ଚାଲିଥିଲା\V_VM_VF ।\RD_PUNC
+htd253	ଗୁଣ୍ତମହାଦେବୀ\N_NNP ଏବଂ\CC_CCD ତାଙ୍କର\PR_PRP ପୁତ୍ରବଧୂ\N_NN ସୋମେଶ୍ଵରଦେବଙ୍କ\N_NNP ମହାରାଣୀଙ୍କର\N_NN ଶିଳାଲେଖ\N_NN ଏଠାରେ\DM_DMD ଅଛି\V_VM_VF ।\RD_PUNC
+htd254	ନାରାୟଣପାଲ୍‌ର\N_NNP ଏହି\DM_DMD ମନ୍ଦିର\N_NN ପୁରାତତ୍ତ୍ଵ\N_NN ବିଭାଗ\N_NN ଦ୍ଵାରା\PSP ସଂରକ୍ଷିତ\JJ ସ୍ମାରକୀ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd255	ନାରାୟଣପାଲ୍‌ର\N_NNP ଏହି\DM_DMD ମନ୍ଦିର\N_NN ଛିନ୍ଦକ\JJ ନାଗବଂଶୀ\JJ ଶାସନ\N_NN ସମୟର\N_NN ଅଧିକାଂଶ\QT_QTF ତଥ୍ୟ\N_NN ପ୍ରାପ୍ତ\N_NNV ହେବାର\V_VM_VNF ମୁଖ୍ୟ\RP_INTF ସ୍ତୋତ୍ର\N_NN ମଧ୍ୟ\RP_RPD ଅଟେ\V_VM_VF ।\RD_PUNC
+htd256	ଶଂଖନୀ\N_NNP ଏବଂ\CC_CCD ଡଙ୍କନୀ\N_NNP ନଦୀର\N_NN ସଂଗମ\N_NN ସ୍ଥଳରେ\N_NN ଅଵସ୍ଥିତ\V_VM_VF ଦନ୍ତେଓ୍ୱାଡା\N_NNP ଜଗଦଲ୍‌ପୁରରୁ\N_NNP ୮୫\QT_QTC କିଲୋମିଟର\N_NN ଦୂରରେ\N_NN ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd257	ଏଠାରେ\DM_DMD ବସ୍ତରର\N_NNP ଆରଧ୍ୟାଦେବୀ\N_NN ମା\N_NN ଦନ୍ତେଶ୍ଵରୀ\N_NNP ଦେବୀଙ୍କର\N_NN ପ୍ରାଚୀନ\JJ ମନ୍ଦିର\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd258	ଦନ୍ତେଶ୍ଵରୀ\N_NNP ଦେବୀ\N_NN ବସ୍ତର\N_NNP ବାସିନ୍ଦା\N_NN ପାଇଁ\PSP ଆସ୍ଥାର\N_NN ପ୍ରତୀକ\N_NN ଅଟନ୍ତି\V_VM_VF |\RD_PUNC
+htd259	ଦଶହରା\N_NNP ସମୟରେ\N_NST ଦେଶ\N_NN ବିଦେଶରୁ\N_NN ପର୍ଯ୍ୟଟକ\N_NN ବସ୍ତରକୁ\N_NNP ଆସିଥାନ୍ତି\V_VM_VF |\RD_PUNC
+htd260	ପାଦରେ\N_NN ଚାଲିକରି\V_VM_VNF ଆସୁଥିବା\V_VM_VNF ଶ୍ରଦ୍ଧାଳୁମାନଙ୍କ\N_NN ପାଇଁ\PSP ବିଭିନ୍ନ\N_NN ସ୍ୱେଚ୍ଛାସେବୀ\JJ ସଙ୍ଗଠନଗୁଡ଼ିକ\N_NN ଦ୍ଵାରା\PSP ବିନାମୂଲ୍ୟରେ\N_NN ଭୋଜନ\N_NN ,\RD_PUNC ସକାଳ\JJ ଜଳଖିଆ\N_NN ,\RD_PUNC ରହିବା\V_VM_VNF ଏବଂ\CC_CCD ଚିକିତ୍ସାର\N_NN ସୁବିଧା\N_NN ଉପଲବ୍ଧ\N_NN କରାଇ\V_VM_VNF ଦିଆଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd261	ବସ୍ତରରେ\N_NNP ଦଣ୍ଡେଶ୍ଵରୀ\N_NNP ଦେବୀଙ୍କ\N_NN ଛଡା\PSP ଶିବ\N_NNP ,\RD_PUNC ଗଣେଶ\N_NNP ,\RD_PUNC ବିଷ୍ଣୁ\N_NNP ,\RD_PUNC ସୂର୍ଯ୍ୟ\N_NNP ,\RD_PUNC ଭୈରବଙ୍କର\N_NNP ପ୍ରତିମୂର୍ତ୍ତି\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd262	ଏହି\DM_DMD ପ୍ରତିମାଗୁଡ଼ିକ\N_NN ପ୍ରତ୍ନତାତ୍ତ୍ଵିକ\N_NN ଦୃଷ୍ଟିକୋଣରୁ\N_NN ମଧ୍ୟ\RP_RPD ଅତ୍ୟନ୍ତ\RP_INTF ମହତ୍ତ୍ଵପୂର୍ଣ୍ଣ\V_VM_VF |\RD_PUNC
+htd263	ବୈଲାଡିଲାରେ\N_NNP ଲୌହ\JJ ଅୟସ୍କର\N_NN ଖୋଦନ\N_NNV ଦେଖିବା\V_VM_VNF ସମୟରେ\N_NN ଆଶ୍ଚର୍ଯ୍ୟଜନକ\JJ ଅନୁଭବ\N_NN ହୋଇଥାଏ\V_VM_VF |\RD_PUNC
+htd264	ବଚେଳୀ\N_NNP ଏବଂ\CC_CCD କିରନ୍ଦୁଲ୍‌ରେ\N_NNP ଏନ.ଏମ୍‍.ଡି.ସି\N_NNP ର\PSP ସଂରକ୍ଷଣସ୍ଥଳୀ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd265	ବୈଲାଡିଲାରେ\N_NNP ଥିବା\V_VM_VNF ଗେଷ୍ଟହାଉସ୍‌ରେ\N_NN ରହିପାରିବେ\V_VM_VF |\RD_PUNC
+htd266	ବୈଲାଡିଲାରେ\N_NNP ଲୌହ\JJ ଖଣିଜର\N_NN ଖାଦାନ୍‌\N_NN ଦେଖିବା\V_VM_VNF ପାଇଁ\PSP ଅନୁମତି\N_NN ନେବା\V_VM_VNF ଆବଶ୍ୟକ\V_VM_VF |\RD_PUNC
+htd267	ବଚେଲି\N_NNP ଖାଦାନ୍‌\N_NN ଜନବସତିଠାରୁ\N_NN ୨୫\QT_QTC କିଲୋମିଟର\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF |\RD_PUNC
+htd268	ବଚେଲିର\N_NNP ଖଣିଜ\N_NN ଉନ୍ନତମାନର\N_NN ବୋଲି\CC_CCD ସ୍ଵୀକାର\N_NN କରାଯାଏ\V_VM_VF |\RD_PUNC
+htd269	ବଚେଲିର\N_NNP ଖଣିଜପଦାର୍ଥରେ\N_NN ଲୌହ\N_NN ୮୬\QT_QTC ପ୍ରତିଶତ\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ରହିଥାଏ\V_VM_VF |\RD_PUNC
+htd270	କେ.କେ.\N_NNP ରେଳଲାଇନ\N_NN (କୋତ୍ସାବଲା\N_NNP ରୁ\PSP କିରନ୍ଦୁଲ୍‌)\N_NNP
+htd271	କେ.କେ.\N_NNP ରେଳଲାଇନରେ\N_NN ପାସେଞ୍ଜର୍‌ଗାଡ଼ିରେ\N_NN ଯାତ୍ରାକରିବା\V_VM_VNF ଏକ\QT_QTC ରୋମାଞ୍ଚକର\JJ ଅନୁଭବ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd272	ରାସ୍ତାରେ\N_NN ଘନ\JJ ଜଙ୍ଗଲ\N_NN ଏବଂ\CC_CCD ନଭଶ୍ଚୁମ୍ବୀ\JJ ପର୍ବତମାଳାର\N_NN ମଝିରେ\PR_PRC ଯାଉଥିବା\V_VM_VNF ରେଳ\N_NN ,\RD_PUNC ବୁଲିଯାଉଥିବା\V_VM_VNF ରେଳ\N_NN ଏବଂ\CC_CCD ମେଘମାଳା\N_NN ମଧ୍ୟରେ\PR_PRC ଝୁଙ୍କିପଡ଼ିଥିବା\V_VM_VNF ପାହାଡ଼ର\N_NN ମନମୋହକ\JJ ଦୃଶ୍ୟ\N_NN ଉପସ୍ଥାପିତ\JJ କରିଥାନ୍ତି\V_VM_VF ।\RD_PUNC
+htd273	ଯେଉଁ\PR_PRL ଜୈବବିବିଧତା\N_NN ବସ୍ତରରେ\N_NNP ଦେଖିବାକୁ\V_VM_VINF ମିଳେ\V_VM_VF ତାହା\DM_DMD ଅନ୍ୟତ୍ର\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳେନାହିଁ\V_VM_VF ।\RD_PUNC
+htd274	ବସ୍ତରର\N_NNP ରୋମାଞ୍ଚକର\JJ ଯାତ୍ରାରେ\N_NN ଏସିଆର\N_NNP ସବୁଠାରୁ\RP_INTF ଉଚ୍ଚତାବିଶିଷ୍ଟ\JJ ବ୍ରଡ୍‌ଗେଜ୍‌\N_NNP ରେଳଷ୍ଟେସନ\N_NN ଶିମିଳାଗୁଡା\N_NNP ପଡିଥାଏ\V_VM_VNF |\RD_PUNC
+htd275	ତାଳଗଛର\N_NN ରସାଳ\JJ ଫଳକୁ\N_NN ନେଇ\V_VM_VNF ବିକ୍ରୀକରୁଥିବା\V_VM_VNF ଲୋକମାନଙ୍କୁ\N_NN ରାସ୍ତାସାରା\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ,\RD_PUNC
+htd276	ତାଳଗଛର\N_NN ରସାଳ\JJ ଫଳକୁ\N_NN ଖାଇବା\V_VM_VNF ପାଇଁ\PSP ବହୁତ\RP_INTF ଭଲ\N_NN ଲାଗିଥାଏ\V_VM_VF ।\RD_PUNC
+htd277	ଏହି\DM_DMD ରୋମାଞ୍ଚମୟ\JJ ଯାତ୍ରା\N_NN କାଳରେ\N_NN ଦୁଇଟି\RP_CL ବୈଦ୍ୟୁତିକ\JJ ଇଂଜିନରେ\N_NN ଚାଲୁଥିବା\V_VM_VNF ରେଳ\N_NN ୮୪\QT_QTC ଟିଟନଲ୍‌\N_NN ମଧ୍ୟଦେଇ\V_VM_VNF ଗତି\N_NN କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd278	କେ.କେ.\N_NNP ଲାଇନ୍‌\N_NN ର\PSP ଦୀର୍ଘତା\JJ ୫୦ରୁ\QT_QTC ୯୦୦\QT_QTC ମିଟର\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ଅଟେ\V_VM_VF |\RD_PUNC
+htd279	କେ.କେ.ଲାଇନ୍‌ର\N_NNP ନିର୍ମାଣ\N_NNV ଜାପାନୀମାନେ\N_NN ବୈଲାଡିଲାର\N_NNP ଅଷୋଧିତ\JJ ଲୌହ\JJ ଖଣିଜକୁ\N_NN ବିଶାଖପାଟଣା\N_NNP ଦେଇ\V_VM_VNF ଜାପାନ\N_NNP ନେଇଯିବା\V_VM_VNF ପାଇଁ\PSP କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd280	ବିଶାଖପାଟଣାରୁ\N_NNP ଅଷୋଧିତ\JJ ଲୁହାପଥର\N_NN ପାଣିଜାହାଜ\N_NN ଦ୍ଵାରା\PSP ଜାପାନ\N_NNP ନିଆଯାଇଥାଏ\V_VM_VF |\RD_PUNC
+htd281	କେ.କେ.\N_NNP ଲାଇନ୍‌ର\N_NN ଯାତ୍ରାରେ\N_NN ଖାଇବା\V_VM_VNF ପିଇବାର\V_VM_VNF ସାମଗ୍ରୀ\N_NN ଉପଲବ୍‌ଧ\N_NNV ହୁଏ\V_VM_VF ନାହିଁ\RP_NEG ।\RD_PUNC
+htd282	ତେଣୁ\CC_CCD ଯଦି\CC_CCD ଏ\DM_DMD ଯାତ୍ରାର\N_NN ଆନନ୍ଦ\N_NN ନେବାର\V_VM_VNF ଅଛି\V_VM_VF ତେବେ\CC_CCS ଖାଇବା\V_VM_VNF ପିଇବାର\V_VM_VNF ଭରପୁର\PR_PRC ସାମଗ୍ରୀ\N_NN ସାଥିରେ\N_NN ନେଇକରି\V_VM_VNF ଯିବା\V_VM_VNF ଉଚିତ୍‍\V_VM_VF |\RD_PUNC
+htd283	କେ.କେ.\N_NNP ଲାଇନ୍‌\N_NN ବିଗତ\N_NN ୪୦\QT_QTC ବର୍ଷ\N_NST ଧରି\V_VM_VF ଅଷୋଧିତ\JJ ଲୁହାପଥରର\N_NN ପରିବହନ\N_NNV କରୁଅଛି\V_VM_VF |\RD_PUNC
+htd284	ଆପାତତଃ\RP_INJ ୧୬ଟି\QT_QTC ମାଲଗାଡି\N_NN କେ.କେ.\N_NNP ରେଳଲାଇନ୍‌ରେ\N_NN ପ୍ରତିଦିନ\N_NN ଚାଲିଥାଏ\V_VM_VF ।\RD_PUNC
+htd285	୫୨୫\QT_QTC କିଲୋମିଟର\QT_QTF ଲମ୍ବା\QT_QTF ବିଶିଷ୍ଟ\PSP ଏହି\DM_DMD କେ.କେ.\N_NNP ରେଳଲାଇନ୍‌ରେ\N_NN ଅଷୋଧିତ\JJ ଲୁହାପଥର\N_NN ପରିବହନ\N_NN କରି\V_VM_VF ରେଲ୍‌ଓ୍ୱେର\N_NN ପ୍ରତିବର୍ଷ\N_NN ପାଖାପାଖି\N_NN ୮\QT_QTC ବିଲିୟନ\QT_QTF ଲାଭ\N_NN ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd286	ଜଗଦଲ୍‌ପୁରରୁ\N_NNP ୪୦\QT_QTC କିଲୋମିଟର\QT_QTF ଦୂରରେ\N_NST ବିଶ୍ଵପ୍ରସିଦ୍ଧ\JJ ଚିତ୍ରକୋଟ\N_NNP ଜଳପ୍ରପାତ\N_NNP ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd287	ଚିତ୍ରକୋଟଠାରେ\N_NNP ଇନ୍ଦ୍ରାବତୀ\N_NNP ନଦୀ\N_NN ବିସ୍ତାରିତ\JJ ହୋଇ\V_VM_VNF ମନମୋହକ\JJ ଜଳପ୍ରପାତ\N_NN ସୃଷ୍ଟି\N_NN କରିଛି\V_VM_VF |\RD_PUNC
+htd288	ଚିତ୍ରକୋଟ\N_NNP ଜଳପ୍ରପାତକୁ\N_NN ବସ୍ତରର\N_NNP ନାଏଗ୍ରା\N_NNP ମଧ୍ୟ\RP_RPD କୁହାଯାଏ\V_VM_VF |\RD_PUNC
+htd289	ଫ୍ଲଡ୍‌ଲାଇଟ୍‌ରେ\N_NN ଜଳପ୍ରପାତକୁ\N_NN ଦେଖିବା\V_VM_VNF ଏକପ୍ରକାର\RP_INTF ଅଲଗା\N_NN ଅନୁଭବ\N_NN ପ୍ରଦାନ\N_NNV କରିଥାଏ\V_VM_VF |\RD_PUNC
+htd290	ପର୍ଯ୍ୟଟନ\N_NN ବିଭାଗର\N_NN ପୁର୍ଣ୍ଣ\PR_PRC ସୁବିଧାସମ୍ପନ୍ନ\N_NN କୁଟୀରରେ\PSP ରହିବାର\V_VM_VNF ଆନନ୍ଦ\N_NN ହିଁ\RP_RPD ନିଆରା\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd291	ଚିତ୍ରକୋଟ\N_NNP ଜଳପ୍ରପାତରୁ\N_NN ୧୦\QT_QTC କିଲୋମିଟର\N_NN ଦୂରରେ\N_NST ତାମଡ଼ାଘୁମଡ଼\N_NNP ଜଳପ୍ରପାତ\N_NN ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd292	ତାମଡାଘୂମଡ\N_NNP ଜଳପ୍ରପାତରୁ\N_NN ଗୋଟିଏ\RP_CL ଛୋଟ\JJ ନଦୀ\N_NN ସିଧା\N_NN ପାଖାପାଖି\N_NST ୧୦୦\QT_QTC ଫୁଟ୍‍\N_NN ଉଚ୍ଚତାରୁ\QT_QTF ତଳ\N_NST ଭାଗରେ\N_NN ପଡି\V_VM_VNF ଏକ\QT_QTC ମନୋରମ\JJ ଜଳପ୍ରପାତ\N_NN ନିର୍ମାଣ\N_NN କରୁଛି\V_VM_VF ।\RD_PUNC
+htd293	ପ୍ରପାତର\N_NN ତଳକୁ\N_NST ଓହ୍ଲାଇକରି\V_VM_VF ଦେଖିବାକୁ\V_VM_VINF ଭଲଲାଗେ\V_VM_VF |\RD_PUNC
+htd294	ଓହ୍ଲେଇବା\V_VM_VNF ରାସ୍ତା\N_NN ଦୁର୍ଗମ\JJ ହୋଇଥବାରୁ\V_VM_VNF ଅଧିକ\RP_INTF ସତର୍କତା\N_NN ଅବଲମ୍ବନ\N_NN କରିବା\V_VM_VNF ଆବଶ୍ୟକ\V_VM_VF ହୋଇଥାଏ\N_NN ।\RD_PUNC
+htd295	ଜଗଦଲ୍‌ପୁରର\N_NNP ଅନ୍ତସ୍ଥଳରେ\N_NST ଗୋଟିଏ\QT_QTO ମନୋରମ\JJ ସ୍ଥାନ\N_NN ଅଛି\V_VM_VNF |\RD_PUNC
+htd296	ଏଠାରେ\DM_DMD ପିଲାମାନଙ୍କ\N_NN ପାଇଁ\PSP ଗୋଟିଏ\QT_QTO ବଡ଼\JJ ଉଦ୍ୟାନ\N_NN ଏବଂ\CC_CCD ରେଳଗାଡିର\N_NN ବ୍ୟବସ୍ଥା\N_NN ଅଛି\V_VM_VF |\RD_PUNC
+htd297	ତତ୍‌ସହିତ\CC_CCD ଗୋଟିଏ\QT_QTO ବିଶାଳ\JJ ସ୍କୋଟିଗଂ\N_NN ରିଂଗ୍‌\N_NN ଯୁବକମାନଙ୍କୁ\N_NN ଆକର୍ଷିତ\JJ କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd298	ସୁନ୍ଦର\JJ ଘାସଗାଲିଚା\N_NN ଏବଂ\CC_CCD ଫୁଲବଗିଚା\N_NN ପର୍ଯଟକମାନଙ୍କର\PSP ମନ\N_NN ମୋହିନିଏ\V_VM_VF |\RD_PUNC
+htd299	କାକତୀୟ\N_NNP ବଂଶର\N_NN ମହାରାଜ\N_NN ପୁରୁଷୋତ୍ତମ\N_NNP ଦେବଙ୍କ\N_NN ଦ୍ଵାରା\PSP ନିର୍ମିତ\JJ ଏହି\DM_DMD ପୁଷ୍କରିଣୀ\N_NN ଛତିଶଗଡ଼ର\N_NNP ସବୁଠାରୁ\RP_INTF ବଡ଼ପୁଷ୍କରିଣୀ\JJ ହେବାର\V_VM_VNF ଗୌରବ\N_NN ଅର୍ଜ୍ଜନ\N_NNV କରିଛି\V_VM_VF ।\RD_PUNC
+htd300	ପ୍ରାତଃ\JJ ଏବଂ\CC_CCD ସନ୍ଧ୍ୟା\JJ କାଳରେ\N_NN ଭ୍ରମଣ\N_NNV ପାଇଁ\PSP ଏହା\DM_DMD ଉପଯୁକ୍ତ\JJ ସ୍ଥାନ\N_NN |\RD_PUNC
+htd301	ପୁଷ୍କରିଣୀ\N_NN ମଧ୍ୟରେ\PR_PRC ତିଆରି\N_NNV କରାଯାଇଥିବା\V_VM_VNF ଆଇଲ୍ୟାଣ୍ତରେ\N_NN ମୋଟରବୋଟ୍‍\N_NN ସହିତ\PSP ପେଡାଲ୍‌ବୋଟ୍‌ରେ\N_NN ଭ୍ରମଣ\N_NNV କରିବାର\V_VM_VNF ସୁବିଧା\N_NN ଉପଲବ୍ଧ\N_NN ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd302	ଆଇଲ୍ୟାଣ୍ତରେ\N_NN ଲାଗିଥିବା\V_VM_VNF ପବନଚକି\N_NN ମଧ୍ୟ\RP_RPD ଆକର୍ଷିତ\JJ କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd303	ବସ୍ତରର\N_NNP ରାଜମହଲର\N_NN ମୁଖ୍ୟ\JJ ଦ୍ଵାରରେ\N_NN ବସ୍ତରର\N_NNP ଆରାଧ୍ୟାଦେବୀ\N_NN ମା\N_NN ଦନ୍ତେଶ୍ଵରୀଙ୍କର\N_NNP ମନ୍ଦିର\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd304	ମନ୍ଦିର\N_NN ସହିତ\PSP ଦଶହରାରେ\N_NNP ଚାଲୁଥିବା\V_VM_VNF ବିଶାଳ\JJ ରଥ\N_NN ମଧ୍ୟ\RP_RPD ଏହି\DM_DMD ଦ୍ଵାର\N_NN ମଧ୍ୟଦେଇ\V_VM_VNF ଦେଖାଯାଇ\V_VM_VNF ପାରିବ\V_VM_VF ।\RD_PUNC
+htd305	ଦନ୍ତେଶ୍ଵର\N_NNP ମନ୍ଦିର\N_NN ଆଗରେ\N_NST ବସ୍ତରର\N_NNP କାକତୀୟ\N_NNP ବଂଶର\N_NN ଅନ୍ତିମ\JJ ସମ୍ରାଟ\N_NN ପ୍ରବୀରଚନ୍ଦ୍ର\N_NNP ଭଞଦେବଙ୍କର\N_NN ପ୍ରତିମା\N_NN ବସ୍ତରବାସୀମାନଙ୍କର\N_NN ବିଶ୍ଵାସର\N_NN ପ୍ରତୀକ\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd306	ଧରମପୁରା\N_NNP ରୋଡରେ\N_NN ଭଗବାନ\N_NN ବାଲାଜୀଙ୍କର\N_NNP ଭବ୍ୟ\JJ ମନ୍ଦିର\N_NN ଅଛି\V_VM_VF |\RD_PUNC
+htd307	ଧରମ୍‌ପୁରା\N_NNP ରୋଡର\N_NN ବାଲାଜୀ\N_NNP ମନ୍ଦିରକୁ\N_NN କେବଳ\CC_CCD ବିଭିନ୍ନ\QT_QTF ପ୍ରଦେଶରୁ\N_NN ହିଁ\RP_RPD ନୁହେଁ\RP_NEG ବରଂ\CC_CCD ଦେଶର\N_NN ଅନ୍ୟ\N_NN ଭାଗରୁ\PSP ମଧ୍ୟ\RP_RPD ଶ୍ରଦ୍ଧାଳୁ\N_NN ଦର୍ଶନ\N_NNV କରିବାକୁ\V_VM_VINF ଆସିଥାନ୍ତି\V_VM_VF ।\RD_PUNC
+htd308	କେରଳ\N_NNP ପ୍ରାନ୍ତୀୟ\JJ ପର୍ଯ୍ୟଟକମାନଙ୍କ\N_NN ମଧ୍ୟରେ\PR_PRC ବହୁତ\RP_INTF ଲୋକପ୍ରିୟ\JJ ସ୍ଥାନ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd309	ସେଥିପାଇଁ\CC_CCD କେରଳକୁ\N_NNP ‘ଗଡ୍ସ\CC_CCS_UT ଓନ\CC_CCS_UT କଂଟ୍ରି\CC_CCS_UT ’\RD_PUNC ଅର୍ଥାତ୍‍\RP_RPD ‘ଈଶ୍ଵରଙ୍କର\CC_CCS_UT ସ୍ୱକୀୟ\CC_CCS_UT ବାସସ୍ଥାନ\CC_CCS_UT ’\RD_PUNC ନାମରେ\N_NN ଡକାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd310	କେରଳରେ\N_NNP ଅନେକ\QT_QTF ପ୍ରକାରର\N_NN ଦର୍ଶନୀୟ\JJ ସ୍ଥାନ\N_NN ରହିଛି|\V_VM_VF
+htd311	କେରଳର\N_NNP ପ୍ରମୁଖ\JJ ଦର୍ଶନୀୟ\JJ ସ୍ଥାନମାନଙ୍କ\N_NN ମଧ୍ୟରେ\PR_PRC ମୁଖ୍ୟ\N_NN ଅଟେ\V_VM_VF -\RD_PUNC ପାର୍ବତୀୟ\JJ ଅରଣ୍ୟ\N_NN ,\RD_PUNC ସମୁଦ୍ରତଟବର୍ତ୍ତୀ\JJ କ୍ଷେତ୍ର\N_NN ,\RD_PUNC ଅରଣ୍ୟ\JJ କ୍ଷେତ୍ର\N_NN ,\RD_PUNC ତୀର୍ଥାଟନ\JJ କେନ୍ଦ୍ର\N_NN ଇତ୍ୟାଦି\RP_RPD |\RD_PUNC
+htd312	ଏହି\DM_DMD ସ୍ଥାନ\N_NN ଗୁଡିକୁ\PSP ଦେଶ\N_NN ବିଦେଶରୁ\N_NN ଅସଂଖ୍ୟ\JJ ପର୍ଯ୍ୟଟକ\N_NN ଭ୍ରମଣ\N_NNV ଉଦ୍ଦେଶ୍ୟରେ\N_NN ଆସିଥାଆନ୍ତି\V_VM_VF ।\RD_PUNC
+htd313	ମୁନ୍ନାର\N_NNP ,\RD_PUNC ନେଲିୟାଂପତି\N_NNP ,\RD_PUNC ପୋନ୍ମୋଟି\N_NNP ଆଦି\RP_RPD ପାର୍ବତୀୟ\JJ କ୍ଷେତ୍ର\N_NN ,\RD_PUNC କୋବଲମ\N_NNP ବର୍କଳା\N_NNP ,\RD_PUNC ଚେରାଇ\N_NNP ଆଦି\RP_RPD ସମୁଦ୍ରତଟବର୍ତ୍ତୀ\JJ ଅଂଚଳ\N_NN ,\RD_PUNC ପେରିୟାର୍‌\N_NNP ,\RD_PUNC ଇର୍ବିକୁଲମ\N_NNP ଆଦି\RP_RPD ବନ୍ୟ\JJ ପଶୁକେନ୍ଦ୍ର\N_NN ,\RD_PUNC କୋଲ୍ଲମ\N_NNP ,\RD_PUNC ଅଲପ୍ପୁଷା\N_NNP ,\RD_PUNC କୋଟ୍ଟୟମ୍‌\N_NNP ,\RD_PUNC ଏର୍ଣ୍ଣାକୁଲମ୍‌\N_NNP ପ୍ରଭୃତି\RP_RPD ହ୍ରଦ\N_NN ପ୍ରଧାନ\JJ କ୍ଷେତ୍ର\N_NN (backwater\RD_RDF region)\RD_RDF ଆଦି\RP_RPD ପର୍ଯ୍ୟଟକ\N_NN ମାନଙ୍କ\CC_CCD ପାଇଁ\PSP ବିଶେଷ\RP_INTF ଆକର୍ଷଣର\N_NNV କେନ୍ଦ୍ରବିନ୍ଦୁ\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd314	ଭାରତୀୟ\JJ ଚିକିତ୍ସା\N_NN ପଦ୍ଧତି\N_NN -\RD_PUNC ଆର୍ୟୁବେଦର\N_NN ମଧ୍ୟ\RP_RPD ପର୍ଯ୍ୟଟନ\N_NN କ୍ଷେତ୍ରପାଇଁ\N_NN ମହତ୍ତ୍ଵପୂର୍ଣ୍ଣ\JJ ଯୋଗଦାନ\N_NN ରହିଛି\V_VM_VF |\RD_PUNC
+htd315	ରାଜ୍ୟର\N_NN ଆର୍ଥିକ\JJ ବ୍ୟବସ୍ଥାରେ\N_NN ମଧ୍ୟ\RP_RPD ପର୍ଯ୍ୟଟନ\N_NN ନିର୍ଣ୍ଣୟାତ୍ମକ\JJ ଭୂମିକା\N_NN ତୁଲାଇଥାଏ\V_VM_VF |\RD_PUNC
+htd316	ଭାରତ\N_NNP କେନ୍ଦ୍ରଶାସିତ\JJ ପ୍ରଦେଶ\N_NN ମଧ୍ୟରେ\PR_PRC ଡାମନ\N_NNP ଏବଂ\CC_CCD ଡିଉ\N_NNP ମଧ୍ୟ\RP_RPD ଅର୍ନ୍ତଭୁକ୍ତ\V_VM_VF |\RD_PUNC
+htd317	ଆରବସାଗରର\N_NNP ଅପାର\JJ ଅଗାଧ\JJ ଜଳରାଶି\N_NN ଏହାକୁ\DM_DMD ବ୍ୟବସାୟ\N_NN ଏବଂ\CC_CCD ପର୍ଯ୍ୟଟନର\N_NN ପ୍ରମୁଖ\JJ କେନ୍ଦ୍ରସ୍ଥଳୀର\N_NST ମାନ୍ୟତା\N_NNV ଦେଇଛି\V_VM_VF ।\RD_PUNC
+htd318	ଡାମନ\N_NNP ଏବଂ\CC_CCD ଡିୟୁରେ\N_NNP ବହୁତ\JJ ଛୋଟଛୋଟ\JJ ଦ୍ଵୀପ\N_NN ଅଛି\V_VM_VF |\RD_PUNC
+htd319	ପ୍ରାକୃତିକ\JJ ସୌନ୍ଦର୍ଯ୍ୟ\N_NN ,\RD_PUNC ବହୁବିଧ\QT_QTF ସାଂସ୍କୃତିକ\JJ ସମ୍ମେଳନ\N_NN ଏବଂ\CC_CCD ସୁନ୍ଦର\JJ ସାମୁଦ୍ରିକ\JJ ବେଳାଭୂମି\N_NN ଡାମନ\N_NNV ଏବଂ\CC_CCD ଡିୟୁକୁ\N_NNP ଅସୀମ\JJ ସୁନ୍ଦରତାରେ\JJ ସଜାଇ\V_VM_VNF ଦେଇଛି\V_VM_VF ।\RD_PUNC
+htd320	ଗୁଜୁରାଟ\N_NNP ଏବଂ\CC_CCD ମହାରାଷ୍ଟ୍ର\N_NNP ରାଜ୍ୟର\N_NN ପାଖାପାଖି\V_VM_VNF ରହିଥିବାରୁ\V_VM_VNF ଏଠାରେ\DM_DMD ପର୍ଯ୍ୟଟନ\N_NNV ବିକାଶର\N_NN ପରିପୂର୍ଣ୍ଣ\PR_PRC ସୁବିଧା\N_NN ମିଳିଥାଏ|\V_VM_VF
+htd321	ଦୀର୍ଘ\JJ ସମୟ\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ଡାମନ\N_NNP ଏବଂ\CC_CCD ଡିୟୁ\N_NNP ଉପରେ\N_NN ପର୍ତ୍ତୁଗୀଜ୍‌ମାନେ\N_NNP ଆଧିପତ୍ୟ\N_NN ବିସ୍ତାର\N_NN କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd322	ଏହାପରେ\DM_DMD ପର୍ତ୍ତୁଗୀଜ୍‌\N_NNP ମାନଙ୍କଠାରୁ\PSP ସ୍ଵାଧୀନ\N_NN କରାଇ\V_VM_VNF ଡାମନ\N_NNV ଏବଂ\CC_CCD ଡିୟୁକୁ\N_NNP ଗୋଆରେ\N_NNP ମିଶାଇ\V_VM_VNF ଦିଆଯାଇଥିଲା\V_VM_VF |\RD_PUNC
+htd323	୧୯୮୭\QT_QTC ମସିହାରେ\N_NN ଡାମନ\N_NNP ଏବଂ\CC_CCD ଡିୟୁକୁ\N_NNP ଗୋଟିଏ\RP_CL ସ୍ୱତନ୍ତ୍ର\JJ କେନ୍ଦ୍ରଶାସିତ\N_NN ଅଞ୍ଚଳର\N_NN ମାନ୍ୟତା\N_NN ପ୍ରଦାନ\N_NNV କରାଗଲା\V_VM_VF ।\RD_PUNC
+htd324	ଭାରତର\N_NNP ପ୍ରମୁଖ\JJ ବ୍ୟବସାୟିକ\JJ କେନ୍ଦ୍ର\N_NN ବମ୍ବେରୁ\N_NNP ଡାମନର\N_NNP ଦୂରତା\N_NN ପାଖାପାଖି\JJ ୧୯୩\QT_QTC କି.ମି.\QT_QTF ଅଟେ\V_VM_VF |\RD_PUNC
+htd325	ଡାମନ\N_NNP ପୂର୍ବରେ\N_NNP ଗୁଜୁରାଟ\N_NNP ରାଜ୍ୟସହିତ\PSP ଏବଂ\CC_CCD ପଶ୍ଚିମରେ\N_NNP ଆରବସାଗର\N_NNP ସହିତ\PSP ମିଶିଅଛି\V_VM_VF |\RD_PUNC
+htd326	ଡାମନର\N_NNP ଉତ୍ତରରେ\N_NNP ‘କୋଲାକ’\CC_CCS_UT ତଥା\CC_CCD ଦକ୍ଷିଣରେ\N_NNP ‘କଲାଇ’\CC_CCS_UT ନଦୀ\N_NN ପ୍ରବାହିତ\V_VM_VF ।\RD_PUNC
+htd327	ଡାମନର\N_NNP ପଡୋଶୀ\N_NN ଜିଲ୍ଲା\N_NN ଗୁଜୁରାଟର\N_NNP ବଲ୍‌ସାଡ୍‌\N_NNP ଜିଲ୍ଲା\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd328	ଡିୟୁ\N_NNP ଭାରତର\N_NNP ଗୋଟିଏ\RP_CL ଏମିତି\DM_DMD ଦ୍ଵୀପ\N_NN ଅଟେ\V_VM_VF ,\RD_PUNC ଯାହା\PR_PRL ଦୁଇଟି\RP_CL ପୋଲ\N_NN ଦ୍ଵାରା\PSP ସଂଯୁକ୍ତ\N_NN ହୋଇ୍ଅଛି\V_VM_VF ।\RD_PUNC
+htd329	ଡିୟୁ\N_NNP ଗୁଜୁରାଟର\N_NNP ଜୁନାଗଡ\N_NNP ଜିଲ୍ଲା\N_NN ସହିତ\PSP ମିଶିକରି\V_VM_VNF ରହିଛି\V_VM_VF ।\RD_PUNC
+htd330	ଡାମନ\N_NNP ‘ମୋଟିଡାମନ\CC_CCS_UT ’\RD_PUNC ଏବଂ\CC_CCD ‘ନାନୀଡାମନ’\CC_CCS_UT ନାମରେ\RB ଦୁଇଭାଗରେ\QT_QTC ବିଭକ୍ତ\N_NN ହୋଇଅଛି\V_VM_VF ।\RD_PUNC
+htd331	ଡାମନକୁ\N_NNP ଦୁଇଭାଗରେ\QT_QTC ବିଭକ୍ତ\N_NN କରୁଥିବା\V_VM_VNF ନଦୀ\N_NN ଡାମନଗଂଗା\N_NNP ଅଟେ\V_VM_VF |\RD_PUNC
+htd332	ମୋଟି\N_NN ଡାମନରେ\N_NNP ଅନେକ\QT_QTF ପୁରୁଣା\JJ ଚର୍ଚ୍ଚ\N_NN ଅଛି\V_VM_VF ,\RD_PUNC ତନ୍ମଧ୍ୟରୁ\N_NN ପ୍ରମୁଖ\JJ ଚର୍ଚ୍ଚ\N_NN ‘କ୍ୟାଥୋଡ୍ରାଲ୍‌\CC_CCS_UT ବୋଲ\CC_CCS_UT ଜେସୁ’\CC_CCS_UT ଅଟେ\V_VM_VF |\RD_PUNC
+htd333	ଡାମନରେ\N_NNP ଥିବା\V_VM_VNF ଚର୍ଚ୍ଚର\N_NN ପାଚେରୀ\N_NN ଉପରେ\N_NN କରାଯାଇଥିବା\V_VM_VNF ଇସା\N_NNP ମସିହାଙ୍କର\N_NNP ଜୀବନ\N_NN ସହିତ\PSP ସମ୍ବନ୍ଧିତ\CC_CCD ସୁନ୍ଦର\JJ କଳାକୃତି\N_NN ଏବଂ\CC_CCD କାଠରେ\N_NN ତିଆରି\N_NN ଆକର୍ଷଣୀୟ\JJ ପଦାର୍ଥ\N_NN ପର୍ଯ୍ୟଟକମାନଙ୍କୁ\PSP ଆକର୍ଷିତ\JJ କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd334	ନାନୀ\N_NNP ଡାମନର\N_NNP ମୁଖ୍ୟ\JJ ଆକର୍ଷଣ\N_NN ସଂତ\N_NNP ଜୈରୋମ୍‌ର\N_NNP ଦୁର୍ଗ\N_NN ଅଟେ\V_VM_VF ,\RD_PUNC
+htd335	ଡାମନର\N_NNP ଜୈରୋମ୍‌\N_NNP ଦୁର୍ଗ\N_NN ମୁଗୋଲମାନଙ୍କ\N_NN ଆକ୍ରମଣରୁ\N_NN ସୁରକ୍ଷା\N_NN ଦେବାପାଇଁ\PSP ତିଆରି\N_NNV କରାଯାଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd336	ଏହା\DM_DMD ବ୍ୟତୀତ\CC_CCD ଡାମନ୍‌ର\N_NNP ଅନ୍ୟାନ୍ୟ\RP_RPD ଆକର୍ଷଣୀୟ\JJ ପର୍ଯ୍ୟଟନସ୍ଥଳୀ\N_NN ମଧ୍ୟରୁ\PR_PRC ବୋମ୍‌\N_NNP ଯୀଶସ୍‌\N_NNP ଚର୍ଚ୍ଚ\N_NNP ,\RD_PUNC ଓଭର୍‌\N_NNP ଲୋଡି\N_NNP ଅଫ୍\N_NNV ସି\N_NNP ଚର୍ଚ୍ଚ\N_NNV ,\RD_PUNC ଓଭର\N_NNP ଲେଡି\N_NNP ଅଫ୍\N_NNP ରେମିଡିଓଜ୍‌\N_NNP ଚର୍ଚ୍ଚ\N_NNP ,ପରଗୋଲା\N_NNP ଗାର୍ଡେନ\N_NN ,\RD_PUNC ଆମ୍ୟୁଜମେଣ୍ଟ\N_NNP ପାର୍କ\N_NN ,\RD_PUNC ଡାମନଗଂଗା\N_NNP ଟୁରିଷ୍ଟ\N_NNP କମ୍ପ୍ଲେକ୍ସ\N_NNP ,\RD_PUNC କାଚୀଗାମ\N_NNP ,\RD_PUNC ସତ୍ୟ\N_NNP ସାଗର\N_NNP ଉଦ୍ୟାନ\N_NN ,\RD_PUNC ମିରାସୋଲ\N_NNP ଗାର୍ଡେନ\N_NN ,\RD_PUNC ମିରାସୋଲ\N_NNP ଓ୍ୱାଟର\N_NN ପାର୍କ\N_NN ଆଦି\RP_RPD ଅନ୍ତର୍ଭୁକ୍ତ\V_VM_VF ।\RD_PUNC
+htd337	ଡାମନର\N_NNP ଭୂମିକୁ\N_NN ସ୍ପର୍ଶ\N_NN କରୁଥିବା\V_VM_VNF ଆରବ\N_NNP ସାଗର\N_NN ଡାମନକୁ\N_NNP ଅପ୍ରତିମ\N_NN ପ୍ରାକୃତିକ\JJ ସୁନ୍ଦରତା\N_NN ଓ\CC_CCD ସବୁଜିମା\JJ ପ୍ରଦାନ\N_NN କରିଅଛି\V_VM_VF ।\RD_PUNC
+htd338	ଡାମନ୍‌ରେ\N_NNP ଦେବୀକା\N_NNP ବେଳାଭୂମି\N_NN ଏବଂ\CC_CCD ଜେମ୍‌ପୋରେ\N_NNP ବେଳାଭୂମି\N_NN ନାମକ\PSP ଦୁଇଟି\QT_QTC ବେଳାଭୂମି\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd339	ଦେବୀକା\N_NNP ବେଳାଭୂମି\N_NN ଡ଼ାମନର\N_NNP ୫\QT_QTC କି.ମି.\N_NN ଉତ୍ତରରେ\N_NNP ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd340	ଦେବୀକା\N_NNP ବେଳାଭୂମି\N_NN ପିଲାମାନଙ୍କ\N_NN ପାଇଁ\PSP ବହୁତ\QT_QTF ଆପର୍ଷଣୀୟ\N_NST ଅଟେ\V_VM_VF କାରଣ\N_NN ଏଠାରେ\DM_DMD ପିଲାମାନଙ୍କ\N_NN ପାଇଁ\PSP ପାର୍କ\N_NN ଓ\CC_CCD ଅନ୍ୟାନ୍ୟ\RP_RPD ସୁବିଧା\N_NN ମଧ୍ୟ\RP_RPD ଉପଲବ୍ଧ\N_NN ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd341	ନାନୀ\N_NNP ଡାମନରେ\N_NNP ଥିବା\V_VM_VNF ଜୈମ୍‌ପୋରେ\N_NNP ବେଳାଭୂମି\N_NN ଡାମନର\N_NNP ପ୍ରସିଦ୍ଧ\JJ ବଣଭୋଜି\N_NN ସ୍ଥଳ\N_NN ମଧ୍ୟ\RP_RPD ଅଟେ\V_VM_VF ।\RD_PUNC
+htd342	ଜୈମପୁର\N_NNP ବେଳାଭୂମିର\N_NN ଶାନ୍ତ\JJ ବାତାବରଣ\N_NN ପ୍ରେମୀଯୁଗଳମାନଙ୍କୁ\N_NN ଆକର୍ଷିତ\N_NN କରିଥାଏ\V_VM_VF |\RD_PUNC
+htd343	ଜୈମ୍‌ପୋରେ\N_NNP ବେଳାଭୂମିର\N_NN ଶାନ୍ତ\JJ ବାତାବରଣ\N_NN କାରଣରୁ\CC_CCD ଅଧିକାଂଶ\QT_QTF ପ୍ରେମୀଯୁଗଳ\N_NN ଏଠାକୁ\DM_DMD ସ୍ଵଚ୍ଛନ୍ଦତାର\JJ ଅନୁସନ୍ଧାନରେ\N_NN ଆସିଥାନ୍ତି\V_VM_VF ।\RD_PUNC
+htd344	ପହଁରିବା\V_VM_VNF ପାଇଁ\PSP ମଧ୍ୟ\RP_RPD ଜୈମ୍‌ପୋରେ\N_NNP ବେଳାଭୂମି\N_NN ବହୁତ\JJ ସୁନ୍ଦର\N_NN ସ୍ଥାନ\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd345	କଣ\PR_PRQ ଅଛି\V_VM_VF ଏହି\DM_DMD ଦ୍ଵୀପରେ\N_NN ?\RD_PUNC
+htd346	ସେଣ୍ଟ\N_NNP ପର୍ଲ\N_NNP ଚର୍ଚ୍ଚ\N_NNP ,\RD_PUNC ଡିଉ\N_NNP ଫୋର୍ଟ\N_NNP ,\RD_PUNC ପନୀକୋଟା\N_NNP ,\RD_PUNC ଘୋଘଲା\N_NNV ବେଳାଭୂମି\N_NNP ,\RD_PUNC ଚିଲଡ୍ରେନ୍\N_NNP ପାର୍କ\N_NNP ଏବଂ\CC_CCD ସମର\N_NNP ହାଉସ୍‌ଡିଉର\N_NNP ପ୍ରମୁଖ\RP_INTF ପର୍ଯ୍ୟଟନ\N_NST ସ୍ଥଳୀ\N_NST ଅଟେ\V_VM_VF ।\RD_PUNC
+htd347	ନଗୋଆ\N_NNP ବେଳାଭୂମି\N_NN ଡିଉର\N_NNP ଅତ୍ୟନ୍ତ\RP_INTF ଆକର୍ଷଣୀୟ\JJ ବେଳାଭୂମି\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd348	ଡିଉରୁ\N_NNP ୨୦\QT_QTC ମିନିଟ\N_NN ଡ୍ରାଇଭ୍‌\N_NN କରି\V_VM_VNF ଆପଣ\PR_PRP ସୁବିଧାରେ\N_NN ନଗୋଆ\N_NNP ବେଳାଭୂମିରେ\N_NN ପହଞ୍ଚି\V_VM_VNF ପାରିବେ\V_VM_VF ।\RD_PUNC
+htd349	ଚପଲ\N_NN ଆକାରଭଳି\N_NN ସମାନ\N_NN ହୋଇଥିବା\V_VM_VNF କାରଣରୁ\CC_CCD ୨\QT_QTC କି.ମି.\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ବ୍ୟାପିଥିବା\V_VM_VNF ନଗୋଆ\N_NNP ଦ୍ଵୀପ\N_NN ଏବେ\CC_CCS ପର୍ଯ୍ୟଟକମାନଙ୍କର\N_NN ପ୍ରଥମ\QT_QTO ପସନ୍ଦ\N_NN ହୋଇପାରିଛି\V_VM_VF ।\RD_PUNC
+htd350	ଚକ୍ରତୀର୍ଥ\N_NNP ବେଳାଭୂମି\N_NN ସବୁଜିମାମୟ\JJ ସୌନ୍ଦର୍ଯ୍ୟରେ\N_NN ଭରପୁର\PR_PRC ହୋଇଅଛି\V_VM_VF ।\RD_PUNC
+htd351	ଚକ୍ରତୀର୍ଥ\N_NNP ବେଳାଭୂମିର\N_NN ପାଖାପାଖି\JJ ସୁନ୍ଦର\JJ ବଗିଚା\N_NN ଓ\CC_CCD ଖୋଲା\JJ ଷ୍ଟାଡିୟମ\N_NN ରହିଛି\V_VM_VF ,\RD_PUNC ଏହା\DM_DMD ପର୍ଯ୍ୟଟକମାନଙ୍କ\N_NN ପାଇଁ\PSP ପୁରାପୁରି\PR_PRC ଉପଭୋଗର\N_NN ସ୍ଥାନ\PR_PRP ହୋଇପାରିଛି\V_VM_VF ।\RD_PUNC
+htd352	କେବେ\PR_PRQ ଯିବା\V_VM_VNF ଡାମନ\N_NNP ଏବଂ\CC_CCD ଡୀୟୁ\N_NNP
+htd353	ଏମିତିରେ\CC_CCD ତ\RP_RPD ଡାମନ\N_NNP ଏବଂ\CC_CCD ଡୀୟୁର\N_NNP ଜଳବାୟୁ\N_NN ବର୍ଷସାରା\PR_PRC ପର୍ଯ୍ୟଟକମାନଙ୍କୁ\N_NN ଆକର୍ଷିତ\JJ କରିଥାଏ\V_VM_VF କିନ୍ତୁ\CC_CCD ଏଠାକୁ\DM_DMD ଆସିବାର\V_VM_VNF ଉପଯୁକ୍ତ\N_NN ସମୟ\N_NN ଅକ୍ଟୋବରରୁ\N_NNP ମେ\N_NNP ପର୍ଯ୍ୟନ୍ତ\PSP ଅଟେ\V_VM_VF |\RD_PUNC
+htd354	କେମିତି\DM_DMQ ପହଞ୍ଚିବା\V_VM_VNF ଡାମନ\N_NNP ଏବଂ\CC_CCD ଡୀୟୁ\N_NNP
+htd355	ଡାମନରେ\N_NNP ୧୯୧\QT_QTC କି.ମି.\N_NN ସଡ଼କପଥ\N_NN ରହିଛି\V_VM_VF ଏବଂ\CC_CCD ଡିଉରେ\N_NNP ୭୮\QT_QTC କି.ମି.\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ଦୀର୍ଘ\JJ ସଡକପଥ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd356	ଡାମନ\N_NNP ପଶ୍ଚିମ\N_NNP ରେଲ୍‌ଓ୍ୱେ\N_NN ଦିଲ୍ଲୀ-ମୁମ୍ବାଇ\N_NNP ମାର୍ଗରେ\N_NN ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd357	ଡାମନର\N_NNP ପାଖାପାଖି\JJ ରେଲ୍‌ଓ୍ୱେ\N_NN ଷ୍ଟେସନ\N_NN ଗୁଜୁରାଟର\N_NNP ‘ବାପି’\N_NNP ଅଟେ\V_VM_VF ।\RD_PUNC
+htd358	ଡିଉ\N_NNP ମିଟର\N_NN ଗେଜ୍‍\N_NN ରେଲ୍‌ଓ୍ୱେ\N_NN ଲାଇନ\N_NN ସହିତ\PSP ସଂପୃକ୍ତ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd359	ଡିଉର\N_NNP ପାଖାପାଖି\V_VM_VNF ରେଲ୍‌ଓ୍ୱେ\N_NN ଷ୍ଟେସନ\N_NN ‘ଦିଲଓ୍ୱାଡା’\CC_CCS_UT ଅଟେ\V_VM_VF ।\RD_PUNC
+htd360	ଡାମନ\N_NNP ଏବଂ\CC_CCD ଡିଉ\N_NNP ଦୁଇଟି\QT_QTC ସ୍ଥାନ\N_NN ବିମାନ\N_NN ବନ୍ଦର\N_NN ସହିତ\PSP ସଂପୃକ୍ତ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd361	ଡିଉରୁ\N_NNP ମୁମ୍ବାଇ\N_NNP ପାଇଁ\PSP ପ୍ରତିଦିନ\N_NN ଅନେକ\QT_QTF ଉଡାଜାହାଜ\N_NN ଯାତ୍ରାକରିଥାନ୍ତି\V_VM_VF |\RD_PUNC
+htd362	ରାଜସ୍ଥାନ\N_NNP ହେଉଛି\V_VM_VNF ମନ୍ଦିର\N_NN ନିର୍ମାଣ\N_NNV ଗତିବିଧିର\N_NN ପ୍ରମୁଖ\JJ କେନ୍ଦ୍ରସ୍ଥଳୀ\N_NN ।\RD_PUNC
+htd363	ମେବାର\N_NNP ଉଦୟପୁର\N_NNP ଅଞ୍ଚଳରେ\N_NN ମନ୍ଦିର\N_NN ନିର୍ମାଣ\N_NNV ଗତିବିଧିଗୁଡିକ\N_NN
+htd364	ଉତ୍ତର\JJ ଗୁପ୍ତଯୁଗରେ\N_NNP ମେବାର\N_NNP ଅଞ୍ଚଳରେ\N_NN ବିଷ୍ଣୁ\N_NNP ଏବଂ\CC_CCD ଶିବଙ୍କ\N_NNP ଅପେକ୍ଷା\CC_CCD ଶକ୍ତିପୂଜା\N_NN ଅଧିକ\QT_QTF ମାତ୍ରାରେ\QT_QTF ପ୍ରଚଳିତ\N_NNV ଥିଲା\V_VM_VF |\RD_PUNC
+htd365	ଜଗତ\N_NNP ଏବଂ\CC_CCD ଉନବାସ\N_NNP ପରି\PSP ସ୍ଥାନରେ\N_NN ତିଆରି\N_NNV ମନ୍ଦିର\N_NN ଶାକ୍ତ\JJ ସଂପ୍ରଦାୟର\N_NN ଲୋକପ୍ରିୟତାର\N_NN ସଶକ୍ତ\N_NN ଉଦାହରଣ\RP_RPD ଅଟେ\V_VM_VF |\RD_PUNC
+htd366	ଜଗତ\N_NNP ଏବଂ\CC_CCD ଉନବାସ\N_NNP ମନ୍ଦିରରେ\N_NN ଦୂର୍ଗାଙ୍କର\N_NNP ମହିଷାମର୍ଦ୍ଦିନୀ\N_NN ରୂପକୁ\N_NN ମହିମାନ୍ୱିତ\JJ କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd367	ବୈଷ୍ଣବ\N_NNP ସଂପ୍ରଦାୟର\N_NN ଲୋକମାନେ\N_NN ବିଷ୍ଣୁଙ୍କର\N_NNP ଲକ୍ଷ୍ମୀନାରାୟଣ\N_NNP ଏବଂ\CC_CCD ବରାହ\N_NNP ବିଗ୍ରହ\N_NN ପୂଜା\N_NN ବିଶେଷ\RP_INTF ରୂପରେ\N_NN କରିଥାଆନ୍ତି\V_VM_VF ।\RD_PUNC
+htd368	ମେବାର\N_NNP ଉଦୟପୁର\N_NNP ଅଞ୍ଚଳରେ\N_NN ଶିବ\N_NNP ଏବଂ\CC_CCD ସୂର୍ଯ୍ୟ\N_NNP ଦେବତାଙ୍କ\N_NN ପାଇଁ\PSP ଉଦ୍ଧିଷ୍ଟ\N_NN ମନ୍ଦିର\N_NN ବହୁତ\QT_QTF କମ୍‌\QT_QTF ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd369	ମେବାର\N_NNP ଅଞ୍ଚଳ\N_NN ମନ୍ଦିର\N_NN ନିର୍ମାଣ\N_NN କୌଶଳ\N_NN ପାଇଁ\PSP ପ୍ରସିଦ୍ଧ\N_NN କ୍ଷେତ୍ର\N_NN ମଧ୍ୟରେ\PR_PRC ପରିଗଣନା\N_NNV କରାଯାଉଛି\V_VM_VF ।\RD_PUNC
+htd370	ମେବାର୍‌ରେ\N_NNP ସବୁଠାରୁ\RP_INTF ପ୍ରାଚୀନ\JJ ବୈଷ୍ଣବ\N_NNP ଏବଂ\CC_CCD ସୌର\N_NNP ମନ୍ଦିରଗୁଡିକର\N_NN ନିର୍ମାଣ\N_NN ଚିତୋର୍‌ଗଡରେ\N_NNP ହୋଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd371	ଦୁର୍ଗର\N_NN ରାଜନୈତିକ\JJ ଏବଂ\CC_CCD ଧାର୍ମିକ\JJ ଇତିହାସ\N_NN ତଥା\CC_CCD ଭୌଗୋଳିକ\JJ ପରିବେଶ\N_NN ମନ୍ଦିରର\N_NN ନିର୍ମାଣ\N_NNV ଏବଂ\CC_CCD ଜୀର୍ଣ୍ଣୋଦ୍ଵାରକୁ\N_NN ପ୍ରଭାବିତ\JJ କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd372	ଅଭିଲେଖ\N_NN ଏବଂ\CC_CCD ପ୍ରତ୍ନତାତ୍ୱିକ\N_NN ପ୍ରମାଣ\N_NN ଦ୍ଵାରା\PSP ଏହା\DM_DMD ଜଣାଯାଇଥାଏ\V_VM_VF ଯେ\CC_CCD ଖ୍ରୀଷ୍ଯପୂର୍ବ\N_NN ଦ୍ୱିତୀୟ\QT_QTO ଶତାଦ୍ଦୀରୁ\QT_QTC ସପ୍ତମ\QT_QTO ଶତାଦ୍ଦୀ\QT_QTO ପର୍ଯ୍ୟନ୍ତ\PSP ଏହି\DM_DMD କ୍ଷେତ୍ରରେ\N_NN ବୈଷ୍ଣବ\N_NNP ଧର୍ମ\N_NN ଲୋକପ୍ରିୟ\N_NN ଥିଲା\V_VM_VF |\RD_PUNC
+htd373	ଏହା\DM_DMD ବ୍ୟତୀତ\CC_CCD ମେବାର୍‌ର\N_NNP ଶୈବ\N_NNP ,\RD_PUNC ଶାକ୍ତ\N_NNP ,\RD_PUNC ସୌର\N_NNP ,\RD_PUNC ବୌଦ୍ଧ\N_NNP ଓ\CC_CCD ଜୈନ\N_NNP ଧର୍ମ\N_NN ସହିତ\PSP ସଂବଧ\N_NN ଥିବା\V_VM_VNF ଅନେକ\QT_QTF ପ୍ରାଚୀନ\JJ ତୀର୍ଥସ୍ଥଳୀର\N_NN ପ୍ରମାଣ\N_NN ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd374	ସପ୍ତମ-ଅଷ୍ଟମ\QT_QTO ଶତାବ୍ଦୀରେ\QT_QTO ମିଳିଥିବା\V_VM_VNF କିଛି\QT_QTF ଦାନ\JJ ସ୍ତୁପ\N_NN ,\RD_PUNC ଯାହାର\PR_PRL ଆକାର\N_NN ବର୍ଗାକାର\JJ ଅଟେ\V_VM_VF ,\RD_PUNC ଏହାର\DM_DMD ଚାରି\QT_QTC ପାଖରେ\N_NN ଥିବା\V_VM_VNF କକ୍ଷରେ\N_NN ଧ୍ୟାନସ୍ଥମୁଦ୍ରାରେ\N_NN ବସିଥିବା\V_VM_VNF ବୁଦ୍ଧଙ୍କର\N_NNP ପ୍ରତିମାଗୁଡିକ\N_NN ଅଙ୍କିତ\N_NNV ହୋଇଛି\V_VM_VF |\RD_PUNC
+htd375	ଏହା\DM_DMD ବ୍ୟତୀତ\CC_CCD ମଧ୍ୟ\RP_RPD ସପ୍ତମ\QT_QTO ଶତାବ୍ଦୀର\N_NN କିଛି\QT_QTF ମନ୍ଦିର\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF |\RD_PUNC
+htd376	ସପ୍ତମରୁ\QT_QTO ପଞ୍ଚଦଶ\QT_QTO ଶତାବ୍ଦୀ\QT_QTO ଶେଷରେ\PSP ଚିତ୍ତୋର\N_NNP ନିରନ୍ତର\N_NN ମନ୍ଦିର\N_NN ଏବଂ\CC_CCD ଅନ୍ୟାନ୍ୟ\RP_RPD ବାସ୍ତୁ\N_NNP ନିର୍ମାଣ\N_NN ଜୀର୍ଣ୍ଣୋଦ୍ଵାର\N_NN ଆଦି\RP_RPD ଗତିବିଧିର\N_NN ପ୍ରମୁଖ\RP_INTF କେନ୍ଦ୍ରସ୍ଥଳୀ\N_NN ଥିଲା\V_VM_VF ।\RD_PUNC
+htd377	ଏହି\DM_DMD ଅବଧି\N_NST ମଧ୍ୟରେ\PR_PRC ମହାରାଣା\N_NNP କୂମ୍ଭଙ୍କର\N_NNP ରାଜ୍ୟ\N_NN କାଳ\N_NN (୧୪୩୩-୧୪୬୬\QT_QTC ମସିହା)\N_NN ଏହି\DM_DMD ଗତିବିଧି\N_NN ଗୁଡିକ\PSP ପାଇଁ\PSP ବିଶେଷ\RP_INTF ଉଲ୍ଲେଖନୀୟ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd378	ଭବନ-ନିର୍ମାଣ\N_NN ପାଇଁ\PSP ଉପଯୋଗରେ\N_NN ଆସୁଥିବା\V_VM_VNF ସାମଗ୍ରୀ\N_NN ନଗରରୁ\N_NN ଅଣାଯାଉଥିଲା\V_VM_VF |\RD_PUNC
+htd379	ଉପଲବ୍ଧ\N_NN ପାଷାଣର\N_NN ଅାଧିକ୍ୟ\QT_QTF ମଧ୍ୟ\RP_RPD ମେବାର୍‌\N_NNP ଅଞ୍ଚଳର\N_NN ବାସ୍ତୁ-ନିର୍ମାଣକୁ\V_VM_VINF ପ୍ରଭାବିତ\JJ କରିଥିଲା\V_VM_VF |\RD_PUNC
+htd380	ମେବାର୍‌ର\N_NNP କିଛି\QT_QTF ପ୍ରମୁଖ\JJ ମନ୍ଦିରର\N_NN ଚର୍ଚ୍ଚା\N_NN ଏହି\DM_DMD ପ୍ରକାର\RP_RPD କରାଯାଉ\V_VM_VNF ଅଛି\V_VM_VF ।\RD_PUNC
+htd381	କାଳିକା\N_NNP ମାତା\N_NNP ମନ୍ଦିର\N_NN ମୂଳତଃ\RP_INJ ଗୋଟିଏ\RP_CL ସୂର୍ଯ୍ୟ\N_NNP ମନ୍ଦିର\N_NN ଥିଲା\V_VM_VF |\RD_PUNC
+htd382	ଅଭିଲେଖା\N_NN ପ୍ରମାଣକୁ\N_NN ଅଧାରକରି\V_VM_VNF କାଳିକା\N_NNP ମାତା\N_NNP ମନ୍ଦିରର\N_NN ସମୟକୁ\N_NN ଅଷ୍ଟମ\QT_QTO ଶତାବ୍ଦୀର\N_NN ପ୍ରାରମ୍ଭିକ\N_NN କାଳ\N_NN ବୋଲି\CC_CCD ନିର୍ଣ୍ଣିତ\JJ କରାଯାଇପାରିବ\V_VM_VF ।\RD_PUNC
+htd383	କାଳିକା\N_NNP ମାତା\N_NNP ମନ୍ଦିରର\N_NN ସମୟାନ୍ତରରେ\N_NN ଜୀର୍ଣ୍ଣୋଦ୍ଵାର\N_NN କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd384	କାଳିକା\N_NNP ମାତା\N_NNP ମନ୍ଦିରରେ\N_NN ପଞ୍ଚରଥ\N_NNP ଗର୍ଭଗୃହ\N_NN ,\RD_PUNC ମଣ୍ତପ\N_NN ,\RD_PUNC ଆଭ୍ୟନ୍ତରୀୟ\JJ ,\RD_PUNC ପ୍ରଦକ୍ଷିଣା\N_NN ପଥ\N_NN ଏବଂ\CC_CCD ଦ୍ଵାର-ମଣ୍ତପ\N_NN ନିର୍ମିତ\N_NNV ହୋଇଅଛି\V_VM_VF |\RD_PUNC
+htd385	ଗର୍ଭଗୃହର\N_NN ବାହ୍ୟରେ\N_NN ଥିବା\V_VM_VNF ତିନି\QT_QTC ପ୍ରମୁଖ\JJ କକ୍ଷ\N_NN ମଧ୍ୟରୁ\PR_PRC ଦୁଇଟିରେ\QT_QTC ରଥାରୂଢ଼\N_NNV ସୂର୍ଯ୍ୟଦେବଙ୍କ\N_NNP ପ୍ରତିମାଗୁଡିକ\N_NN ପ୍ରତିଷ୍ଠା\N_NNV କରାଯାଇ\V_VM_VNF ଅଛି\V_VM_VF ,\RD_PUNC ଯେତେବେଳେ\CC_CCS କି\RP_RPD ଗୌଣ\JJ କକ୍ଷରେ\N_NN ଚନ୍ଦ୍ର\N_NNP ତଥା\CC_CCD ଅନ୍ୟ\RP_RPD ଦୀଗପାଳମାନଙ୍କର\N_NN ପ୍ରତିମା\N_NN ଉତ୍କୀର୍ଣ୍ଣ\N_NNV କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd386	ଗର୍ଭଗୃହର\N_NN ପ୍ରବେଶ\N_NN ଦ୍ଵାରର\N_NN କାଠଫଳକ\N_NN ଉପରେ\N_NST ଅଳଙ୍କରଣ\N_NNV ବିଶେଷ\JJ ରୂପରେ\N_NN ଉଲ୍ଲେଖନୀୟ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd387	ଚଉକାଠ\N_NN ଉପରେ\N_NST ଦୁଇ\QT_QTC ପାର୍ଶ୍ୱରେ\N_NST ଗଙ୍ଗା\N_NNP ଏବଂ\CC_CCD ଯମୁନା\N_NNP ନଦୀ\N_NN ମାତାଙ୍କୁ\N_NN ନିଜର\PR_PRF ବାହନ\N_NN ଉପରେ\N_NST ଆରୁଢ\N_NN କରାଇ\V_VM_VNF ଅଙ୍କନ\N_NN କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd388	ମନ୍ଦିରରେ\N_NN ଅଙ୍କିତ\N_NNV କୂର୍ମାବତାର\N_NNP ,\RD_PUNC ଉମା-ମାହେଶ୍ଵର\N_NNP ତଥା\CC_CCD ଲକୁଳିଶ\N_NNP ମୂର୍ତ୍ତିଗୁଡ଼ିକ\N_NN ବିଜ୍ଞାନର\N_NN ପ୍ରାରମ୍ଭିକ\N_NN ଅବସ୍ଥାକୁ\N_NN ଇଂଗିତ\N_NNV କରୁଅଛି\V_VM_VF |\RD_PUNC
+htd389	ମନ୍ଦିରରେ\N_NN ଅଙ୍କିତ\N_NNV କୂର୍ମାବତାର\N_NNP ,\RD_PUNC ଉମା-ମାହେଶ୍ଵର\N_NNP ତଥା\CC_CCD ଲକୁଳିଶ\N_NNP ମୂର୍ତ୍ତୀଗୁପ୍ରତିମାଗୁଡ଼ିକ\N_NN ପରେ\PSP ପୌଢ଼ତ୍ୱ\N_NN ପ୍ରାପ୍ତ\N_NNV କରିଥାଏ|\N_NN
+htd390	ମନ୍ଦିରର\N_NNP ଶିଖର\N_NN ପୂର୍ଣ୍ଣତଃ:\RP_INJ ନୂତନ\JJ ରଚନା\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd391	ଅଷ୍ଟମ\QT_QTO ଶତାବ୍ଦୀର\N_NN ଶିଖରଶୈଳୀ\N_NN ସ୍ଥାନରେ\N_NN ଗୁମ୍ବଦାକାର\JJ ନୂଆ\JJ ଶିଖର\N_NN ତିଆରି\N_NNV କରାଯାଇଛି\V_VM_VF |\RD_PUNC
+htd392	ମଣ୍ତପର\N_NN ଆଭ୍ୟନ୍ତରୀଣ\JJ ଭିତ୍ତିରେ\N_NN ଲାଗିଥିବା\V_VM_VNF ଦୁଇଟି\RP_CL ଅର୍ଦ୍ଧଚିତ୍ର\JJ ତଥା\CC_CCD ଏକ\QT_QTC ଲକୁଳିଶ\N_NNP ପ୍ରତିମା\N_NN ପଛରେ\N_NST ଲଗାଯାଇଥିବା\V_VM_VNF ଭଳି\N_NN ଜଣାପଡେ\V_VM_VF ।\RD_PUNC
+htd393	ବସ୍ତୁତଃ:\RP_INJ ଏହି\DM_DMD ଶିଳାଲେଖର\N_NN ମୂଳ\JJ ସ୍ଥାନ\N_NN ମନ୍ଦିରର\N_NN ଚଉତରାରେ\N_NN ରହିଅଛି\V_VM_VF |\RD_PUNC
+htd394	ଅର୍ଦ୍ଧଚିତ୍ରପଟ୍ଟର\N_NN ବିଷୟବସ୍ତୁ\N_NN ନୃତ୍ୟ\N_NN ,\RD_PUNC ସଂଗୀତ\N_NN ଏବଂ\CC_CCD ପାନ\N_NN ଗୋଷ୍ଠୀ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd395	ମୁଳତଃ:\RP_INJ ମନ୍ଦିର\N_NN ଗୋଟିଏ\RP_CL ବିଶାଳ\JJ ଚଉତରା\N_NN ଉପରେ\N_NST ତିଆରି\N_NNV ହୋଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd396	ମନ୍ଦିରର\N_NN ବିଶାଳ\JJ ଚଉତରାର\N_NN କିଛି\JJ ଅଂଶ\N_NN ଗଢିବାକୁ\V_VM_VINF ଏବେ\DM_DMD ମଧ୍ୟ\RP_RPD ବାକିଅଛି\V_VM_VF ।\RD_PUNC
+htd397	ଗର୍ଭଗୃହର\N_NN ପ୍ରଦକ୍ଷିଣପଥରେ\N_NN ସୂର୍ଯ୍ୟାଲୋକ\N_NN ଏବଂ\CC_CCD ବାୟୁ\N_NN ଚଳାଚଳ\N_NNV ପାଇଁ\PSP ଦୁଇଟି\RP_CL ଭଦ୍ରାବଲୋକନ\N_NN ଚାରୋଟି\RP_CL ସ୍ତମ୍ଭରେ\N_NN ତିଆରି\N_NNV କରାଯାଇଛି\V_VM_VF ।\RD_PUNC
+htd398	କୁମ୍ଭସ୍ଵାମୀ\N_NNP କିମ୍ବା\CC_CCD କୁମ୍ଭଶ୍ୟାମ\N_NNP ମନ୍ଦିର\N_NN ମୂଖ୍ୟତଃ\RP_INJ ବୈଷ୍ଣବ\N_NNP ମନ୍ଦିର\N_NN ଥିଲା\V_VM_VF ।\RD_PUNC
+htd399	କୀର୍ତ୍ତିସ୍ତମ୍ଭ\N_NNP ପ୍ରଶସ୍ଥି\N_NN ଅନୁଯାୟୀ\N_NN ,\RD_PUNC କୁମ୍ଭସ୍ଵାମୀ\N_NNP କିମ୍ବା\CC_CCD କୂମ୍ଭଶ୍ୟାମ\N_NNP ମନ୍ଦିରର\N_NN ଜୀର୍ଣ୍ଣଦ୍ଵାର\N_NN ନୃପତି\N_NN କୁମ୍ଭକର୍ଣ୍ଣ(ମହାରାଣା\N_NNP କୁମ୍ଭ)ଙ୍କ\N_NNP ଦ୍ଵାରା\PSP କରାଯାଇଥିଲା\V_VM_VNF |\RD_PUNC
+htd400	ମହାରାଣା\N_NNP କୁମ୍ଭଙ୍କ\N_NNP ଦ୍ଵାରା\PSP ଜୀର୍ଣ୍ଣଦ୍ଵାର\JJ କରାଯିବା\N_NNV କାରଣରୁ\CC_CCD ଏହାକୁ\DM_DMD କୁମ୍ଭସ୍ଵାମୀ\N_NNP ଏବଂ\CC_CCD କୁମ୍ଭଶ୍ୟାମ\N_NNP ପରି\PSP ନାମରେ\N_NN ଜଣାଯିବାକୁ\N_NNV ଲାଗିଲା\V_VM_VNF ।\RD_PUNC
+htd401	ଏହି\DM_DMD ମନ୍ଦିର\N_NN କାଳିକା\N_NNP ମାତା\N_NN ମନ୍ଦିରର\N_NN ହିଁ\RP_RPD ସମସାମୟିକ\N_NN ଅଟେ\V_VM_VF ଏବଂ\CC_CCD ଏହାର\DM_DMD ବାସ୍ତୁ\N_NN ଯୋଜନା\N_NN ତଥା\CC_CCD ଶୈଳୀ\N_NN ମଧ୍ୟ\RP_RPD ଏହା\DM_DMD ସହିତ\PSP ମିଶିଯାଉଥିବା\V_VM_VNF ଦେଖିବାକୁ\V_VM_VINF ମିଳେ\V_VM_VF ।\RD_PUNC
+htd402	ଗୋଟିଏ\RP_CL ପଟେ\PSP ଯେଉଁଠି\CC_CCD ମନ୍ଦିରର\N_NN ବାସ୍ତୁ\N_NN ଯୋଜନା\N_NN ,\RD_PUNC ଉନ୍ନତ\N_NN ଏବଂ\CC_CCD ବାହାଘର\N_NNP ମଣ୍ତପ\N_NN ,\RD_PUNC ଅଳଙ୍କରଣ\N_NNV ରହିତ\N_NN ଜଂଘା\N_NN ଏବଂ\CC_CCD ପ୍ରଦକ୍ଷିଣାପଥ\N_NNP ,\RD_PUNC ଗର୍ଭଗୃହର\N_NNP ବାହ୍ୟ\N_NN କୋଣରେ\N_NN ଥିବା\V_VM_VNF ଦେବ\N_NN ପ୍ରତିମାଗୁଡିକ\N_NN ତଥା\CC_CCD ଶେଷରେ\N_NN ଥିବା\V_VM_VNF ଅର୍ଦ୍ଧସ୍ତମ୍ଭର\N_NNP ପ୍ରତିମାଗୁଡ଼ିକ\N_NN ଅଷ୍ଟମ\QT_QTO ଶତାବ୍ଦୀରେ\QT_QTF ନିର୍ମିତ\N_NNV ପ୍ରତୀତ\N_NN ହୋଇଥାଏ\V_VM_VF ,\RD_PUNC ସେହିଠାରେ\CC_CCD ଅନ୍ୟାନ୍ୟ\RP_RPD ଅଳଙ୍କରଣ\N_NN ,\RD_PUNC ସ୍ତମ୍ଭ\N_NN ଉପରେ\N_NST ଥିବା\V_VM_VNF ଟିକା\N_NN ସଭା\N_NN ମଣ୍ତପ\N_NN ଏବଂ\CC_CCD ଶିଖର\N_NN ଉପରେ\N_NST ,\RD_PUNC ଚତୁର୍ଦ୍ଦଶ\QT_QTO ଶତାବ୍ଦୀର\QT_QTF ଜୀର୍ଣ୍ଣଦ୍ଵାର\N_NN ସମୟରେ\N_NN ନିର୍ମିତ\JJ କରାଯାଇଥିବ\V_VM_VF ।\RD_PUNC
+htd403	କୁମ୍ଭସ୍ଵାମୀଙ୍କର\N_NNP ଏହି\DM_DMD ମନ୍ଦିର\N_NN ବିଭିନ୍ନ\N_NN ସମୟରେ\N_NN ନିର୍ମିତ\N_NNV ହୋଇଥିବା\V_VM_VNF କାରଣରୁ\N_NN ,\RD_PUNC ଅନେକ\QT_QTF ବାସ୍ତୁ\N_NN ଶୈଳୀ\N_NN ଏବଂ\CC_CCD ମୂର୍ତ୍ତି\N_NN ଶିଳ୍ପର\N_NN ଉଦାହରଣ\N_NN ସଂଯୋଜିତ\JJ ହୋଇଅଛି\V_VM_VF ।\RD_PUNC
+htd404	ଶ୍ରୀ\N_NN ଢାକିଙ୍କ\N_NNP ଅନୁସାରେ\N_NN ରାଜା\N_NN ମାନଭଙ୍ଗ\N_NNP ହିଁ\RP_RPD ଏହି\DM_DMD ମନ୍ଦିରର\N_NN ମଧ୍ୟ\RP_RPD ନର୍ମାଣ\N_NNV କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd405	ରାଜା\N_NN ମାନଭଙ୍ଗଙ୍କୁ\N_NNP କାଳିକା\N_NNP ମାତା\N_NN ସୂର୍ଯ୍ୟ\N_NNP ମନ୍ଦିର\N_NN ,\RD_PUNC ନିକଟବର୍ତ୍ତୀ\JJ ପୁଷ୍କରିଣୀ\N_NN ତଥା\CC_CCD ତ୍ରିପୁରାବିଜୟ\N_NNP ପ୍ରାସାଦ\N_NN ଆଦି\RP_RPD ନିର୍ମାଣର\N_NN ଶ୍ରେୟ\N_NN ପ୍ରଦାନ\N_NNV କରାଯାଇଛି\V_VM_VF ।\RD_PUNC
+htd406	ଶ୍ରୀ\N_NN ଢାକିଙ୍କ\N_NNP ଅନୁସାରେ\RP_RPD କୀର୍ତ୍ତିସ୍ତମ୍ଭ\N_NNP ପ୍ରଶସ୍ତିର\N_NN କୁମ୍ଭସ୍ଵାମୀନ\N_NNP ଆଲମ୍‌\N_NNP ପ୍ରାଚୀନ\JJ ତ୍ରିପୁର\N_NNP ବିଜୟ\N_NST ହିଁ\RP_RPD ଥିଲା|\V_VM_VF
+htd407	କୁମ୍ଭସ୍ଵାମୀନ\N_NNP ଆଲମ୍‌ର\N_NNP ପ୍ରାଚୀନ\JJ ତ୍ରିପୁର\N_NNP ବିଜୟକୁ\N_NN କୁମ୍ଭା\N_NNP ପୁଣି\CC_CCD ଥରେ\RP_CL ତିଆରି\N_NNV କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd408	ବର୍ତ୍ତମାନ\N_NST କୁମ୍ଭଶ୍ୟାମ\N_NNP ମନ୍ଦିରର\N_NN ସଭାମଣ୍ତପ\N_NN ପୁଣି\CC_CCD ଥରେ\RP_CL ପ୍ରାଚୀନ\JJ ଅବଶେଷ\N_NN ଏବଂ\CC_CCD ନୂତନ\JJ ପ୍ରସ୍ତର\N_NN ଦ୍ଵାରା\PSP ତିଆରି\N_NNV କରାଯାଇଛି\V_VM_VF ।\RD_PUNC
+htd409	ମୂଳ\N_NN ଖଣ୍ତିତ\JJ ଶୈବ\N_NNP ମୂର୍ତ୍ତିଗୁଡିକ\N_NN ସ୍ଥାନରେ\N_NN ନୂଆକରି\V_VM_VNF ବିଷ୍ଣୁ\N_NNP ମୂର୍ତ୍ତି\N_NN ସ୍ଥାପନ\N_NNV କରିଦିଆଯାଇଛି\V_VM_VF ।\RD_PUNC
+htd410	ସୁରକ୍ଷିତ\JJ ଶିବ\N_NNP ମୂର୍ତ୍ତିଗୁଡ଼ିକୁ\N_NN ପୂର୍ବପରି\N_NN ରଖିଦିଆଯାଇଛି\V_VM_VF ।\RD_PUNC
+htd411	ମନ୍ଦିରର\N_NN ପୃଷ୍ଠରେ\N_NN ନିର୍ମିତ\N_NNV ଅଶ୍ଵଧର\N_NNP ,\RD_PUNC ନରଧର\N_NNP ,\RD_PUNC ଗ୍ରାସ\N_NNP ପଟ୍ଟିକାର\N_NN ପୂର୍ଣ୍ଣତା\N_NN ,\RD_PUNC ଅଭାବ\N_NN ଏହାକୁ\DM_DMD ନିଶ୍ଚିତ\N_NN ରୂପରେ\N_NN ଅଷ୍ଟମ\QT_QTO ଶତାବ୍ଦୀର\N_NST ବୋଲି\CC_CCD ନିଶ୍ଚିତ\N_NNV କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd412	କୁମ୍ଭଶ୍ୟାମ\N_NNP ସାଂଧାନ\N_NN ପ୍ରକାରର\N_NN ପୂର୍ବାଭିମୁଖୀ\JJ ପ୍ରାସାଦ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd413	ମନ୍ଦିରର\N_NN ଗର୍ଭଗୃହ\N_NNP ତ୍ରିଅଂଗ\JJ ପ୍ରକାରର\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd414	ଗର୍ଭଗୃହର\N_NNP ପ୍ରତ୍ୟେକ\PR_PRC ଅଙ୍ଗ\N_NN ଗୋଟିଏ\RP_CL ପୁଷ୍କରିଣୀ\N_NN ସହିତ\PSP ସଂଲଗ୍ନ\N_NN ହୋଇଛି\V_VM_VF ।\RD_PUNC
+htd415	ପ୍ରତ୍ୟେକ\PR_PRC କୋଣରେ\N_NN ଦିଗପାଳମାନଙ୍କର\N_NN ପ୍ରତିମାଗୁଡିକ\N_NN ତ୍ରିଭଙ୍ଗୀଠାଣିରେ\N_NN ଠିଆ\V_VM_VNF ହୋଇଛନ୍ତି\V_VM_VF ,\RD_PUNC ଏହା\DM_DMD ଅତି\RP_INTF କମନୀୟ\JJ ଦେଖାଯାଉ\V_VM_VNF ଅଛି\V_VM_VF ।\RD_PUNC
+htd416	ଭଦ୍ରଙ୍କର\N_NNP ରଥଗୁଡ଼ିକର\N_NN ତିନୋଟି\RP_CL ଶାଖା\N_NN ଅଛି-\V_VM_VF ପତ୍ରାବଳି\N_NNP ,\RD_PUNC ନାଗପାଶ\N_NNP ଏବଂ\CC_CCD ରୂପଶାଖା\N_NNP ।\RD_PUNC
+htd417	ଚିତ୍ତୋର\N_NNP ଦୁର୍ଗରେ\N_NN ଥିବା\V_VM_VNF ସମାଧିଶ୍ଵର\N_NNP ମନ୍ଦିରର\N_NN ସ୍ଥାନ\N_NN ମହତ୍ତ୍ଵପୂର୍ଣ୍ଣ\JJ ମନ୍ଦିରଗୁଡିକ\N_NN ମଧ୍ୟରେ\PR_PRC ଅନ୍ୟତମ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd418	ଶିବଙ୍କର\N_NNP ସମାଧିସ୍ଥ\JJ ଅବସ୍ଥା\N_NN ଚିତ୍ତୋରର\N_NNP ଜନ-ଜୀବନରେ\N_NN ଏକ\QT_QTC ମହତ୍ତ୍ଵପୂର୍ଣ୍ଣ\JJ ସ୍ଥାନ\N_NN ଅଧିକାର\N_NN କରିଛି\V_VM_VF ।\RD_PUNC
+htd419	କିଛି\QT_QTF ଅଭିଲେଖ\N_NN ଅନୁସାରେ\N_NN ସମାଧିଶ୍ଵର\N_NNP ମନ୍ଦିରକୁ\N_NN ‘ସମିଧେଶ୍ଵର’\N_NNP ତଥା\CC_CCD ଅପଭ୍ରଂଶ\N_NN ରୂପରେ\N_NN ‘ସମିଧେସୁର’\N_NNP ରୂପରେ\N_NN ମଧ୍ୟ\RP_RPD ପରିଚିତ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd420	ସମାଧିଶ୍ଵର\N_NNP ମନ୍ଦିରର\N_NN ନିର୍ମାଣ\JJ କର୍ତ୍ତା\N_NN ,\RD_PUNC ଅଧିଷ୍ଠାତା\JJ ଦେବ\N_NN ,\RD_PUNC ରଚନାକାଳ\N_NN ତଥା\CC_CCD ନାମକୁ\N_NN ନେଇ\V_VM_VNF ଐତିହାସିକମାନଙ୍କ\N_NN ମଧ୍ୟରେ\PSP ମତଭେଦ\N_NNV ରହିଛି\V_VM_VF ।\RD_PUNC
+htd421	୧୪୨୭\QT_QTC ମସିହାର\N_NN ଏକ\QT_QTC ପ୍ରଶସ୍ତି\N_NN ଅନୁଯାୟୀ\N_NN ମହାରାଜା\N_NN ମୋକଲ\N_NNP ସମାଧିଶ୍ଵର\N_NNP ମନ୍ଦିରର\N_NN ଜୀର୍ଣ୍ଣଦ୍ଵାର\N_NNP ନିର୍ମାଣ\N_NNV କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd422	ସମାଧିଶ୍ଵର\N_NNP ମନ୍ଦିର\N_NN ମୋକଲର\N_NNP ମନ୍ଦିର\N_NN ରୂପରେ\N_NN ମଧ୍ୟ\RP_RPD ପରିଚିତ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd423	କିଛି\QT_QTF ବିଦ୍ଵାନଗଣ\N_NN ଯେମିତି\CC_CCS କି\RP_RPD ଶ୍ରୀ\N_NN ଢାକିଙ୍କ\N_NNP ଅନୁଯାୟୀ\N_NN ,\RD_PUNC ସମାଧିଶ୍ଵର\N_NNP ମନ୍ଦିର\N_NN ଚାଲୁକ୍ୟ\N_NNP କୁମାରପାଳଙ୍କ\N_NNP ଦ୍ଵାରା\PSP ନିର୍ମିତ\N_NNV କୁମାର\N_NNP ବିହାର\N_NNP ଅଟେ\V_VM_VF ।\RD_PUNC
+htd424	ବେଦୀ\N_NNP ବନ୍ଧର\N_NNP ନରଥର\N_NNP ଏବଂ\CC_CCD କୁମ୍ଭକ\N_NNP ତଥା\CC_CCD ଜଙ୍ଘାରେ\N_NNP ଜୈନ\N_NNP ଶାସନକାଳୀନ\JJ ଦେବଦେବୀଙ୍କର\N_NN ଏବଂ\CC_CCD ଯକ୍ଷ-\N_NNP ଯକ୍ଷିଣୀଙ୍କର\N_NNP ମୂର୍ତ୍ତିକୁ\N_NN ଆଧାରକରି\V_VM_VNF ତଥା\CC_CCD ସମାଧିଶ୍ଵର\N_NNP ମନ୍ଦିରର\N_NN ପ୍ରାଙ୍ଗଣରୁ\N_NN ପ୍ରାପ୍ତ\N_NNV କୁମାରପାଲଙ୍କର\N_NNP ୧୧୫୦\QT_QTC ମସିହାର\N_NN ପ୍ରଶାସିତ\JJ ଆଧାର\N_NN ଉପରେ\N_NST ଏହାକୁ\DM_DMD ଜୈନ\N_NNP ମନ୍ଦିର\N_NN ବୋଲି\CC_CCD ମାନିନିଆଯାଇଛି\V_VM_VF ।\RD_PUNC
+htd425	କୁମାରପାଲର\N_NNP ପ୍ରଶସ୍ତିରେ\N_NNP ସେ\DM_DMD ଶୈବ\JJ ଉପାସକ\N_NN ହୋଇଥିବାର\V_VM_VNF ପ୍ରମାଣ\N_NN ମିଳିଥାଏ\V_VM_VF |\RD_PUNC
+htd426	ଯଦ୍ୟପି\CC_CCD ବା\CC_CCD ପରେ\N_NST ୟଶପାଲର\N_NNP ମୋହପରାଜୟ\N_NNP ନାଟକର\N_NN ଅନୁସାରେ\N_NN ୧୧୫୯\QT_QTC ଶକାବ୍ଦ\N_NST (ସଂମ୍ଭବତଃ\RP_INJ ୧୨୧୬\QT_QTC )\RD_PUNC ରେ\PSP କୁମାରପାଲ\N_NNP ଜୈନଧର୍ମ\N_NN ସ୍ଵୀକାର\N_NN କରିନେଇଥିଲେ\V_VM_VF |\RD_PUNC
+htd427	ସମାଧିଶ୍ଵର\N_NNP ମନ୍ଦିରରେ\N_NN ଉପଲବ୍ଧ\N_NNV ଦୃଶ୍ୟର\N_NN ଅଙ୍କନ\N_NNV ସାଧାରଣତଃ\RP_INJ ଜୈନ\N_NN ଏବଂ\CC_CCD ହିନ୍ଦୁ\N_NN ସବୁ\QT_QTF ମନ୍ଦିରରେ\N_NN ପ୍ରାପ୍ତ\N_NNV ହୋଇଥାଏ\V_VM_VF |\RD_PUNC
+htd428	ଉଭୟ\PR_PRC ଧର୍ମର\N_NN ପ୍ରାସାଦ\N_NN ବସ୍ତୁ\N_NN ଏବଂ\CC_CCD ତକ୍ଷକ\N_NN ଗୋଟିଏ\RP_CL ଭାବରେ\N_NN ହିଁ\RP_RPD ରହୁଥିଲା\V_VM_VF ।\RD_PUNC
+htd429	ଏହିପରି\DM_DMD ସମାଧିଶ୍ଵର\N_NNP ମନ୍ଦିର\N_NN ‘କୁମାରପାଲଙ୍କର\N_NNP ବିହାର\N_NN ’\RD_PUNC ନ\RP_NEG ହୋଇ\V_VM_VNF ଏହାର\DM_DMD ଆଦିଅନ୍ତ\N_NN ଶୈବ\JJ ପ୍ରାସାଦ\N_NN ଭାବରେ\N_NN ପ୍ରତୀତ\N_NNV ହେଉଥିଲା\V_VM_VF ।\RD_PUNC
+htd430	ସମାଧିଶ୍ଵର\N_NNP ମନ୍ଦିର\N_NN ଶିବଙ୍କର\N_NNP ମହେଶ\N_NNP ମୂର୍ତ୍ତି\N_NN ଅର୍ଥାତ୍‍\CC_CCD ବାମଦେବ\N_NNP ,\RD_PUNC ସଦ୍ୟଜାତ\JJ ,\RD_PUNC ଭୈରବର\N_NNP ରୂପ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd431	ମୂର୍ତ୍ତିର\N_NN ବିଶାଳତା\JJ ଏବଂ\CC_CCD ସୌନ୍ଦର୍ଯ୍ୟତା\JJ ଅପୂର୍ବ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd432	ଶୈଳୀ\N_NN ଦୃଷ୍ଟିକୋଣରୁ\N_NN ଏହା\DM_DMD ପଞ୍ଚଦଶ\QT_QTC ଶତାବ୍ଦୀ\QT_QTF ପରର\N_NST ପ୍ରତୀକ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd433	ଗର୍ଭଗୃହର\N_NN ଧରାସ୍ଥଳ\N_NN ଗୂଢ଼\JJ ମଣ୍ତପଠାରୁ\N_NN ନିଚା\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd434	ଏପରି\DM_DMD ପ୍ରତୀତ\N_NN ହୋଇଥାଏ\V_VM_VF ଯେ\CC_CCD ଜୀର୍ଣ୍ଣଦ୍ଵାର\N_NN ସମୟରେ\N_NN ଏହାର\DM_DMD ପରିବର୍ତ୍ତନ\N_NN କରାଯାଇଥିଲା\V_VM_VF |\RD_PUNC
+htd435	ଡା.\N_NN ରାମନାଥ\N_NNP ତଥା\CC_CCD ଅନ୍ୟ\N_NN କେତେକ\QT_QTF ବିଦ୍ଵାନ\N_NN ଏହି\DM_DMD ପ୍ରାସାଦକୁ\N_NN ଜାଣିଥିଲେ\V_VM_VF ତଥା\CC_CCD ନିର୍ମାଣ\JJ ସମୟ\N_NN ପରମାର\N_NNP ଶାସକ\N_NN ଭୋଜଙ୍କଦ୍ଵାରା\N_NNP ନିର୍ମିତ\N_NNV ତ୍ରିଭୁବନ\N_NNP ନାରାୟଣଙ୍କ\N_NNP ଦ୍ୱାରା\PSP କରିବାକୁ\V_VM_VINF ପ୍ରୟାସ\N_NNV କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd436	ତାଙ୍କ\PR_PRP ମତାନୁସାରେ\CC_CCD ,\RD_PUNC ଏହି\DM_DMD ମନ୍ଦିର\N_NN ୧୦୧୭-\QT_QTC ୧୦୫୪\QT_QTC ମସିହା\N_NST ରେ\PSP ଭୋଜ\N_NNP ରାଜାଙ୍କ\N_NN ଦ୍ଵାରା\PSP ନିର୍ମିତ\N_NNV କରାଯାଇଥିଲା\V_VM_VF |\RD_PUNC
+htd437	ଏହାର\DM_DMD ଉଲ୍ଲେଖ\N_NN ଚୀରବାରୁ\N_NNP ମିଳିଥିବା\V_VM_VNF ଅଭିଲେଖରେ\N_NN କରାଯାଇଛି\V_VM_VF ।\RD_PUNC
+htd438	କଲ୍ୟାଣପୁର\N_NNP ଉଦୟପୁରର\N_NNP ଦକ୍ଷିଣରେ\N_NN ୭୭\QT_QTC କିଲୋମିଟର\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ଅଟେ\V_VM_VF ତଥା\CC_CCD ଶୈବପୀଠ\N_NNP ରୂପେ\N_NN ଲୋକପ୍ରିୟତା\JJ ଅର୍ଜ୍ଜନ\N_NNV କରିଅଛି\V_VM_VF ।\RD_PUNC
+htd439	ବର୍ତ୍ତମାନ\N_NST ମନ୍ଦିର\N_NN ଅତ୍ୟନ୍ତ\RP_INTF ଜୀର୍ଣ୍ଣ\JJ ଅବସ୍ଥାରେ\N_NN ଅଛି\V_VM_VF |\RD_PUNC
+htd440	ପ୍ରାପ୍ତ\N_NNV ଅଭିଲେଖ\N_NNP ଅନୁଯାୟୀ\CC_CCD ଏହାକୁ\DM_DMD ସପ୍ତମ\QT_QTO ଶତାବ୍ଦୀର\QT_QTF ବୋଲି\CC_CCD ନିର୍ଦ୍ଧାରଣ\N_NNV କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd441	ମନ୍ଦିରର\N_NN ମୂର୍ତ୍ତୀଗୁଡିକ\N_NN କିଛି\QT_QTF ସ୍ୱଚ୍ଛ\N_NN ଦିଶିବା\V_VM_VNF ପାଇଁ\PSP କଳାମୁଗୁନି\N_NNP ପଥରରେ\N_NN ତିଆରି\N_NNV କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd442	ମନ୍ଦିରର\N_NN ମୂର୍ତ୍ତୀଗୁଡିକ\N_NN ବର୍ତ୍ତମାନ\N_NST ପ୍ରତାପ\N_NNP ସଂଗ୍ରହାଳୟ\N_NN ତଥା\CC_CCD ଏମ.ବି.\N_NNP କଲେଜ\N_NN ,\RD_PUNC ଉଦୟପୁରରେ\N_NNP ସଂରକ୍ଷିତ\N_NNV ଅଛି|\V_VM_VF
+htd443	ଆହଡ\N_NNP ମେବାଡ\N_NNP କ୍ଷେତ୍ର\N_NN ମୂର୍ତ୍ତିକଳା\N_NN ଦୃଷ୍ଟିରୁ\N_NN ଏକ\QT_QTC ମହତ୍ତ୍ଵପୂର୍ଣ୍ଣ\JJ କ୍ଷେତ୍ର\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd444	ଏହାର\DM_DMD ପ୍ରଚୀନ\JJ ନାମ\N_NN ଆଘାଟପୁର\N_NNP ,\RD_PUNC ଆଟପୁର\N_NNP ତଥା\CC_CCD ଗଙ୍ଗୋଦ୍ଭେଦ\N_NNP ତୀର୍ଥ\N_NN ରହିଛି\V_VM_VF |\RD_PUNC
+htd445	ଏହା\DM_DMD ନବମ-ଦଶମ\QT_QTO ଶତାବ୍ଦୀରେ\N_NN ବୈଷ୍ଣବ\JJ ସଂପ୍ରଦାୟର\N_NN ଏକ\QT_QTC ପ୍ରମୁଖ\JJ କେନ୍ଦ୍ରସ୍ଥଳୀ\N_NN ଥିଲା\V_VM_VF |\RD_PUNC
+htd446	ଆହଡରୁ\N_NNP ପ୍ରାପ୍ତ\N_NNV ୯୫୩\QT_QTC ଶକାବ୍ଦ\QT_QTF (ସମ୍ଭବତଃ\QT_QTF ୧୦୧୦)\QT_QTC ରେ\PSP ଏକ\QT_QTC ଅଭିଲେଖରୁ\N_NNP ବିଷ୍ଣୁଙ୍କର\N_NNP ମନ୍ଦିର\N_NN ସମ୍ପର୍କରେ\N_NN ଉଲ୍ଲେଖ\N_NNV ଦେଖିବାକୁ\V_VM_VNF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd447	ଆହଡରେ\N_NNP ଜଣେ\RP_CL ବୈଷ୍ଣବ\N_NNP ଭକ୍ତଙ୍କ\N_NN ଦ୍ଵାରା\PSP ଆଦି\RP_RPD ବରାହ\N_NNP ପ୍ରତିମା\N_NN ସ୍ଥାପନ\N_NNV କରାଯାଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd448	ଆହଡରେ\N_NNP ଗୋଟିଏ\RP_CL ସୂର୍ଯ୍ୟ\N_NNP ମନ୍ଦିର\N_NN ମଧ୍ୟ\RP_RPD ଥିଲା\V_VM_VF ।\RD_PUNC
+htd449	ସୂର୍ଯ୍ୟ\N_NNP ମନ୍ଦିରର\N_NN ପ୍ରମାଣ\N_NN ଚତୁର୍ଦ୍ଦଶ\QT_QTO ଦ୍ରମୋଙ୍କ\N_NNP ଦାନର\N_NN ଉଲ୍ଲେଖ\N_NNV କରିବା\V_VM_VNF କଥା\N_NN ଅନ୍ୟ\JJ ଏକ\QT_QTC ଅଭିଲେଖରେ\N_NNP ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd450	ଅନ୍ୟ\N_NN ଏକ\QT_QTC ମନ୍ଦିରରେ\N_NN ବିଷ୍ଣୁଙ୍କର\N_NNP ଲକ୍ଷ୍ମୀନାରାୟଣ\N_NNP ରୂପର\N_NN ପୂଜାର୍ଚ୍ଚନା\N_NNV କରାଯାଇଥାଏ\V_VM_VF ,\RD_PUNC ଯାହା\PR_PRL ଏବେ\N_NST ମୀରାବାଈ\N_NNP ମନ୍ଦିର\N_NN ନାମରେ\N_NN ବେଶ୍‌\RP_INTF ପରିଚିତ\V_VM_VF ।\RD_PUNC
+htd451	ମନ୍ଦିରର\N_NN ବାହ୍ୟ\JJ ଦ୍ଵାରରେ\N_NN ବ୍ରହ୍ମା-ସାବିତ୍ରୀ\N_NNP ,\RD_PUNC ଗରୁଡ଼\N_NNP ଉପରେ\N_NST ବସିଥିବା\V_VM_VNF ଲକ୍ଷ୍ମୀ-ନାରାୟଣ\N_NNP ,\RD_PUNC ନନ୍ଦି\N_NNP ଉପରେ\N_NST ବସିଥିବା\V_VM_VNF ଉମା-ମହେଶ୍ଵର\N_NNP ଆଦି\RP_RPD ପ୍ରତିମାଗୁଡିକ\N_NN ବ୍ୟତୀତ\RP_RPD ମେବାଡରେ\N_NNP ତତ୍‌କାଳୀନ\JJ ସାମାଜିକ\JJ ଜୀବନର\N_NN ଦୃଶ୍ୟକୁ\N_NN ମଧ୍ୟ\RP_RPD ଉପସ୍ଥାପନ\N_NNV କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd452	ଉନବାସ\N_NNP ,\RD_PUNC ଦୁର୍ଗା\N_NNP ମନ୍ଦିର\N_NN ପାଇଁ\PSP ପ୍ରସିଦ୍ଧ\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd453	ଉନବାସ\N_NNP ଉଦୟପୁରରୁ\N_NNP ୪୭\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଥିବା\V_VM_VNF ହଲ୍‌ଦୀଘାଟୀ\N_NNP ନିକଟରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd454	ଜନ-ସାଧାରଣରେ\N_NN ଉନବାସର\N_NNP ଦୁର୍ଗା\N_NNP ମନ୍ଦିର\N_NN ପିପ୍ପଲାଦମାତାଙ୍କର\N_NNP ନାମରେ\N_NN ବିଖ୍ୟାତ\N_NNV ଅଟେ\V_VM_VF |\RD_PUNC
+htd455	ଦଶମ\QT_QTO ଶତବ୍ଦୀରେ\N_NN ନିର୍ମିତ\N_NNV ଉନବାସର\N_NNP ଦୁର୍ଗା\N_NNP ମନ୍ଦିର\N_NN ଜଗତର\N_NN ଅମ୍ବିକା\N_NNP ମନ୍ଦିରର\N_NN ସମକାଳୀନ\N_NN ଅଟେ\V_VM_VF ଏବଂ\CC_CCD ଏହା\DM_DMD ଏକ\QT_QTC ଗୁହିଳ\N_NN ଶାସକ\N_NN ଅଲ୍ଲଟଙ୍କର\N_NNP ରାଜ୍ୟକାଳରେ\N_NN ନିର୍ମିତ\N_NNV ହୋଇଥିବାର\V_VM_VNF ସୂଚନା\N_NN ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd456	ଉନବାସର\N_NNP ଦୁର୍ଗା\N_NNP ମନ୍ଦିରର\N_NN ଗଣନା\N_NN ମାତୃପୂଜା\N_NN ପରମ୍ପରାର\N_NN ଅନ୍ତର୍ଗତ\PSP ଝାଲରାପାଟନ\N_NNP ତଥା\CC_CCD ଜଗତର\N_NNP ମନ୍ଦିର\N_NN ସମୂହ\QT_QTF ମଧ୍ୟରେ\PSP କରାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd457	ଝାଲରପାଟନ\N_NNP ତଥା\CC_CCD ଜଗତର\N_NNP ମନ୍ଦିର\N_NN ସମୁହରେ\QT_QTF ମଧ୍ୟ\RP_RPD ଏକାନ୍ତିକ\JJ ରୂପରେ\N_NN ଶକ୍ତିର\N_NN ଯେକୌଣସି\RP_RPD ରୂପ\N_NN ହିଁ\RP_RPD ପୂଜା\N_NNV କରାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd458	ଏଥିରେ\DM_DMD ଦୁର୍ଗାଙ୍କର\N_NNP ମହିଷାମର୍ଦ୍ଦିନୀ\N_NNP ସ୍ଵରୂପକୁ\N_NN ଶାନ୍ତ\N_NN ଓ\CC_CCD ସୌନ୍ଦର୍ଯ୍ୟମୟ\N_NN ରୂପର\N_NN ଦିବ୍ୟତାକୁ\N_NN ପ୍ରସ୍ତୁତ\N_NNV କରାଯାଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd459	ମୂର୍ତ୍ତିକଳା\N_NNP ଅପେକ୍ଷା\RP_RPD ବାସ୍ତୁକଳାର\N_NNP ଅଭିପ୍ରାୟ\N_NN ସମ୍ବଳିତ\N_NN ବିକାଶର\N_NN ଅଧ୍ୟୟନ\N_NN ପାଇଁ\PSP ଉନବାସର\N_NNP ଉପରୋକ୍ତ\DM_DMR ମନ୍ଦିର\N_NN ଅଧିକ\RP_INTF ମହତ୍ତ୍ଵପୂର୍ଣ୍ଣ\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd460	ମନ୍ଦିରର\N_NN ପୃଷ୍ଠପଟ୍ଟିକାରେ\N_NNP ଅଳଙ୍କରଣାତ୍ମକ\JJ ଅଭିପ୍ରାୟଗୁଡିକର\N_NN ଏହି\DM_DMD ମନ୍ଦିରରେ\N_NN ଅଭାବ\RP_NEG ରହିଛି\V_VM_VF ।\RD_PUNC
+htd461	ଉଦୟପୁରରୁ\N_NNP ୪୨\QT_QTC କିଲୋମିଟର\QT_QTF ଦୂରରେ\RB ଅବସ୍ଥିତ\N_NNV ବିଶ୍ୱବିଖ୍ୟାତ\JJ ଅମ୍ବିକା\N_NNP ମନ୍ଦିର\N_NN ପାଇଁ\PSP ଚିରପରିଚିତ\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd462	ଏହି\DM_DMD ମନ୍ଦିର\N_NN ସମୂହର\QT_QTF ତିନୋଟି\RP_CL ପ୍ରମୁଖ\JJ ଅଂଶ\N_NN ଅଛି-\V_VM_VF ସଭାମଣ୍ତପ\N_NNP ,\RD_PUNC ମୁଖ୍ୟ\JJ ମନ୍ଦିର\N_NN ତଥା\CC_CCD ମୁଖ୍ୟ\JJ ମନ୍ଦିରର\N_NN ଜଳ\N_NNP ପ୍ରଣାଳିକା\N_NN ଉପରେ\PSP ନିର୍ମିତ\V_VM_VNF ହୋଇଥିବା\V_VM_VNF ଛୋଟ\QT_QTF ମନ୍ଦିର\N_NN ।\RD_PUNC
+htd463	ସଭାମଣ୍ତପର\N_NNP ଉପଯୋଗ\N_NNV ଦେବୀଙ୍କ\N_NN ଉପଲକ୍ଷରେ\PSP ନୃତ୍ୟ\N_NN ଗୀତ\N_NN ଆଦି\QT_QTF ସଭାଗୁଡିକ\N_NN ପାଇଁ\PSP ହୋଇଥାଇପାରେ\V_VM_VF ।\RD_PUNC
+htd464	ପ୍ରବେଶ\N_NN ଦ୍ଵାରରେ\N_NN ଉଭୟ\PR_PRC ସ୍ତମ୍ଭ\N_NN ମଧ୍ୟ\RP_RPD ପ୍ରାୟତଃ\RP_INJ ସମାପ୍ତ\N_NN ହୋଇସାରିଛି\V_VM_VF ।\RD_PUNC
+htd465	ଏହି\DM_DMD ସ୍ତମ୍ଭର\N_NN ଉପରି\PSP ଭାଗରେ\N_NN ପଦ୍ମ\N_NNP ଉପରେ\PSP ଠିଆ\N_NN ହୋଇଥିବା\V_VM_VNF ଅଳସକନ୍ୟାର\N_NNP ପ୍ରତିମା\N_NN ଅଙ୍କିତ\N_NNV ହୋଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd466	ପୀଠିକାର\N_NNP ଉତ୍କୀର୍ଣ୍ଣ\N_NN ଅଭିପ୍ରାୟ\N_NN ଅଦ୍ୟାବଧି\N_NST ସୁରକ୍ଷିତ\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd467	ଉଦୟପୁରରୁ\N_NNP ୨୭\QT_QTC କିଲୋମିଟର\QT_QTF ଦୂରରେ\RB ଅବସ୍ଥିତ\V_VM_VF ନାଗଦା\N_NNP ଗୁହିଲ\JJ ଶାସକମାନଙ୍କର\N_NN ପ୍ରାଚୀନ\JJ ରାଜଧାନୀ\N_NN ରହିଆସିଛି\V_VM_VF ।\RD_PUNC
+htd468	୬୬୧\QT_QTC ଶକାବ୍ଦ\N_NN (ସଂମ୍ଭବତଃ-୭୧୮)ର\N_NN ଅଭିଲେଖ\N_NNP ଏହି\DM_DMD ସ୍ଥାନର\N_NN ପ୍ରାଚୀନତାକୁ\JJ ପ୍ରମାଣ\N_NN କରିଥାଏ\V_VM_VF ,\RD_PUNC ସେଠାକାର\DM_DMD ପୁରାତାତ୍ତ୍ଵିକ\JJ ସାମଗ୍ରୀର\N_NN ଶୈଳୀକୁ\N_NN ଆଧାର\N_NN ସ୍ୱରୂପ\N_NN ନେଲେ\V_VM_VF ଏହା\DM_DMD ସେତେ\CC_CCS ପ୍ରାଚୀନ\N_NN ପ୍ରତୀତ\N_NN ହୋଇନଥାଏ\V_VM_VF ।\RD_PUNC
+htd469	ସମ୍ଭବତଃ\RP_INJ ,\RD_PUNC ପ୍ରାଚୀନ\JJ ସ୍ମାରକୀ\N_NN ସମୟ\N_NN ସହିତ\PSP ନଷ୍ଟ\N_NN ହୋଇଯାଇଥିବ\V_VM_VF ।\RD_PUNC
+htd470	ସାସ୍‌\N_NNP ମନ୍ଦିର\N_NN ଆକାରରେ\N_NN ବଡ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd471	ଗୁହିଲ\N_NNP ଶାସକମାନେ\N_NN ସୂର୍ଯ୍ୟବଂଶୀ\N_NNP ହୋଇଥିବା\V_VM_VNF କାରଣରୁ\N_NNV ବାଗଦାର\N_NNP ଏହି\DM_DMD ମନ୍ଦିର\N_NN ବିଷ୍ଣୁଙ୍କୁ\N_NNP ସମର୍ପିତ\N_NNV କରାଯାଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd472	ଗର୍ଭଗୃହର\N_NNP ପୃଷ୍ଠଭାଗର\N_NST ପ୍ରମୁଖ\JJ ଦ୍ଵାରରେ\N_NN ଏକ\QT_QTC ଚର୍ତୁଭୁଜ\JJ ବିଷ୍ଣୁ\N_NNP ପ୍ରତିମା\N_NN ପ୍ରତିଷ୍ଠା\N_NN କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd473	ଉଭୟ\PR_PRC ମନ୍ଦିରର\N_NN ବାହ୍ୟ\JJ ଭାଗରେ\N_NN ଶୃଙ୍ଗାର-ରତ\JJ ନର-ନାରୀମାନଙ୍କ\N_NN ଚିତ୍ର\N_NN ଅଙ୍କିତ\N_NNV କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd474	ସାସ୍‌\N_NNP ମନ୍ଦିରର\N_NN ଡାହଣପଟେ\N_NST ଥିବା\V_VM_VNF କୋଣରେ\N_NN ଏକ\QT_QTC ଶକ୍ତି\N_NNP ମନ୍ଦିର\N_NN ନିର୍ମିତ\N_NNV ହୋଇଛି\V_VM_VF ,\RD_PUNC ଯେଉଁଠାରେ\PR_PRL ଶକ୍ତିର\N_NN ବିବିଧ\QT_QTF ରୂପଗୁଡିକୁ\N_NN ଅଙ୍କନ\N_NNV କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd475	ନାଗଦା\N_NNP ପାଖରେ\N_NST ଥିବା\V_VM_VNF ଅନ୍ୟାନ୍ୟ\QT_QTF ମନ୍ଦିର\N_NN ସମୂହ\QT_QTF ଏକଲିଙ୍ଗ\N_NNP ବା\CC_CCD କୈଳାସପୁରୀ\N_NNP ନାମରେ\N_NN ଜଣାଶୁଣା\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd476	ନାଗ୍‌ଦାର\N_NNP ଲକୁଳୀଶ\N_NNP ମନ୍ଦିରରୁ\N_NN ପ୍ରାପ୍ତ\N_NNV ଶିଳାଲେଖ\N_NNP ୧୭୧\QT_QTC ଶକାବ୍ଦର\QT_QTF ଅଟେ\V_VM_VF ଏବଂ\CC_CCD ଏହା\DM_DMD ସର୍ବାଧିକ\RP_INTF ପ୍ରାଚୀନ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd477	ଅନ୍ୟାନ୍ୟ\QT_QTF ମନ୍ଦିର\N_NN ଦ୍ୱାଦଶ\QT_QTO ଶତାବ୍ଦୀର\QT_QTF ଅଟେ\V_VM_VF ।\RD_PUNC
+htd478	ଟୁସ୍‌\N_NNP ଉଦୟପୁରର\N_NNP ପାଖାପାଖି\JJ ବେଡଚ\N_NN ନଦୀର\N_NN ତଟରେ\N_NN ଅବସ୍ଥିତ\V_VM_VF ଅଟେ\V_VM_VF ତଥା\CC_CCD ଏଠାକାର\DM_DMD ସୂର୍ଯ୍ୟ\N_NNP ମନ୍ଦିର\N_NN ମୂର୍ତ୍ତିକଳା\N_NN ପରମ୍ପରାର\N_NN ଅଧ୍ୟୟନ\N_NN କ୍ଷେତ୍ରରେ\N_NN ବିଶେଷ\RP_INTF ମହତ୍ତ୍ଵ\N_NN ରଖିଥାଏ\V_VM_VF ।\RD_PUNC
+htd479	ବୈଷ୍ଣବ\N_NNP ସଂପ୍ରଦାୟ\N_NN ତୁଳନାରେ\N_NN ମେବାଡ\N_NNP କ୍ଷେତ୍ରରେ\N_NN ସୂର୍ଯ୍ୟପୂଜାର\N_NNP କମ୍‍\QT_QTF ପ୍ରଚଳନ\N_NNV ଥିଲା\V_VM_VF |\RD_PUNC
+htd480	ପଶ୍ଚିମ\N_NNP ସୀମାରେ\N_NN ଆରବ\N_NNP ସାଗର\N_NN ଏବଂ\CC_CCD ସହ୍ୟାଦ୍ରି\N_NNP ପର୍ବତ\N_NN ଶୃଙ୍ଖଳା\N_NN ମଧ୍ୟରେ\PR_PRC ଅବସ୍ଥିତ\V_VM_VF ଏକ\QT_QTC ସୌନ୍ଦର୍ଯ୍ୟମୟ\JJ ଭୂଭାଗ\N_NN କେରଳ\N_NNP ନାମରେ\N_NN ପରିଚିତ\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd481	କେରଳ\N_NNP ରାଜ୍ୟର\N_NN କ୍ଷେତ୍ରଫଳ\N_NN ୩୮୮୬୩\QT_QTC ବର୍ଗ\N_NN କିଲୋମିଟର\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd482	କେରଳରେ\N_NNP ମାଲାୟାଲମ୍‌\N_NNP ଭାଷା\N_NN କୁହାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd483	ନିଜସ୍ୱ\PR_PRF ସଂସ୍କୃତି\N_NN ଏବଂ\CC_CCD ଭାଷା\N_NN ବୈଶିଷ୍ଟ୍ୟ\N_NN କାରଣରୁ\N_NN ପରିଚିତ\N_NN ଲାଭକରୁଥିବା\V_VM_VNF ଭାରତର\N_NNP ଦକ୍ଷିଣରେ\N_NST ଅବସ୍ଥିତ\JJ ଚାରିଗୋଟି\RP_CL ରାଜ୍ୟ\N_NN ମଧ୍ୟରୁ\PR_PRC କେରଳ\N_NNP ପ୍ରମୁଖ\JJ ସ୍ଥାନ\N_NN ଲାଭ\N_NN କରିଅଛି\V_VM_VF ।\RD_PUNC
+htd484	କେରଳର\N_NNP ପ୍ରମୁଖ\JJ ପଡୋଶୀ\N_NN ରାଜ୍ୟ\N_NN ତାମିଲ୍‌ନାଡୁ\N_NNP ଏବଂ\CC_CCD କର୍ଣ୍ଣାଟକ\N_NNP ଅଟେ\V_VM_VF |\RD_PUNC
+htd485	ପଣ୍ତିଚେରୀ\N_NNP (ପୁଡୁଚେରୀ)\N_NNP ରାଜ୍ୟର\N_NN ମାୟଷି(ମାହି)\N_NNP ନାମରେ\N_NN ପରିଚିତ\N_NN ଭୂଭାଗ\N_NN ମଧ୍ୟ\RP_RPD କେରଳରାଜ୍ୟ\N_NNP ମଧ୍ୟରେ\PR_PRC ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd486	ଆରବସାଗର\N_NNP ମଧ୍ୟରେ\PR_PRC ଅବସ୍ଥିତ\JJ କେନ୍ଦ୍ରଶାସିତ\JJ ଅଞ୍ଚଳ\N_NN ଲାକ୍ଷାଦ୍ୱୀପରେ\N_NNP ମଧ୍ୟ\RP_RPD ଭାଷା\N_NN ଏବଂ\CC_CCD ସଂସ୍କୃତି\N_NN ଦୃଷ୍ଟିକୋଣରୁ\N_NN କେରଳ\N_NNP ସହିତ\PSP ଅତୁଟ\JJ ସମ୍ବନ୍ଧ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd487	ସ୍ୱାଧୀନତା\N_NN ପ୍ରାପ୍ତି\N_NNV ପୂର୍ବରୁ\PSP କେରଳରେ\N_NNP ରାଜାମାନଙ୍କର\N_NN ଶାସନ\N_NN ଥିଲା\V_VM_VF ।\RD_PUNC
+htd488	ଜୁଲାଇମାସ\N_NNP ୧୯୪୯\QT_QTC ମସିହାରେ\N_NN ତୀରୁବିନ୍ତାକୁର\N_NNP ଏବଂ\CC_CCD କୋଚିନ୍‌ଅଞ୍ଚଳକୁ\N_NNP ମିଶାଇଦେଇ\V_VM_VNF ,\RD_PUNC ‘ତୀରୁକୋଚି\N_NNP ’\RD_PUNC ରାଜ୍ୟର\N_NN ଗଠନ\N_NNV କରାଗଲା\V_VM_VF ।\RD_PUNC
+htd489	ଏହି\DM_DMD ସମୟରେ\N_NN ମାଲ୍‌ବାର\N_NNP ପ୍ରଦେଶ\N_NN ମାଡ୍ରାସ୍‌\N_NNP ରାଜ୍ୟ\N_NN (ବର୍ତ୍ତମାନର\N_NST ତାମିଲନାଡୁ)ର\N_NNP ଏକ\QT_QTC ଜିଲ୍ଲା\N_NN ମାତ୍ର\CC_CCS ଥିଲା\V_VM_VF ।\RD_PUNC
+htd490	୧୯୫୬\QT_QTC ମସିହା\N_NN ନଭେମ୍ବର\N_NNP ମାସରେ\N_NN ତୀରୁକୋଚି\N_NNP ସହିତ\PSP ମାଲ୍‌ବାର\N_NNP କୁ\PSP ମଧ୍ୟ\RP_RPD ମିଶାଇଦିଆଗଲା\V_VM_VF ଏବଂ\CC_CCD ଏହିପରି\DM_DMD ବର୍ତ୍ତମାନ\N_NST କେରଳ\N_NNP ଜନ୍ମଲାଭ\N_NN କରିଅଛି\V_VM_VF ।\RD_PUNC
+htd491	ଏହିପରି\DM_DMD ଭାବରେ\N_NN ‘ଐକ୍ୟକେରଳ\CC_CCS_UT ’\RD_PUNC ଗଠନ\N_NNV ଦ୍ଵାରା\PSP ଏହି\DM_DMD ଭୂଖଣ୍ଡ\N_NN ବାସୀଙ୍କର\N_NN ଦୀର୍ଘକାଳୀନ\JJ ଅଭିଳାଷ\N_NN ପୂର୍ଣ୍ଣ\N_NN ହୋଇଛି\V_VM_VF ।\RD_PUNC
+htd492	କେରଳ\N_NNP ନିଜର\PR_PRF ପ୍ରାଚୀନ\JJ ଇତିହାସ\N_NN ,\RD_PUNC ଦୀର୍ଘକାଳୀନ\JJ ବୈଦେଶିକ\JJ ବ୍ୟାପାରିକ\JJ ସମ୍ବନ୍ଧ\N_NN ଏବଂ\CC_CCD ବିଜ୍ଞାନ\N_NN ଏବଂ\CC_CCD କଳାର\N_NN ସମୃଦ୍ଧି\N_NN ପରମ୍ପରା\N_NN କୁ\PSP ନେଇ\V_VM_VNF ଗର୍ବ\N_NN କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd493	ସାକ୍ଷରତା\N_NN ଦୃଷ୍ଟିକୋଣରୁ\N_NN ସମଗ୍ର\N_NN ଦେଶରେ\N_NN କେରଳର\N_NNP ଏକ\QT_QTC ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ\JJ ସ୍ଥାନ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd494	ସାମାଜିକ\JJ ନ୍ୟାୟ\N_NN ,\RD_PUNC ସ୍ଵାସ୍ଥ୍ୟ-ସ୍ତର\N_NN ,\RD_PUNC ସ୍ତ୍ରୀ-ପୁରୁଷ\N_NNP ସମାନତା\JJ ଏବଂ\CC_CCD ନ୍ୟାୟର\N_NN ପାଳନ\N_NNV ,\RD_PUNC ଶିକ୍ଷା\N_NN ଆଦି\RP_RPD କ୍ଷେତ୍ରରେ\N_NN କେରଳର\N_NNP ପ୍ରମୁଖ\JJ ସ୍ଥାନ\N_NN ଅଧିକାର\N_NN କରିଛି\V_VM_VF ।\RD_PUNC
+htd495	ସବୁଠାରୁ\RP_INTF ମହତ୍ତ୍ଵପୁର୍ଣ୍ଣ\JJ କଥା\N_NN ଏହା\DM_DMD ଅଟେ\V_VM_VF ଯେ\CC_CCD କି\CC_CCD ଶିଶୁ-\N_NN ମୃତ୍ୟୁ-ହାର\N_NN କେରଳରେ\N_NNP ସବୁଠାରୁ\RP_INTF କମ୍‍\QT_QTF ଅଟେ\V_VM_VF ।\RD_PUNC
+htd496	ଅଧିକ\QT_QTF ବର୍ଷା\N_NN କାରଣରୁ\N_NN କେରଳ\N_NNP ପ୍ରଦେଶର\N_NN ଜଳସମ୍ପଦ\N_NN ସମୃଦ୍ଧ\N_NN ଅଟେ\V_VM_VF ଏବଂ\CC_CCD ଏଠାକାର\DM_DMD ଭୂମି\N_NN ସଦାସର୍ବଦା\N_NN ସବୁଜିମାରେ\JJ ପରିପୂର୍ଣ୍ଣ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd497	ଉତ୍କୃଷ୍ଟ\JJ ଜଳବାୟୁ\N_NN ,\RD_PUNC ଯାତାୟାତର\N_NN ଉତ୍ତମ\JJ ସୁବିଧା\N_NN ଏବଂ\CC_CCD ସମୃଦ୍ଧ\JJ ସାଂସ୍କୃତିକ\JJ ପରମ୍ପରାଗୁଡିକ\N_NN କାରଣରୁ\N_NN କେରଳ\N_NNP ରାଜ୍ୟ\N_NN ପର୍ଯ୍ୟଟକମାନଙ୍କ\N_NN ମଧ୍ୟରେ\PR_PRC ଲୋକପ୍ରିୟ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd498	ଏତିକି\QT_QTF ନୁହେଁ,\RP_NEG କେରଳର\N_NNP ଅନ୍ୟତମ\JJ ବିଶେଷତ୍ୱ\N_NN ରହିଛି,\V_VM_VF ତାହା\DM_DMD ହେଉଛି\V_VM_VF ପ୍ରବୁଦ୍ଧ\JJ ରାଜନୈତିକ\JJ ଚେତନା,\N_NN ସଂଚାର\N_NNV ମାଧ୍ୟମର\N_NN ପ୍ରଭାବ,\N_NN ଅନ୍ୟ\RP_CL ସଂସ୍କୃତିକୁ\N_NN ଆତ୍ମସାତ\N_NN କରିବାର\V_VM_VNF କ୍ଷମତା\N_NN ଇତ୍ୟାଦି।\RP_RPD
+htd499	ଧାର୍ମିକ\JJ ସୌହାର୍ଦ୍ଧ୍ୟ\N_NN ପାଇଁ\PSP ପ୍ରସିଦ୍ଧ\N_NN କେରଳ\N_NN ବହୁବିଧ\JJ ସାଂସ୍କୃତିକ\JJ ଚେତନାର\N_NN ସଂଗମସ୍ଥଳୀ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd500	କେରଳ\N_NNP ଶବ୍ଦର\N_NN ବ୍ୟୁତ୍ପତ୍ତିକୁ\N_NN ନେଇ\V_VM_VNF ବିଦ୍ଵାନ\JJ ଲୋକମାନେ\N_NN ଏକମତ\N_NN ନୁହଁନ୍ତି\RP_NEG ।\RD_PUNC
+htd501	କୁହାଯାଏ\V_VM_VF ଯେ\CC_CCD କି\CC_CCD ‘ଉତ୍ପତ୍ତି-ସ୍ଥଳ’\CC_CCS_UT ,\RD_PUNC ‘କିଚଡ’\N_NNP ଏବଂ\CC_CCD ‘ଅଲମ୍‌-ପ୍ରଦେଶ’\N_NNP ଶଦ୍ଦର\N_NN ଯୋଗରେ\N_NN କେରଳ\N_NNP ଶବ୍ଦର\N_NN ଉତ୍ପତ୍ତି\N_NN ହୋଇଛି\V_VM_VF ।\RD_PUNC
+htd502	କେରଳ\N_NNP ଶବ୍ଦର\N_NN ଆଉ\CC_CCD ଏକ\QT_QTC ଅର୍ଥ\N_NN ରହିଛି\V_VM_VF :-\N_NN ସେହି\DM_DMD ଭୂଭାଗ\N_NN ଯାହା\PR_PRL ସମୁଦ୍ରରୁ\N_NN ବାହାରିଥିବ\V_VM_VF ।\RD_PUNC
+htd503	ସମୁଦ୍ର\N_NN ଏବଂ\CC_CCD ପର୍ବତର\N_NN ସଙ୍ଗମ\JJ ସ୍ଥାନକୁ\N_NN ମଧ୍ୟ\RP_RPD କେରଳ\N_NNP କୁହାଯାଏ\V_VM_VF ।\RD_PUNC
+htd504	ପ୍ରାଚୀନ\JJ ବିଦେଶୀ\JJ ଯାଯାବରମାନେ\N_NN ଏହି\DM_DMD ସ୍ଥଳକୁ\N_NN `ମଲ୍‌ବାର`\N_NNP ନାମରେ\N_NN ମଧ୍ୟ\RP_RPD ସମ୍ବୋଧିତ\JJ କରିଥାଆନ୍ତି\V_VM_VF ।\RD_PUNC
+htd505	କେରଳ\N_NNP ସଂସ୍କୃତି\N_NN ହଜାରହଜାର\QT_QTC ବର୍ଷର\N_NN ପୁରୁଣା\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd506	ପ୍ରାରମ୍ଭରେ\N_NN ଲୋକେ\N_NN ପାହାଡିଆ\JJ ଅଞ୍ଚଳରେ\N_NN ରହୁଥିଲେ\V_VM_VF ।\RD_PUNC
+htd507	କେରଳର\N_NNP କିଛି\QT_QTF ଭାଗରେ\N_NN ପ୍ରାଚୀନ\JJ ପ୍ରସ୍ତର\JJ ଯୁଗର\N_NN କତିପୟ\JJ ଅବଶେଷ\N_NN ପ୍ରାପ୍ତ\N_NNV ହୋଇଅଛି\V_VM_VF ।\RD_PUNC
+htd508	ପ୍ରାଚୀନ\JJ ଅବଶେଷ\N_NN ବ୍ୟତୀତ\PSP ମହାପ୍ରସ୍ତର\JJ ସ୍ମାରକୀ\N_NN ମଧ୍ୟ\RP_RPD କେରଳରେ\N_NNP ମାନବ\N_NN ଜୀବନର\N_NN ପ୍ରାମାଣିକ\JJ ସୂଚନା\N_NN ପ୍ରଦାନ\N_NNV କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd509	ଏହା\DM_DMD ଅଧିକାଂଶ\QT_QTF ଶ୍ମଶାନରୂପେ\N_NN ପ୍ରାପ୍ତ\N_NNV ହୋଇଥାଏ\V_VM_VF |\RD_PUNC
+htd510	ଏଠାରେ\DM_DMD ପ୍ରାଚୀନ\JJ ମହାପ୍ରସ୍ତର\JJ ସମୟର\N_NN ଅନେକ\QT_QTF ଶ୍ମଶାନସ୍ଥଳୀ\N_NN ଖୋଜାଯାଇଅଛି\V_VM_VF ଯେଉଁଥିରୁ\PR_PRL କୂଣ୍ତକ୍କଲ୍ଲୁ\N_NNP (ଛତ୍ରାକାର\JJ ଶିଳାସମୂହ)\N_NN ,\RD_PUNC ତୋପ୍ପିକ୍କଲ୍ଲୁ\N_NNP (ଟୋପିନୁମା\N_NNP ଶିଳାସମୂହ)\N_NN ,\RD_PUNC କଲ୍ମେଶା\N_NNP (ପଥରରେ\N_NN ତିଆରି\N_NN ମେଜ)\N_NN ,\RD_PUNC ମୁନିୟରା\N_NNP (ମୁନିମାନଙ୍କର\N_NN କୋଠରୀ)\N_NN ,\RD_PUNC ନନ୍ନଝାଡି\N_NNP ଭସ୍ମକୁମ୍ଭ)\N_NNP ଆଦି\RP_RPD ନାମରେ\N_NN ଜଣାଶୁଣା\N_NN ।\RD_PUNC
+htd511	ଏହାର\DM_DMD ସମୟ\N_NN ଖ୍ରୀ.ପୂ.୫୦୦ରୁ\QT_QTC ଖ୍ରୀ.ପୂ.୩୦୦\QT_QTC ପର୍ଯ୍ୟନ୍ତ\PSP ବୋଲି\CC_CCD ଗ୍ରହଣ\N_NN କରାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd512	ଅଧିକାଂଶ\JJ ଭାବେ\N_NN ମହାପ୍ରସ୍ତର\N_NNP ଯୁଗୀୟ\JJ ସ୍ମାରକୀ\N_NN ସମୂହ\QT_QTF ପାହାଡିଆ\JJ କ୍ଷେତ୍ରରୁ\N_NN ପ୍ରାପ୍ତ\N_NNV ହୋଇଅଛି\V_VM_VF ।\RD_PUNC
+htd513	ତେଣୁ\CC_CCD ଏହା\DM_DMD ପ୍ରମାଣିତ\JJ ହୋଇଛି\V_VM_VF ଯେ\CC_CCS କେରଳ\N_NNP ଅତିପ୍ରାଚୀନ\JJ ସମୟରେ\N_NN ମାନବର\N_NN ବାସଭୂମି\N_NN ଥିଲା\V_VM_VF ।\RD_PUNC
+htd514	କେରଳରେ\N_NNP ଆବାସକେନ୍ଦ୍ରର\N_NN ବିକାଶର\N_NN ଦ୍ୱିତୀୟ\QT_QTO ସୋପାନର\N_NN ସଙ୍ଗମକାଳ\N_NN ବୋଲି\CC_CCD ଗ୍ରହଣ\N_NNV କରାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd515	ଏହା\DM_DMD ହିଁ\RP_RPD ପ୍ରାଚୀନ\JJ ତାମିଲ୍‌\N_NNP ସାହିତ୍ୟର\N_NN ନିର୍ମାଣ\N_NN ସମୟ\N_NN ଥିଲା\V_VM_VF ।\RD_PUNC
+htd516	ସଙ୍ଗମକାଳ\N_NN ୩୦୦\QT_QTC ମସିହାରୁ\N_NN ୮୦୦\QT_QTC ମସିହା\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ତିଷ୍ଠି\N_NNV ରହିଥିଲା\V_VM_VF ।\RD_PUNC
+htd517	ଏହି\DM_DMD ସମୟ\N_NN ମଧ୍ୟରେ\PR_PRC ଭାରତର\N_NNP ଅନ୍ୟାନ୍ୟ\N_NN ପ୍ରାନ୍ତରୁ\N_NN ମଧ୍ୟ\RP_RPD ଲୋକମାନେ\N_NN ଆସି\V_VM_VNF କେରଳରେ\N_NNP ବସବାସ\N_NN କରିବାକୁ\V_VM_VINF ଲାଗିଲେ\V_VM_VF ,\RD_PUNC ଏହାଦ୍ୱାରା\CC_CCD ବୌଦ୍ଧ\N_NN ଏବଂ\CC_CCD ଜୈନ\N_NN ଧର୍ମର\N_NN ପ୍ରଚାର\N_NNV ହୋଇପାରିଲା\V_VM_VF ।\RD_PUNC
+htd518	ବ୍ରାହ୍ମଣମାନଙ୍କର\N_NNP ଆଗମନ\N_NNV ମଧ୍ୟ\RP_RPD ଏହି\DM_DMD ସମୟରେ\N_NN ହୋଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd519	ଏହି\DM_DMD ସମୟରେ\N_NST କେରଳର\N_NNP ବିଭିନ୍ନ\QT_QTF କ୍ଷେତ୍ରରେ\N_NN ବ୍ରାହ୍ମଣମାନଙ୍କର\N_NNP ମୋଟ\QT_QTF ମିଶାଇ\V_VM_VNF ୬୪ଟି\RP_CL ବସ୍ତି\N_NN ଥିଲା\V_VM_VF ।\RD_PUNC
+htd520	ପ୍ରଥମ\QT_QTO ଶତାବ୍ଦୀ\QT_QTF ମଧ୍ୟରେ\PSP କେରଳରେ\N_NNP ଈସାଈ\N_NNP ଧର୍ମ\N_NN ମଧ୍ୟ\RP_RPD ପହଞ୍ଚି\V_VM_VNF ଯାଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd521	ଖ୍ରୀଷ୍ଟପୂର୍ବ\N_NST ୩୪୫ରେ\QT_QTC କାନୟିର\N_NNP ଥାମସ୍‌ଙ୍କ\N_NN ନେତୃତ୍ଵରେ\N_NNV ପଶ୍ଚିମ\JJ ଏସିଆରେ\N_NNP ସାତଗୋଟି\QT_QTC ଅଞ୍ଚଳରୁ\N_NN ୪୦୦\QT_QTC ଈସାଈ\N_NNP ଧର୍ମାବଲମ୍ବୀ\JJ କେରଳଆସି\N_NNP ବସତି\N_NNV ସ୍ଥାପନ\N_NNV କଲେ\V_VM_VF ।\RD_PUNC
+htd522	ପଶ୍ଚିମ\JJ ଏସିଆରେ\N_NNP ସାତଗୋଟି\QT_QTC ଅଞ୍ଚଳ\N_NN ମଧ୍ୟରୁ\PR_PRC କେରଳରୁ\N_NNP ହିଁ\RP_RPD ଈସାଈ\N_NNP ଧର୍ମ\N_NN ପ୍ରଚାରର\N_NN ସାମର୍ଥ୍ୟ\N_NNV ମିଳିପାରିଲା\V_VM_VF ।\RD_PUNC
+htd523	ଅଷ୍ଟମ\QT_QTO ଶତାବ୍ଦୀ\QT_QTF ବେଳକୁ\N_NN ହିଁ\RP_RPD କେରଳ\N_NNP ବାସୀ\N_NN ଇସଲାମ୍‌\N_NNP ଧର୍ମ\N_NN ସମ୍ବନ୍ଧରେ\N_NN ପରିଚିତ\JJ ହୋଇଗଲେ\V_VM_VF ।\RD_PUNC
+htd524	ପ୍ରାଚୀନ\JJ କେରଳକୁ\N_NNP ଐତିହାସିକମାନେ\N_NN ତାମିଲ୍‌\N_NNP ଭୂଭାଗର\N_NN ଏକ\QT_QTC ଅଂଶ\N_NN ବୋଲି\N_NN ବୁଝୁଥିଲେ\V_VM_VF ।\RD_PUNC
+htd525	କେରଳର\N_NNP ସ୍ଵତନ୍ତ୍ର\RP_INTF ବିକାଶରେ\N_NN ଯେଉଁ\PR_PRL ତତ୍ତ୍ୱ\N_NN ସହାୟକ\N_NN ହୋଇଅଛି\V_VM_VF ସେଥିମଧ୍ୟରୁ\PR_PRC ମୁଖ୍ୟ\N_NN ଅଟେ\V_VM_VF -\RD_PUNC ବାସିନ୍ଦାମାନଙ୍କର\N_NN ପ୍ରକୃତି\JJ ପ୍ରେମ\N_NN ,\RD_PUNC ଆବାସ\JJ କେନ୍ଦ୍ରର\N_NN ବିକାଶ\N_NN ,\RD_PUNC ଉତ୍ପାଦନ\JJ କେନ୍ଦ୍ର\N_NN ଗୁଡିକର\PSP ଅଭ୍ୟୁଦୟ\N_NN ଏବଂ\CC_CCD ଭାଷାର\N_NN ସମୃଦ୍ଧି\V_VM_VF ।\RD_PUNC
+htd526	ଯେବେ\CC_CCS କୃଷି\N_NN ଏବଂ\CC_CCD ସଂସାଧନର\N_NN ନିୟନ୍ତ୍ରଣ\N_NN ଜମିଦାରମାନଙ୍କର\N_NN ହାତକୁ\N_NN ଆସିଗଲା\V_VM_VF ସେତେବେଳେ\CC_CCS କେରଳରେ\N_NNP ଅନେକ\QT_QTF ସାମାଜିକ\JJ ପରିବର୍ତ୍ତନ\N_NN ହୋଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd527	ପରିଣାମ\N_NN ସ୍ଵରୂପ\N_NN ଛୋଟ\QT_QTF ରାଜ୍ୟଠାରୁ\PSP ଆରମ୍ଭକରି\V_VM_VNF ବଡ଼\QT_QTF ରାଜ୍ୟଗୁଡିକର\N_NN ବିକାଶ\N_NNV ହେଲା\V_VM_VF ।\RD_PUNC
+htd528	ଏହିପରି\DM_DMD ଭାବରେ\N_NN କେରଳର\N_NNP ଇତିହାସ\N_NN ସାମ୍ରାଜ୍ୟ\N_NN ଏବଂ\CC_CCD ଯୁଦ୍ଧର\N_NN ଇତିହାସ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd529	ଭାଷା\N_NN ଏବଂ\CC_CCD ସାହିତ୍ୟ\N_NN ବିକାଶର\N_NN ଇତିହାସ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd530	ବିଦେଶୀ\JJ ସେନାମାନଙ୍କର\N_NN ଆଗମନ\V_VM_VNF ତଥା\CC_CCD ସେମାନଙ୍କର\PR_PRP ଦୀର୍ଘଦିନଧରି\V_VM_VNF ଉପନିବେଶ\N_NN ସ୍ଥାପନ\N_NNV ସମ୍ପର୍କରେ\N_NN ଇତିହାସରେ\N_NNP ପ୍ରମାଣ\N_NN ରହିଛି\V_VM_VF ,\RD_PUNC ଜାତି-ଫାତି\RD_ECH ଏବଂ\CC_CCD ଶୋଷଣର\N_NNV ଇତିହାସ\N_NNP ଅଟେ\V_VM_VF ।\RD_PUNC
+htd531	ଶିକ୍ଷାରେ\N_NN ହୋଇଥିବା\V_VM_VNF ପ୍ରଗତି\N_NNV ଏବଂ\CC_CCD ବୈଜ୍ଞାନିକ\JJ କ୍ଷେତ୍ରରେ\N_NN ହୋଇଥିବା\V_VM_VNF ଉନ୍ନତିର\N_NNV ଇତିହାସ\N_NNP ଅଟେ\V_VM_VF ।\RD_PUNC
+htd532	ବ୍ୟବସାୟିକ\JJ ପ୍ରଗତି\N_NN ଏବଂ\CC_CCD ସାମାଜିକ\JJ ନବଜାଗରଣ\N_NN ଏବଂ\CC_CCD ଜନତାନ୍ତ୍ରିକ\JJ ସଂସ୍ଥାଗୁଡିକର\N_NN ଆବିର୍ଭାବର\N_NN ଇତିହାସ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd533	ସୁବିଧା\N_NN ଦୃଷ୍ଟିକୋଣରୁ\N_NN କେରଳର\N_NNP ଇତିହାସକୁ\N_NN ପ୍ରାଚୀନ\N_NN ,\RD_PUNC ମଧ୍ୟଯୁଗ\N_NN ଏବଂ\CC_CCD ଆଧୁନିକଯୁଗ\N_NN -\RD_PUNC ଏହିପରି\DM_DMD ତିନି\QT_QTC ଭାଗରେ\N_NN ବିଭକ୍ତ\N_NN କରାଯାଇ\V_VM_VNF ପାରିବ\V_VM_VF ।\RD_PUNC
+htd534	ଦୁର୍ଲ୍ଲଭ\JJ ବୃକ୍ଷଲତାସମୂହ\N_NN ଏବଂ\CC_CCD ପଶୁସମୂହ\N_NN ତତ୍‌ସହିତ\CC_CCD କ୍ଷୁଦ୍ର\QT_QTF ଗୁଳ୍ମଲତା\N_NN ଦ୍ୱାରା\CC_CCD ସଂଯୁକ୍ତ\N_NN ସ୍ଥାନ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd535	ଯଦିଓ\CC_CCD ଏଠାରେ\DM_DMD ବଡ଼ବଡ଼\JJ ବୃକ୍ଷ\N_NN ମଧ୍ୟ\RP_RPD ଅଛି\V_VM_VF କିନ୍ତୁ\CC_CCD ଚିନ୍ନାରର\N_NNP ମୃତ୍ତିକା\N_NN କ୍ଷୁଦ୍ର\JJ ଗୁଳ୍ମଲତା\N_NN ପାଇଁ\PSP ଉପଯୁକ୍ତ\V_VM_VF ।\RD_PUNC
+htd536	ଏଠାରେ\DM_DMD ଖାକି\JJ ରଙ୍ଗର\N_NN ଲୁପ୍ତ\N_NN ପ୍ରାୟଃ\N_NN ହୋଇଯାଉଥିବା\V_VM_VNF ଦୁର୍ଲ୍ଲଭ\JJ ଗୁଣ୍ଡୁଚୀ\N_NNP ମୂଷା\N_NN ମଧ୍ୟ\RP_RPD ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd537	ବିଶ୍ଵରେ\N_NN ଏହି\DM_DMD ଗିଲ୍‌ହରୀୟା\N_NNP (ଗାଏଣ୍ଟ\RD_RDF ଗ୍ରୀଜଲ୍ଡ\RD_RDF ସ୍କୁଇରିଲ୍‌\RD_RDF ଅଫ୍‍\RD_RDF ଇଣ୍ତିଆ)\RD_RDF ର\PSP ସଂଖ୍ୟା\N_NN ପାଖାପାଖି\N_NN ୨୦୦\QT_QTC ଅଟେ\V_VM_VF ।\RD_PUNC
+htd538	କେରଳର\N_NNP ଅନ୍ୟାନ୍ୟ\N_NN ବନକ୍ଷେତ୍ର\N_NN ଅପେକ୍ଷା\CC_CCD ଏଠାରେ\DM_DMD ବହୁତ\QT_QTF କମ୍‍\QT_QTF ବର୍ଷା\N_NN ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd539	ଏଠାରେ\DM_DMD ବର୍ଷକୁ\N_NN ହାରାହାରି\QT_QTF ୪୮\QT_QTC ଦିନ\N_NN ମାତ୍ର\RP_RPD ବର୍ଷା\N_NN ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd540	ଚିନ୍ନାରର\N_NNP ପାଖାପାଖି\N_NN ଥିବା\V_VM_VNF ଚନ୍ଦନକ୍କାଡୁ\N_NNP ନାମକ\N_NN ସ୍ଥାନ\N_NN ବନ୍ୟଜୀବ\N_NN -\RD_PUNC ଦର୍ଶନ\N_NNV ପାଇଁ\PSP ଉପଯୁକ୍ତ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd541	ଏହି\DM_DMD ଘଞ୍ଚ\JJ ଜଂଗଲରେ\N_NN ଗୟଳମାନଙ୍କୁ\N_NNP ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd542	ହାତୀ\N_NNP ,\RD_PUNC ଚିତାବାଘ\N_NNP ,\RD_PUNC ହନୁମାନ-ମାଙ୍କଡ\N_NNP ,\RD_PUNC ମୟୂର\N_NNP ଆଦି\RP_RPD ମାର୍ଗର\N_NN ଦୁଇପାର୍ଶ୍ୱରେ\N_NST ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd543	ନିକଟତମ\N_NST ରେଲ୍‌ଓ୍ୱେ\N_NN ଷ୍ଟେସନ\N_NN -\RD_PUNC ଏର୍ଣ୍ଣାକୁଲମ\N_NNP ,\RD_PUNC ୧୯୦\QT_QTC କି.ମି.\N_NN ।\RD_PUNC
+htd544	ନିକଟତମ\N_NST ବିମାନବନ୍ଦର\N_NN -\RD_PUNC କୋଚି\N_NNP ଅର୍ନ୍ତରାଷ୍ଟ୍ରୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ,\RD_PUNC ୨୧୦\QT_QTC କି.ମି.\N_NN ।\RD_PUNC
+htd545	ଏହି\DM_DMD ସ୍ଥାନ\N_NN ବଡବଡ\JJ ଘାସରେ\N_NN ପୋଲୋଖେଳ\N_NNP ଏବଂ\CC_CCD ଛାୟାପ୍ରଦାନକାରୀ\JJ ବୃକ୍ଷଗୁଡିକ\N_NN ସହିତ\PSP ମିଶି\V_VM_VNF ଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd546	ପାଖାପାଖି\N_NN ୯୭\QT_QTC ବର୍ଗ\N_NN କି.ମି.\N_NN ପରିମିତ\JJ ଅଞ୍ଚଳରେ\N_NN ପରିବ୍ୟାପ୍ତ\N_NNV ଏହି\DM_DMD ରାଷ୍ଟ୍ରୀୟ\JJ ଉଦ୍ୟାନ\N_NN ଅତି\RP_INTF ମନୋରମ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd547	ଏହି\DM_DMD ନୀଳଗିରି\N_NNP ଗାଈମାନଙ୍କର\N_NN ନୈସର୍ଗିକ\JJ ନିବାସ\N_NN ସ୍ଥାନ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd548	ଏବେ\N_NST ନୀଳଗିରି\N_NNP ଗାଈ\N_NN ପ୍ରାୟତଃ\N_NN ଲୋପ\N_NNV ପାଇବାକୁ\V_VM_VINF ଲାଗିଲେଣି\V_VM_VF ।\RD_PUNC
+htd549	ଏଠାରେ\DM_DMD ନୀଳଗିରି\N_NNP ଗାଈ\N_NN ,\RD_PUNC ଛୋଟ\QT_QTF ଲାଞ୍ଜ\N_NN ମାଙ୍କଡ\N_NN ,\RD_PUNC ଚିତା\N_NNP ,\RD_PUNC ବାଘ\N_NN ଆଦି\RP_RPD ଜୀବଜନ୍ତୁ\N_NN ମଧ୍ୟ\RP_RPD ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd550	ଏହି\DM_DMD କ୍ଷେତ୍ର\N_NN ବିଶେଷ\RP_INTF ସଂରକ୍ଷିତ\JJ ଅଟେ\V_VM_VF ତେଣୁ\CC_CCD :\RD_PUNC ପର୍ଯ୍ୟଟକମାନେ\N_NN କେବଳ\RP_RPD `ପର୍ଯ୍ୟଟନ-କ୍ଷେତ୍ର`\CC_CCS_UT ରେ\PSP ହିଁ\RP_RPD ପ୍ରବେଶ\N_NNV କରିପାରିବେ\V_VM_VF ।\RD_PUNC
+htd551	ବର୍ଷାଋତୁରେ\N_NNP ସେଠାକୁ\CC_CCS ଯିବାପାଇଁ\N_NN ଅନୁମତି\N_NN ନ\RP_NEG ଥାଏ\V_VM_VF |\RD_PUNC
+htd552	ଗାବି\N_NNP ଅନ୍ତର୍ରାଷ୍ଟ୍ରୀୟ\JJ ସ୍ତରରେ\N_NN ପ୍ରସିଦ୍ଧିଲାଭ\N_NN କରିଥିବା\V_VM_VNF ଇକୋ-ଟୁରିଜିମ\N_NN କେନ୍ଦ୍ର\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd553	ଗାବି\N_NNP କେରଳ\N_NNP ବନବିକାଶ\JJ କେନ୍ଦ୍ରର\N_NN ଅଧିନସ୍ଥ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd554	‘ଏଲିସ୍ଟେୟର୍‌\CC_CCS_UT ଇଣ୍ଟରନ୍ୟାସନାଲ\CC_CCS_UT ’\RD_PUNC ନାମକ\N_NN ବିଶ୍ଵ\N_NN ପର୍ଯ୍ୟଟନ\N_NN ସଂସ୍ଥା\N_NN ପର୍ଯ୍ୟଟକମାନଙ୍କୁ\N_NN ଏହି\DM_DMD କ୍ଷେତ୍ରରେ\N_NN ଭ୍ରମଣ\N_NNV କରିବାର\V_VM_VNF ଆବଶ୍ୟକତା\N_NN ଉପରେ\N_NST ଜୋର୍‌\RP_INTF ଦେଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd555	ଗାବି\N_NNP ବନ୍ୟପଶୁ\N_NN ନିରୀକ୍ଷଣ\N_NNV ,\RD_PUNC ଟ୍ରେକିଂଗ\N_NN ଆଦି\RP_RPD ପାଇଁ\PSP ଉପଯୁକ୍ତ\N_NN ସ୍ଥାନ\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd556	ଗାବିରେ\N_NNP ବନ\N_NN ମଧ୍ୟରେ\PR_PRC ତମ୍ବୁ\N_NN ଲଗାଇବା\V_VM_VNF ଠାରୁ\PSP ଆରମ୍ଭକରି\V_VM_VNF ଭୋଜନ\N_NNV ପ୍ରସ୍ତୁତ\N_NN କରିଦେବାର\N_NN କାମ\N_NN ସ୍ଥାନୀୟ\JJ ଲୋକମାନେ\N_NN ଶସ୍ତା\JJ ଦାମ୍‌ରେ\N_NN କରିଥାନ୍ତି\V_VM_VF ।\RD_PUNC
+htd557	ଗାବିର\N_NNP ଯାତ୍ରା\N_NN ଚା`\N_NNP ବଗିଚା\N_NN ମଝିରୁ\PSP ଆରମ୍ଭ\N_NST ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd558	ମୁଣ୍ତକ୍କ୍ୟମ\N_NNP ,\RD_PUNC କୂଟ୍ଟୀକ୍କାନମ୍‌\N_NNP ,\RD_PUNC ପୀରୁମେଡୁ\N_NNP ଆଦି\RP_RPD ସ୍ଥାନକୁ\N_NN ଅତିକ୍ରମ\N_NN କରିବା\V_VM_VF ସମୟରେ\N_NN ବଣ୍ତିପ୍ପୋୟାରରୁ\N_NNP ଗାବିକୁ\N_NNP ଯାଇପାରିବେ\V_VM_VF ।\RD_PUNC
+htd559	ଗାବି\N_NNP ପହଞ୍ଚିବା\V_VM_VF ପରେ\PSP ଗ୍ରୀନ୍‌ମେନ୍‌ସନ\N_NNP ନାମକ\N_NN ଇକୋ\N_NNP ଲଜ୍‌ରେ\N_NN ରହିପାରିବେ\V_VM_VF ।\RD_PUNC
+htd560	ଯଦି\CC_CCS ଆପଣ\PR_PRP ଗଛ\N_NN ପାଖରେ\N_NST ତମ୍ବୁ\N_NNP ପକାଇ\V_VM_VNF କିମ୍ବା\CC_CCD ଗଛ\N_NN ଉପରେ\PSP ତିଆରି\V_VM_VNF ହୋଇଥିବା\V_VM_VNF ମଞ୍ଚା\N_NN ଉପରେ\PSP ରହିବା\V_VM_VNF ପାଇଁ\PSP ଇଚ୍ଛା\N_NN କରିବେ\V_VM_VNF ତେବେ\CC_CCS ଏହା\DM_DMD ମଧ୍ୟ\RP_RPD ସମ୍ଭବ\N_NN ହୋଇପାରିବ\V_VM_VF ।\RD_PUNC
+htd561	ଇକୋ\N_NNP ଲଜ୍‌\N_NN ପାଖରେ\N_NST ଗାବି\N_NNP ପୁଷ୍କରିଣୀ\N_NN ଅଛି\V_VM_VF ।\RD_PUNC
+htd562	ଏଠାରେ\DM_DMD ନୌକାବିହାରର\N_NN ବ୍ୟବସ୍ଥା\N_NN ଅଛି\V_VM_VF ।\RD_PUNC
+htd563	ପୁଷ୍କରିଣୀର\N_NN ଚାରିପାଖରେ\N_NST ବଣ\N_NN ,\RD_PUNC ଘାସର\N_NN ପଡ଼ିଆ\N_NN ,\RD_PUNC ପାହାଡିଆ\JJ ଅଞ୍ଚଳ\N_NST ,\RD_PUNC ଘାଟି\N_NN ,\RD_PUNC ଅଳେଇଚର\N_NNP ବଗିଚା\N_NN ,\RD_PUNC ବୃକ୍ଷ-ଲତା\N_NN ଚାରା\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd564	ନୀଳଗିରି\N_NNP ଗାଈ\N_NN ,\RD_PUNC ଛୋଟ\QT_QTF ଲାଞ୍ଜ\N_NN ଥିବା\V_VM_VNF ମାଙ୍କଡ\N_NN ଆଦି\RP_RPD ପଶୁଙ୍କୁ\N_NN ବହୁତ\QT_QTF ନିକଟରୁ\N_NST ଦେଖାଯାଇପାରିବ\V_VM_VF ।\RD_PUNC
+htd565	ଏଠାରେ\DM_DMD ମଳମୁଷ୍‌କ୍କି\N_NNP (ଏପରି\CC_CCS_UT ଏକ\CC_CCS_UT ଚଢେଇ\N_NN ଯାହାର\CC_CCS_UT ଶଦ୍ଦ\CC_CCS_UT ପାହାଡରେ\CC_CCS_UT ଗୁଞ୍ଜରଣ\N_NNV ସୃଷ୍ଟିକରିଥାଏ)\V_VM_VF ,\RD_PUNC ଚାତକ\N_NNP ,\RD_PUNC କାଠହଣା\N_NNP ,\RD_PUNC ନୀଳକଣ୍ଠ\N_NNP ଆଦି\RP_RPD ମୋଟ୍‌\QT_QTF ମିଶିକରି\V_VM_VF ୨୬୦\QT_QTC ପ୍ରଜାତିର\N_NN ପକ୍ଷୀ\N_NN ଏଠାରେ\DM_DMD ବାସକରନ୍ତି\V_VM_VF ।\RD_PUNC
+htd566	ଗାବିରୁ\N_NNP ବାହାରିକରି\V_VM_VNF ଆଗକୁ\N_NST ମଧ୍ୟ\RP_RPD ଯାଇପାରିବେ\V_VM_VNF ।\RD_PUNC
+htd567	କେଲ୍ଲୁର\N_NNP ,\RD_PUNC ଗାବିରେ\N_NNP ଥିବା\V_VM_VNF ଘାସର\N_NN ବଗିଚାଗୁଡିକ\N_NN ,\RD_PUNC କେଚୁପମ୍ପା\N_NNP ,\RD_PUNC ପଚ୍ଚକ୍କାନମ୍‌\N_NNP ଆଦି\N_NN ସ୍ଥାନକୁ\N_NN ଯାତ୍ରା\N_NN କରିବା\V_VM_VNF ସମୟରେ\N_NN ରାତିରେ\N_NN ବାହାରୁଥିବା\V_VM_VNF ଜୀବ-ଜନ୍ତୁ\N_NN ଗୁଡିକୁ\N_NN ମଧ୍ୟ\RP_RPD ଦେଖାଯାଇପାରିବ\V_VM_VNF ।\RD_PUNC
+htd568	ଗାବିର\N_NN ବୃକ୍ଷଘର\N_NN ଏବଂ\CC_CCD ତମ୍ବୁ\N_NN ଆଦିରେ\RP_RPD ରହିବା\V_VM_VNF ସମୟରେ\N_NN ଆରଣ୍ୟକ\JJ ଜୀବନର\N_NN ରସାସ୍ଵାଦନର\N_NN ଅବସର\N_NN ମଧ୍ୟ\RP_RPD ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd569	ଗାବି\N_NNP ବଣ୍ତିପ୍ପୋରିୟାର୍‌ରୁ\N_NNP ୨୮\QT_QTC କି.ମି.\N_NN ଏବଂ\CC_CCD ତେକ୍କାଡି\N_NNP ରୁ\PSP ୪୬\QT_QTC କି.ମି.\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd570	ଇକ୍କୋ\N_NNP ପଏଣ୍ଟ\N_NN ସାହସୀ\JJ ପର୍ଯ୍ୟଟନ\N_NN ଏବଂ\CC_CCD ଟ୍ରେକିଂଗ\N_NN ପାଇଁ\PSP ହିଁ\RP_RPD ଉପଯୁକ୍ତ\N_NN ସ୍ଥାନ\N_NN ଅଟେ\V_VM_VF |\RD_PUNC
+htd571	ମୁନ୍ନାର୍‌ରୁ\N_NNP ଟେପ୍‌\N_NNP ଷ୍ଟେସନକୁ\N_NN ଯିବା\V_VM_VNF ରାସ୍ତାରେ\N_NN ଇକ୍କୋ\N_NNP ପଏଣ୍ଟ\N_NN ପଡିଥାଏ\V_VM_VF ।\RD_PUNC
+htd572	ଇକ୍କୋପଏଣ୍ଟର\N_NNP କ୍ଷେତ୍ରଭାବେ\N_NN ମାଂକୁନ୍ନୁ\N_NNP ,\RD_PUNC କୋଣ୍ତିୟତ୍ତୁରମଲା\N_NNP ,\RD_PUNC ତୋଣିପ୍ଵାରା\N_NNP ଆଦି\RP_RPD ପାହାଡ଼\N_NN ଦ୍ୱାରା\PSP ପରିବେଷ୍ଟିତ\JJ ଅଟେ\V_VM_VF ଏବଂ\CC_CCD ଟ୍ରେକିଂଗ\N_NN ପାଇଁ\PSP ଉପଯୁକ୍ତ\N_NNV ସ୍ଥାନ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd573	ଇଲିବିଷାମ୍ପୁଚିରା\N_NNP କାଞ୍ଜାର୍‌ର\N_NNP ନିକଟରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd574	କୋଟୟମ୍‌\N_NNP ଜିଲ୍ଲାର\N_NN ପାଲାୟରୁ\N_NNP କାଞ୍ଜାର\N_NNP ଯିବା\V_VM_VNF ବହୁତ\QT_QTF ସହଜ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd575	କାଞ୍ଜାର୍‌ରେ\N_NNP ୧୫୦୦\QT_QTC ମିଟର\N_NN ଉଚ୍ଚରେ\N_NN ଥିବା\V_VM_VNF ଘନଘୋର\JJ ଗର୍ଜ୍ଜନ\N_NN ସହିତ\PSP ପଡୁଥିବା\V_VM_VNF ପାଣିରୁ\N_NN ଏକ\QT_QTC ମନୋରମ\JJ ଜଳପ୍ରପାତ\N_NN ସୃଷ୍ଟିଲାଭ\N_NN କରିଛି\V_VM_VF ।\RD_PUNC
+htd576	କାଞ୍ଜାର୍‌\N_NNP ଜଳପ୍ରପାତ\N_NN ସବୁ\QT_QTF ସମୟରେ\N_NN ଜଳପୂର୍ଣ୍ଣ\N_NN ହୋଇ\V_VM_VNF ରହିଥାଏ\V_VM_VF ।\RD_PUNC
+htd577	କାଞ୍ଜାର୍‌\N_NNP ଟ୍ରେକିଂଗ\N_NN ପାଇଁ\PSP ଉପଯୁକ୍ତ\V_VM_VF ସ୍ଥାନ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd578	କାଞ୍ଜାର୍‌ରେ\N_NNP ପର୍ଯ୍ୟାପ୍ତ\RP_INTF ପରିମାଣରେ\N_NN ଜଡି-ବୁଟି\N_NN ପ୍ରାପ୍ତ\N_NNV ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd579	ଜଳପ୍ରପାତ\N_NN ,\RD_PUNC ଉଚ୍ଚା-ନିଚ୍ଚା\JJ ପାହାଡ\N_NN ସଂଲଗ୍ନ\N_NN ଆଟ୍ଟୂକଲ୍‌\N_NNP ମନୋରମ\JJ ଦୃଶ୍ୟ\N_NN ଉପସ୍ଥାପନ\N_NN କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd580	ଯଦି\CC_CCS ଆପଣମାନେ\PR_PRP ସମସ୍ତେ\QT_QTF କମ୍‌\QT_QTF ସମୟ\PR_PRP ଏବଂ\CC_CCD କମ୍‌\QT_QTF ଖର୍ଚ୍ଚରେ\N_NN ଗୋଆ\N_NNP ବୁଲିବାକୁ\V_VM_VINF ଚାହୁଁଛନ୍ତି\V_VM_VNF ତେବେ\CC_CCS ପର୍ଯ୍ୟଟନ\N_NN ପାଇଁ\PSP ଉପଲବ୍ଧ\V_VM_VF ବସ୍\N_NN ସେବାର\N_NN ଉପଯୋଗ\N_NN କରିପାରିବେ\V_VM_VNF ।\RD_PUNC
+htd581	କାଞ୍ଜାର\N_NNP ,\RD_PUNC ମୁନ୍ନାର\N_NNP ଏବଂ\CC_CCD ପଲ୍ଲିବାସଲର\N_NNP ମଧ୍ୟଭାଗରେ\N_NN ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd582	କେରଳରେ\N_NNP ଚନ୍ଦନବୃକ୍ଷ\N_NNP ଗୁଡିକର\N_NN ନୈସର୍ଗିକ\JJ ସ୍ଥାନ\N_NN ହେଉଛି\V_VM_VF ମରାୟୁର୍‌\N_NNP ।\RD_PUNC
+htd583	ମରାୟୁର୍‌ର\N_NNP ଦର୍ଶନୀୟ\JJ ସ୍ଥାନ\N_NN ହେଉଛି\V_VM_VF ବଣ\N_NN ବିଭାଗର\N_NN ଚନ୍ଦନ\N_NNP ଫ୍ୟାକ୍ଟ୍ରି\N_NN ,\RD_PUNC ପ୍ରସ୍ତରଯୁଗୀୟ\JJ ଚିତ୍ର\N_NN ଦ୍ୱାରା\PSP ସଜ୍ଜିତ\JJ ଗୁମ୍ପାଗୁଡିକ\N_NN ,\RD_PUNC ଏକ\QT_QTC ହେକ୍ଟର\QT_QTF ଜମି\N_NN ଉପରେ\N_NST ପରିବ୍ୟାପ୍ତ\N_NN ହୋଇଥିବା\V_VM_VNF ଛାୟାପ୍ରଦାନକାରୀ\JJ ବରଗଛ\N_NNP ଇତ୍ୟାଦି\RP_RPD ।\RD_PUNC
+htd584	ତୁବାନ\N_NNP ଜଳପ୍ରପାତ\N_NN ,\RD_PUNC ରାଜୀବଗାନ୍ଧୀ\N_NNP ରାଷ୍ଟ୍ରୀୟ\JJ ଉଦ୍ୟାନ\N_NN ଆଦି\RP_RPD ମରାୟୁର୍‌ର\N_NNP ନିକଟରେ\N_NST ରହିଛି\V_VM_VF ।\RD_PUNC
+htd585	ମରାୟୁର୍‌ର\N_NNP ପ୍ରତ୍ନତାତ୍ୱିକ\JJ ଗୁରୁତ୍ୱ\N_NN ମଧ୍ୟ\RP_RPD କମ୍‌\QT_QTF ନୁହେଁ\RP_NEG ।\RD_PUNC
+htd586	ଏଠାରେ\DM_DMD ପ୍ରସ୍ତର-ଯୁଗୀୟ\JJ ଗୁମ୍ପାସମୂହ\N_NN ଏବଂ\CC_CCD ଅନେକ\QT_QTF ପ୍ରାଚୀନ\JJ କବରକୁ\N_NN ଖନନକରି\V_VM_VF ବାହାର\V_VM_VNF କରାଯାଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd587	ମାଟ୍ଟୂପ୍ପୋଟ୍ଟୀର\N_NNP ଦର୍ଶନୀୟ\JJ ସ୍ଥାନ\N_NN ମଧ୍ୟରୁ\V_VM_VNF ଅନ୍ୟତମ\RP_RPD `ଇଣ୍ତୋ-ସ୍ଵିସ୍‌\N_NNP ଡାୟେରୀ`\N_NN ଫାର୍ମ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd588	ମାଟ୍ଟୂପ୍ପୋଟ୍ଟୀର\N_NNP `ଇଣ୍ତୋ-ସ୍ଵିସ୍‌\N_NNP ଡାୟେରୀ\N_NN ଫାର୍ମ୍‌`\N_NN ସମୁଦ୍ର\N_NN ପତନରୁ\N_NN ୧୭୦୦\QT_QTC ମିଟର\N_NN ଉଚ୍ଚରେ\N_NST ନିର୍ମିତ\N_NNV ହୋଇଅଛି\V_VM_VF ।\RD_PUNC
+htd589	ଇଣ୍ତୋ-ସ୍ଵିସ୍‌\N_NNP ଡାୟେରୀ\N_NN ଫାର୍ମ`\N_NN ରେ\PSP ୧୧ଟି\QT_QTC ଆଧୁନିକ\JJ ଗୋଶାଳା\N_NN ଅଛି\V_VM_VF ।\RD_PUNC
+htd590	ଏହି\DM_DMD ୧୧ଟି\QT_QTC ଆଧୁନିକ\JJ ଗୋଶାଳା\N_NN ମଧ୍ୟରୁ\PR_PRC କେବଳ\RP_INTF ତିନୋଟି\QT_QTC ଗୋଶାଳା\N_NN ପର୍ଯ୍ୟଟକମାନଙ୍କ\N_NN ପାଇଁ\PSP ଖୋଲାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd591	ଏଠାକାର\DM_DMD ଆଉ\CC_CCD ଏକ\QT_QTC ଦୃଶ୍ୟ\N_NN ହେଉଛି\V_VM_VF ମାଟ୍ଟୂପ୍ପୋଟ୍ଟୀବନ୍ଧ\N_NNP ,\RD_PUNC ପୁଷ୍କରିଣୀ\N_NN କୁଣ୍ତଳା\N_NNP ଚାହାବଗିଚା\N_NN ,\RD_PUNC କୁଣ୍ତଳା\N_NNP ପୁଷ୍କରିଣୀ\N_NN ଇତ୍ୟାଦି\RP_RPD ।\RD_PUNC
+htd592	ଡି.ଟି.ପି.ସି.\N_NNP ଏହି\DM_DMD ପୋଖରୀରେ\N_NN ବୋଟ୍‌\N_NN ଯାତ୍ରାର\N_NN ବ୍ୟବସ୍ଥା\N_NN କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd593	ପଲ୍ଲିବାସଲ୍‌\N_NNP ଜଳ-ବିଦ୍ୟୁତ୍‍\N_NN ଯୋଜନା\N_NN କେନ୍ଦ୍ର\N_NN ଚିତ୍ରପୁରମ\N_NNP ମାଟ୍ଟୂପ୍ପୋଟ୍ଟୀର\N_NNP ନିକଟରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd594	ଭାରତରେ\N_NNP ପ୍ରସିଦ୍ଧ\JJ ଶୈଳନିବାସ\N_NN ମଧ୍ୟରୁ\PR_PRC ଅନ୍ୟତମ\N_NN ହେଉଛି\V_VM_VF ମୁନ୍ନାର୍‌\N_NNP ।\RD_PUNC
+htd595	ତନ-ମନ\N_NN କୁ\PSP ଆନନ୍ଦରେ\N_NN ଉତ୍‌ଫୁଲ୍ଲିତ\JJ କରୁଥିବା\V_VM_VNF ମୁନ୍ନାର୍‌ର\N_NNP ପ୍ରାକୃତିକ-ସୁଷମା\JJ ଅନର୍ବଚନୀୟ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd596	ମୁଦ୍ରପ୍ପୁଷା\N_NNP ,\RD_PUNC ନଲ୍ଲତଣୀ\N_NNP ,\RD_PUNC କୁଣ୍ତଲା\N_NNP ଆଦି\RP_RPD ନଦୀର\N_NN ସଂଗମ\N_NN ସ୍ଥାନରେ\N_NN ଥିବା\V_VM_VNF ପାହଡ\N_NN କାରଣରୁ\CC_CCD ମୁନ୍ନାରରେ\N_NNP ଅନୁପମ\JJ ସବୁଜିମା\JJ ଦେଖିବାକୁ\V_VM_VINF ମିଳଥାଏ\V_VM_VF ।\RD_PUNC
+htd597	ମୁନ୍ନାର୍‌\N_NNP ସମୂଦ୍ର\N_NN ପତନରୁ\N_NN ୧୬୦୦\QT_QTC ମିଟର\N_NN ଉଚ୍ଚରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ଏକ\QT_QTC ପାହାଡିଆ\JJ ଅଞ୍ଚଳ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd598	ମୁନ୍ନାର୍‌\N_NNP ଭାରତର\N_NNP ଏକ\QT_QTC ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ\JJ ଗ୍ରୀଷ୍ମ\N_NN ଆବାସ\N_NN ମଧ୍ୟରୁ\PR_PRC ଅନ୍ୟତମ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd599	ମୁନ୍ନାର୍‌ରେ\N_NNP ବ୍ରିଟିଶ\N_NN ଶାସନ\N_NN ସମୟରେ\N_NN ଗୋରାମାନେ\N_NN ରହୁଥିଲେ\V_VM_VF ।\RD_PUNC
+htd600	ବ୍ରିଟିଶ୍‌\N_NN ବଗିଚା\N_NN ମାଲିକମାନେ\N_NN ହିଁ\RP_RPD ମୁନ୍ନାର୍‌ରେ\N_NNP ଚା`\N_NN ବଗିଚା\N_NN ଲଗାଇଥିଲେ\V_VM_VF |\RD_PUNC
+htd601	ମୁନ୍ନାର୍‌ର\N_NNP ବିଶେଷତ୍ଵ\N_NN ଏହା\DM_DMD ଅଟେ\V_VM_VF ଯେ\CC_CCD ଏଠାରେ\DM_DMD ପର୍ଯ୍ୟଟକମାନେ\N_NN କେବେ\DM_DMQ ମଧ୍ୟ\RP_RPD ବିରକ୍ତି\N_NN ଅନୁଭବ\N_NN କରନ୍ତି\V_VM_VF ନାହିଁ\RP_NEG ।\RD_PUNC
+htd602	ମୁନ୍ନାର୍‌\N_NNP ଟାଉନରୁ\N_NN ୨୨\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଚା\N_NN ବଗିଚାଗୁଡିକ\N_NN ମଝିରେ\PR_PRC ଯାତ୍ରା\N_NN କରିବାକୁ\V_VM_VINF ଭଲ\N_NN ଲାଗେ\V_VM_VF ।\RD_PUNC
+htd603	ବନ୍ଧର\N_NN ଚତୁଃପାର୍ଶ୍ୱରେ\N_NST ଘଞ୍ଚ\JJ ଜଙ୍ଗଲ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd604	ଟୋପ୍‍\N_NNP ଷ୍ଟେସନ\N_NN ମୁନ୍ନାର୍‌ରୁ\N_NNP ୩୨\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଥିବା\V_VM_VNF ମୁନ୍ନାର୍‌\N_NNP କୋଡାଇକେନାଲ୍‌\N_NNP ରାସ୍ତାରେ\N_NN ସବୁଠାରୁ\RP_INTF ଉଚ୍ଚରେ\N_NN ଥିବା\V_VM_VNF କ୍ଷେତ୍ର\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd605	ଏଠାରେ\DM_DMD ନୀଳକୁରିଞ୍ଜି\N_NNP ନାମକ\N_NN ପୃଥିବୀ\JJ ପ୍ରସିଦ୍ଧ\JJ ଫୁଲ\N_NN ଫୁଟି\V_VM_VNF ଥାଏ\V_VM_VF ।\RD_PUNC
+htd606	ଏହି\DM_DMD ପାହାଡ\N_NN ଉପରୁ\N_NST ତାମିଲନାଡୁର\N_NNP ଦୃଶ୍ୟ\N_NN ମଧ୍ୟ\RP_RPD ଦେଖିବାକୁ\V_VM_VINF ମିଳେ\V_VM_VF |\RD_PUNC
+htd607	ନୀଳକୁରିଞ୍ଜି\N_NNP ୧୨\QT_QTC ବର୍ଷରେ\N_NN ଗୋଟିଏ\RP_CL ଥର\RP_CL ଫୁଟିଥାଏ\V_VM_VF ।\RD_PUNC
+htd608	ଏହା\DM_DMD କେରଳ\N_NNP ପାଇଁ\PSP ପ୍ରକୃତିର\N_NN ବରଦାନ\N_NNV ଅଟେ\V_VM_VF |\RD_PUNC
+htd609	ଯେବେ\PR_PRL ନୀଳକୁରିଞ୍ଜି\N_NNP ଫୁଟେ\V_VM_VF ସେତେବେଳେ\CC_CCS ପାହାଡ଼ଗୁଡ଼ିକ\N_NN ଏପରି\DM_DMD ଲାଗିଥାଆନ୍ତି\V_VM_VF ସତେଯେପରି\RP_INJ ସେମାନେ\PR_PRP ନୀଳ\JJ ରଙ୍ଗରେ\N_NN ଡୁବି\V_VM_VNF ରହିଛନ୍ତି\V_VM_VF ।\RD_PUNC
+htd610	ଏହି\DM_DMD ଫୁଲ\N_NN ନୀଳ\JJ ରଂଗର\N_NN ପାଖାପାଖି\N_NN ୬୦\QT_QTC ପ୍ରକାରର\N_NN ମିଳିଥାଏ\V_VM_VF |\RD_PUNC
+htd611	ଯେବେ\PR_PRL ଏହା\DM_DMD ଫୁଟିଥାଏ\V_VM_VF ତେବେ\PR_PRL ପ୍ରତୀତ\N_NN ହୋଇଥାଏ\V_VM_VF ମାନନ୍ତୁ\CC_CCD ସଂପୂର୍ଣ\N_NN ପ୍ରକୃତି\N_NN ନୀଳ\JJ ରଂଗରେ\N_NN ଭରପୁର\N_NN ହୋଇଯାଛି\V_VM_VF |\RD_PUNC
+htd612	ପ୍ରକୃତିର\N_NNP ଏହି\DM_DMD ଅଦ୍ଭୁତ\JJ ଦୃଶ୍ୟ\N_NN କେବିଲୂର\N_NNP ,\RD_PUNC କଡାବରି\N_NNP ,\RD_PUNC ରାଜମଲା\N_NNP ,\RD_PUNC ଡର୍ବିକୂଲ୍ଲମ\N_NNP ,\RD_PUNC ମୁନ୍ନାର\N_NNP କ୍ଷେତ୍ରରେ\N_NN ଦର୍ଶକ\N_NN ମାନଙ୍କୁ\N_NN ମନ୍ତ୍ରମୁଗ୍ଧ\N_NN କରିଥାଏ\V_VM_VF |\RD_PUNC
+htd613	ପୂର୍ବ\JJ ଥର\QT_QTF ନୀଳକୂରୀଂଜ\N_NNP ୨୦୦୬ରେ\QT_QTC ଫୁଟି\V_VM_VNF ଥୁଲା\V_VM_VF |\RD_PUNC
+htd614	ଯଦିଓ\CC_CCD ପ୍ରତିବର୍ଷ\N_NST କିଛି\QT_QTF ପାହାଡ\N_NN ଉପରେ\PSP ନୀଳକୂରିଞ୍ଜି\N_NNP ଫୁଟିଥାଏ\V_VM_VF କିନ୍ତୁ\CC_CCD ପୂର୍ଣ୍ଣ\JJ ନୀଲାମ\N_NN ପୁଷ୍ପୋତ୍ସବ\JJ ପାଇଁ\PSP ଆମକୁ\PR_PRP ୨୦୧୮\QT_QTC ପର୍ଯ୍ୟନ୍ତ\PSP ଅପେକ୍ଷା\N_NN କରିବାକୁ\V_VM_VINF ପଡିବ\V_VM_VF |\RD_PUNC
+htd615	ମୁନ୍ନାର୍‌\N_NNP ପର୍ଯ୍ୟଟନ\N_NN କାର୍ଯ୍ୟକ୍ରମରେ\N_NN ଚାହା-ସଂଗ୍ରହାଳୟକୁ\N_NN ମଧ୍ୟ\RP_RPD ସ୍ଥାନ\N_NN ଦିଆଯିବା\V_VM_VNF ଉଚିତ୍\V_VM_VF ।\RD_PUNC
+htd616	ଚାହା-ସଂଗ୍ରହାଳୟ\N_NN ‘ନଲ୍ଲତଣି\N_NNP ’\RD_PUNC ନାମକ\N_NN ଟୀ-ଇଷ୍ଟେଟ୍‌\N_NNP ମଧ୍ୟରେ\PR_PRC ରହିଛି\V_VM_VF ଯାହାକି\PR_PRF ଟାଟା\N_NNP ଟୀ\N_NN ର\PSP ଅଧିନସ୍ଥ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd617	ମୁନ୍ନାର୍‌ର\N_NNP ଚାହା\N_NN ସଂଗ୍ରହାଳୟରେ\N_NN ପ୍ରଦର୍ଶିତ\JJ ପ୍ରାଚୀନ\JJ ବସ୍ତୁ\N_NN ଗୁଡିକ\N_NN ମଧ୍ୟରୁ\PR_PRC ମହତ୍ତ୍ଵପୂର୍ଣ୍ଣ\N_NN ଅଟେ\V_VM_VF –\N_NN ମୁନ୍ନାର୍‌ରେ\N_NNP ଚାହା\N_NN ଚାଷର\N_NN ବିକାଶର\N_NN ପର୍ବ\N_NN ଆଦିକାଳୀନ\JJ ଯନ୍ତ୍ର\N_NN ଯାହା\PR_PRL ଘନ\JJ ଜଂଗଲକୁ\N_NN ଚାହା\N_NN ବଗିଚାରେ\N_NN ପରିବର୍ତ୍ତନ\N_NN କରିବା\V_VM_VNF ପାଇଁ\PSP ବ୍ୟବହାର\N_NN କରାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd618	୧୯୦୫\QT_QTC ର\PSP ଟି\N_NN ରୋଲର୍‌\N_NN ,\RD_PUNC ୧୯୨୦\QT_QTC ର\PSP ପ୍ଲେଟନ୍‌\N_NN ହ୍ୱିଲ୍‌\N_NN ,\RD_PUNC ଚାହା\N_NN ନେବାପାଇଁ\V_VM_VNF ଉଚ୍ଚସ୍ଥାନରେ\N_NST ସ୍ଥାପିତ\JJ ଲାଇଟ୍‌\JJ ରେଳଧାରଣା\N_NN ଉପରେ\PSP ଚାଲୁଥିବା\V_VM_VNF ରେଳଗାଡ଼ିର\N_NN ଯନ୍ତ୍ରପାତି\N_NN ଉତ୍ୟାଦି\RP_RPD ।\RD_PUNC
+htd619	ଚାହାପତି\N_NN ପ୍ରସ୍ତୁତିର\N_NN ବିବିଧ\JJ ସ୍ତରଗୁଡିକର\N_NN ପ୍ରଦର୍ଶନ\N_NN ବହୁତ\QT_QTF ହିଁ\RP_RPD ଆକର୍ଷଣୀୟ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd620	ଅନ୍ୟ\RP_RPD ଏକ\QT_QTC ପ୍ରମୁଖ\JJ ବସ୍ତୁ\N_NN ଅଛି\V_VM_VF ଏହି\DM_DMD ପୂର୍ବ\N_NN ଦ୍ୱିତୀୟ\QT_QTO ଶତାବ୍ଦୀର\QT_QTF ଏକ\QT_QTC ‘ଚିତା-ଭସ୍ମ-କଳସ\N_NN ’\RD_PUNC ଯାହା\PR_PRL ଆପଣ\PR_PRP ଦେଖିପାରିବେ\V_VM_VF ।\RD_PUNC
+htd621	ଏହା\DM_DMD ବ୍ୟତୀତ\RP_RPD ଚାହା-ଉତ୍ପାଦନର\N_NN ପରମ୍ପରାଗତ-ପ୍ରଣାଳୀଗୁଡିକ\N_NN ,\RD_PUNC ବିଭିନ୍ନ\QT_QTF ପ୍ରକାରର\N_NN ଚାହା-ପତିଗୁଡିକ\N_NN ମଧ୍ୟ\RP_RPD ଏଠାରେ\DM_DMD ପ୍ରଦର୍ଶିତ\JJ କରାଯାଇଛି।\V_VM_VF
+htd622	ଇଡ୍ଡୁକି\N_NNP ଜିଲ୍ଲାର\N_NN ପଣ୍ତିକୁଷି\N_NNP ଅଞ୍ଚଳ\N_NN ଜଙ୍ଗଲ\N_NN ତଥା\CC_CCD ବନ୍ୟଜୀବମାନଙ୍କର\N_NN ଫଟୋଗ୍ରାଫି\N_NN ପାଇଁ\PSP ଉପଯୁକ୍ତ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd623	ପଣ୍ତିକୁଷିର\N_NNP ଶସ୍ୟ-ଶ୍ୟାମଳା\JJ ପ୍ରକୃତି\N_NN ଏବଂ\CC_CCD ବିଭିନ୍ନ\QT_QTF ବନ୍ୟ\JJ ଜୀବଜନ୍ତୁ\N_NN ଦର୍ଶକମାନଙ୍କୁ\N_NN ମନମୁଗ୍ଧ\N_NN କରିଦେଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd624	ପଣ୍ତିକୁଷି\N_NNP ଚେଲ୍ଲାର୍‌କୋବିଲ୍‌\N_NNP ତମିଲନାଡୁର\N_NNP ସୀମା\N_NN ପାଖରେ\PSP ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd625	ପୀରୁମେଡୁର\N_NNP ସମୁଦ୍ର\N_NN ପତନରୁ\N_NN ୯୧୫\QT_QTC ମିଟର\N_NN ଉଚ୍ଚାରେ\N_NN ଅବସ୍ଥିତ\V_VM_VF ଶୈଳନିବାସ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd626	ପୀରୁମେଡୁର\N_NNP ସବୁଜିମାକୁ\N_NN ଚାହା\N_NN ,\RD_PUNC କଫି\N_NN ,\RD_PUNC ରବର୍‌\N_NN ,\RD_PUNC ଅଳେଇଚ\N_NN ,\RD_PUNC ୟୁକାଲିପଟାସ୍‌\N_NN ଇତ୍ୟାଦି\RP_RPD ବଗିଚା\N_NN -\RD_PUNC ଜୀବିତ\N_NNV ରଖିଥାଏ\V_VM_VF ।\RD_PUNC
+htd627	ଘାସପଡ଼ିଆ\N_NN ,\RD_PUNC ଜଳପ୍ରପାତ\N_NN ,\RD_PUNC ଚିଡ୍‌\N_NN ବୃକ୍ଷ\N_NN ଇତ୍ୟାଦି\RP_RPD ପୀରୁମେଡୁର\N_NNP ସୌନ୍ଦର୍ଯ୍ୟକୁ\N_NN ବହୁଗୁଣିତ\JJ କରିଦେଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd628	ପୀରୁମେଡୁ\N_NNP ଟ୍ରେକିଗଂ\N_NN ,\RD_PUNC ସାଇକଲ\N_NN ଆରୋହଣ\N_NNV ,\RD_PUNC ଘୋଡ଼ା\N_NN ଆରୋହଣ\N_NNV ଇତ୍ୟାଦି\RP_RPD ପାଇଁ\PSP ଉପଯୁକ୍ତ\N_NN ସ୍ଥାନ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd629	ପେରିୟାର୍‌\N_NNP ନଦୀ\N_NN ଦ୍ୱାରା\PSP ଘେରା\V_VM_VNF ଶସ୍ୟ-ଶ୍ୟାମଳ\JJ ପର୍ବତମାଳା\N_NN ହେଉଛି\V_VM_VF ପୁଲମେଡୁ\N_NNP ।\RD_PUNC
+htd630	ପୀରୁମେଡୁ\N_NNP ଠାରୁ\PSP ଶବରୀମଲା\N_NNP ମନ୍ଦିର\N_NN ଦେଖାଯାଇଥାଏ\V_VM_VF |\RD_PUNC
+htd631	ଶବରୀମଲା\N_NNP ମନ୍ଦିର\N_NN ଯିବା\V_VM_VNF ସମୟରେ\N_NN ଗୋଟିଏ\RP_CL ରାସ୍ତାରେ\N_NN ପୁଲମେଡୁ\N_NNP ପଡିଥାଏ\V_VM_VF ।\RD_PUNC
+htd632	ଆମେ\PR_PRP ଜିପ୍‌\N_NN ଦ୍ୱାରା\PSP ହିଁ\RP_RPD ଫୁଲେମଡ଼ୁରେ\N_NNP ପହଂଚି\V_VM_VNF ପାରିବା\V_VM_VF ।\RD_PUNC
+htd633	ସଂରକ୍ଷିତ\JJ ଅରଣ୍ୟାଞ୍ଚଳ\N_NN ହୋଇଥିବା\V_VM_VNF କାରଣରୁ\N_NN ଭ୍ରମଣ\N_NNV କରିବା\V_VM_VNF ପାଇଁ\PSP ଅରଣ୍ୟ\N_NN ବିଭାଗର\N_NN ଅନୁମତି\N_NN ଆବଶ୍ୟକ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd634	ଚେଲ୍ଲାର୍‌କୋବିଲ୍‌\N_NNP ପୀରୁମେଡୁର\N_NNP ହିଁ\RP_RPD ଏକ\QT_QTC ଅଂଶ\N_NN ଅଟେ\V_VM_VF ,\RD_PUNC ଏଠାରେ\DM_DMD ଅନେକ\QT_QTF ଜଳପ୍ରପାତ\N_NN ଅଛି\V_VM_VF ।\RD_PUNC
+htd635	ଚେଲ୍ଲାର୍‌କୋବିଲ୍‌\N_NNP କ୍ଷେତ୍ର\N_NN ଅତ୍ୟନ୍ତ\RP_INTF ରମଣୀୟ\JJ ପ୍ରକୃତି\N_NN ସହିତ\PSP ସଂଯୁକ୍ତ\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd636	ଚେଲ୍ଲାର୍‌କୋବିଲ୍‌\N_NNP ଗ୍ରାମର\N_NN ଗୋଟିଏ\RP_CL ଭାଗ\N_NN ଚଟାଣ\N_NN ଦଣ୍ଡାୟମାନ\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd637	ଚେଲ୍ଲାର୍‌କୋବିଲ୍‌\N_NNP ଗ୍ରାମର\N_NN ଦଣ୍ଡାୟମାନ\JJ ଏହି\DM_DMD ଚଟାଣ\N_NN ତଳକୁ\PSP ଯାଇ\V_VM_VNF ତାମିଲନାଡୁର\N_NNP କମ୍ବମରେ\N_NNP ଅବସ୍ଥିତ\JJ ନଡିଆ\N_NN ବଗିଚା\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ଦଣ୍ଡାୟମାନ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd638	ବଣ୍ତିପେରୀୟାର୍‌\N_NNP ପ୍ରକୃତି\N_NN ସମୃଦ୍ଧ\N_NN ପ୍ରଦେଶ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd639	ବଣ୍ତିପେରୀୟାର୍‌ରେ\N_NNP ଚାହା\N_NN ,\RD_PUNC କଫି\N_NN ,\RD_PUNC ଗୋଲମରିଚ\N_NN ଇତ୍ୟାଦି\RP_RPD ଚାଷ\N_NNV କରାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd640	ଏହାର\DM_DMD ମଧ୍ୟଭାଗରେ\PSP ପେରୀୟାର୍‌\N_NNP ନଦୀ\N_NN ପ୍ରବାହିତ\N_NNV ହେଉଛି\V_VM_VF ।\RD_PUNC
+htd641	ଏଠାରେ\DM_DMD ସରକାରୀ\JJ କୃଷି-ଉଦ୍ୟାନ\N_NN ଏବଂ\CC_CCD ପୁଷ୍ପୋ\N_NN ଉଦ୍ୟାନ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd642	ଏହା\DM_DMD ପାହାଡୀ\JJ ଫଳ-ଫୁଲ\N_NN ,\RD_PUNC କନ୍ଦ-ମୂଳ\N_NN ଇତ୍ୟାଦିର\RP_RPD କେନ୍ଦ୍ରସ୍ଥଳୀ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd643	‘ପଟ୍ଟୁମଲା\N_NNP ’\RD_PUNC ,\RD_PUNC ନାମର\N_NN ତାତ୍ପର୍ଯ୍ୟ\N_NN ଏହା\DM_DMD ଅଟେ\V_VM_VF ଯେ\CC_CCD ସବୁଜିମା\JJ ଭରା\N_NN ପାହାଡ\N_NN ଯାହା\PR_PRL ଏପରି\PR_PRL ଲାଗେ\N_NN ଯେମିତି\PR_PRL କି\RP_RPD ସବୁଜରଙ୍ଗର\N_NN ରେଶମରେ\N_NN ଢାଙ୍କି\V_VM_VNF ହୋଇଛି\V_VM_VF ।\RD_PUNC
+htd644	ପୀରୁମେଡୁରେ\N_NNP ଅବସ୍ଥିତ\JJ ପଟ୍ଟୁମଲାର\N_NNP ସୌନ୍ଦର୍ଯ୍ୟ\N_NN ଅଲୌକିକ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd645	ପଟ୍ଟୁମାଲା\N_NNP ନିଜର\PR_PRF ସୌନ୍ଦର୍ଯ୍ୟରେ\N_NN ପୃଥିବୀକୁ\N_NNP ଭୁଲାଇ\V_VM_VNF ଦେଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd646	ପଟ୍ଟୁମାଲାର\N_NNP ସବୁଜିମାଭରା\JJ ପାହାଡର\N_NN ଶୀର୍ଷରେ\N_NST ଅବସ୍ଥିତ\JJ ବେଲାକଂଣୀ-ମାତା-ଚର୍ଚ୍ଚ\N_NNP ଗୋଟିଏ\RP_CL ପ୍ରସିଦ୍ଧ\JJ ତୀର୍ଥସ୍ଥାନ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd647	ଚର୍ଚ୍ଚର\N_NN ସମ୍ପୂର୍ଣ୍ଣ\PR_PRC ନିକଟରେ\N_NST ଗୋଟିଏ\RP_CL ସୁନ୍ଦର\JJ ଉଦ୍ୟାନ\N_NN ମଧ୍ୟ\RP_RPD ଅଛି\V_VM_VF ।\RD_PUNC
+htd648	ବଣ୍ତନମେଡୁ\N_NNP ପୃଥିବୀ\N_NNP ପ୍ରସିଦ୍ଧ\JJ ଅଳେଇଚ\N_NN ବିକ୍ରୟ\N_NNV କେନ୍ଦ୍ର\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd649	ବଣ୍ତନମେଡୁରେ\N_NNP ଥିବା\V_VM_VNF ନୀଲାମ୍‌\N_NNP କେନ୍ଦ୍ରରେ\N_NN ସାରା\PR_PRC ପୃଥିବୀର\N_NNP ବେପାରୀମାନଙ୍କର\N_NN ଭିଡ\N_NN ଲାଗିଥାଏ\V_VM_VF ।\RD_PUNC
+htd650	ଇଡୁକ୍କି\N_NNP ଘନ\JJ ଜଂଗଲ\N_NN ତଥା\CC_CCD ଘାସର\N_NN ଗାଲିଚା\N_NN ସଂଯୁକ୍ତ\N_NNV ବନପ୍ରଦେଶ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd651	ତଟେକ୍କାଡୁ\N_NNP ଇଡୁକ୍କି\N_NNP ଜିଲ୍ଲାର\N_NN ଦେବୀକୁଳମ୍‌\N_NNP ତହସିଲ୍‌ର\N_NN ଅନ୍ତର୍ଗତ\N_NN ଆସିଥାଏ\V_VM_VF ।\RD_PUNC
+htd652	ତଟେକ୍କାଡୁ\N_NNP ଇଡୁକ୍କିରେ\N_NNP ପାଖାପାଖି\N_NN ୫୦୦\QT_QTC ପ୍ରକାରର\N_NN ଦୁର୍ଲ୍ଲଭ\JJ ପକ୍ଷୀ\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଆନ୍ତି\V_VM_VF ।\RD_PUNC
+htd653	ତେଣୁ\CC_CCS କେରଳ\N_NNP ସରକାର\N_NN ଏହି\DM_DMD କ୍ଷେତ୍ରର\N_NN ପ୍ରସିଦ୍ଧ\JJ ପକ୍ଷୀ\N_NN ନିରୀକ୍ଷକ\N_NN ଡା.ସଲିମ୍‌\N_NNP ଅଲ୍ଲୀଙ୍କ\N_NN ନାମରେ\N_NN ପକ୍ଷୀ\N_NN ଅଭୟାରଣ୍ୟ\N_NN ଗଠନ\N_NNV କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd654	ତଟେକ୍କାଡୁ\N_NNP ଇଡୁକ୍କିର\N_NNP ପକ୍ଷୀ\N_NN ଅଭୟାରଣ୍ୟ\N_NN ପୃଥିବୀ\N_NNP ପ୍ରସିଦ୍ଧ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd655	ତଟେକ୍କାଡୁ\N_NNP ଇଡୁକ୍କି\N_NNP କୋଚି\N_NNP ନଗରରୁ\N_NN ୫୮\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd656	ତଟେକ୍କ୍କାଡୁ\N_NNP ପେରିୟାର\N_NNP ନଦୀର\N_NN ଦୁଇ\QT_QTC ଧାରର\N_NN ମଧ୍ୟଭାଗରେ\PR_PRC ଅବସ୍ଥିତ\V_VM_VF ୨୫\QT_QTC ବର୍ଗ\N_NN କି.ମି.\N_NN କ୍ଷେତ୍ରଫଳ\QT_QTF ବିଶିଷ୍ଟ\RP_INTF ଏକ\QT_QTC ଦ୍ଵୀପ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd657	ତଟେକ୍କାଡୁରେ\N_NNP ପକ୍ଷୀଗୁଡିକର\N_NN ବହୁବିଧ\N_NN କିସମ\N_NN ବ୍ୟତୀତ\CC_CCD ୨୮\QT_QTC ପ୍ରକାର\N_NN ପଶୁ\N_NN ,\RD_PUNC ବୃହତାକାର\JJ ବୃକ୍ଷ\N_NN ,\RD_PUNC ନଅ\QT_QTC ପ୍ରକାରର\N_NN ସରୀସୃପ\N_NN ଇତ୍ୟାଦି\RP_RPD ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd658	ଇଡୁକ୍କି\N_NNP ବନ୍ୟଜନ୍ତୁ\N_NN ଅଭୟାରଣ୍ୟ\N_NN ସମୁଦ୍ର\N_NN ପତନଠାରୁ\PSP ୪୫୦-୭୪୮\QT_QTC ମିଟର\N_NN ଉଚ୍ଚତାରେ\QT_QTF ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd659	ଇଡୁକ୍କି\N_NNP ବନ୍ୟଜନ୍ତୁ\N_NN ଅଭୟାରଣ୍ୟ\N_NN ୭୭\QT_QTC ବର୍ଗ\N_NN କି.ମି.\N_NN କ୍ଷେତ୍ରମଧ୍ୟରେ\PR_PRC ପରିବ୍ୟାପ୍ତ\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd660	ଇଡୁକ୍କି\N_NNP ବନ୍ୟଜନ୍ତୁ\N_NN ଅଭୟାରଣ୍ୟ\N_NN ତୋଡୁପୁଷା\N_NNP ଏବଂ\CC_CCD ଉଡୁମ୍ବନଚୋଲା\N_NNP ତହସିଲ୍\N_NN ମଧ୍ୟରେ\PR_PRC ଆସିଥାଏ\V_VM_VF ।\RD_PUNC
+htd661	ଇଡୁକ୍କି\N_NNP ବନ୍ୟଜନ୍ତୁ\N_NN ଅଭୟାରଣ୍ୟ\N_NN ପେରିୟାର୍‌\N_NNP ଏବଂ\CC_CCD ଚେରୁତୋଣିପୁଷ୍ପାର\N_NNP ମଧ୍ୟବର୍ତ୍ତୀ\PR_PRC ବନପ୍ରଦେଶ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd662	ପେରିୟାର୍‌\N_NNP ଏବଂ\CC_CCD ଚେରୁତୋଣିପୁଷା\N_NNP ବନପ୍ରଦେଶ\N_NN ଏହି\DM_DMD ଅଞ୍ଚଳର\N_NN ଚିରହରିତ୍‌\JJ ଅରଣ୍ୟ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd663	ପେରିୟାର୍‌\N_NNP ଏବଂ\CC_CCD ଚେରୁତୋଣିପୁଷାରେ\N_NNP ଜଙ୍ଗଲୀ\JJ ବାର୍‌ହା\N_NN ,\RD_PUNC ବ୍ୟାଘ୍ର\N_NN ଇତ୍ୟାଦି\RP_RPD ପଶୁ\N_NN ବସବାସ\N_NN କରିଥାନ୍ତି\V_VM_VF ।\RD_PUNC
+htd664	ନାଗ\N_NN ,\RD_PUNC ଗୋଖର\N_NN ,\RD_PUNC ଚିତ୍ତିସାପ\N_NN ,\RD_PUNC ମଇନା\N_NN ,\RD_PUNC ବାଈଚଢେଇ\N_NN ,\RD_PUNC କାଠହଣା\N_NN ,\RD_PUNC ଶୁଆ\N_NN ଇତ୍ୟାଦି\RP_RPD ମଧ୍ୟ\RP_RPD ବଣରେ\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳେ\V_VM_VNF ।\RD_PUNC
+htd665	ଇଡୁକ୍କି\N_NNP ବନ୍ୟଜନ୍ତୁ\N_NN ଅଭୟାରଣ୍ୟ\N_NN ଇଡୁକ୍କି\N_NNP ବନ୍ଧର\N_NN ନିକଟରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd666	ପେରିୟାର୍‌ରୁ\N_NNP ନୌକା\N_NN ଯାତ୍ରାର\V_VM_VNF ମଧ୍ୟ\RP_RPD ବ୍ୟବସ୍ଥା\N_NN ଅଛି\V_VM_VF ।\RD_PUNC
+htd667	ବଣ୍ତିପ୍ପେରିୟାର୍‌\N_NNP ପ୍ରକୃତି\N_NN ସମୃଦ୍ଧ\JJ ପ୍ରଦେଶ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd668	ବଣ୍ତିପ୍ପେରିୟାରରେ\N_NNP ଚାହା\N_NN ,\RD_PUNC କଫି\N_NN ,\RD_PUNC ଗୋଲମରିଚ\N_NN ଆଦି\RP_RPD ଚାଷ\N_NN କରାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd669	ବଣ୍ତିପ୍ପେରିୟାରର\N_NNP ମଝିରେ\PR_PRC ମଝିରେ\PR_PRC ପେରିୟାର୍‌\N_NNP ନଦୀ\N_NN ପ୍ରବାହିତ\JJ ହେଉଅଛି\V_VM_VF ।\RD_PUNC
+htd670	ବଣ୍ତିପ୍ପେରିୟାର୍‌ରେ\N_NNP ସରକାରୀ\JJ କୃଷି\N_NN ଉଦ୍ୟାନ\N_NN ଏବଂ\CC_CCD ପୁଷ୍ପ\N_NN ଉଦ୍ୟାନ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd671	ବଣ୍ତିପ୍ପେରିୟାର୍‌\N_NNV ପାହାଡିଆ\JJ ଫଳ-ଫୁଲ\N_NN ,\RD_PUNC କନ୍ଦ-ମୂଳ\N_NN ଇତ୍ୟାଦିର\RP_RPD କେନ୍ଦ୍ର\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd672	ପ୍ରଶାନ୍ତ\JJ ସୁନ୍ଦର\JJ ବାତାବରଣ\N_NN ଏବଂ\CC_CCD ସୁଶୀତଳ\JJ ପବନ\N_NN ସଂଯୁକ୍ତ\N_NN ଭ୍ରମଣ\N_NNV କେନ୍ଦ୍ର\N_NN ହେଉଛି\V_VM_VF ରାମକ୍କଲ୍ମେଡୁ\N_NNP ।\RD_PUNC
+htd673	ପାହାଡ\N_NN ଉପରେ\N_NST କମ୍ବମ\N_NNP ,\RD_PUNC ବୋଡି\N_NNP ଇତ୍ୟାଦି\RP_RPD ସୁଦୂରର\N_NN ଦୃଶ୍ୟ\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd674	ରାମକ୍କଲ୍ମେଡୁ\N_NNP ଇଡୁକ୍କିଠାରୁ\N_NNP ୪୫\QT_QTC କି.ମି.\N_NN ତଥା\CC_CCD ମୁନ୍ନାରରୁ\N_NN ୭୫\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd675	ସକାଳ\N_NST ୯.୩୦ରେ\QT_QTC ମୁନ୍ନାରରୁ\N_NNP ବାହାରି\V_VM_VNF ୧୦.୩୦ରେ\QT_QTC କୋଟ୍ଟ୍ୟମ\N_NNP ଏବଂ\CC_CCD ୯.୩୦ରେ\QT_QTC ଏର୍ଣ୍ଣାକୁଲମ୍‌ରୁ\N_NNP ରାମକ୍କଲ୍ମେଡୁର\N_NNP ଉଦ୍ଦେଶ୍ୟରେ\N_NN ବସ୍‌\N_NN ଗୁଡିକ\PSP ଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd676	ପଲ୍ଲିକ୍କୁନ୍ନୁରେ\N_NNP ‘ସହ୍ୟାଦ୍ରି’\CC_CCS_UT ନାମକ\N_NN ପ୍ରସିଦ୍ଧ\JJ ଆୟୁର୍ବେଦ\N_NN କେନ୍ଦ୍ର\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd677	ସହ୍ୟାଦ୍ରି\N_NNP ଆୟୁର୍ବେଦ\N_NN କେନ୍ଦ୍ର\N_NN ପୀରୁମେଡୂ\N_NNP ବିକାଶ\N_NN ସମିତିର\N_NN ଅଧିନରେ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd678	ସହ୍ୟାଦ୍ରି\N_NNP ଆୟୁର୍ବେଦ\N_NNP କେନ୍ଦ୍ର\N_NN ପାଖରେ\N_NST ଔଷଧୀୟ\JJ ବୃକ୍ଷଲତାର\N_NN ଏକ\QT_QTC ଉଦ୍ୟାନ\N_NN ଅଛି\V_VM_VF ଯେଉଁ\PR_PRL ଉଦ୍ୟାନରେ\N_NN ଚିକିତ୍ସା\N_NN ପାଇଁ\PSP ଆବଶ୍ୟକୀୟ\JJ ତୃଣଲତାଦି\N_NN ଲଗାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd679	ସହ୍ୟାଦ୍ରି\N_NNP ଆୟୁର୍ବେଦ\N_NN କେନ୍ଦ୍ରରେ\N_NN ବିଭିନ୍ନ\JJ ରୋଗୀଙ୍କର\N_NN ଚିକିତ୍ସା\N_NN ବ୍ୟତୀତ\PSP ସୁଖ\N_NNP ଚିକିତ୍ସା\N_NNP ଅର୍ଥାତ୍‍\CC_CCD ସ୍ଵାସ୍ଥ୍ୟବର୍ଦ୍ଧନ\JJ ଚିକିତ୍ସାର\N_NN ମଧ୍ୟ\RP_RPD ବ୍ୟବସ୍ଥା\N_NN କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd680	କେରଳର\N_NNP ପେରିୟାର୍‌\N_NNP ବନ୍ୟଜନ୍ତୁ\N_NN ଅଭୟାରଣ୍ୟ\N_NN ପାଇଁ\PSP ଗର୍ବ\N_NN କରାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd681	ପେରିୟାର୍‌\N_NNP ବନ୍ୟଜନ୍ତୁ\N_NN ଅଭୟାରଣ୍ୟରେ\N_NN ପେରିୟର୍‌\N_NNP ପୁଷ୍କରିଣୀର\N_NN କୂଳରେ\PSP ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd682	ପଶ୍ଚିମ\N_NNP ଘାଟରେ\N_NN ଅବସ୍ଥିତ\V_VM_VNF ପେରିୟାର୍‌\N_NN ବନ୍ୟଜନ୍ତୁ\N_NN ଅଭୟାରଣ୍ୟର\N_NN ଏହି\DM_DMD ଭୂଭାଗ\N_NN ଅଦ୍ଭୁତ\JJ ସବୁଜିମା\N_NN ଭରା\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd683	ଏଠାରେ\DM_DMD ହାତୀ\N_NN ,\RD_PUNC ହରିଣ\N_NN ,\RD_PUNC ବାଘ\N_NN ,\RD_PUNC ଛୋଟ\JJ ଲାଞ୍ଜ\N_NN ଥିବା\V_VM_VNF ମାଙ୍କଡ\N_NN ଇତ୍ୟାଦି\RP_RPD ଜୀବଜନ୍ତୁ\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd684	ଏଠାରେ\DM_DMD ନଦୀରେ\N_NN ନୌକା\N_NN ବିହାର\N_NN କରିବା\V_VM_VNF ସମୟରେ\N_NN ତଟଦେଶରେ\N_NN ଥିବା\V_VM_VNF ଘନ\JJ ଘାସପଡିଆରେ\N_NN ଚରୁଥିବା\V_VM_VNF ହାତୀପଲ\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd685	ତେକ୍କାଡି\N_NNP ବଣରେ\N_NN ଟ୍ରାକିଂଗ୍‌\N_NN ଦ୍ଵାରା\PSP ଜଙ୍ଗଲର\N_NN ମଧ୍ୟଭାଗରେ\PSP ଥିବା\V_VM_VNF ପଥର\N_NN ମନ୍ଦିର\N_NN (ମଂଗଳା\N_NNP ଦେବୀ\N_NN ମନ୍ଦିର)\N_NN ରେ\PSP ପହଂଚି\V_VM_VNF ପାରିବେ\V_VM_VNF ।\RD_PUNC
+htd686	ଜଙ୍ଗଲୀ\JJ ହାତୀମାନଙ୍କର\N_NN ଫଟୋ\N_NN ଉଠାଇବା\V_VM_VNF ପାଇଁ\PSP ତେକ୍କଡି\N_NNP ସବୁଠାରୁ\RP_INTF ଉପଯୁକ୍ତ\JJ ସ୍ଥାନ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd687	ତେକ୍କଡିରେ\N_NNP ଦୁଇଟି\RP_CL ସଂସ୍ଥା\N_NN ସରୋବର\N_NN କୂଳରେ\N_NN ରହିବାର\V_VM_VNF ସୁବିଧା\N_NN ପ୍ରଦାନ\N_NNV କରିଥାନ୍ତି-\V_VM_VF ତୀରୁବିତାଙ୍କୁର୍‌\N_NNP ମହାରାଜାଙ୍କର\N_NN ଗ୍ରୀଷ୍ମକାଳୀନ\JJ ବଙ୍ଗଳା\N_NN ‘ଲେକ୍‌\N_NNP ପ୍ୟାଲେସ୍‌\N_NN ’\RD_PUNC ଏବଂ\CC_CCD ଅରଣ୍ୟନିବାସ\N_NN ।\RD_PUNC
+htd688	ଲେକ୍‌\N_NNP ପ୍ୟାଲେସ୍‌\N_NN ଅରଣ୍ୟନିବାସ\N_NN ସରୋବର\N_NN କୂଳରେ\N_NN ଗୋଟିଏ\RP_CL ଛୋଟ\JJ ଦ୍ୱୀପମଧ୍ୟରେ\N_NN ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd689	ଉଭୟ\PR_PRC ଏବେ\DM_DMD କେ.ଟୀ.ଡୀ.ସୀ.\N_NNP ର\PSP ଅଧିନରେ\N_NN ଅଛନ୍ତି\V_VM_VF ।\RD_PUNC
+htd690	ତ୍ରୀଶଙ୍କୁମଲାର\N_NNP ପାର୍ବତୀୟ\JJ ଅଞ୍ଚଳ\N_NN ଅତ୍ୟନ୍ତ\RP_INTF ରମଣୀୟ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd691	ତ୍ରୀଶଙ୍କୁମଲାରେ\N_NNP ମନ୍ତ୍ରମୁଗ୍ଧ\N_NNV କରିପାରୁଥିବା\V_VM_VNF ସୁଷମା\N_NN ବିଚ୍ଛୁରିତ\JJ ହୋଇ\V_VM_VNF ରହିଛି\V_VM_VF ।\RD_PUNC
+htd692	ତ୍ରୀଶଙ୍କୁମଲାରେ\N_NNP ପାହାଡ଼\N_NN ଉପରେ\PSP ସୂର୍ଯ୍ୟାସ୍ତର\N_NN ଦର୍ଶନ\N_NNV କରିବା\V_VM_VNF ସାକ୍ଷାତ୍‍\N_NN ସୌନ୍ଦର୍ଯ୍ୟର\N_NN ଦର୍ଶନ\N_NNV କରିବା\V_VM_VNF ସହିତ\PSP ସମାନ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd693	କିନ୍ତୁ\CC_CCD ତ୍ରୀଶଙ୍କୁମଲାର\N_NNP ତଳକୁ\PSP ଚାହିଁବାକୁ\V_VM_VINF ହେଲେ\V_VM_VNF ସାହସ\N_NN ଦରକାର\V_VM_VF ।\RD_PUNC
+htd694	ତ୍ରୀଶଙ୍କୁମଲାରେ\N_NNP ମନ୍ଦମନ୍ଦ\JJ ମଳୟର\N_NN ରେଶମୀ\JJ ସ୍ପର୍ଶର\N_NN ଆନନ୍ଦ\N_NN ଉଠାଇବା\V_VM_VNF ସହିତ\PSP ଅରଣ୍ୟାଞ୍ଚଳ\N_NN ମଧ୍ୟରେ\PR_PRC ଭ୍ରମଣ\N_NNV କରୁଥିବା\V_VM_VNF ସମୟରେ\N_NN ଅନିର୍ବଚନୀୟ\JJ ଅନୁଭବ\N_NN ଜାତ\N_NN ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd695	ତ୍ରୀଶଙ୍କୁମଲା\N_NNP ପୀରୁମେଡୁରୁ\N_NNP ୪\QT_QTC କି.ମି.\N_NN ଏବଂ\CC_CCD କଟ୍ଟୀକାନମରୁ\N_NNP ଅଧା\JJ କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd696	କୁହାଯାଇଥାଏ\V_VM_VF ଯେ\CC_CCD ପୀରୁ\N_NNP ମହମ୍ମଦ\N_NNP ନାମକ\N_NN ସୁଫି\N_NN ସନ୍ଥଙ୍କ\N_NN ନାମାନୁଯାୟୀ\JJ ଏହି\DM_DMD ପାହାଡିଆ\JJ ଅଞ୍ଚଳ\N_NN ପୀରୁମଲା\N_NNP ନାମରେ\N_NN ପ୍ରସିଦ୍ଧ\JJ ହୋଇଯାଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd697	ଏହା\DM_DMD ଯାଯାବର\N_NN ଏବଂ\CC_CCD ଟ୍ରେକିଂଗ-\N_NN ପ୍ରତି\N_NN ଋଚିଥିବା\V_VM_VNF ଭ୍ରମଣକାରୀ\N_NN ମାନଙ୍କର\N_NN ପ୍ରିୟ\JJ ସ୍ଥାନ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd698	ତିରୁବନନ୍ତପୁରମ୍‌\N_NNP ରେଲ୍‌ଓ୍ୱେ\N_NN ଷ୍ଟେସନ୍‌\N_NN ଠାରୁ\PSP କିଲିମାନୁର୍‌\N_NNP ରାଜପ୍ରସାଦ\N_NN ୩୯\QT_QTC କି.ମି.\N_NN ଦୂର\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd699	ତିରୁବନନ୍ତପୁରମ୍‌\N_NNP ଅନ୍ତର୍ରାଷ୍ଟୀୟ\JJ ବିମାନ\N_NN ବନ୍ଦରଠାରୁ\N_NN କିଲିମାନୁର୍‌\N_NNP ରାଜପ୍ରସାଦ\N_NN ୪୬\QT_QTC କି.ମି.\N_NN ଦୂର\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd700	ପିରୁମଲାର\N_NNP ସୁଫି\JJ ମକ୍‌ବରା\N_NN ,\RD_PUNC ଦୀବାନ\JJ ଭବନ\N_NN ,\RD_PUNC ରାଜ\JJ ପରିବାରର\N_NN ସଦସ୍ୟ\N_NN ମାନଙ୍କର\N_NN ଗ୍ରୀଷ୍ମକାଳୀନ\JJ ପ୍ରସାଦ\N_NN ଇତ୍ୟାଦି\RP_RPD ଦେଖିବା\V_VM_VNF ଭଳି\N_NN ଜିନିଷ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd701	ପୀରୁମଲା\N_NNP ପୀରୁମେଡୁଠାରୁ\N_NNP ୪\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଏବଂ\CC_CCD କୂଟ୍ଟୀକ୍କାନମଠାରୁ\N_NNP ଗୋଟିଏ\RP_CL କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd702	ପୀରୁମଲା\N_NNP କୋଟ୍ଟୟମ\N_NNP ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN ଠାରୁ\PSP ୭୫\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd703	ପୀରୁମଲାର\N_NNP ନିକଟତମ\JJ ବିମାନବନ୍ଦର\N_NN କୋଚ୍ଚି\N_NNP ଅନ୍ତର୍ରାଷ୍ଟୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ୧୮୦\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd704	ବାଗାମଣ୍‌ର\N_NNP ବିଷୟରେ\N_NN ଅସଂଖ୍ୟ\QT_QTF କଥା-କାହାଣୀ\N_NN ପ୍ରଚଳିତ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd705	ବାଗାମଣ୍‍\N_NNP କ୍ଷେତ୍ରର\N_NN ଅନୁପମ\JJ ସୌନ୍ଦର୍ଯ୍ୟର\N_NN ଦର୍ଶନ\N_NNV ଏବଂ\CC_CCD ଶ୍ରବଣ\N_NNV ଉଭୟକୁ\PR_PRC ରସାସ୍ଵାଦନ\N_NNV ଦେଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd706	ଏପରି\DM_DMD ପ୍ରତୀତ\N_NN ହୋଇଥାଏ\V_VM_VF ଯେପରି\CC_CCS ସବୁଜିମାର\N_NN ଆବରଣ\N_NN ନେଇ\V_VM_VNF ଶୋଇରହିଥିବା\V_VM_VNF ପାହାଡର\N_NN ଅବ୍ୟକ୍ତ\JJ ସୌନ୍ଦର୍ଯ୍ୟର\N_NN ଦୃଶ୍ୟାବଳୀ\N_NN ଅନାୟାସରେ\N_NN ପ୍ରକଟିତ\JJ ହୋଇଯାଇଛି\V_VM_VF ।\RD_PUNC
+htd707	ବାଗାମଣ୍‌ରେ\N_NNP ଠିଆ\N_NN ହୋଇ\V_VM_VNF ଏହି\DM_DMD ସବୁଜିମାର\N_NN ଦର୍ଶନ\N_NNV କରୁଥିବା\V_VM_VNF ଲୋକ\N_NN ସହିତ\PSP ଏହି\DM_DMD ପ୍ରଦେଶରେ\N_NN ସୌନ୍ଦର୍ଯ୍ୟର\N_NN ଧିରେଧିରେ\JJ ଅନାବରଣ\N_NN ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd708	ବାଗାମଣର\N_NNP ପାଖରେ\PSP ଏପରି\DM_DMD ପାହାଡ\N_NN ରହିଛି\V_VM_VF ଯେଉଁଠାରେ\PR_PRL ମୁସଲିମ୍‌\N_NN ତଂଗଲର\N_NN ମକବରା\N_NN ରହିଛି\V_VM_VF ,\RD_PUNC ହିନ୍ଦୁ\N_NN ଧର୍ମାବଲମ୍ବୀମାନଙ୍କର\N_NN ମନ୍ଦିର\N_NN ରହିଛି\V_VM_VF ,\RD_PUNC କ୍ରୁସ୍‌\N_NNP ପାହାଡ\N_NN ନାମରେ\N_NN ପରିଚିତ\N_NN ଈସାଈ\N_NNP ଗୀର୍ଜା\N_NN ଘର\N_NN ମଧ୍ୟ\RP_RPD ଅଛି\V_VM_VF ।\RD_PUNC
+htd709	ବାଗାମଣ୍‌ରେ\N_NNP ଢାଲୁ\N_NN ଉପରେ\PSP ପାଇନ୍‌\N_NN ଜଙ୍ଗଲ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd710	ଚର୍ଚ୍ଚ\N_NNP ଅର୍ନ୍ତଗତ\N_NN ଡାୟରି-ଫାର୍ମ\N_NNP ମଧ୍ୟ\RP_RPD ଦର୍ଶନୀୟ\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd711	ବାଗାମଣ୍‍\N_NNP ପୀରୁମେଡୁର୍‌\N_NNP ୨୫\QT_QTC କି.ମି.\QT_QTF ଦୂର\RB ଅଟେ\V_VM_VF ।\RD_PUNC ବାଗାମଣ୍‌କୁ\N_NNP ବସ୍‌ରେ\N_NN ଯାଇପାରିବେ\V_VM_VF ।\RD_PUNC
+htd712	ବାଗାମଣ୍‌ର\N_NNP ନିକଟତମ\N_NST ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ୍‌\N_NN କୋଟ୍ଟୟମ୍‌\N_NNP ୧୦୦\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd713	ବାଗାମଣ୍‌ର\N_NNP ନିକଟତମ\N_NST ବିମାନବନ୍ଦର\N_NN କୋଚି\N_NNP ଅନ୍ତର୍ରାଷ୍ଟୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ୧୭୫\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ରହିଛି\V_VM_VF ।\RD_PUNC
+htd714	ମୁନ୍ନାରରୁ\N_NNP ୪୫\QT_QTC କି.ମି.\N_NN ପୂର୍ବରେ\N_NST ଅବସ୍ଥିତ\JJ ବଟ୍ଟାବଡା\N_NNP ନାମକ\N_NN ଏକ\QT_QTC ଗ୍ରାମ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd715	ବଟ୍ଟାବଡା\N_NNP ସ୍ୱକୀୟ\JJ ପ୍ରାକୃତିକ\JJ ସୌନ୍ଦର୍ଯ୍ୟ\N_NN ଏବଂ\CC_CCD ଶାନ୍ତ\JJ ବାତାବରଣ\N_NN ପାଇଁ\PSP ପ୍ରସିଦ୍ଧ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd716	ବଟ୍ଟାବଡାରେ\N_NNP ପର୍ଯ୍ୟଟକମାନଙ୍କୁ\N_NN ଆକର୍ଷିତ\JJ କରିବା\V_VM_VNF ପାଇଁ\PSP ବିଭିନ୍ନ\N_NN ସ୍ଥାନ\N_NN ଏପର୍ଯ୍ୟନ୍ତ\N_NN ସଂପୂର୍ଣ୍ଣ\PR_PRC ରୂପେ\V_VM_VNF ଦୃଷ୍ଟି\N_NN ଆକର୍ଷଣ\N_NNV କରିନାହିଁ\V_VM_VF ।\RD_PUNC
+htd717	ଯେପରିଭାବେ\CC_CCS ମୁନ୍ନାର୍‌\N_NNP ଚାହା\N_NN ବଗିଚା\N_NN କାରଣରୁ\RP_RPD ମନୋହର\JJ ଅଟେ\V_VM_VF ,\RD_PUNC ସେହିପରି\DM_DMD ବଟ୍ଟାବଡା\N_NNP ନିଜର\PR_PRF ବାନସ୍ପତିକ\JJ ଉଦ୍ୟାନ\N_NN ପାଇଁ\PSP ଦର୍ଶନୀୟ\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd718	ବଟ୍ଟାବଡା\N_NNP ସମୁଦ୍ରପତନ\N_NN ଠାରୁ\PSP ୬୫୦୦\QT_QTC ଫୁଟ୍‍\N_NN ଉଚ୍ଚାରେ\N_NN ଅବସ୍ଥିତ\V_VM_VF ପୁଣି\CC_CCD ବଟ୍ଟାବଡାରେ\N_NNP ଶୀତଦିନରେ\N_NN ମଧ୍ୟ\RP_RPD ପ୍ରବଳ\RP_INTF ଥଣ୍ତା\N_NN ହୋଇନଥାଏ\V_VM_VF ।\RD_PUNC
+htd719	ବଟ୍ଟାବଡାରେ\N_NNP ପାହାଡର\N_NN ଗଡାଣିଆ\JJ ସ୍ଥାନକୁ\N_NN ସମତଳ\N_NN କରି\V_VM_VNF ପନିପରିବା\N_NN ଚାଷ\N_NN କରାଯାଉଥିବାର\V_VM_VNF ଦେଖିବାକୁ\V_VM_VINF ମିଳୁଛି।\V_VM_VF
+htd720	ବଟ୍ଟାବଡାରେ\N_NNP ବିଭିନ୍ନ\N_NN ପ୍ରକାରର\N_NN ପ୍ରଜାପତି\N_NN ଏବଂ\CC_CCD ପକ୍ଷୀ\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାନ୍ତି\V_VM_VF ।\RD_PUNC
+htd721	ବଟ୍ଟାବଡାରୁ\N_NNP ହିଁ\RP_RPD କୋଡାଇକେନାଲ\N_NNP ,\RD_PUNC ଟୋପ\N_NNP ଷ୍ଟେସନ\N_NN ,\RD_PUNC ମାଟ୍ଟୁପୋଟ୍ଟୀ\N_NNP ,\RD_PUNC କାନ୍ତଲ୍ଲୁର\N_NNP ,\RD_PUNC ମୀଶପ୍ପୁଲିମଲା\N_NNP ପର୍ଯ୍ୟନ୍ତ\PSP ଅରଣ୍ୟ\N_NN ମଧ୍ୟରେ\PR_PRC ଯାତ୍ରା\N_NNV କରାଯାଇପାରେ\V_VM_VNF ।\RD_PUNC
+htd722	ଏଥିପାଇଁ\CC_CCD ଜିପ୍‌\N_NNP କିମ୍ବା\CC_CCD ମୋଟର୍‌\N_NN ସାଇକେଲରେ\N_NN ମଧ୍ୟ\RP_RPD ଯାତ୍ରା\N_NNV କରିହେବ\V_VM_VF ।\RD_PUNC
+htd723	ବଟ୍ଟାବଡା\N_NNP ତଥା\CC_CCD ଜଂଗଲରେ\N_NN ତମ୍ବୁ\N_NN ପକାଇବା\V_VM_VNF ପାଇଁ\PSP ବେସରକାରୀ\N_NN ସଂସ୍ଥାଗୁଡ଼ିକର\N_NN ସେବା\N_NN ମଧ୍ୟ\RP_RPD ଉପଲଲବ୍ଧ\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd724	ବଟ୍ଟାବଡା\N_NNP ମୁନ୍ନାର୍‌\N_NNP ଠାରୁ\PSP ସଡକ\N_NN ପଥରେ\N_NN ୪୫\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd725	ବଟ୍ଟାବଡା\N_NNP ଠାରୁ\PSP ୧୭୫\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଥିବା\V_VM_VNF ନିକଟତମ\N_NST ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN ଏର୍ଣ୍ଣାକୂଲମ୍‌\N_NNP ଜଂକସନ୍\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd726	କୋଚି\N_NNP ଅନ୍ତଃରାଷ୍ଟୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ବଟ୍ଟାବଡାରୁ\N_NNP ୧୫୫\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd727	ଆରଲ୍ଲମ\N_NNP ଗୋଟିଏ\RP_CL ବନ୍ୟଜୀବ\N_NN ଅଭୟାରଣ୍ୟ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd728	ଆରଲ୍ଲମ୍‌\N_NNP ସହ୍ୟାଦ୍ରୀ\N_NNP ଗଡ଼ାଣିଆ\JJ ଅଞ୍ଚଳ\N_NN ଉପରେ\PSP ୫୫\QT_QTC ବର୍ଗ\N_NN କି.ମି.\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ବିସ୍ତାରିତ\JJ ହୋଇଅଛି\V_VM ।\RD_PUNC
+htd729	ଆରଲ୍ଲମ୍‌ରେ\N_NNP ହରିଣ\N_NN ,\RD_PUNC ହାତୀ\N_NN ,\RD_PUNC ଗୟଳ\N_NN ,\RD_PUNC ଜଂଗଲି\JJ ଶୁଆ\N_NN ଇତ୍ୟାଦି\RP_RPD କିଛି\RP_INTF ମାତ୍ରାରେ\N_NN ବସବାସ\N_NNV କରନ୍ତି\V_VM_VF ।\RD_PUNC
+htd730	ଚୀତାବାଘ\N_NNP ,\RD_PUNC ବଣୁଆ\JJ ବିଲେଇ\N_NN ତଥା\CC_CCD ବିଭିନ୍ନ\QT_QTF ପ୍ରକାରର\N_NN ଗୁଣ୍ଡୁଚି\N_NN ମୂଷା\N_NN ଇତ୍ୟାଦି\RP_RPD କେବେକେବେ\JJ ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd731	୩୦୬୦\QT_QTC ହେକ୍ଟର\N_NN ପରିମିତ\JJ ‘ଆରଲ୍ଲମ\N_NNP ଫାର୍ମ\N_NN ’\RD_PUNC ଏହାର\DM_DMD ପାଖରେ\PSP ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd732	ଆରଲ୍ଲମ୍‌\N_NNP ତଳଶ୍ସେରୀରୁ\N_NNP ୩୫\QT_QTC କି.ମି.\N_NN ଏବଂ\CC_CCD କଣ୍ଣୁର୍‌\N_NNP ଟାଉନ୍‌ରୁ\N_NN ୬୦\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd733	ଆରଲ୍ଲମ୍‌ରୁ\N_NNP ନିକଟତମ\JJ ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN ତଲ୍‌ଶେରୀ\N_NNP ଅଟେ\V_VM_VF ।\RD_PUNC
+htd734	ଆରଲ୍ଲମ\N_NNP ଠାରୁ\PSP ନିକଟତମ\JJ ବିମାନବନ୍ଦର\N_NN କରୀପ୍ପୁର\N_NNP ବିମାନବନ୍ଦର\N_NN ତଳଶ୍ସେରୀରୁ\N_NNP ୭୧\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd735	ଉତ୍ତର\JJ କେରଳର\N_NNP ଏହି\DM_DMD ଭାଗରେ\N_NN ‘କବ୍ବାଇ\N_NNP ’\RD_PUNC ନାମରେ\N_NN ବେଶ୍‌\RP_INTF ଜଣାଶୁଣା\JJ ହ୍ରଦ\N_NN ଅନୁପମ\JJ ଶୋଭା\N_NN ପ୍ରଦାନ\N_NNV କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd736	କବ୍ବାଇ\N_NNP ଏବଂ\CC_CCD କାଙ୍କୋଲ୍‌\N_NNP ,\RD_PUNC ବର୍ଣ୍ଣାତ୍ତୀଚ୍ଚାଲ୍‌\N_NNP ,\RD_PUNC କୂପ୍ପିତ୍ତୋଡୂ\N_NNP ,\RD_PUNC କୂନିୟନ୍‌\N_NNP ଇତ୍ୟାଦି\RP_RPD ତରଙ୍ଗମୟ\JJ ହ୍ରଦର\N_NN ରୂପ\N_NN ଗ୍ରହଣ\N_NNV କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd737	କବ୍ବାଇ\N_NNP ହ୍ରଦ\N_NN ୩୭\QT_QTC ବର୍ଗ\N_NN କି.ମି.\N_NN ଲମ୍ବା\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd738	ହ୍ରଦର\N_NN ସୌନ୍ଦର୍ଯ୍ୟର\N_NN ପରିପୂର୍ଣ୍ଣ\PR_PRC ଆନନ୍ଦ\N_NN ପାଇଁ\PSP କୋଟ୍ଟି-କୋଟ୍ଟପୂରମ\N_NNP ରାସ୍ତାରେ\N_NN ନୌକା\N_NN ଦ୍ଵାରା\PSP ଯାତ୍ରା\N_NN କରିବା\V_VM_VNF ଉଚିତ୍‌\V_VM_VF ।\RD_PUNC
+htd739	କବ୍ବାଇ\N_NNP ହ୍ରଦର\N_NN ନିକଟତମ\N_NST ପୟ୍ୟନୂର\N_NN ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN ୪\QT_QTC କି.ମି\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd740	୯୩\QT_QTC କି.ମି.\N_NN ପରିମିତ\N_NN କବ୍ବାଇ\N_NNP ହ୍ରଦର\N_NN ନିକଟତମ\JJ ବିମାନବନ୍ଦର\N_NN କରିପ୍ପୂର\N_NNP ଅନ୍ତର୍ରାଷ୍ଟୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ,\RD_PUNC ‘କଣ୍ଣୂର\N_NNP ’\RD_PUNC ଅଟେ\V_VM_VF ।\RD_PUNC
+htd741	କଣ୍ଣୂରର\N_NNP ପଷୟଂଗାଡି୍ରେ\N_NNP ଅବସ୍ଥିତ\JJ ମାଡାୟିପ୍ପାରା\N_NNP ଜୈବ\N_NN ବିବିଧତା\N_NN ଏବଂ\CC_CCD ଐତିହାସିକ\JJ ପରମ୍ପରା\N_NN ଦ୍ୱାରା\PSP ସମୃଦ୍ଧ\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd742	ଏଷିମଲା\N_NNP କୋଲତ୍ତୂନାଡ\N_NNP ରାଜାମାଙ୍କର\N_NN ରାଜଧାନୀ\N_NN ଥିଲା\V_VM_VF ।\RD_PUNC
+htd743	ଚତୁର୍ଦ୍ଦଶ\JJ ଶତାବ୍ଦୀରୁ\N_NN ଅଷ୍ଟାଦଶ\JJ ଶତାବ୍ଦୀ\QT_QTF ମଧ୍ୟରେ\PR_PRC କୋଲତ୍ତୂନାଡୂ\N_NNP ମହାରାଜଙ୍କର\N_NN ଅଭିଷେକ\N_NN ମାଡାୟିପ୍ପାରରେ\N_NNP ହିଁ\RP_RPD ଅନୁଷ୍ଠିତ\N_NNV ହୋଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd744	ପାହାଡର\N_NN ଦକ୍ଷିଣ\N_NNP ଘାଟୀରେ\N_NN ପୁରୁଣା\JJ କିଲ୍ଲାର\N_NN ଅବଶେଷ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd745	ଏଠାରେ\DM_DMD ଏକ\QT_QTC ପୋଖରୀ\N_NN ଅଛି\V_VM_VF ଯାହା\PR_PRL ଲମ୍ବା\JJ ହାତ\N_NN ଥିବା\V_VM_VNF ଦର୍ପଣାକୃତି\JJ ପରି\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd746	କୁହାଯାଏ\V_VM_VF ଯେ\CC_CCD ମାଡାୟିପ୍ପାରରେ\N_NNP ଥିବା\V_VM_VNF ପୋଖରୀର\N_NN ନିର୍ମାଣ\N_NN ଇହୁଦୀମାନେ\N_NNP କରାଇଥିଲେ\V_VM_VF ।\RD_PUNC
+htd747	ମାଡାୟିପ୍ପାରର\N_NNP ଅନ୍ୟତମ\N_NN ଆକର୍ଷଣ\N_NN ହେଉଛି\V_VM_VF ଶିବ\N_NNP ମନ୍ଦିର\N_NN ,\RD_PUNC ଗୋଟିଏ\RP_CL ଏକର\N_NN ପରିବ୍ୟାପ୍ତ\N_NNV ମନ୍ଦିରର\N_NN ପୋଖରୀ\N_NN ଏବଂ\CC_CCD ମାଡ୍ଡାୟୀକ୍କାବୂ\N_NNP (ଘନ\JJ ଜଂଗଲରେ\N_NN ମଧ୍ୟରେ\PR_PRC ଥିବା\V_VM_VNF ପବିତ୍ର\JJ ସ୍ଥାନ)\N_NN ।\RD_PUNC
+htd748	ମାଡ୍ଡାୟିପୂରମ\N_NNP (ଉତ୍ସବ)ର\N_NN ଆୟୋଜନ\N_NN ମାଡ୍ଡାୟିକ୍କାବୂ\N_NNP ସହ\PSP ସମ୍ବଦ୍ଧ\N_NN ଅଛି\V_VM_VF |\RD_PUNC
+htd749	ଏହି\DM_DMD ପାହାଡର\N_NN ଅନ୍ୟତମ\JJ ଆକର୍ଷଣ\N_NN ହେଉଛି\V_VM_VF ୩୦୦ଟି\QT_QTC ବିଭିନ୍ନ\JJ ପ୍ରଜାତିର\N_NN ଫଳ\N_NN ଏବଂ\CC_CCD ଫୁଲ\N_NN ,\RD_PUNC ୩୦ଟି\QT_QTC ପ୍ରଜାତିର\N_NN ମୂଳ-କନ୍ଦ\N_NN ,\RD_PUNC ଶତାଧିକ\JJ ଔଷଧୀୟ\JJ ବୃକ୍ଷଲତା\N_NN ।\RD_PUNC
+htd750	ପ୍ରଜାତିଗୁଡ଼ିକ\N_NN ,\RD_PUNC ମାଂସ\N_NN ଭୋଜି\N_NN ପ୍ରାଣୀ\N_NN ,\RD_PUNC ବନସ୍ପତିସମୂହ\N_NN ,\RD_PUNC ୧୫୦ଟି\QT_QTC ଭିନ୍ନ\N_NN ପ୍ରଜାତିର\N_NN ପକ୍ଷୀ\N_NN ଇତ୍ୟାଦି\RP_RPD ।\RD_PUNC
+htd751	ଦୁନିଆର\N_NN ସବୁଠାରୁ\RP_INTF ବଡ\QT_QTF ପ୍ରଜାପତି\N_NN ,\RD_PUNC ‘ଅଟଲସ\N_NNP ପ୍ରଜାପତି\N_NN ’\RD_PUNC ,\RD_PUNC ମଧ୍ୟ\RP_RPD ମାଡାୟିପ୍ପାରର\N_NNP ଆତିଥ୍ୟ\N_NNV ପାଇବାପାଇଁ\V_VM_VNF ଆସିଥାଏ\V_VM_VF ।\RD_PUNC
+htd752	ମାଡାୟିପ୍ପାରା\N_NNP କ୍ଷେତ୍ରର\N_NN ଐତିହାସିକ\JJ ଏବଂ\CC_CCD ଜୈବ\JJ ବୈଜ୍ଞାନିକ\N_NN ବିଶେଷତା\N_NN ଗୁଡିକୁ\PSP ଧ୍ୟାନରେ\N_NN ରଖି\V_VM_VNF ରାଜ୍ୟ\N_NN ସରକାର\N_NN ଏହାର\DM_DMD ସଂରକ୍ଷଣର\N_NN ପାଇଁ\PSP ବିଶେଷ\JJ ଯୋଜନା\N_NN ପ୍ରସ୍ତୁତ\N_NN କରିଅଛନ୍ତି\V_VM_VF ।\RD_PUNC
+htd753	ମାଡାୟିପ୍ପାରାର\N_NNP ନିକଟତମ\JJ ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN ପଷୟଂଗାଡି\N_NNP ୨\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd754	ମାଡାୟିପ୍ପାରାର\N_NNP ନିକଟତମ\JJ ବିମାନବନ୍ଦର\N_NN କରୀପ୍ପୂର\N_NNP ଅନ୍ତର୍ରାଷ୍ଟୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ୧୧୮\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd755	ମଲୟାଲ୍‌\N_NNP କଳାଗ୍ରାମମ୍‌\N_NN କଳାକାରମାନଙ୍କ\N_NN ପାଇଁ\PSP ପ୍ରଶିକ୍ଷଣାଳୟ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd756	ମଲୟାଲ୍‌\N_NNP କଳାଗ୍ରାମମ୍‌ରେ\N_NN ଅନେକ\QT_QTF କଳା\N_NN ଶିଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ତଥା\CC_CCD ଏଗୁଡ଼ିକର\DM_DMD ଅଭ୍ୟାସ\N_NN କରିବାର\V_VM_VNF ଅବସର\N_NN ପ୍ରଦାନ\N_NN କରାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd757	ମଲୟାଲ୍‌\N_NNP କଳାଗ୍ରାମମ୍‌ରେ\N_NN ଚିତ୍ର\N_NN ରଚନା\N_NN ,\RD_PUNC ଶିଳ୍ପକଳା\N_NN ,\RD_PUNC ସଂଗୀତ\N_NN ,\RD_PUNC ନୃତ୍ୟ\N_NN ,\RD_PUNC ଚିକ୍କଣିଆ\JJ ମାଟି\N_NN ଦ୍ୱାରା\PSP ତିଆରି\N_NN କରିବାର\V_VM_VNF କଳା\N_NN ଇତ୍ୟାଦିରେ\RP_RPD ସଂପୂର୍ଣ୍ଣ\PR_PRC ମାତ୍ରାରେ\N_NN ପ୍ରଶିକ୍ଷଣ\N_NN ଦିଆଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd758	ମଲୟାଲ୍‌\N_NNP କଳାଗ୍ରାମମ୍‌ରେ\N_NN ଯୋଗ\N_NN ଏବଂ\CC_CCD ସଂସ୍କୃତ\N_NNP ଇତ୍ୟାଦି\RP_RPD ଅଧ୍ୟୟନ\JJ କକ୍ଷ\N_NN ମଧ୍ୟ\RP_RPD ରହିଛି\V_VM_VF ।\RD_PUNC
+htd759	ମଲୟାଲ୍‌\N_NNP କଳାଗ୍ରାମମ୍‌ରେ\N_NN କେରଳର\N_NNP ସଂସ୍କୃତି\N_NN ଏବଂ\CC_CCD ଇତିହାସ\N_NN ବିଷୟ\N_NN ଉପରେ\PSP ଆଧାରିତ\JJ ବିଭିନ୍ନ\QT_QTF କାର୍ଯ୍ୟକ୍ରମର\N_NN ଆୟୋଜନ\N_NNV କରାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd760	କଳାଗ୍ରାମର\N_NN ଗ୍ରନ୍ଥାଳୟ\N_NN ଉତ୍ତମ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd761	ମଲୟାଲ୍‌\N_NNP କଳାଗ୍ରାମରେ\N_NN ଅଧ୍ୟାପକ\N_NN ତଥା\CC_CCD ବିଦ୍ୟାର୍ଥିମାନଙ୍କ\N_NN ସହିତ\PSP ଗୋଟିଏ\RP_CL ଦିନ\N_NST ବିତାଇବା\V_VM_VNF ଏକ\QT_QTC ନୂତନ\JJ ଅନୁଭବ\N_NNV ଆଣି\V_VM_VNF ଦେଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd762	ମଲୟାଲ୍‌\N_NNP କଳାଗ୍ରାମରେ\N_NN ନୁଆ\JJ ମାହି\N_NN ,\RD_PUNC କଣ୍ଣୂରରୁ\N_NNP ୨୯\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd763	ମଲୟାଲ୍‌\N_NNP କଳାଗ୍ରାମର\N_NN ନିକଟତମ\JJ ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN ମାହି\N_NNP ଅଟେ\V_VM_VF ।\RD_PUNC
+htd764	ମଳୟାଲ୍‌\N_NNP କଳାଗ୍ରାମର\N_NN ନିକଟତମ\JJ ବିମାନ\N_NN ବନ୍ଦର-କରୀପୂର\N_NNP ଅନ୍ତର୍ରାଷ୍ଟୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ,\RD_PUNC ୬୪\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd765	କଣିମଂଗଳମ୍‌\N_NNP ପିତଳରେ\N_NN ତିଆରି\N_NN ଶିଳ୍ପଗୁଡିକ\N_NN ଏବଂ\CC_CCD ଦୀପ\N_NN ପାଇଁ\PSP ପ୍ରସିଦ୍ଧ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd766	କଣିମଂଗଳମ\N_NNP ପୟନୂରର\N_NNP ନିକଟରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd767	ମୂଷପ୍ପୀଳଂଗାଡୁ\N_NNP ବେଳାଭୂମି\N_NN କେରଳର\N_NNP ଅନୁପମ\JJ ଡ୍ରାଇଭ୍‌-ଇନ୍‌\N_NNP ସମୂଦ୍ର\N_NN ତଟ\N_NN ମଧ୍ୟରେ\PSP ଅନ୍ୟତମ\RB ଅଟେ\V_VM_VF ।\RD_PUNC
+htd768	ପାଖାପାଖି\QT_QTF ୪କି.ମି.\QT_QTC ପରିବ୍ୟାପ୍ତ\N_NNV ମୂଷପ୍ପୀଳଂଗାଡୁ\N_NNP ମଝିରେ\PSP ସମୁଦ୍ର\N_NNP କୂଳରେ\N_NN ଯାନ\N_NN ବାହାନ\N_NN ଦ୍ଵାରା\PSP ଯାତ୍ରା\N_NN କରିବାର\V_VM_VNF ଅନୁଭୁତି\N_NN ଅତ୍ୟନ୍ତ\RB ଆକର୍ଷଣୀୟ\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd769	ମୂଷପ୍ପୀଳଂଗାଡୁ\N_NNP ବେଳାଭୂମିରେ\N_NN ସମୁଦ୍ରର\N_NN ଉତ୍ତାଳ\JJ ତରଙ୍ଗ\N_NN ଗୁଡିକର\N_NN ଅତିକ୍ରମଣକୁ\N_NNV ରୋକିବା\V_VM_VNF ପାଇଁ\PSP ଅନେକ\QT_QTF ବିଶାଳ\JJ ଚଟାଣ\N_NN ଦଣ୍ଡାୟମାନ\N_NNV ହୋଇରହିଛି\V_VM_VF ।\RD_PUNC
+htd770	ଏହି\DM_DMD ଚଟାଣ\N_NN ହେତୁ\PSP ଅନେକ\QT_QTF ନୈସର୍ଗିକ\JJ କୁଣ୍ତ\N_NN ତିଆରି\N_NN ହୋଇଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd771	ଏହି\DM_DMD କାରଣରୁ\RP_RPD ମୂଷପ୍ପୀଳଂଗାଡୁ\N_NNP ବେଳାଭୂମି\N_NN ସନ୍ତରଣକାରୀମାନଙ୍କର\N_NN ସ୍ୱର୍ଗ\N_NN ବୋଲି\CC_CCD ଜଣାଶୁଣା\N_NN ।\RD_PUNC
+htd772	ତଟ\N_NN ସହିତ\PSP ସମାନ୍ତରାଳ\N_NN ଭାବରେ\N_NN ଠିଆ\V_VM_VNF ହୋଇଥିବା\V_VM_VNF ନଡିଆ\N_NN ଗଛଗୁଡିକ\N_NN ତଟବର୍ତ୍ତୀ\JJ ଅଞ୍ଚଳକୁ\N_NN ଛାୟା\N_NN ପ୍ରଦାନ\N_NN କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd773	ମୂଷପ୍ପୀଳଂଗାଡୁ\N_NNP ବେଳାଭୂମି\N_NN କଣ୍ଣୂରରୁ\N_NNP ୧୫\QT_QTC କି.ମି.\N_NN ତଥା\CC_CCD ତଳଶ୍ସେରୀରୁ\N_NNP ୮\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd774	ମୂଷପ୍ପୀଳଂଗାଡୁ\N_NNP ବେଳାଭୂମିର\N_NN ନିକଟତମ\JJ ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN କଣ୍ଣୂରଠାରୁ\N_NNP ୨୦\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd775	ମୂଷପ୍ପୀଳଂଗାଡୁ\N_NNP ବେଳାଭୂମିର\N_NN ନିକଟତମ\JJ ବିମାନବନ୍ଦର-\N_NN ମଂଗଲୂର\N_NNP ୧୪୦\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ,\RD_PUNC ଯାହାକି\CC_CCD କରୀପ୍ପୂର\N_NNP ଅନ୍ତର୍ରାଷ୍ଟୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ,\RD_PUNC ୧୦୩\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd776	ପୟାଂବଲମ୍‌\N_NNP ସମୁଦ୍ରକୂଳ\N_NN ଶାନ୍ତିପୂର୍ବକ\N_NN ଭାବରେ\N_NN ସନ୍ଧ୍ୟା\N_NST ବିତାଇବା\V_VM_VNF ପାଇଁ\PSP ଉପଯୁକ୍ତ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd777	କିଛି\QT_QTF ସମୟ\N_NN ପୂର୍ବ\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ପୟାଂବଲମ୍‌\N_NNP ସମୁଦ୍ରକୂଳ\N_NN ସ୍ଥାନୀୟ\JJ ଲୋକମାନଙ୍କ\N_NN ପାଇଁ\PSP ପିକ୍‌ନିକ୍‌ର\N_NN ସ୍ଥାନ\N_NN ଥିଲା\V_VM_VF ।\RD_PUNC
+htd778	ଧିରେଧିରେ\JJ ପୟାଂବଲମ୍‌\N_NNP ସମୁଦ୍ରକୂଳକୁ\N_NST ପର୍ଯ୍ୟଟକମାନଙ୍କର\N_NN ଆଗମନ\N_NN ବଢିବାକୁ\V_VM_VNF ଲାଗିଲା\V_VM_VF ।\RD_PUNC
+htd779	ପୟାଂବଲମ୍‌\N_NNP ସମୁଦ୍ରତଟର\N_NST ନିକଟତମ\JJ ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ୍‌\N_NN -\RD_PUNC କଣ୍ଣୁର୍‌\N_NNP ୨\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd780	ପୟାଂବଲମ୍‌\N_NNP ସମୁଦ୍ରତଟର\N_NST ନିକଟତମ\JJ ବିମାନବନ୍ଦର\N_NN କରୀପ୍ପୂର\N_NNP ଅନ୍ତର୍ରାଷ୍ଟୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ୯୫\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd781	ପର୍ତ୍ତୁଗାଲ୍‌\N_NNP ଭାଇସ୍‌ରାୟ\N_NN ଫ୍ରାନ୍‌ସିସ୍କୋ\N_NNP ଡ଼ି\N_NN ଅଲମେଡଙ୍କ\N_NNP ଦ୍ଵାରା\PSP ୧୫୦୫\QT_QTC ମସିହାରେ\N_NN ଏହାକୁ\DM_DMD ତିଆରି\N_NN କରାଯାଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd782	ଲାଲ\JJ ରଙ୍ଗର\N_NN ପଥରରେ\N_NN ତିଆରି\N_NN ଏହି\DM_DMD କିଲ୍ଲା\N_NN ତ୍ରିକୋଣାତ୍ମକ\JJ ଆକୃତିର\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd783	୧୬୬୩\QT_QTC ମସିହାରେ\QT_QTF ସେଣ୍ଟ୍‌\N_NN ଆଂଚଲୋ\N_NNP କିଲ୍ଲାକୁ\N_NN ଡ଼ଚ୍‌ମାନେ\N_NNP ଦଖଲ\N_NN କରିନେଇଥିଲେ\V_VM_VF ଏବଂ\CC_CCD କଣ୍ଣୁରର୍‌\N_NNP ଅଲ୍ଲୀ\N_NN ରାଜାଙ୍କୁ\N_NN ବିକ୍ରି\N_NNV କରିଦେଇଥିଲେ\V_VM_VF ।\RD_PUNC
+htd784	୧୭୦୯\QT_QTC ମସିହାରେ\QT_QTF ବ୍ରିଟିଶମାନେ\N_NN ସେଣ୍ଟ୍‌\N_NN ଆଂଚଲୋ\N_NNP କିଲ୍ଲାକୁ\N_NN ଅଧିକାର\N_NNV କରିନେଇଥିଲେ\V_VM_VF ଏବଂ\CC_CCD ମଲାବାର୍‌ର\N_NNP ସୈନିକମାନଙ୍କର\N_NN ପ୍ରମୁଖ\JJ କେନ୍ଦ୍ର\N_NN ଭାବରେ\N_NN ପରିଗଣିତ\N_NNV କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd785	ଆଜି\N_NST ଏହି\DM_DMD ସେଣ୍ଟ୍‌\N_NN ଆଂଚଲୋ\N_NNP କିଲ୍ଲା\N_NN ପୁରାତତ୍ତ୍ଵ\N_NN ବିଭାଗର\N_NN ଅନ୍ତର୍ଗତ\N_NN ଏକ\QT_QTC ସଂରକ୍ଷିତ\JJ ସ୍ମାରକୀ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd786	ସେଣ୍ଟ୍‌\N_NN ଆଂଚଲୋ\N_NNP କିଲ୍ଲାର\N_NN ବାହାରେ\N_NST ସାମୁଦ୍ରିକ\JJ ଭିତ୍ତିଭୂମି\N_NN ତିଆରି\N_NN କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd787	ସାମୁଦ୍ରିକ\JJ ଭିତ୍ତିଭୂମି\N_NN ସେଣ୍ଟ୍‌\N_NN ଆଂଚଲୋ\N_NNP କିଲ୍ଲାକୁ\N_NN ଲହଡ଼ି\N_NN ଆଘାତରୁ\N_NN ସୁରକ୍ଷିତ\N_NN ରଖିଥାଏ\V_VM_VF ।\RD_PUNC
+htd788	ସେଣ୍ଟ୍‌\N_NN ଆଂଚଲୋ\N_NNP କିଲ୍ଲା\N_NN ଉପରେ\PSP ଠିଆ\V_VM_VNF ହୋଇ\V_VM_VNF ‘ମାପ୍ପିଲା\N_NNP ମତ୍ସ୍ୟ\N_NN ସଂଗ୍ରାହଳୟ\N_NN ବନ୍ଦରଗାହ\N_NN ’\RD_PUNC ,\RD_PUNC ଧର୍ମଡ଼ମ୍‌\N_NNP ଦ୍ଵୀପ\N_NN ଇତ୍ୟାଦି\RP_RPD ଦେଖାଯାଇପାରିବ\V_VM_VF ।\RD_PUNC
+htd789	‘ମାପ୍ପିଲା\N_NNP ବେ\N_NN ବନ୍ଦରଗାହ\N_NN ’\RD_PUNC ପ୍ରକୃତିର\N_NN ବରଦାନ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd790	ମାପ୍ପିଲାବେ\N_NNP ବନ୍ଦରଗାହକୁ\N_NN ଇଣ୍ଡୋ\N_NNP ନୋର୍‌ବିଜିୟନ୍‌\N_NNP ପରିଯୋଜନାର\N_NN ଅନ୍ତର୍ଗତ\PSP ଆଧୁନିକୀକରଣ\N_NN କରାଯାଇ\V_VM_VNF ଅଛି\V_VM_VF ।\RD_PUNC
+htd791	‘ଧର୍ମଡ଼ମ୍‌\N_NNP ଦ୍ଵୀପ\N_NN ’\RD_PUNC ଯାହାର\PR_PRL ବିସ୍ତାର\N_NN ୫ଏକର\QT_QTC ଅଟେ\V_VM_VF ,\RD_PUNC ସମୁଦ୍ରକୂଳରୁ\N_NN ମାତ୍ର\RP_INTF ୧୦୦\QT_QTC ମିଟର\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd792	ସେଣ୍ଟ୍‌\N_NN ଆଂଚଲୋ\N_NNP କିଲ୍ଲାରୁ\N_NN ନିକଟତମ\JJ ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN କଣ୍ଣୁର୍‌\N_NNP ୩\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd793	ସେଣ୍ଟ୍‌\N_NN ଆଂଚଲୋ\N_NNP କିଲ୍ଲାରୁ\N_NN ନିକଟତମ\JJ ବିମାନବନ୍ଦର\N_NN ‘କରୀପ୍ପୂର\N_NNP ଅନ୍ତଃରାଷ୍ଟ୍ରୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ୯୩\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd794	ତଳଶ୍ସେରୀର\N_NNP କେରଳ\N_NNP ଇତିହାସରେ\N_NN ଏକ\QT_QTC ବିଶେଷ\RP_INTF ସ୍ଥାନ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd795	ତଳଶ୍ସେରୀର\N_NNP ସୁପ୍ରସିଦ୍ଧ\JJ ଅଞ୍ଚଳ\N_NN (ଯେଉଁଠାରେ\DM_DMD ଗୁପ୍ତଧନ\N_NN ମିଳିଥାଏ)\V_VM_VF ବିଦେଶୀଙ୍କର\N_NN ନିରନ୍ତର\N_NN ସମ୍ପର୍କ\N_NN ,\RD_PUNC ବ୍ୟାପାରିକ-ପରମ୍ପରା\N_NN ,\RD_PUNC ପୌଢ଼\JJ କ୍ରିକେଟ୍‌-ପରମ୍ପରା\N_NN ,\RD_PUNC ସର୍କସ୍‌ର\JJ ପରମ୍ପରା\N_NN ଇତ୍ୟାଦି\RP_RPD ସଂଯୁକ୍ତ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd796	ପର୍ତ୍ତୁଗାଲ୍‌\N_NNP ଏବଂ\CC_CCD ଡଚ୍‌ମାନେ\N_NNP ତଳଶ୍ସେରୀ\N_NNP ଉପରେ\PSP ଅଧିକାର\N_NN ଜାହିର\N_NN କରିବା\V_VM_VNF ପାଇଁ\PSP ଚେଷ୍ଟା\N_NN କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd797	ବ୍ରିଟିଶ୍‌\N_NNP ସେନାପତି\N_NN ଆର୍ଥର୍‌\N_NN ମିଲ୍ଲର୍‌\N_NN ଯିଏ\PR_PRL ପଷଶିସ୍‌\N_NNP ରାଜାଙ୍କୁ\N_NN ଅଧିନସ୍ଥ\N_NN କରିବାପାଇଁ\V_VM_VNF ଆସିଥିଲେ\V_VM_VF ,\RD_PUNC ତଳଶ୍ସେରୀରରେ\N_NNP ଦୀର୍ଘ\JJ ସମୟ\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ବିତାଇଥିଲେ\V_VM_VF ।\RD_PUNC
+htd798	ଆର୍ଥର\N_NN ମିଲ୍ଲର୍‌\N_NN ନିଜେ\PR_PRF ହିଁ\RP_RPD ତଳଶ୍ସେରୀକୁ\N_NNP କ୍ରିକେଟ\N_NN ଖେଳ\N_NN ସହିତ\PSP ପରିଚିତ\N_NN କରାଇଥିଲେ\V_VM_VF ।\RD_PUNC
+htd799	ଧିରେ-ଧିରେ\JJ ସ୍ଥାନୀୟ\JJ ଲୋକେ\N_NN ବ୍ରିଟିଶ୍‌\N_NNP ସୈନିକମାନଙ୍କ\N_NN ଠାରୁ\PSP ଏହି\DM_DMD ଖେଳ\N_NN ଶିଖିଲେ\V_VM_VF ।\RD_PUNC
+htd800	ମୂସା\N_NN ,\RD_PUNC ମାମ୍ପୋଲି\N_NN ଆଦି\RP_RPD ବଡ଼\JJ ବଡ଼\JJ ପରିବାରର\N_NN ଲୋକମାନେ\N_NN କ୍ରିକେଟ୍‌କୁ\N_NN ପ୍ରୋତ୍ସାହନ\N_NN ଦେଲେ\V_VM_VF ।\RD_PUNC
+htd801	ଏପରି\DM_DMD ଏକ\QT_QTC ସମୟ\N_NN ଥିଲା\V_VM_VF ଯେବେ\PR_PRL ତଳଶ୍ସେରୀରରେ\N_NNP ବ୍ରିଟେନ୍‌\N_NNP ଏବଂ\CC_CCD ଶ୍ରୀଲଙ୍କାରେ\N_NNP ଖେଳିବା\V_VM_VNF ପାଇଁ\PSP କ୍ରିକେଟ୍‍\N_NNP କ୍ଲବ\N_NN ଆସୁଥିଲେ\V_VM_VF ।\RD_PUNC
+htd802	ଏହିପରି\DM_DMD ତଳଶ୍ସେରୀକୁ\N_NNP ସେହି\DM_DMD ସ୍ଥାନଗୁଡ଼ିକରେ\N_NN ଅଗ୍ରଗନ୍ୟ\JJ ସ୍ଥାନ\N_NN ଦିଆଯାଇପାରେ\V_VM_VF ଯେଉଁଠାରେ\PR_PRL କ୍ରିକେଟ୍‌\N_NN ଖେଳର\N_NN ଆୟୋଜନ\N_NN ସର୍ବପ୍ରଥମେ\JJ ହୋଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd803	ସର୍କସ୍‌\N_NN ପରମ୍ପରାରେ\N_NN ମଧ୍ୟ\RP_RPD ତଳଶ୍ସେରୀର\N_NNP ମହତ୍ତ୍ଵପୂର୍ଣ୍ଣ\JJ ଯୋଗଦାନ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd804	ତଳଶ୍ସେରୀର\N_NNP ସର୍କସ୍‌\N_NN କଳାକାରମାନେ\N_NN ସର୍ବୋତ୍ତମ\JJ ପ୍ରଦର୍ଶନ\N_NN ପ୍ରସ୍ତୁତ\N_NN କରି\V_VM_VNF ଅନ୍ତଃରାଷ୍ଟୀୟ\JJ ସ୍ତରରେ\N_NN ଯଶ\N_NN ଅର୍ଜ୍ଜନ\N_NNV କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd805	ଭାରତର\N_NNP ମହତ୍ତ୍ଵପୂର୍ଣ୍ଣ\JJ ସର୍କସ୍‌\N_NN ତାରକାମାନଙ୍କ\N_NN ମଧ୍ୟରୁ\PR_PRC ଅନ୍ୟତମ\RP_RPD ,\RD_PUNC ‘ଉଡ଼ନ୍ତା\N_NNP ବିଜୁଳି\N_NNP ’\RD_PUNC ତଲଶ୍ସେରୀରୁ\N_NNP ହିଁ\RP_RPD ସୃଷ୍ଟି\N_NN ହୋଇଅଛି\V_VM_VF ।\RD_PUNC
+htd806	ମିଠା\N_NN ତିଆରି\N_NN କରିବାପାଇଁ\V_VM_VNF ଏବଂ\CC_CCD ନୂଆ-ନୂଆ\JJ ପ୍ରକାର\N_NN ମିଠାର\N_NN ପ୍ରୟୋଗକରି\V_VM_VNF ଦେଖିବା\V_VM_VNF ପାଇଁ\PSP ତଳଶ୍ସେରୀର\N_NNP ଜନସାଧାରଣ\N_NN ସିଦ୍ଧହସ୍ତ\N_NN ଅଟନ୍ତି\V_VM_VF ।\RD_PUNC
+htd807	କେରଳର\N_NNP ପ୍ରମୁଖ\JJ ପାଉଁରୁଟି\N_NN ପ୍ରସ୍ତୁତ\N_NNV କରୁଥିବା\V_VM_VNF ପରିବାର\N_NN (Bakery\RD_RDF Family)\RD_RDF ମାଂପୋଲ୍ଲି\N_NNP ଅଟନ୍ତି\V_VM_VF ।\RD_PUNC
+htd808	‘ବେକରୀ\N_NN ପରିବାର\N_NN ’\RD_PUNC ର\PSP ପାଉଁରୁଟି\N_NN ପ୍ରସ୍ତୁତି\N_NN କ୍ଷେତ୍ରରେ\N_NN ୧୨୦\QT_QTC ବର୍ଷର\N_NN ଅନୁଭବ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd809	ମାମ୍ପଲ୍ଲି\N_NNP ପରିବାର\N_NN କେରଳର\N_NNP ଗୋଟିଏ\RP_CL କୋଣରୁ\N_NN ଆଉ\CC_CCD ଗୋଟିଏ\RP_CL କୋଣ\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ପାଉଁରୁଟି\N_NN ତିଆରି\N_NNV କେନ୍ଦ୍ରର\N_NN ସ୍ଥାପନାକରି\V_VM_VNF ଗୋଟିଏ\RP_CL ନୂତନ\JJ କ୍ରାନ୍ତି\N_NN ଆଣିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd810	ଆଜି\N_NST ମଧ୍ୟ\RP_RPD କେରଳର\N_NNP କିଛି\QT_QTF ସ୍ଥାନରେ\N_NN ମାମ୍ପଲ୍ଲିବାଲାଙ୍କର\N_NN ପାଉଁରୁଟି\N_NN ଗର୍ବର\N_NN ସହିତ\PSP ଦଣ୍ଡାୟମାନ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd811	ତଳଶ୍ସେରୀର\N_NNP ଲୋଗନ\N_NNP ଷ୍ଟ୍ରୀଟ୍‌\N_NN (ଗଳି)\CC_CCS_UT ର\PSP ଏକ\QT_QTC ଅନ୍ୟତମ\RP_CL ଆକର୍ଷଣ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd812	ଏହି\DM_DMD ସ୍ଥାନ\N_NN ମିଠେଇ-ସିମେଇଁ\N_NN ,\RD_PUNC କପଡା\N_NN ଏବଂ\CC_CCD ବିରିୟାନି\N_NN ପାଇଁ\PSP ପ୍ରସିଦ୍ଧ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd813	ଲୋଗନ୍‌\N_NNP ଷ୍ଟ୍ରିଟ୍‌ରେ\N_NN ଅବସ୍ଥିତ\JJ ପେରିସ୍‌\N_NNP ହୋଟେଲ୍‌\N_NN ବିରିୟାନି\N_NNP ପାଇଁ\PSP ପ୍ରସିଦ୍ଧ\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd814	ତଳଶ୍ସେରୀର\N_NNP ଅନ୍ୟତମ\RP_INTF ଆକର୍ଷଣ\N_NN ହେଉଛି\V_VM_VNF ୧୪୩\N_NN ବର୍ଷ\N_NN ପୁରୁଣା\N_NN ‘ବ୍ରନ୍ନନ\N_NNP କଲେଜ\N_NN ’\RD_PUNC ,\RD_PUNC ‘ହେରମନ୍‌\N_NNP ଗୁଣ୍ତେର୍ଟର\N_NNP ନିବାସସ୍ଥାନ\N_NN ’\RD_PUNC ଯାହା\PR_PRL ‘ଇଲ୍ଲୀକ୍କୂନ୍ନୂ\N_NNP ବଂଗଳା\N_NN ’\RD_PUNC ନାମରେ\N_NN ଜଣାଶୁଣା\N_NN ଅଟେ\V_VM_VF ;\RD_PUNC ତଥା\CC_CCD ତଲଶ୍ସେରୀର\N_NNP କିଲ୍ଲା\N_NN ମଧ୍ୟ\RP_RPD ଆକର୍ଷଣୀୟ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd815	ଅଗୁଆଜା\N_NNP ଦୁର୍ଗରୁ\N_NN ଆରମ୍ଭ\PSP ହେଉଥିବା\V_VM_VNF ଉତ୍ତର\N_NNP ଗୋଆର\N_NNP ସମୁଦ୍ରତଟ\N_NST ପାଖାପାଖି\N_NN ୩୦\QT_QTC କି.ମି.\N_NN ଦୀର୍ଘ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd816	ତଳଶ୍ସେରୀରେ\N_NNP ଗୋଟିଏ\QT_QTO ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ୍‌\N_NN ଅଛି\V_VM_VF ।\RD_PUNC
+htd817	ତଳଶ୍ସେରୀର\N_NNP ନିକଟତମ\JJ ବିମାନବନ୍ଦର\N_NN କରୀପ୍ପୂର\N_NNP ଅନ୍ତଃରାଷ୍ଟ୍ରୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd818	ତୋଡିକ୍କୂଲ୍ଲମର\N_NNP ଶୈବ\JJ ମନ୍ଦିର\N_NN ଅତ୍ୟନ୍ତ\RP_INTF ପୁରୁଣା\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd819	କିଛି\QT_QTF ଲୋକମାନଙ୍କ\N_NN ମତରେ\N_NN ତୋଡିକ୍କୂଲ୍ଲମ୍‌ର\N_NNP ଦୂମଂଜିଲ୍ଲା\N_NNP ଚୌକୋନା\N_NNP ମନ୍ଦିର\N_NN ଦୁଇ\QT_QTC ହଜାର\QT_QTC ବର୍ଷର\N_NN ପୁରୁଣା\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd820	ବିଶିଷ୍ଟ\JJ ଭିତ୍ତିଚିତ୍ର\N_NN ଏହି\DM_DMD ମନ୍ଦିରର\N_NN ବିଶେଷତ୍ୱ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd821	ତେଡିକ୍କୁଲ୍ଲମ୍‌ରେ\N_NNP ଶ୍ରୀମନ୍ଦିର\N_NN (ଗର୍ଭଗୃହ)ର\N_NN ପାଚେରୀ\N_NN ଉପରେ\N_NN ୪୦ଟି\QT_QTC ପଂକ୍ତିରେ\N_NN ୭୦୦\QT_QTC ବର୍ଗ\N_NN ଚୌଡାରେ\N_NN ଚିତ୍ରିତ\JJ ପାଖାପାଖି\V_VM_VNF ୧୫୦ଟି\QT_QTC ଭିତ୍ତିଚିତ୍ର\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd822	ଏହି\DM_DMD ଚିତ୍ରଗୁଡ଼ିକର\N_NN ପ୍ରମୁଖ\JJ ବିଷୟ\N_NN ହେଉଛି\V_VM_VNF ‘ରୁକ୍ମିଣୀ\CC_CCS_UT ସ୍ଵୟମ୍ବର\CC_CCS_UT ’\RD_PUNC ,\RD_PUNC ‘ରାବଣ-ବଦ୍ଧ\CC_CCS_UT ’\RD_PUNC ଇତ୍ୟାଦି\RP_RPD ।\RD_PUNC
+htd823	ତତ୍‌ସହିତ\N_NN ଆହୁରି\RP_INTF ଅନେକ\QT_QTF ଚିତ୍ର\N_NN ରହିଛି\V_VM_VF ଯାହା\PR_PRL ଗ୍ରାମୀଣ\JJ ଜୀବନ\N_NN ପ୍ରତିପାଦନ\N_NNV କରିଥାଏ\V_VM_VF ଏବଂ\CC_CCD ଯାହାର\PR_PRL ସମୟ\N_NN ଷୋଡ଼ଶ-ଅଷ୍ଟାଦଶ\QT_QTO ଶତାବ୍ଦୀ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd824	ତୋଡିକ୍କୂଲ୍ଲମରୁ\N_NNP ନିକଟତମ\JJ ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN ତଳଶ୍ସେରୀର\N_NNP ୩୪\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd825	ତୋଡିକ୍କୂଲ୍ଲମରୁ\N_NNP ନିକଟତମ\JJ ବିମାନବନ୍ଦର\N_NN କରୀପ୍ପୂର\N_NNP ଅର୍ନ୍ତରାଷ୍ଟୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ,\RD_PUNC ୭୧\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd826	ପର୍‌ଶ୍ଶିନିକ୍କଟବୁ\N_NNP ଶ୍ରୀମୂତ୍ତପ୍ପନ\N_NNP ମନ୍ଦିର\N_NN ଅପୂର୍ବ\JJ ଏବଂ\CC_CCD ଅନୁପମ\JJ ଧାର୍ମିକ\JJ ଅନୁଷ୍ଠାନ\N_NN ଏବଂ\CC_CCD ଆଚାର\N_NN ସମ୍ପନ୍ନ\N_NN ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd827	ପର୍‌ଶ୍ଶିନିକ୍କଟବୁ\N_NNP ଶ୍ରୀମୂତ୍ତପ୍ପନ\N_NNP ମନ୍ଦିରରେ\N_NN ବିଭିନ୍ନ\JJ ଧର୍ମ\N_NN ଏବଂ\CC_CCD ଜାତିର\N_NN ଲୋକେ\N_NN ଉପାସନା\N_NNV ପାଇଁ\PSP ଆସିଥାନ୍ତି\V_VM_VF ।\RD_PUNC
+htd828	ପରଶ୍ଶିନିକ୍କଟବୁ\N_NNP ଶ୍ରୀମୂତ୍ତପ୍ପନ\N_NNP ମନ୍ଦିର\N_NN ‘ବସୁଧୈବକୂଟୁମ୍ବକମ୍‍\CC_CCS_UT ’\RD_PUNC ଚିନ୍ତାଧାରାକୁ\N_NN ପ୍ରଚାର\N_NN କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd829	ପରଶ୍ଶିନିକ୍କଟବୁ\N_NNP ଶ୍ରୀମୂତ୍ତପ୍ପନରେ\N_NNP ଯେକୌଣସି\RP_INTF ଜାତି\N_NN ଧର୍ମକୁ\N_NN ମାନିଚଳୁଥିବା\V_VM_VNF ଭକ୍ତ\N_NN ପ୍ରବେଶ\N_NN କରିପାରିବ\V_VM_VF ।\RD_PUNC
+htd830	ମୂତ୍ତପ୍ପନ\N_NNP ମନ୍ଦିର\N_NN ବଲ୍ଲପଟ୍ଟଣମ\N_NNP ନଦୀ\N_NN ତଟରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd831	ମୂତ୍ତପ୍ପନ\N_NNP ମନ୍ଦିର\N_NN କଣ୍ଣୁର\N_NNP ଠାରୁ\PSP ୨୦\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd832	ମୂତ୍ତପ୍ପନରେ\N_NNP ତେଜ୍ୟମ୍‌\N_NNP ନାମକ\N_NN ଲୋକନୃତ୍ୟ\N_NN ମଧ୍ୟ\RP_RPD ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd833	ପ୍ରସ୍ତୁତ\N_NN ମନ୍ଦିରର\N_NN ସ୍ଥାପନା\JJ ପଛରେ\PSP ଗୋଟିଏ\QT_QTO କିମ୍ବଦନ୍ତୀ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd834	ସେଠାରେ\DM_DMD ଗୋଟିଏ\QT_QTO ବାଳକ\N_NN ଅକସ୍ମାତ\RP_INTF ପ୍ରକଟ\N_NN ହୋଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd835	କିଛି\QT_QTF ଚମକପ୍ରଦ\JJ ଘଟଣା\N_NN ପରେ\PSP ଲୁପ୍ତ\N_NN ହୋଇଯାଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd836	ବାଳକଟି\N_NN ଲୁପ୍ତ\N_NN ହୋଇଯିବା\V_VM_VNF ପରେ\PSP ଭଗବତ୍‌\N_NN ଅନୁଭୂତି\N_NN ଲୋକମାନଙ୍କ\N_NN ମଧ୍ୟରେ\PR_PRC ଦେଖିବାକୁ\V_VM_VINF ମିଳିଲା\V_VM_VF ।\RD_PUNC
+htd837	ପରିଣାମସ୍ଵରୂପ\N_NN ଏହି\DM_DMD ମନ୍ଦିର\N_NN ତିଆରି\N_NN କରାଯାଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd838	୧୬୮୩\QT_QTC ମସିହାରେ\N_NN ଇଷ୍ଟ\CC_CCS_UT ଇଣ୍ତିଆ\CC_CCS_UT କମ୍ପାନୀ\CC_CCS_UT ତଳଶ୍ଶେରୀ\N_NNP ସହିତ\PSP ବାରମ୍ବାର\V_VM_VNF ସମ୍ବନ୍ଧ\N_NN ସ୍ଥାପନା\JJ କରିଆସିଛି\V_VM_VF ।\RD_PUNC
+htd839	୧୭୦୩\QT_QTC ମସିହାରେ\N_NN କମ୍ପାନୀ\N_NN ତଳଶ୍ଶେରୀରେ\N_NNP ଗୋଟିଏ\QT_QTO କିଲ୍ଲା\N_NN ତିଆରି\N_NN କଲା\V_VM_VF ।\RD_PUNC
+htd840	ପରବର୍ତ୍ତୀ\N_NN ପର୍ଯ୍ୟାୟରେ\N_NN ତଳଶ୍ଶେରୀର\N_NNP ଏହି\DM_DMD କିଲ୍ଲାରେ\N_NN ଇର୍ଦ-ଗିର୍ଦ\N_NN ସହରର\N_NN ବିକାଶ\N_NN ହେଲା\V_VM_VF ।\RD_PUNC
+htd841	ଏହି\DM_DMD କିଲ୍ଲା\N_NN ଇତିହାସର\N_NN ଅଧ୍ୟୟନ\N_NNV କରୁଥିବା\V_VM_VNF ଛାତ୍ରମାନଙ୍କର\N_NN ପ୍ରିୟ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd842	ତଳଶ୍ଶେରୀର\N_NNP ଏହି\DM_DMD କିଲ୍ଲାର\N_NN ପାଚେରୀଗୁଡ଼ିକ\N_NN ବହୁତ\QT_QTF ଉଚ୍ଚା\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd843	ତଳଶ୍ସେରୀରର\N_NNP ଏହି\DM_DMD କିଲାରେ\N_NN କୌଣସି\DM_DMQ ଏକ\QT_QTC ରହସ୍ୟପୂର୍ଣ୍ଣ\JJ ମହତ୍ତ୍ଵ\N_NN ଅଛି\V_VM_VF ଯାହା\PR_PRL ସମୂଦ୍ରର\N_NN ପାଖ\N_NST ଦେଇ\V_VM_VNF ବାହରିଥାଏ\V_VM_VF |\RD_PUNC
+htd844	ବଲ୍ଲପଟ୍ଟଣମ୍‌\N_NNP କାଷ୍ଠ\JJ ଉଦ୍ୟୋଗ\N_NN ସମଗ୍ର\N_NN ଏସିଆରେ\N_NNP ସର୍ବାଧିକ\RP_INTF ପ୍ରାଚୀନ\JJ ଉଦ୍ୟୋଗସ୍ଥଳ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd845	ବଲ୍ଲପଟ୍ଟଣମ୍‌\N_NNP ନଦୀ\N_NN ତଟରେ\N_NST ଘନ\JJ ଜଙ୍ଗଲରୁ\N_NN ମିଳୁଥିବା\V_VM_VNF ଶାଗୁଆନ\N_NN ,\RD_PUNC ଶାଳ\N_NN ,\RD_PUNC ପିଆଶାଳ\N_NN ,\RD_PUNC କରିମୂରିକ୍କୁ\N_NN ,\RD_PUNC ଚନ୍ଦନ\N_NN ଇତ୍ୟାଦି\RP_RPD ବୃକ୍ଷର\N_NN କାଠରୁ\N_NN ବଲ୍ଲପଟ୍ଟଣମ୍‌\N_NNP କାଠ\N_NN ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd846	ପଶ୍ଚିମଭାରତର\N_NNP ପ୍ଲାଇଉଡ୍‌\N_NN ଲିମିଟେଡ୍‌\N_NN ବଲ୍ଲପଟ୍ଟଣମ୍‌ର\N_NNP କାଠ\N_NN ଉଦ୍ୟୋଗ\N_NN କମ୍ପାନୀ\N_NN ଦକ୍ଷିଣ-ପୂର୍ବ\JJ ଏସିଆରେ\N_NNP ପ୍ରମୁଖ\JJ କାଠ\N_NN ଉଦ୍ୟୋଗ\N_NN କମ୍ପାନୀ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd847	ବଲ୍ଲପଟ୍ଟଣମ୍‌ରେ\N_NNP ଚାହା\N_NN ,\RD_PUNC କଫି\N_NN ,\RD_PUNC ଗୁଡାଖୁ\N_NN ,\RD_PUNC କାଜୁ\N_NN ଇତ୍ୟାଦି\RP_RPD ଚାଷ\N_NN ମଧ୍ୟ\RP_RPD ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd848	କେରଳରେ\N_NNP ତମାଖୁ\N_NN ଚାଷର\N_NN ଅପୂର୍ବ\RP_INTF କୌଶଳ\N_NN ଅବଲମ୍ବନ\N_NN ପାଇଁ\PSP ବଲ୍ଲପଟ୍ଟଣମର\N_NNP ନାମ\N_NN ସ୍ମରଣୀୟ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC ଅନ୍ୟତମ\N_NN ଆକର୍ଷଣ\N_NN ହେଉଛି\V_VM_VF ମତ୍ସ୍ୟସଂଗ୍ରହାଳୟ\N_NN କେନ୍ଦ୍ର\N_NN ,\RD_PUNC ଜଳସିଞ୍ଚନ\N_NN କେନ୍ଦ୍ର\N_NN ଇତ୍ୟାଦି\RP_RPD ।\RD_PUNC
+htd849	ବଲ୍ଲପଟ୍ଟଣମ୍‌ର\N_NNP ନିକଟତମ\JJ ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN କଣ୍ଣୂର\N_NNP ୭\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd850	ବଲ୍ଲପଟ୍ଟଣମ୍‌ର\N_NNP ନିକଟତମ\JJ ବିମାନବନ୍ଦର\N_NN କରୀପ୍ପୂର\N_NNP ଅନ୍ତଃରାଷ୍ଟ୍ରୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ୧୦୦କି.ମି.\QT_QTC ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd851	ବେକ୍କଲ\N_NNP ଦୁର୍ଗ\N_NN କେରଳର\N_NNP ସବୁଠାରୁ\RP_INTF ଅଧିକ\QT_QTF ପ୍ରସିଦ୍ଧ\JJ ଦୁର୍ଗ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd852	ବେକ୍କଲ\N_NNP ଦୁର୍ଗରୁ\N_NN ସମୁଦ୍ରର\N_NN ଗଭୀର\JJ ନୀଳିମାକୁ\N_NN ଦେଖିବାର\V_VM_VNF ଅନୁଭୂତି\N_NN ଅବିସ୍ମରଣୀୟ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd853	ମାଲାୟାଲମ୍‌\N_NNP ,\RD_PUNC ତାମିଲ୍‌\N_NNP ,\RD_PUNC ବଲିଉଡ୍‌\N_NN ସିନେମାଗୁଡିକର\N_NN ସୁଟିଂ\N_NN ପାଇଁ\PSP ପ୍ରିୟ\JJ ଲୋକେସନ୍‌\N_NN ହେଉଛି\V_VM_VF ବେକ୍କଲ\N_NNP କିଲ୍ଲା\N_NN ।\RD_PUNC
+htd854	କେରଳ\N_NNP ସରକାର\N_NN ବେକ୍କଲ\N_NNP କିଲ୍ଲା\N_NN ,\RD_PUNC ସମୁଦ୍ରତଟ\N_NST ଏବଂ\CC_CCD ସମ୍ବଦ୍ଧ\N_NN ପର୍ଯ୍ୟଟନ\N_NN କେନ୍ଦ୍ରଗୁଡିକର\N_NN ବିକାଶ\N_NN ପାଇଁ\PSP ବେକ୍କଲ\N_NNP କିଲ୍ଲା\N_NN ରିସୋର୍ଟ\N_NN ,\RD_PUNC ଡେଭ୍‌ଲପ୍‌ମେଣ୍ଟ\N_NN କର୍ପୋରେସନର\N_NN ଗଠନ\N_NN କରିଅଛନ୍ତି\V_VM_VF ।\RD_PUNC
+htd855	ତତ୍‍ସହିତ\CC_CCD ବେକ୍କଲ\N_NNP କିଲ୍ଲାର\N_NN ସାମୁଦ୍ରିକ\JJ ତଟର\N_NN କମନୀୟତା\JJ ବଢାଇବା\V_VM_VNF ପାଇଁ\PSP ଅନେକ\QT_QTF ଯୋଜନା\N_NN ଆରମ୍ଭ\PSP କରାଯାଇ\V_VM_VNF ଅଛି\V_VM_VF ।\RD_PUNC
+htd856	ଏହି\DM_DMD ଯୋଜନାର\N_NN ଅନ୍ତର୍ଗତ\N_NN ତେଜ୍ୟମ\N_NN ଶିଳ୍ପ\N_NN ,\RD_PUNC ଭିତ୍ତିଚିତ୍ର\N_NN ,\RD_PUNC ଶିଳ୍ପୋଦ୍ୟାନ\N_NN ଇତ୍ୟାଦି\RP_RPD କଳାର\N_NN ବିକାଶ\N_NN ମଧ୍ୟ\RP_RPD ଆସିଥାଏ\V_VM_VF ।\RD_PUNC
+htd857	ପାର୍କିଙ୍ଗ\N_NN ପାଖରେ\N_NN ୭୦୦୦\QT_QTC ବର୍ଗ\N_NN ମି.\N_NN ବିସ୍ତାରରେ\N_NN ପାର୍କିଙ୍ଗ\N_NN ସ୍ଥାନ\N_NN ଅଛି\V_VM_VF ।\RD_PUNC
+htd858	ବିଶ୍ରାମ\N_NN ପାଇଁ\PSP ଗଛରେ\N_NN ତିଆରି\N_NN ଘର\N_NN ଏବଂ\CC_CCD ଡରମିଟୋରୀରେ\N_NN ରହିବାର\V_VM_VNF ସୁବିଧା\N_NN ଅଛି\V_VM_VF ।\RD_PUNC
+htd859	ଛୋଟ\JJ ପିଲାମାନଙ୍କର\N_NN ପାର୍କ\N_NN -\RD_PUNC ୧୪\QT_QTC ବର୍ଷରୁ\N_NN କମ୍‍\QT_QTF ବର୍ଷର\N_NN ଛୋଟ\JJ ପିଲାମାନଙ୍କର\N_NN ଚିତ୍ତବିନୋଦନ\N_NN ପାଇଁ\PSP ଏହି\DM_DMD ପାର୍କ\N_NN ଉପଯୁକ୍ତ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd860	ବେକ୍କଲ୍‌\N_NNP ସମୁଦ୍ର\N_NN ତଟରେ\N_NST ପ୍ରବେଶ\N_NN ପାଇଁ\PSP ଏକ\QT_QTC ଟଙ୍କା\N_NN ହିସାବରେ\N_NN ପ୍ରତ୍ୟେକ\PR_PRC ବ୍ୟକ୍ତିଙ୍କ\N_NN ଠାରୁ\PSP ଟିକେଟ୍‌\N_NN ନେବାକୁ\V_VM_VINF ପଡ଼ିଥାଏ\V_VM_VF ।\RD_PUNC
+htd861	ଗାଡ଼ି\N_NN ରଖିବା\V_VM_VNF ସ୍ଥାନରେ\N_NN ମଧ୍ୟ\RP_RPD ଶୁଳ୍କ\N_NN ଦେବାକୁ\V_VM_VINF ପଡିଥାଏ\V_VM_VF ଯାହା\PR_PRL ଅଧିକ\QT_QTF ନୁହେଁ\RP_NEG ।\RD_PUNC
+htd862	ଏଠାକାର\DM_DMD ୧୧\QT_QTC ଏକର\N_NN ଜମିରେ\N_NN ଏକ\QT_QTC ଓ୍ୱାଟର୍‌ଥିମ୍‌\JJ ପାର୍କ\N_NN ତିଆରି\N_NN କରିବାର\V_VM_VNF ଯୋଜନା\N_NN ମଧ୍ୟ\RP_RPD ଆର୍‍.ଡି.ସି.ଙ୍କ\N_NN ପାଖରେ\N_NST ଅଛି\V_VM_VF ।\RD_PUNC
+htd863	ବେକ୍କଲ୍‌\N_NNP କିଲ୍ଲାର\N_NN ନିକଟତମ\N_NST ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN କାସରଗୋଡ\N_NNP ଅଟେ\V_VM_VF ।\RD_PUNC
+htd864	ବେକ୍କଲ\N_NNP କିଲ୍ଲାର\N_NN ନିକଟତମ\JJ ବିମାନବନ୍ଦର\N_NN ହେଉଛି\V_VM_VF ମଂଗଲୁର\N_NNP ,\RD_PUNC ୫୦\QT_QTC କି.ମି.\N_NN ,\RD_PUNC କରୀପ୍ପୂର୍‌\N_NNP ଅନ୍ତଃରାଷ୍ଟ୍ରୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ,\RD_PUNC ୨୦୦\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd865	ଚନ୍ଦ୍ରଗୀରିପ୍ପୁଷ୍ପା\N_NNP (ନଦୀ)\CC_CCS_UT ତଟରେ\N_NN ସପ୍ତଦଶ\QT_QTC ଶତାବ୍ଦୀରେ\QT_QTF ନିର୍ମିତ\N_NNV ଏକ\QT_QTC କିଲ୍ଲା\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd866	ସେହି\DM_DMD କିଲ୍ଲାରୁ\N_NN ଆରବସାଗର\N_NNP ତଥା\CC_CCD ଚନ୍ଦ୍ରଗିରି\N_NNP ନଦୀର\N_NN ଅଦ୍ଭୁତ\JJ ଦୃଶ୍ୟ\N_NN ଆସ୍ଵାଦନ\N_NN କରାଯାଇପାରିବ\V_VM_VF ।\RD_PUNC
+htd867	ନଦୀ\N_NN ତଟ\N_NN ପାଖରେ\N_NST କିଷୂର\N_NNP ମନ୍ଦିରର\N_NN ଗୀତୋତ୍ସବ\N_NN ଅତ୍ୟନ୍ତ\RP_INTF ପ୍ରସିଦ୍ଧ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd868	ବେକ୍କଲ୍‌\N_NNP ରିସୋର୍ଟ\N_NN ଡେଭ୍‌ଲପ୍‌ମେଣ୍ଟ\N_NN କର୍ପୋରେସନ\N_NN ଚନ୍ଦ୍ରଗିରି\N_NNP ନଦୀରେ\N_NN ବୋଟିଙ୍ଗ୍‌ର\N_NN ସୁବିଧା\N_NN ଉପଲବ୍ଧ\N_NN କରାଇଛନ୍ତି\V_VM_VF ।\RD_PUNC
+htd869	ଚନ୍ଦ୍ରଗିରି\N_NNP କାସର୍‌ଗୋଡ\N_NNP ଟାଉନର\N_NN ଏକଦମ୍‌\RP_INTF ପାଖାପାଖି\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd870	ନିକଟତମ\JJ ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN କସରଗୋଡ\N_NNP ଅଟେ\V_VM_VF ।\RD_PUNC
+htd871	ନିକଟତମ\JJ ବିମାନବନ୍ଦର\N_NN -\RD_PUNC ମଂଗଲୁର\N_NNP ,\RD_PUNC ୫୦\QT_QTC କି.ମି.\N_NN ।\RD_PUNC
+htd872	ଚିତ୍ତାରି\N_NNP ସବୁଜିମାରେ\N_NN ଆଚ୍ଛାଦିତ\JJ ଏକ\QT_QTC ଛୋଟ\JJ ଦ୍ଵୀପ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd873	ଚିତ୍ତାରିର\N_NNP ତଟବର୍ତ୍ତୀ\N_NST ଅଞ୍ଚଳ\N_NN ବିସ୍ତୃତ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd874	ଚିତ୍ତାରିର\N_NNP ବେକ୍କଲ\N_NNP ପର୍ଯ୍ୟଟନ\N_NN ପରିଯୋଜନାର\N_NN ଏକ\QT_QTC ଅଂଶ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd875	ପର୍ଯ୍ୟଟନର\N_NN ହଟଚମଟ\N_NN ଏହି\DM_DMD ଦ୍ଵୀପକୁ\N_NN ସ୍ପର୍ଶ\N_NN ମଧ୍ୟ\RP_RPD କରିନାହିଁ\RP_NEG ।\RD_PUNC
+htd876	ଶାନ୍ତିରେ\N_NN ସମୟ\N_NN ଅତିକ୍ରାନ୍ତ\N_NN କରିବା\V_VM_VNF ପାଇଁ\PSP ଚିତ୍ତାରି\N_NNP ଏକ\QT_QTC ଉପଯୁକ୍ତ\N_NN ସ୍ଥାନ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd877	ଚିତ୍ତାରିର\N_NNP ନିକଟତମ\JJ ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN କାଞ୍ଜଗାଡୁ\N_NNP ,\RD_PUNC ୫\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd878	ବେକ୍କଲ୍‌ର\N_NNP ଗହଳିପୂର୍ଣ୍ଣ\JJ ଯାତ୍ରା\N_NN ପରେ\PSP ଯଦି\CC_CCD ଶାନ୍ତ\JJ ବାତାବରଣରେ\N_NN କିଛି\QT_QTF ସମୟ\N_NN ରହିବାକୁ\V_VM_VINF ଦରକାର\N_NN ପଡ଼େ\V_VM_VF ତେବେ\CC_CCS କାପ୍ପିଲ\N_NNP ସମୁଦ୍ରତଟ\N_NN ଉପଯୁକ୍ତ\N_NN ସ୍ଥାନ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd879	କାପ୍ପିଲ\N_NNP ବେକ୍କଲ\N_NNP ଠାରୁ\PSP ୬କି.ମି.\QT_QTC ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ,\RD_PUNC ତଥା\CC_CCD ଅତ୍ୟନ୍ତ\RP_INTF ଶାନ୍ତ\JJ ସ୍ଥଳ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd880	ଏଠାକାର\DM_DMD ଆକର୍ଷଣ\N_NN ହେଉଛି\V_VM_VF ଖରାରେ\N_NN ଚମକୁଥିବା\V_VM_VNF ସମୁଦ୍ରତଟ\N_NN ଏବଂ\CC_CCD ଶାନ୍ତ\JJ ବାତାବରଣ\N_NN ।\RD_PUNC
+htd881	ଯେଉଁମାନେ\PR_PRL ସାହସୀ\JJ ଅଟନ୍ତି\V_VM_VF ସେହିମାନେ\DM_DMD ପାଖରେ\N_NST ଥିବା\V_VM_VNF କୋଡ଼ିକ୍କୂନ୍ନୂରେ\N_NNP ଚଢି\V_VM_VNF ଆରବସାଗରର\N_NNP ଉଦ୍‌ବେଳନକୁ\N_NN ଦେଖିପାରିବେ\V_VM_VF ।\RD_PUNC
+htd882	କାପ୍ପିଲ୍‌\N_NNP ବେଳାଭୂମିର\N_NN ନିକଟତମ\JJ ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN କାସରଗୋଡ\N_NNP ,\RD_PUNC ୧୨\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd883	କାପ୍ପିଲ୍‌\N_NNP ବେଳାଭୂମିର\N_NN ନିକଟତମ\JJ ବିମାନବନ୍ଦର\N_NN ମଙ୍ଗଲୁର\N_NNP ୫୦\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd884	ଉତ୍ତର\JJ କେରଳରେ\N_NNP ଯଦି\CC_CCD ଆପଣ\PR_PRP ଆଲପ୍ପୂଷା\N_NNP ପରି\N_NN ବାତାବରଣ\N_NN ଦେଖିବାକୁ\V_VM_VINF ଚାହାଁନ୍ତି\V_VM_VF ତେବେ\CC_CCS ପଡ଼ନ୍ନା\N_NNP ଯାଆନ୍ତୁ\V_VM_VF ।\RD_PUNC
+htd885	ପଡ଼ନ୍ନା\N_NNP କ୍ଷେତ୍ରର\N_NN ହ୍ରଦ\N_NN ଭ୍ରମଣ\N_NNV ପାଇଁ\PSP ଅନୁକୂଳ\N_NN ସାବ୍ୟସ୍ତ\N_NN କରୁଥିବା\V_VM_VNF ଉପାଦାନଗୁଡ଼ିକ\N_NN ହେଉଛି\V_VM_VF -\RD_PUNC ବଳିୟପୁରମ୍ବୁ\N_NNP ହ୍ରଦ\N_NN ,\RD_PUNC ସବୁଜିମାରେ\N_NN ଆଚ୍ଛାଦିତ\JJ ଦ୍ୱୀପ\N_NN ,\RD_PUNC ଜଳାବୃତ\N_NN ସ୍ଥାନ\N_NN (କେନାଲ୍‌)\N_NN ଇତ୍ୟାଦି\RP_RPD ।\RD_PUNC
+htd886	ମୁକ୍ତା\N_NN ଚାଷ\N_NN ପାଇଁ\PSP ସମଗ୍ର\RP_INTF ଦୁନିଆର\N_NN ଧ୍ୟାନ\N_NN ଏହି\DM_DMD ସ୍ଥାନ\N_NN ପ୍ରତି\PR_PRC ଆକର୍ଷଣ\N_NN ସୃଷ୍ଟି\N_NN କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd887	ଏହାର\DM_DMD କୃଷକ\N_NN ଗୁଲ୍‌\N_NNP ମୁହମ୍ମଦ\N_NNP ଅଟନ୍ତି\V_VM_VF ।\RD_PUNC
+htd888	ଗୁଲ୍‌\N_NNP ମୁହମ୍ମଦ\N_NNP ମୁକ୍ତା\N_NN ଚାଷକୁ\N_NN ପର୍ଯ୍ୟଟନର\N_NN ଅଂଶ\N_NN ବନାଇକରି\V_VM_VF ସ୍ୱକୀୟ\PR_PRF କଳ୍ପନାଶକ୍ତିର\N_NN ପରିଚୟ\N_NN ହିଁ\RP_RPD କେବଳ\CC_CCD ଦେଇନାହାଁନ୍ତି\RP_NEG ବରଂ\CC_CCD ପ୍ରତ୍ୟେକ\PR_PRC ଗ୍ରାମକୁ\N_NN ପ୍ରଗତିର\N_NN ପଥରେ\N_NN ଅଗ୍ରସର\N_NN କରାଇପାରିଛନ୍ତି\V_VM_VF ।\RD_PUNC
+htd889	ଗୁଲ୍‌\N_NNP ମୁହମ୍ମଦ\N_NNP ନିଜ\PR_PRF ଗ୍ରାମବାସୀମାନଙ୍କୁ\N_NN ଏହା\DM_DMD ଶିଖାଇଛନ୍ତି\V_VM_VF ଯେ\CC_CCD ସେମାନେ\PR_PRP ଜୀବନଯାପନର\N_NN ପରମ୍ପରାଗତ\N_NN ମାର୍ଗକୁ\N_NN ଉପେକ୍ଷାକରି\V_VM_VNF କୌଣସି\DM_DMQ ପର୍ଯ୍ୟଟନ\N_NN ଉଦ୍ୟୋଗ\N_NN ଲାଭ\N_NN କରିପାରିବ\V_VM_VF ନାହିଁ\RP_NEG ।\RD_PUNC
+htd890	ଅୟେସ୍ଟର\N_NNP ଅପେରା\N_NN ନାମକ\N_NN ଅଭିଯାନକୁ\N_NN ପରିଚାଳନା\N_NN କରୁଥିବା\V_VM_VNF ଗୁଲ୍‌\N_NN ମୁହମ୍ମଦ\N_NNP ନିଜର\PR_PRF ପର୍ଯ୍ୟଟନ\N_NN ସିଦ୍ଧାନ୍ତ\N_NN ପ୍ରସ୍ତୁତ\N_NN କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd891	ପଡନ୍ନା\N_NNP ଆସୁଥିବା\V_VM_VNF କୃଷକମାନଙ୍କର\N_NN ଜୀବନକୁ\V_VM_VINF ଅତି\RP_INTF ନିକଟରୁ\N_NST ଦେଖି\V_VM_VNF ହୃଦୟଙ୍ଗମ\N_NN କରାଯାଇପାରିବ\V_VM_VF ।\RD_PUNC
+htd892	ଅୟେସ୍ଟର\N_NNP ଅପେରାରେ\N_NN ପରିଷ୍କାର\N_NN ପରିବେଶ\N_NN ଅଛି\V_VM_VF ,\RD_PUNC ରହିବାର\V_VM_VNF ଉତ୍ତମ\JJ ସୁବିଧା\N_NN ଅଛି\V_VM_VF ।\RD_PUNC
+htd893	ପଡନ୍ନାରେ\N_NNP ରହି\V_VM_VNF ସାମୂହିକ\N_NN ପର୍ଯ୍ୟଟନଜନିତ\N_NN ଅନୁଭୂତିର\N_NN ଅନୁଭବ\N_NN ଉପଲବ୍ଧ\N_NN କରାଯାଇପାରିବ\V_VM_VINF ।\RD_PUNC
+htd894	ପଡନ୍ନାର\N_NNP ପାଖରେ\N_NST ଥିବା\V_VM_VNF ଦ୍ଵୀପ\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ବୋଟିଙ୍ଗ\N_NN କରିପାରିବେ\V_VM_VF ।\RD_PUNC
+htd895	ପଡନ୍ନା\N_NNP କ୍ଷେତ୍ରର\N_NN ବିଶେଷତ୍ୱଗୁଡିକ\PSP ହେଲା\V_VM_VF -\RD_PUNC ସୁବିସ୍ତୃତ\JJ ସମୁଦ୍ରତଟ\N_NST ଏବଂ\CC_CCD ସାଗରମୁହାଣ\N_NST ।\RD_PUNC
+htd896	ସମୀପବର୍ତ୍ତୀ\N_NST ତେଜସ୍ଵିନୀ\N_NNP ନଦୀରେ\N_NN ଯାତ୍ରା\N_NN କରିବା\V_VM_VNF ଅବସର\N_NN ମଧ୍ୟ\RP_RPD ଅୟେସ୍ଟର\N_NNP ଅପେରା\N_NN ପ୍ରଦାନ\N_NNV କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd897	ପରଶ୍ସିନିକ୍କଡବୁ\N_NNP ବେକ୍କଲ୍‌\N_NNP କିଲ୍ଲା\N_NN ଇତ୍ୟାଦି\RP_RPD ସ୍ଥାନ\N_NN ଏହାର\DM_DMD ନିକଟରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd898	ପଡନ୍ନାରୁ\N_NNP ନିକଟତମ\JJ ବସ୍‌\N_NN ରହଣୀସ୍ଥଳ\N_NNV ଏବଂ\CC_CCD ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN ୯\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd899	ପଡନ୍ନାର\N_NNP ନିକଟତମ\JJ ବିମାନବନ୍ଦର\N_NN -\RD_PUNC ମଙ୍ଗଲୁର\N_NNP ,\RD_PUNC ୧୨୦\QT_QTC କି.ମି.\N_NN ଏବଂ\CC_CCD କରୀପ୍ପୂର\N_NNP ଅନ୍ତର୍ରାଷ୍ଟୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ୧୮୦\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd900	ସମୁଦ୍ରପତ୍ତନ\N_NN ଠାରୁ\PSP ୧୮୯୦\QT_QTC ମିଟର\QT_QTF ଉଚ୍ଚରେ\N_NST ସହ୍ୟାଦ୍ରିର\N_NN ଶିଖର\N_NN ଦେଶରେ\N_NN ଅଗସ୍ତ୍ୟାରକୂଡମ\N_NNP ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd901	ଜନଶ୍ରୁତି\N_NN ଅନୁଯାୟୀ\N_NN ଅଗସ୍ତ୍ୟ\N_NNP ବଣ୍ୟାଞ୍ଚଳ\N_NN ମହର୍ଷି\N_NN ଅଗସ୍ତ୍ୟଙ୍କର\N_NNP ନିବାସ\N_NN ସ୍ଥାନ\N_NN ଥିଲା\V_VM_VF ।\RD_PUNC
+htd902	ଶିଖରରେ\N_NN ପହଞ୍ଚିବାକୁ\V_VM_VINF ହେଲେ\V_VM_VNF ବିହଡ଼\N_NNP ବଣର\N_NN ଦୁର୍ଗମ\JJ ମାର୍ଗକୁ\N_NN ଅତିକ୍ରମ\N_NN କରିବାକୁ\V_VM_VINF ପଡ଼ିଥାଏ\V_VM_VF ।\RD_PUNC
+htd903	ଅଗସ୍ତ୍ୟ\N_NNP ପର୍ବତ\N_NN ଦୁର୍ଲ୍ଲଭ\JJ ଚେରମୂଳୀ\N_NN ଉଦ୍ୟାନ\N_NN ପାଇଁ\PSP ପ୍ରସିଦ୍ଧ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd904	ଆଦିବାସୀମାନଙ୍କର\N_NN ବିଶ୍ଵାସ\N_NN ଅଛି\V_VM_VF ଯେ\CC_CCD ଏଠାରେ\DM_DMD ବ୍ରହ୍ମଚାରୀ\JJ ମହର୍ଷି\N_NN ଅଗସ୍ତ୍ୟ\N_NNP ବାସ\N_NN କରୁଥିଲେ\V_VM_VF ।\RD_PUNC
+htd905	ତେଣୁ\CC_CCD କୌଣସି\DM_DMQ ସମୟରେ\N_NN ନାରୀମାନଙ୍କୁ\N_NN ସେଠାକୁ\DM_DMD ଯିବାପାଇଁ\CC_CCD ଅନୁମତି\N_NN ନଥିଲା\V_VM_VF ।\RD_PUNC
+htd906	ଏହି\DM_DMD ସ୍ଥାନ\N_NN ଡିସେମ୍ବରର\N_NNP ଦ୍ୱିତୀୟ\QT_QTO ସପ୍ତାହରୁ\N_NN ଫେବୃଆରୀ\N_NNP ପର୍ଯ୍ୟନ୍ତ\PSP ପର୍ଯ୍ୟଟକମାନଙ୍କ\N_NN ପାଇଁ\PSP ଆକର୍ଷଣର\N_NN କେନ୍ଦ୍ର\N_NN ପାଲଟି\V_VM_VNF ଥିଲା\V_VM_VF ।\RD_PUNC
+htd907	ଏଠାକୁ\DM_DMD ଯିବା\V_VM_VNF ପାଇଁ\PSP ହେଲେ\V_VM_VNF ତୀରୁବନନ୍ତପୁରମର\N_NNP ପି.ଟି.ପି.\N_NNP ନଗରରେ\N_NN ଅବସ୍ଥିତ\V_VM_VF ବନ୍ୟଜନ୍ତୁ\N_NN କର୍ତ୍ତୃପକ୍ଷଙ୍କ\N_NN ପାଖରୁ\N_NST ଅନୁମତି\N_NN ପତ୍ର\N_NN ନେବା\V_VM_VNF ପାଇଁ\PSP ଆବଶ୍ୟକ\N_NN ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd908	ତୀରୁବନନ୍ତପୂରମ\N_NNP ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନରୁ\N_NN ଅଗସ୍ତ୍ୟାରକୂଡମ\N_NNP ପର୍ଯ୍ୟନ୍ତ\PSP ଦୂରତା\N_NN ୬୧\QT_QTC କି.ମି.\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd909	ତୀରୁବନନ୍ତପୂରମ\N_NNP ଅନ୍ତର୍ରାଷ୍ଟୀୟ\JJ ବିମାନବନ୍ଦରରୁ\N_NN ବୋଣକ୍କାଡ\N_NNP ପର୍ଯ୍ୟନ୍ତ\PSP ଦୂରତା\N_NN ୬୯\QT_QTC କି.ମି.\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd910	ତୀରୁବନନ୍ତପୂରମରୁ\N_NNP ୩୬\QT_QTC କି.ମି.\N_NN ଉତ୍ତରରେ\JJ ଅବସ୍ଥିତ\V_VM_VF ପ୍ରସିଦ୍ଧ\JJ ବର୍କଳା\N_NNP ବେଳାଭୂମିର\N_NN ପାଖରେ\N_NST ଥିବା\V_VM_VNF ଅଞ୍ଚୁତେଙ୍ଗୁ\N_NNP ନାମକ\N_NN ସ୍ଥାନ\N_NN ଐତିହାସିକ\JJ ମହତ୍ତ୍ଵ\N_NN ରଖୁଥିବା\V_VM_VNF ସମୁଦ୍ରତଟୀୟ\JJ କ୍ଷେତ୍ର\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd911	ଅଞ୍ଚୁତେଙ୍ଗୁର\N_NNP ପ୍ରାକୃତିକ\JJ ସୁଷମା\N_NN ଦର୍ଶନୀୟ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd912	ଭାରତରେ\N_NNP ୟୁରୋପୀୟ\JJ ଔପନିବେସିକ\JJ ଶାସନ\N_NN ସହିତ\PSP ଅଞ୍ଚୁତେଙ୍ଗୁର\N_NNP ସମ୍ବନ୍ଧ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd913	ପର୍ତ୍ତୁଗାଲ୍‌\N_NNP ,\RD_PUNC ଡଚ\N_NNP ଏବଂ\CC_CCD ବ୍ରିଟିଶ\N_NNP ସାମ୍ରାଜ୍ୟଗୁଡିକ\N_NN ଏଠାରେ\DM_DMD ଶାସନ\N_NN କରୁଥିଲେ\V_VM_VF ।\RD_PUNC
+htd914	୧୬୮୪\QT_QTC ମସିହାରେ\QT_QTF ବ୍ରିଟିଶ୍‌\N_NNP ଇଷ୍ଟ\N_NN ଇଣ୍ତିଆ\N_NN କମ୍ପାନୀ\N_NN ନିଜର\PR_PRF ପ୍ରଥମ\QT_QTO ବାଣିଜ୍ୟ\N_NN କେନ୍ଦ୍ର\N_NN କେରଳର\N_NNP ଅଞ୍ଚୁତେଙ୍ଗୁରେ\N_NNP ହିଁ\RP_RPD ସ୍ଥାପନ\N_NN କରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd915	ଆଣ୍ଟିଗଲର\N_NNP ରାଣୀ\N_NN ଗୋଟିଏ\RP_CL ଅଞ୍ଚଳ\N_NN ବ୍ରିଟିଶ\N_NNP କମ୍ପାନୀକୁ\N_NN ବାର୍ଷିକ\JJ କର\N_NN ରୂପେ\N_NN ଦେଇଥିଲେ\V_VM_VF |\RD_PUNC
+htd916	ନଡିଆ\N_NN ଗଛ\N_NN ପାଞ୍ଚ\QT_QTC ବାହୁଙ୍ଗା\N_NN (ଶାଖା)\N_NN ହୋଇଥିବା\V_VM_VNF କାରଣରୁ\RP_RPD ଏହି\DM_DMD ଭୂଭାଗ\N_NN `ଅଞ୍ଚୁତେଙ୍ଗୁ`\CC_CCS_UT ନାମରେ\N_NN ପ୍ରସିଦ୍ଧ\RP_INTF ହୋଇଅଛି\V_VM_VF ।\RD_PUNC
+htd917	ଅଞ୍ଚୁତେଙ୍ଗୁରେ\N_NNP ପ୍ରମୁଖ\RP_INTF ଐତିହାସିକ\JJ ସ୍ମାରକ\N_NN ଇଂଗ୍‌ଲିସ୍‌\JJ କିଲ୍ଲା\N_NN ରହିଛି\V_VM_VF ଯାହା\PR_PRL ସଂରକ୍ଷିତ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd918	କିଲ୍ଲା\N_NN ଭିତରେ\N_NST ଗୋଟିଏ\RP_CL କବର\N_NN ଖାନା\N_NN ଅଛି\V_VM_VF ଯେଉଁଠାରେ\PR_PRL ପାଖାପାଖି\N_NN ୧୭୦୪\QT_QTC ମସିହା\N_NN ସମୟର\N_NN କବର\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd919	ହ୍ରଦ\N_NN ,\RD_PUNC ଧାଡ଼ିକିଧାଡ଼ି\N_NN ଦଣ୍ଡାୟମାନ\JJ ହୋଇଥିବା\V_VM_VNF ନଡ଼ିଆଗଛ\N_NN ଏବଂ\CC_CCD ଜଳବେଷ୍ଟିତ\JJ ସ୍ଥାନ\N_NN (କେନାଲ୍‌)ଗୁଡ଼ିକ\N_NN ଅଞ୍ଚୁତେଙ୍ଗୁର\N_NNP ଶୋଭାକୁ\V_VM_VINF ମନୋହର\JJ କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd920	ଅଞ୍ଚୁତେଙ୍ଗୁର\N_NNP ସମୁଦ୍ରତଟ\N_NST ମଧ୍ୟ\RP_RPD ଅତ୍ୟନ୍ତ\RP_INTF ରମଣୀୟ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd921	ଅଞ୍ଚୁତେଙ୍ଗୁ\N_NNP ମତ୍ସଜୀବିମାନଙ୍କର\N_NN ପ୍ରମୁଖ\RP_INTF କେନ୍ଦ୍ରସ୍ଥଳୀ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd922	ଅଞ୍ଚୁତେଙ୍ଗୁର\N_NNP ନିକଟତମ\JJ ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN ବର୍କଳା\N_NNP ,\RD_PUNC ୮\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd923	ତିରୁବନନ୍ତପୁରମ\N_NNP ଅନ୍ତଃରାଷ୍ଟ୍ରୀୟ\JJ ବିମାନବନ୍ଦରରୁ\N_NN ଅଞ୍ଚୁତେଙ୍ଗୁ\N_NNP ୪୬\QT_QTC କି.ମି.\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd924	ଆକ୍କୂଳମ\N_NNP ହ୍ରଦ\N_NN ନୌକାବିହାର\N_NN ଦୃଷ୍ଟିକୋଣରୁ\N_NN ମହତ୍ତ୍ଵପୂର୍ଣ୍ଣ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd925	ଆକ୍କୁଲମ\N_NNP ହ୍ରଦର\N_NN ଭ୍ରମଣସ୍ଥଳ\N_NN ସକାଳ\N_NST ୧୦ଟା\QT_QTC ଠାରୁ\PSP ଅଧିକ\RP_INTF ରାତି\N_NST ପର୍ଯ୍ୟନ୍ତ\PSP ଖୋଲା\V_VM_VNF ରହିଥାଏ\V_VM_VF ।\RD_PUNC
+htd926	ବୋଟିଂ\N_NN ଏବଂ\CC_CCD ଛୋଟ\JJ ପିଲାମାନଙ୍କର\N_NN ପାର୍କ\N_NN ଉଭୟ\PR_PRC ପିଲାମାନଙ୍କୁ\N_NN ମଧ୍ୟ\RP_RPD ବହୁତ\RP_INTF ପସନ୍ଦ\N_NN ଆସିଥାଏ\V_VM_VF ।\RD_PUNC
+htd927	ତିରୁବନନ୍ତପୁରମ\N_NNP ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନରୁ\N_NN ଆକ୍କୁଳମ\N_NNP ୧୦\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd928	ତିରୁବନନ୍ତପୁରମ\N_NNP ଅନ୍ତଃରାଷ୍ଟ୍ରୀୟ\JJ ବିମାନବନ୍ଦରରୁ\N_NN ଆକ୍କୁଲମ\N_NNP ୭\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd929	୧୯୮୩\QT_QTC ମସିହାରେ\QT_QTC ସ୍ଥାପିତ\N_NNV ଇଣ୍ତିଆନ\N_NNP ସ୍କୁଲ\N_NNP ଅଫ୍‍\N_NNP ମାର୍ଶିୟଲ\N_NNP ଆର୍ଟସ\N_NNP (ଆଇ.ଏସ୍‌.ଏମ୍‌.ଏ)ର\N_NNP ସଂସ୍ଥାପକ\JJ ଶ୍ରୀ\N_NNP ବାଳଚନ୍ଦ୍ରନ୍‍\N_NNP ନାଏର\N_NNP ଅଟନ୍ତି\V_VM_VF ।\RD_PUNC
+htd930	ଭାରତ\N_NNP ସରକାର\N_NN ତଥା\CC_CCD କେରଳ\N_NNP ସ୍ପୋର୍ଟସ\N_NNP କାଉନ୍‌ସିଲ୍‌\N_NNP ଦ୍ଵାରା\PSP ସ୍ୱୀକୃତିପ୍ରାପ୍ତ\N_NNV ଏହି\DM_DMD ସଂସ୍ଥା\N_NN କଲରିପ୍ପୟଟ୍ଟୁ\N_NNP ନାମକ\N_NN ଆୟୋଧନ\N_NNV କଳାର\JJ ପ୍ରଶିକ୍ଷଣାଳୟ\N_NNV ଅଟେ\V_VM_VF ।\RD_PUNC
+htd931	ଇଣ୍ତିଆନ\N_NNP ସ୍କୁଲ\N_NNP ଅଫ୍‍\N_NNP ମାର୍ଶିୟଲ୍‌\N_NNP ଆର୍ଟସ୍‌\N_NNP ଏକ\QT_QTC ତ୍ରିତଳ\JJ ପ୍ରାସାଦ\N_NN ମଧ୍ୟରେ\PR_PRC ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd932	ଇଣ୍ତିଆନ\N_NNP ସ୍କୁଲ\N_NNP ଅଫ୍‍\N_NNP ମାର୍ଶିୟଲ୍‌\N_NNP ଆର୍ଟସ୍‌ରେ\N_NNP ରଙ୍ଗୀନ୍‌\JJ ଉପଚାର\N_NN ମଧ୍ୟ\RP_RPD ଉପଲବ୍ଧ\N_NNV ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd933	ଇଣ୍ତିଆନ\N_NN ସ୍କୁଲ\N_NN ଅଫ୍‍\N_NN ମାର୍ଶିୟଲ୍‌\N_NN ଆର୍ଟସ୍‌ରେ\N_NN ମାଲିସ୍‌\N_NN (ମସାଜ)\N_NN ପାଇଁ\PSP ଉପଯୁକ୍ତ\N_NN ମନେ\N_NN ହେଉଥିବା\V_VM_VNF `ଏଣ୍ଣାତ୍ତୋଣି`\CC_CCS_UT (ମାଲିସ୍‌\N_NN ବାଲା\N_NN ମେଜ)\N_NN ୬୦୦\QT_QTC ବର୍ଷ\N_NN ପୁରୁଣା\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd934	ଇସ୍ମା\N_NNP (ISMA)\RD_RDF ର\PSP ଅନ୍ୟ\N_NN ବିଶେଷତ୍ୱ\N_NN ହେଉଛି\V_VM_VF ଧାନର\N_NN କୋଠରୀ\N_NN ଏବଂ\CC_CCD ଔଷଧୀୟ\JJ ଜଡି-ବୁଟି\N_NN ସମ୍ବଳିତ\N_NN ରୁଫ୍‌ଗାର୍ଡେନ୍‌\N_NN ।\RD_PUNC
+htd935	ଅତିଥିମାନଙ୍କ\N_NN ପାଇଁ\PSP ମଧ୍ୟମ\JJ ଧରଣର\N_NN ରହିବା\V_VM_VNF ବ୍ୟବସ୍ଥା\N_NN ଏବଂ\CC_CCD ଭୋଜନ\N_NN କରିବା\V_VM_VNF ପାଇଁ\PSP ବ୍ୟବସ୍ଥା\N_NN ଉପଲବ୍ଧ\N_NN ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd936	ଇଣ୍ତିଆନ\N_NN ସ୍କୁଲ\N_NN ଅଫ୍‍\N_NN ମାର୍ଶିୟଲ୍‌\N_NN ଆର୍ଟସ୍‌ରେ\N_NN ଅନେକ\QT_QTF ତାଳପତ୍ର\N_NN ପୋଥି\N_NN ଗ୍ରନ୍ଥ\N_NN ସଂରକ୍ଷିତ\JJ ହୋଇ\V_VM_VNF ରହିଛି\V_VM_VF ।\RD_PUNC
+htd937	ତିରୁବନନ୍ତପୁରମ\N_NNP ରେଲ୍ୱେଷ୍ଟେସନରେ\N_NN ଇଣ୍ତିଆନ\N_NN ସ୍କୁଲ\N_NN ଅଫ୍‍\N_NN ମାର୍ଶିୟଲ\N_NN ଆର୍ଟସ\N_NN ମାତ୍ର\RP_INTF ୨\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF |\RD_PUNC
+htd938	ତିରୁଅନନ୍ତପୂରମ\N_NNP ଅନ୍ତଃରାଷ୍ଠ୍ରୀୟ\JJ ବିମାନବନ୍ଦର\N_NN ଠାରୁ\PSP ଇଣ୍ତିଆନ\N_NN ସ୍କୁଲ\N_NN ଅଫ୍‍\N_NN ମାର୍ଶିୟଲ୍‌\N_NN ଆର୍ଟସ୍‌\N_NN ୮\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd939	ଅଗସ୍ତ୍ୟ\N_NNP ପାହାଡ଼\N_NN ପାଖରେ\N_NST ଥିବା\V_VM_VNF ନେୟାର୍‌\N_NNP ବଣରେ\N_NN ଉତ୍ତରମ\N_NNP କୟମ୍‌\N_NNP ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd940	ଉତ୍ତରମ୍‌\N_NNP କୟମ\N_NNP ବିବିଧ\RP_INTF ପ୍ରକାରର\N_NN ଜଡି-ବୁଟି\N_NN ତଥା\CC_CCD ବିଭିନ୍ନ\RP_INTF ପ୍ରକାରର\N_NN ପକ୍ଷୀମାନଙ୍କ\N_NN ଦ୍ୱାରା\PSP ପରିପୂର୍ଣ୍ଣ\PR_PRC ହୋଇଥିବା\V_VM_VNF କ୍ଷୁଦ୍ରତମ\JJ ଭୂଭାଗ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd941	ଆଜିକାଲି\N_NST କେରଳର\N_NNP ବନ\N_NN ବିଭାଗ\N_NN ଏଠାରେ\DM_DMD ବୃକ୍ଷ\N_NN ଉପରେ\PSP ତିଆରି\N_NN ଘର(ମଞ୍ଚା)ର\N_NN ସୁବିଧା\N_NN ପ୍ରଦାନ\N_NN କରୁଅଛି\V_VM_VF ।\RD_PUNC
+htd942	ଉତ୍ତରମ୍‌\N_NNP କୟମ୍‌\N_NNP ଯିବା\V_VM_VNF ପାଇଁ\PSP ନେୟାର୍‌\N_NNP ରିଜର୍ଭାୟର୍‌ଠାରୁ\N_NN ନୌକା\N_NN ନେଇ\V_VM_VNF କୋମ୍ବା\N_NNP ନାମକ\N_NN ସ୍ଥାନ\N_NN ପର୍ଯ୍ୟନ୍ତ\PSP ପହଞ୍ଚିବାକୁ\V_VM_VINF ପଡ଼ିଥାଏ\V_VM_VF ।\RD_PUNC
+htd943	କୋମ୍ବାରୁ\N_NNP ୨\QT_QTC କି.ମି.\N_NN ଘନ\JJ ଜଂଗଲରେ\N_NN ପାଦରେ\N_NN ଚାଲିଚାଲି\V_VM_VNF ଉତ୍ତରକୟମ୍‌ରେ\N_NNP ପହଞ୍ଚିବାକୁ\V_VM_VINF ପଡ଼ିଥାଏ\V_VM_VF ।\RD_PUNC
+htd944	ଉତ୍ତରମ୍‌\N_NNP କୟମ୍‌ଠାରୁ\N_NNP ୨\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ମୀନମୂଟ୍ଟୀ\N_NNP ଜଳପ୍ରପାତ\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd945	ମୀନମୂଟ୍ଟୀ\N_NNP ଜଳପ୍ରପାତ\N_NN ବଲ୍ଲିୟାର\N_NNP ,\RD_PUNC ମୂଲ୍ଲୟାର\N_NNP ଏବଂ\CC_CCD ନେୟାର\N_NNP ଇତ୍ୟାଦି\RP_RPD କେନାଲଗୁଡ଼ିକର\N_NN ଉତ୍ପତ୍ତିସ୍ଥଳ\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd946	ବନବିଭାଗ\N_NN ଦ୍ଵାରା\CC_CCD ଉତ୍ତରମ୍‌\N_NNP କୟମ୍‌ଠାରେ\N_NNP ପର୍ଯ୍ୟଟନର\N_NN ବ୍ୟବସ୍ଥା\N_NN କରାଯାଇଛି\V_VM_VF ।\RD_PUNC
+htd947	ଉତ୍ତରମ୍‌\N_NNP କୟମ୍‌ର\N_NNP ନିକଟବର୍ତ୍ତୀ\JJ ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN ହେଉଛି\V_VM_VF ତିରୁଅନନ୍ତପୂରମ\N_NNP ଯାହାକି\CC_CCD ୩୨\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd948	ନିକଟତମ\JJ ବିମାନବନ୍ଦର-\N_NN ତିରୁଅନନ୍ତପୂରମ\N_NNP ଅନ୍ତର୍ରାଷ୍ଟୀୟ\JJ ବିମାନବନ୍ଦରଠାରୁ\N_NN ଉତ୍ତରମ୍‌\N_NNP କୟମ୍‌\N_NNP ୩୮\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd949	ପୋନ୍ମୁଡି\N_NNP (ପ୍ରସିଦ୍ଧ\N_NN ପାହାଡି\JJ ସୁଖବାସ\N_NN କେନ୍ଦ୍ର)\N_NN ଯିବା\V_VM_VNF ରାସ୍ତାରେ\N_NN କଲ୍ଲାର\N_NNP ନଦୀ\N_NN ପଡିଥାଏ\V_VM_VF ।\RD_PUNC
+htd950	କଲ୍ଲାର୍‌\N_NNP ନଦୀ\N_NN କାରଣରୁ\RP_RPD ଏହି\DM_DMD ସ୍ଥାନର\N_NN ନାମ\N_NN କଲ୍ଲାର\N_NNP ହୋଇଅଛି\V_VM_VF ।\RD_PUNC
+htd951	କଲ୍ଲାର୍‌\N_NNP ନଦୀରେ\N_NN ଗୋଲାକାର\JJ ପଥରଖଣ୍ଡଗୁଡ଼ିକ\N_NN ବହୁଳ\RP_INTF ମାତ୍ରାରେ\N_NN ପଡ଼ିଅଛି\V_VM_VF ।\RD_PUNC
+htd952	ତିରୁଅନନ୍ତପୂରମ୍‌ଠାରୁ\N_NNP ୫୦\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF କଲ୍ଲାର୍‌\N_NNP ପର୍ଯ୍ୟଟକ\N_NN ଏବଂ\CC_CCD ଯାତ୍ରୀମାନଙ୍କର\N_NN ପ୍ରିୟ\JJ ମନୋରଞ୍ଜନସ୍ଥଳୀ\JJ ଅଟେ\V_VM_VF ।\RD_PUNC
+htd953	କଲ୍ଲାର୍‌ର\N_NNP ମୁଖ୍ୟ\JJ ଆକର୍ଷଣ\N_NN ହେଉଛି\V_VM_VF ପାଖରେ\N_NST ଥିବା\V_VM_VNF ବନାନ୍ତରର\N_NN ସୁନାର\N_NNP ଉପତ୍ୟକା\N_NN (ସୁବର୍ଣ୍ଣ\N_NN ଉପତ୍ୟକା)\N_NN ଏବଂ\CC_CCD ମୀନମୂଟ୍ଟି\N_NNP ଜଳପ୍ରପାତ\N_NN ।\RD_PUNC
+htd954	ସୁନାର\N_NNP ଉପତ୍ୟକା\N_NN ମୁଖ୍ୟ\JJ ସଡ଼କର\N_NN ଅତି\RP_INTF ନିକଟରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd955	ଏଠାରେ\DM_DMD କଲ୍ଲାର୍‌ର\N_NNP ସଫା\JJ ଥଣ୍ତା\JJ ପାଣିରେ\N_NN ଗାଧୋଇବାର\V_VM_VNF ସୁବିଧା\N_NN ରହିଛି\V_VM_VF ।\RD_PUNC
+htd956	ପଥର\N_NN ଉପରେ\PSP ବହୁଥିବା\V_VM_VNF କଲ୍ଲାର୍‌ର\N_NNP ସୁବର୍ଣ୍ଣ\N_NN ଉପତ୍ୟକାରେ\N_NN ଅନେକ\QT_QTF ଛୋଟ\JJ ଛୋଟ\JJ ଜଳରାଶି\N_NN ସୃଷ୍ଟି\N_NN ହୋଇଅଛି\V_VM_VF ।\RD_PUNC
+htd957	କଲ୍ଲାର\N_NNP ପୁଷ୍କରିଣୀ\N_NN କୂଳର\N_NST ଡାହଣ\JJ ପଟରେ\N_NST ଥିବା\V_VM_VNF ସରୁ\JJ ରାସ୍ତାରେ\N_NN ଚାଲିଚାଲି\V_VM_VNF ଗଲେ\V_VM_VNF ଆପଣ\PR_PRP ମୀନମୂଟ୍ଟିରେ\N_NNP ପହଞ୍ଚି\V_VM_VNF ପାରିବେ\V_VM_VF ।\RD_PUNC
+htd958	ଏହି\DM_DMD ଯାତ୍ରାକାଳରେ\N_NN ଅନେକ\QT_QTF ରକମର\N_NN ପ୍ରଜାପତି\N_NN ଏବଂ\CC_CCD ଚଢ଼େଇଗୁଡିକ\N_NN ଦେଖିବାକୁ\V_VM_VINF ମିଳିଥାଏ\V_VM_VF ।\RD_PUNC
+htd959	ମୀନମୂଟ୍ଟିର\N_NNP ଜଂଗଲରେ\N_NN ବର୍ଷାଦିନରେ\N_NN କୁଣ୍ତିଆ\N_NN ଜନ୍ମାଉଥିବା\V_VM_VNF କୀଟପତଙ୍ଗ\N_NN ସୃଷ୍ଟି\N_NN ହୋଇଥାଆନ୍ତି\V_VM_VF ।\RD_PUNC
+htd960	କଲ୍ଲାର୍‌\N_NNP ବନସଂରକ୍ଷଣ\N_NN ସମିତି\N_NN ଆନୁକୂଲ୍ୟରେ\N_NN ବନ୍ୟଭ୍ରମଣ\N_NN ପାଇଁ\PSP ମାର୍ଗଦର୍ଶକଙ୍କୁ\N_NN ନିଯୁକ୍ତ\N_NN କରାଯାଇଛି\V_VM_VF ।\RD_PUNC
+htd961	କ୍ଷେତ୍ରର\N_NN ବାସିନ୍ଧା\N_NN ତଥା\CC_CCD ବନବିଭାଗ\N_NN ଉଭୟେ\DM_DMD ମିଶିକରି\V_VM_VNF ବନସଂରକ୍ଷଣ\N_NN ସମିତିର\N_NN ଗଠନ\N_NNV କରିଅଛନ୍ତି\V_VM_VF ।\RD_PUNC
+htd962	କଲ୍ଲାର୍‌ର\N_NNP ପର୍ଯ୍ୟଟକମାନଙ୍କ\N_NN ପାଇଁ\PSP ଜିଲ୍ଲା\N_NN ଟୁରିଜିମ୍‌\N_NN ପ୍ରମୋସନ\N_NN କାଉନ୍‌ସିଲ୍‌\N_NN ତରଫରୁ\N_NN ବହୁବିଧ\QT_QTF ସୁବିଧା\N_NN ଉପଲବ୍‌ଧ\N_NN କରାଯାଇଛି\V_VM_VF ।\RD_PUNC
+htd963	କଲ୍ଲାର୍‌ରେ\N_NNP ବିଶ୍ରାମ\N_NN ତଥା\CC_CCD ଅତିଥି\N_NN ସତ୍କାରର\N_NN ବ୍ୟବସ୍ଥା\N_NN ମଧ୍ୟ\RP_RPD କରାଯାଇଅଛି\V_VM_VF |\RD_PUNC
+htd964	କଲ୍ଲାର୍‌ରେ\N_NNP ଭୋଜନକକ୍ଷ\N_NN ,\RD_PUNC ଶୌଚାଳୟ\N_NN ,\RD_PUNC ବସ୍ତ୍ରପରିବର୍ତ୍ତନ\N_NN କୋଠରୀ\N_NN ,\RD_PUNC ବନ-ସଂସାଧନ\N_NN ବିକ୍ରୟକେନ୍ଦ୍ର\N_NN ,\RD_PUNC ଟେଲିଫୋନ-ବୁଥ୍‌\N_NN ,\RD_PUNC ପାର୍କିଙ୍ଗସ୍ଥାନ\N_NN ଇତ୍ୟାଦିର\RP_RPD ସୁବିଧା\N_NN ଉପଲବ୍ଧ\N_NN ହେଉଅଛି\V_VM_VF ।\RD_PUNC
+htd965	କଲ୍ଲାର୍‌ର\N_NNP ନିକଟତମ\JJ ରେଲ୍‌ଓ୍ୱେଷ୍ଟେସନ\N_NN ତିରୁଅନନ୍ତପୂରମ\N_NNP ୬୧\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd966	ତିରୁଅନନ୍ତପୂରମ\N_NNP ଅନ୍ତର୍ରାଷ୍ଟୀୟ\JJ ବିମାନବନ୍ଦରରୁ\N_NN କଲ୍ଲାର\N_NN ୬୭\QT_QTC କି.ମି.\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd967	ଯଦି\CC_CCD ଆପଣ\PR_PRP ଏପର୍ଯ୍ୟନ୍ତ\N_NN ପାଦରେଚାଲି\V_VM_VNF କିମ୍ବା\CC_CCD ବାହନରେ\N_NN ବନ\N_NN ସୌନ୍ଦର୍ଯ୍ୟର\N_NN ମଜା\N_NN ଚାଖିବେ\V_VM_VF ତେବେ\CC_CCS ହାତୀ\N_NN ଉପରେ\PSP ବସି\V_VM_VNF ଜଙ୍ଗଲ\N_NN ଭ୍ରମଣ\N_NNV କରିବାର\V_VM_VNF ସୁବିଧା\N_NN ମିଳିଲେ\V_VM_VNF କ`ଣ\DM_DMQ ଆପଣ\PR_PRP ଏହାର\DM_DMD ଆନନ୍ଦ\N_NN ଉଠାଇବେ\V_VM_VF ନାହିଁ\RP_NEG ?\RD_PUNC
+htd968	ବନ୍ୟପଶୁ\N_NN ବିଭାଗ\N_NN ତଥା\CC_CCD କୋଟ୍ଟୁର୍‌\N_NNP ଇକୋ\N_NN ଡେଭ୍‌ଲପ୍‌ମେଣ୍ଟ\N_NN ସମିତିର\N_NN ସଂଯୁକ୍ତ\N_NN ତତ୍ତ୍ଵାବଧାନରେ\N_NN କପ୍ପୂକାଟ୍ଟୂରେ\N_NNP ଏହି\DM_DMD ସୁବିଧା\N_NN ପ୍ରଦାନ\N_NN କରାଯାଉଅଛି\V_VM_VF ।\RD_PUNC
+htd969	ତିରୁବନନ୍ତପୂରମରୁ\N_NNP ୧୮\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF କାଟ୍ଟାକ୍କଡା\N_NNP ପାଖରେ\N_NST ଅବସ୍ଥିତ\JJ ଏହି\DM_DMD କାପ୍ପୂକାଡୂ\N_NNP ।\RD_PUNC
+htd970	ହାତୀ\N_NN ଉପରେ\PSP ବସିବା\V_VM_VNF ବୋଟ୍‌\N_NN ଲୋଡିଙ୍ଗ୍‌\N_NN ପଏଣ୍ଟରୁ\N_NN ଆରମ୍ଭ\PSP ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd971	ଅଗସ୍ତ୍ୟ\N_NNP ବନ୍ୟ\N_NN କ୍ଷେତ୍ରରେ\N_NN ଆୟୋଜିତ\JJ ଅଧା\JJ ଘଣ୍ଟାର\N_NN ଏହି\DM_DMD ଭ୍ରମଣଜନିତ\N_NN ଅନୁଭୂତି\N_NN ପ୍ରକୃତିପ୍ରେମୀ\N_NN ମାନଙ୍କ\N_NN ପାଇଁ\PSP ଚିରସ୍ମରଣୀୟ\JJ ଅନୁଭବ\N_NN ସାବ୍ୟସ୍ତ\N_NN ହୋଇଅଛି\V_VM_VF ।\RD_PUNC 
+htd972	କାପ୍ପୂକାଡୂରୁ\N_NNP ଆରମ୍ଭ\RB ହେଉଥିବା\V_VM_VNF ଏହି\DM_DMD ଭ୍ରମଣ\N_NN ଘନ\JJ ଜଙ୍ଗଲରେ\N_NN ହୋଇକରି\V_VM_VNF ଯିବାକୁ\V_VM_VNF ପଡିଥାଏ\V_VM_VF ।\RD_PUNC
+htd973	ସୈଲାନି\N_NNP ଇରାବୁପାରା\N_NNP ହୋଇକରି\V_VM_VNF କାପ୍ପୂକାଡୂଙ୍କୁ\N_NNP ପୁଣି\RB ଫେରି\V_VM_VNF ପହଞ୍ଚି\V_VM_VNF ପାରିବେ\V_VM_VF ।\RD_PUNC
+htd974	କାପ୍ପୂକାଡୂ\N_NNP ଟ୍ରାଇବାଲ୍‌\N_NN ଇକୋ\N_NN ଡେଭ୍‌ଲପ୍‌ମେଣ୍ଟ\N_NN କମିଟି\N_NN ହିଁ\RP_RPD ଭ୍ରମଣଜନିତ\JJ ସୁବିଧା\N_NN ଉପଲବ୍‌ଧ\N_NN କରାଉଅଛନ୍ତି\V_VM_VF ଯେଉଁଥି\CC_CCD ପାଇଁ\CC_CCD ଭଡା\N_NN ମାତ୍ର\RP_INTF ୧୦୦\QT_QTC ଟଙ୍କା\N_NN ଅଟେ\V_VM_VF ।\RD_PUNC
+htd975	ପାଲୋଡ\N_NNP ପାଖରେ\N_NST ଇଣ୍ତିଜାରରେ\N_NNP ଥିବା\V_VM_VNF ବନାନ୍ତରରେ\N_NN କାଲକ୍କୟମ\N_NNP ଜଳପ୍ରପାତରେ\N_NN ନିଜର\PR_PRF ଛବି\N_NN ପ୍ରତିବିମ୍ବିତ\N_NN ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd976	କାଲକ୍କୟମ\N_NNP ଜଳପ୍ରପାତ\N_NN ସାହସୀ\JJ ପର୍ଯ୍ୟଟକ\N_NN ତଥା\CC_CCD ପ୍ରକୃତିପ୍ରେମୀ\N_NN ମାନଙ୍କୁ\N_NN ନିଜ\PR_PRF ଆଡ଼କୁ\N_NN ଆକୃଷ୍ଟ\N_NN କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd977	ପଲୋଡ\N_NNP ତିରୁବନନ୍ତପୂରମଠାରୁ\N_NN ୩୫\QT_QTC କି.ମି.\N_NN ଦୂରରେ\N_NST ଅବସ୍ଥିତ\V_VM_VF ।\RD_PUNC
+htd978	ପଲୋଡରୁ\N_NNP ପେରିଂଗମଳା\N_NNP ପହଞ୍ଚି\V_VM_VNF ପାରିବେ\V_VM_VF ।\RD_PUNC
+htd979	ପେରିଂଗମଳାରୁ\N_NNP ଇଣ୍ତିଜାରର\N_NNP ରାସ୍ତାରେ\N_NN ଆଗକୁ\PSP ୧୨\QT_QTC କି.ମି.\N_NN ଯିବା\V_VM_VNF ପରେ\N_NST କୂରିଶ୍ସଡି\N_NNP ପହଞ୍ଚି\V_VM_VNF ଯିବେ\V_VM_VF ।\RD_PUNC
+htd980	ପଲୋଡରେ\N_NNP ହିଁ\RP_RPD କାଲକ୍କୟମ\N_NNP ଜଳପ୍ରପାତ\N_NN ଦେଖାଯାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd981	କାଳକ୍କୟମ\N_NNP ଜଳପ୍ରପାତ\N_NN ଏବଂ\CC_CCD ଚତୁଃପାର୍ଶ୍ୱର\N_NST ପ୍ରକୃତିର\N_NN ନୟନାଭିରାମ\JJ ଦୃଶ୍ୟ\N_NN ମନକୁ\N_NN ଆକର୍ଷିତ\RB କରିଥାଏ\V_VM_VF ।\RD_PUNC
+htd982	ଜଳପ୍ରପାତ\N_NN ମଂକୟମ\N_NNP ଝରଣାର\N_NN ଏକ\QT_QTC ଅଂଶ\N_NN ଅଟେ\V_VM_VF ଯାହା\PR_PRL ଅଗସ୍ତ୍ୟକୂଡରୁ\N_NNP ବାହାରି\V_VM_VNF ଅଛି\V_VM_VF ।\RD_PUNC
+htd983	କାଲକ୍କୟମ\N_NNP ଜଳପ୍ରପାତ\N_NN ଆଗରେ\PSP ଏକ\QT_QTC ଜଳରାଶି\N_NN ତିଆରି\N_NNV ହୋଇଛି\V_VM_VF ।\RD_PUNC
+htd984	ଏହି\DM_DMD ଜଳରାଶି\N_NN ମଧ୍ୟରେ\PSP ଚିକ୍କଣ\JJ ପଥର\N_NN ବହୁଳ\RP_INTF ମାତ୍ରାରେ\QT_QTF ଅଛି\V_VM_VF ।\RD_PUNC
+htd985	ଏହି\DM_DMD ଜଳରାଶି\N_NN ମଧ୍ୟକୁ\PSP ଯାଉଥିବା\V_VM_VNF ଯାତ୍ରିମାନଙ୍କୁ\N_NN ଅତ୍ୟନ୍ତ\RP_INTF ସାବଧାନତାର\N_NNV ସହିତ\PSP ଯିବାକୁ\V_VM_VNF ପଡିଥାଏ\V_VM_VF ।\RD_PUNC
+htd986	ବନମାର୍ଗରେ\N_NNP ପର୍ଯ୍ୟଟକମାନଙ୍କ\N_NN ପାଇଁ\PSP ଆୟୋଜିତ\JJ ଭ୍ରମଣ\N_NN ଯାତ୍ରା\N_NN ପଶୁ\N_NN ଏବଂ\CC_CCD ଅରଣ୍ୟ\JJ ସଂପଦର\N_NN ସାକ୍ଷାତ୍‌କାର\N_NNV କରାଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd987	ଆଧୁନିକ\JJ ଭାରତୀୟ\N_NNP ଚିତ୍ରକଳାର\N_NN ଜନକ\N_NNV ରାଜା\N_NNP ରବି\N_NNP ବର୍ମାଙ୍କର\N_NNP ଜନ୍ମ\N_NN କିଳିମାନୂର\N_NNP ରାଜମହଲରେ\N_NNP ହୋଇଥିଲା\V_VM_VF ।\RD_PUNC
+htd988	ଏହା\DM_DMD ମଧ୍ୟ\RP_RPD ଉଲ୍ଲେଖନୀୟ\N_NNV ଅଟେ\V_VM_VF ଯେ\CC_CCS ରବି\N_NNP ବର୍ମାଙ୍କ\N_NNP ଛଡା\RP_RPD ତାଙ୍କର\PR_PRF ଭଉଣୀ\N_NN ଏବଂ\CC_CCD ମା\N_NN ମଧ୍ୟ\RP_RPD କୂଶଳୀ\JJ ଚିତ୍ରକାର\N_NN ଥିଲେ\V_VM_VF ।\RD_PUNC
+htd989	କିଲିମାନୂର୍‌\N_NNP ରାଜମହଲରେ\N_NN ଜନ୍ମିତ\N_NNV ରବି\N_NNP ବର୍ମାଙ୍କର\N_NNP ପ୍ରଥମ\QT_QTO ଗୁରୁ\N_NN ତାଙ୍କ\PR_PRP ନିଜର\PR_PRF ମାମୁ\N_NN ରାଜରାଜ\N_NNP ବର୍ମା\N_NNP ହିଁ\RP_RPD ଥିଲେ\V_VM_VF ।\RD_PUNC
+htd990	ରାଜମହଲରେ\N_NNP ରହିକରି\V_VM_VNF ରାଜା\N_NN ରବି\N_NNP ବର୍ମା\N_NNP ପଶ୍ଚିମୀ\JJ ଚିତ୍ରକଳା\N_NN କୌଶଳ\N_NN ,\RD_PUNC ବିଶେଷତଃ\CC_CCD ତୈଳଚିତ୍ର\N_NNP କଳାର\N_NN ପରିଚୟ\N_NNV ପାଇଲେ\V_VM_VF ।\RD_PUNC
+htd991	ପରେ\RB ରାଜା\N_NN ରବି\N_NNP ବର୍ମା\N_NNP ବିଶ୍ୱପ୍ରସିଦ୍ଧ\N_NNV ହୋଇଗଲେ\V_VM_VF ।\RD_PUNC
+htd992	ରାଜା\N_NN ରବି\N_NNP ବର୍ମା\N_NNP ଅନେକ\QT_QTF ବର୍ଷ\N_NST ମୁମ୍ବାଇ\N_NNP ଏବଂ\CC_CCD ବରୋଦାରେ\N_NNP ରହିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd993	ତିରୁଅନନ୍ତପୂରମରୁ\N_NNP ୩୯\QT_QTC କି.ମି.\QT_QTF ଦୂରରେ\RB ଅବସ୍ଥିତ\V_VM_VNF କିଲିମାନୂର\N_NNP ରାଜମହଲ\N_NN ୧୫\QT_QTC ଏକର\QT_QTF ଜମିରେ\N_NN ବିସ୍ତାରିତ\N_NNV ହୋଇଅଛି\V_VM_VF ।\RD_PUNC
+htd994	କିଲିମାନୂର\N_NNP ରାଜମହଲରେ\N_NN ଛୋଟବଡ\QT_QTF ଭବନ\N_NN ,\RD_PUNC ପୋଖରୀ\N_NN ,\RD_PUNC କୂଅ\N_NN ,\RD_PUNC ସୁଖାତ୍ମକ\JJ ସ୍ଥାନ\N_NN ଇତ୍ୟାଦି\RP_RPD ନିର୍ମିତ\N_NNV କରାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
+htd995	ରବି\N_NNP ବର୍ମାଙ୍କ\N_NNP ଚିତ୍ରର\N_NN ସବୁଠାରୁ\RP_INTF ବଡ\QT_QTF ନିଜସ୍ୱ\PR_PRP ସ୍ୱସଂଗ୍ରାହଳୟ\N_NN ଆଜି\RB ମଧ୍ୟ\RP_RPD ବରୋଦା\N_NNP ରାଜପରିବାର\N_NN ପାଖରେ\PSP ଅଛି\V_VM_VF ।\RD_PUNC
+htd996	ଦୁଇ\QT_QTC ବର୍ଷ\N_NST ବରୋଦା\N_NNP ରହଣୀକାଳରେ\N_NST ସେ\PR_PRP ପୁରାଣ\N_NNP ସମ୍ବନ୍ଧୀୟ\N_NN ୧୪ଟି\RP_CL ଚିତ୍ର\N_NN ତିଆରିକରିଥିଲେ\V_VM_VF ।\RD_PUNC
+htd997	ଭାରତର\N_NNP ରାଜା\N_NN ଏବଂ\CC_CCD ବ୍ରିଟିଶ\N_NNP ଶାସକ\N_NN ସମସ୍ତେ\PR_PRP ରବି\N_NNP ବର୍ମାଙ୍କ\N_NNP ଦ୍ୱାରା\PSP ଚିତ୍ର\N_NN ତିଆରି\V_VM କରାଇବା\V_VM_VNF ପାଇଁ\PSP ଅତ୍ୟନ୍ତ\RP_INTF ଲାଳାୟିତ\RB ହେଉଥିଲେ\V_VM_VF ।\RD_PUNC
+htd998	ରାଜମହଲର\N_NNP ପ୍ରବେଶ\JJ ଦ୍ଵାର\N_NN ରାଜା\N_NN ରବି\N_NNP ବର୍ମାଙ୍କର\N_NNP ଚିତ୍ରଶାଳା\N_NN (ଆର୍ଟ\N_NNP ଗ୍ୟାଲେରୀ)\N_NNP ପାର୍ଶ୍ୱକୁ\RB ଖୋଲା\N_NNV ହୋଇଥାଏ\V_VM_VF ।\RD_PUNC
+htd999	ରାଜମହଲର\N_NNP ପ୍ରବେଶ\JJ ଦ୍ଵାରରେ\N_NN ବସି\V_VM_VNF ରାଜା\N_NN ରବି\N_NNP ବର୍ମା\N_NNP ଚିତ୍ର\N_NN ଆଙ୍କୁଥିଲେ\V_VM_VF ।\RD_PUNC
+htd1000	ଏହି\DM_DMD ଷ୍ଟୁଡିଓରେ\N_NN ତାଙ୍କର\PR_PRP ଅନେକ\QT_QTF କଳାକୃତିଗୁଡିକୁ\N_NN ସୁରକ୍ଷିତ\RB କରି\V_VM_VNF ରଖାଯାଇଅଛି\V_VM_VF ।\RD_PUNC
